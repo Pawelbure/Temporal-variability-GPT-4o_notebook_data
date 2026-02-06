@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Fragestellung zu klären, analysiere ich die verschiedenen Konfigurationen der Batterien und Lampen sowie deren Auswirkungen auf die Gesamtbetriebszeit. Ich gehe davon aus, dass jede Batterie eine konstante Energie bereitstellt und die Lampen identisch sowie mit konstantem Widerstand betrieben werden. Die betrachteten Konfigurationen beinhalten: (A) Batterien und Lampen in Serie, wodurch der Strom reduziert wird; (B) Batterien in Serie und Lampen parallel geschaltet; (C) Batterien parallel und Lampen in Serie, was die Laufzeit erhöht; und (D) Batterien und Lampen parallel. Die physikalischen Grundlagen, insbesondere das Ohm'sche Gesetz und die Beziehung zwischen Energie, Spannung und Strom, führen zu folgenden Laufzeitabschätzungen: (A) t/2, (B) t/2, (C) 2t, (D) t. Als Ergebnis ist nur die Option C korrekt.",
-  "antwortoption": "C"
-}

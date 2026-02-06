@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Angenommen wird, dass die Spannung jeder Batterie U, die Stromkapazität Q und der Widerstand einer Glühlampe R konstant ist. Weiterhin wird angenommen, dass in jedem Schaltungsfall die Batterien vollständig entladen werden und der Energieverbrauch der Lampen linear vom Strom abhängt. Nun analysieren wir die Effekte jeder Schaltungsvariante auf den Energiefluss und die Betriebszeit der Lampen. Durch die Analyse des kombinierten Widerstands und der entsprechenden Spannungen bei jeder Konfiguration wird die Zeit berechnet, die die Lampen betrieben werden können. Es wird gezeigt, dass in jedem der Szenarien die Betriebszeit entweder konstant bleibt oder proportional zur Kapazität bzw. Spannung skaliert. Dies sind die erklärten Details und die Ergebnisse für die Wahrscheinlichkeitsanalyse.",
-  "antwortoption": "D"
-}

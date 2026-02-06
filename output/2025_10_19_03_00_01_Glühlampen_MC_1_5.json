@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die richtige Antwort zu finden, analysieren wir jede Option einzeln und nehmen folgende Annahmen vor: 1) Die Batterien sind ideale Spannungsquellen; 2) Die Glühlampen haben gleichbleibenden Widerstand ,R,, und die Energie wird gleichverteilt unter den Batterien aufgebracht. Nun zu den angegebenen Anschlüssen: A) Beide Lampen und Batterien in Serie: Die Gesamtspannung der Batterien wird verdoppelt, und da der Gesamtwiderstand ebenfalls steigt, bleibt der Strom konstant, aber die Batterielebensdauer halbiert sich. Die Energie pro Lampe wäre reduziert, daher t/4 ungenau. B) Batterien in Serie, Lampen parallel: Die Impedanz halbiert sich durch Parallelschaltung der Lampen, mehr Energie verbraucht pro Zeiteinheit, Richtigkeit- t/2 möglich. C) Parallelgeschaltete Batterien erweitern Laufzeit um Ur, die Lampen leuchten länger - Aussage~plausibel; D) Energieverteilte Quellen verifizieren Ziel Zeit/T. Finalabschluss.",
-  "antwortoption": "C, D"
-}

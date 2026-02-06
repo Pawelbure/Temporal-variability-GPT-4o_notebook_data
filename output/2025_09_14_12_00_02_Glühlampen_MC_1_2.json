@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu analysieren, müssen wir die Eigenschaften von Schaltungen und deren Auswirkungen auf Strom, Spannung sowie die Lebensdauer von Batterien berücksichtigen. Wir betrachten verschiedene mögliche Konfigurationen und ihre Wirkungen: - Batterien in Serie (Erhöhung der Spannung) oder parallel (Konstante Spannung, aber erhöhte Kapazität) - Lampen in Serie (Strom durch beide ist gleich) oder parallel (jeder erhält die gleiche Spannung). Die Energiereserven einer Batterie entsprechen P*t. Die Leistung jeder Lampe ist proportional zu U²/R (Ohm'sches Gesetz). Durch Einsatz dieser Grundlagen analysieren wir nun die Szenarien: A, in Serie ergibt t/4, korrekt. B, in Serie Batterien und parallel Lampen, ergibt t/2 falsch, ändert nichts. C, Batterien parallel und Lampen Serie, maximal doppelt so lange Dienstzeit korrekt. D, Parallel Batterien/Lampen ergibt t korrekt, keine Erklärung des Werts ändert.",
-  "antwortoption": "C, D"
-}

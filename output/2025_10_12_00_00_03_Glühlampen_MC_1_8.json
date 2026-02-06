@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aussagen zu bewerten, beginnen wir mit den folgenden Annahmen: 1) Die Kapazität jeder Batterie beträgt C und sie gibt eine konstante Spannung V ab, bis sie leer ist. 2) Jede Glühlampe hat einen Widerstand R. Zu den relevanten physikalischen Konzepten gehört folglich: Die Energieabgabe pro Zeit (Leistung) bei einer Spannung und einem Widerstand wird durch P=V^2/R beschrieben. Des Weiteren ist bei Parallelschaltung von Widerständen der Gesamtwiderstand kleiner als bei Serienschaltung. Für die angeführten Schaltungen verläuft die Analyse wie folgt:",
-  "antwortoption": "B, D"
-}

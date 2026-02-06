@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die angegebenen Szenarien zu analysieren, betrachten wir zunächst den Stromfluss und die Energieversorgung in den verschiedenen Schaltungen der Batterien mit den Glühlampen. Annahmen: Batterien liefern eine konstante Spannung V und haben eine Gesamtkapazität Q, die Lampe hat Widerstand R der konstant ist. Die Leistung ergibt sich über P = V^2/R bzw. P = I^2 * R, wobei Energie E = Q * V.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Das Problem betrachtet die Änderung des Energieverbrauchs in elektrischen Schaltkreisen mit unterschiedlichen Anordnungen von Batterien und Glühlampen. Annahmen: 1) Jede Batterie liefert eine konstante Gesamtladung bis zur vollständigen Entladung, unabhängig von der Stromstärke. 2) Der Widerstand einer Glühbirne bleibt konstant unabhängig von der angelegten Spannung. 3) Ideale Batterien und Verluste im Stromkreis werden vernachlässigt. Berechnung: Jede Batterie besitzt eine chemische Energie, die in elektrische Energie mit konstanter Leistung P = U^2/R aufgebraucht wird, wobei R der Widerstand der Glühbirne und U die Batteriespannung ist. Für jede gegebene Schaltung analysieren wir die Verteilung der Spannung und des Stromes auf die Glühbirnen sowie die sich daraus ergebende Zeitdauer. Eine detaillierte Durcharbeitung ergibt: Optionen A und C korrekt.",
-  "antwortoption": "A, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Frage zu beantworten, analysieren wir die vier angegebenen Szenarien basierend auf den Eigenschaften von Parallelschaltung und Serienschaltung, sowie den daraus resultierenden Strom- und Spannungsverteilungen:\n\n1. Annahmen: Die interne Spannung und Kapazität der Batterien ist konstant. Die Glühlampen haben einen definierten Stromverbrauch und Widerstand, der durch die elektrische Spannung bestimmt wird, die anliegt.\n\n2. Szenario A (Batterien und Lampen in Serie): Durch Serienschaltung addieren sich die Spannungen, doppelt so viel Strom fließt bei konstanter Glühlampenleistung, daher entladen sich die Batterien schneller.\n\n3. Szenario B (Batterien in Serie, Lampen parallel): Lampensystem teilt Spannung, daher konstante Last pro Batterie, Batterielebenszeit pro Last bleibt weniger.\n\n4. Szenario C (Parallel/Serie): Praktisch nicht aufrecht durch Spannungskontraste.\n\nErgebnis:",
-  "antwortoption": "D"
-}

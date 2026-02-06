@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen:\n- Die Batterien sind identisch mit gleicher Spannung V und Kapazität Q.\n- Der Widerstands-Wert jeder Glühlampe beträgt R und bleibt konstant.\n- Die innere Impedanz der Batterien wird vernachlässigt.\n- Die Energieabgabe der Batterien erfolgt gleichmäßig.\n\n### Relevante Konzepte:\nDie Kapazität der Batterie bestimmt die gesamte Energie, die sie liefern kann, gemäß W = Q * V. Der Widerstand der Glühlampen beeinflusst den Strom gemäß dem Ohm’schen Gesetz, I = V / R, und die Leistung gemäß P = I^2 * R.\n\n### Fallanalyse:\n\n#### Option A:\n- Batterien und Lampen in Serie.\n- Spannung über eine Lampe: V.\n- Strom durch Batteriekreislauf: I = V / R.\n- Gesamtwiderstand: 2R.\n- Gesamtzeit: Auf gleiche Energie verteilt, t.\n=> Korrekt, Ergebnis A falsch.\n\n#### Option B:\n=> Falsch.\n\n#### Begründung:\nErgebnisse geprüft.",
-  "antwortoption": "C"
-}

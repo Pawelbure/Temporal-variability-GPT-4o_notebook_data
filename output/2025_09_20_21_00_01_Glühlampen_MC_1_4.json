@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die vier gegebenen Szenarien separat unter den vereinfachenden Annahmen: 1) Jede Batterie liefert eine konstante elektrische Energie bis zu ihrer völligen Entladung. 2) Der Innenwiderstand der Batterien und Kabel wird vernachlässigt. 3) Jede Lampe hat einen konstanten Widerstand während des Betriebs. Jetzt gehen wir jedes Szenario durch und berechnen die mögliche Betriebsdauer der Lampen, basierend auf den Auswirkungen der Serie- oder Parallelschaltung von Batterien und Lampen.",
-  "antwortoption": "A, B, D"
-}

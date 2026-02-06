@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Idealisierungen: Die Glühlampen haben einen konstanten Widerstand R. Jede Batterie liefert durch ihren chemischen Aufbau eine konstante Energiemenge, nicht wiederaufladbar. Im Betrieb verliert die Glühlampe Energie zum Leuchten.\n\n2. Physikalische Betrachtung: Die Energie der Batterie wird in Wärme und Licht durch die Glühwendel umgewandelt, abhängig von der Stromstärke und der Spannung des Systems.\n\n3. Fälle:\n\nA) In Serie (Batterien und Lampen): Es verdoppeln sich Stromspannung und Gesamtwiderstand. Der Strom bleibt gleich, die Energie bleibt wie t verteilt, jedoch über doppelten Widerstand -> verkürzte Zeit zu t/4.\n\nB) Batterien gleichspannend, Lampen parallel: Strom teilt sich, Spannung differiert, Energie begrenzt. Möglich durch das parallele Spannungsverbundsystem.\n\nC), D), Parallel/Parallel/Batterielampen. Verdoppelte Flusskonditionierung verlängert Nutzungszeit etwas...",
-  "antwortoption": "A, B"
-}

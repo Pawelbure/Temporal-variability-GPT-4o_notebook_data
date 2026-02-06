@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "- Voraussetzungen: Eine ideale Batterie besitzt einen begrenzten Energieinhalt und weist keinen inneren Widerstand auf, die Glühlampen haben konstanten Widerstand und Leistungsaufnahme.\n- Analyse der Schaltungen: \n  - A) Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich, der Strom halbiert sich, die Betriebszeit bleibt gleich, da Energie gleichermaßen aufgebraucht wird.\n  - B) Batterien in Serie, Glühlampen parallel: Die Spannung verdoppelt sich, der Strom pro Lampe bleibt gleich, die Energie pro Batterie wird doppelt so schnell verbraucht, die Zeit reduziert sich auf t/2.\n  - C) Batterien parallel, Glühlampen in Serie: Gesamte Energiemenge bleibt, reduzierter Strom verdoppelt die Zeit, daher 2t.\n  - D) Batterien und Glühlampen parallel: Gleicher Energieverbrauch wie bei einzelnen Komponente, Laufzeit t.\n- Schlussfolgerung: Optionen C und D sind korrekt.",
-  "antwortoption": "C, D"
-}

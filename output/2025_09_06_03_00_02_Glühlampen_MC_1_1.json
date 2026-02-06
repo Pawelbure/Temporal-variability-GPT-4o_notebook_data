@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Hier ist der detaillierte Lösungsweg: Wir analysieren die Energieversorgung aus den Batterie-Glühlampen-Konfigurationen unter Anwendung folgender Annahmen und physikalischer Konzepte: Annahmen: Die Batteriespannung V bleibt während der gesamten Entladung konstant. Die Batterien haben jeweils die gleiche Kapazität Q. Die Glühlampen widerstehen jeweils mit dem elektrischen Widerstand R=V^2/P, wobei P identische Leistung wäre, die Glühlampe 1 Batterie bei einer Zeit t leisten würde. Analyse der gegebenen Optionen:",
-  "antwortoption": "D"
-}

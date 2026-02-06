@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Situation, indem wir die Stromkreise für die verschiedenen Konfigurationen untersuchen. Uns wird gesagt, dass jede Batterie eine bestimmte Glühlampe für die Zeit t leuchten lässt, und dabei der Widerstand der Lampe konstant bleibt. Das deutet darauf hin, dass die Energiemenge, also die Kapazität der Batterie in Wattstunden (Wh), der entscheidende Faktor ist. Für die Untersuchung betrachten wir konkret die Leistung (P = U²/R), den Einfluss verschiedener Verschaltungen auf die Gesamtspannung der Batterien und den Stromfluss durch die Lampen, was die Entladungsgeschwindigkeit der Batterien beeinflusst.",
-  "antwortoption": "B, D"
-}

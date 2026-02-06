@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren jede Option unter den gegebenen Annahmen der konstanten Helligkeit und des konstanten Widerstands der Glühlampen. 1. Der elektrische Widerstand der Lampe sei R, die Batteriespannung V und die Zeit, in der eine Batterie eine Lampe betreiben kann, t. 2. Der Energieinhalt einer Batterie ergibt sich aus E = P * t, bei P = V^2/R. Nun untersuchen wir die Szenarien: Für A) In Serie ist I = V/(2R), und die Energie wird mit 2 Lampen geteilt, Zeit = t/4. Für B) Strom jeder Lampe I = V/(R), Serienbatterien bringen Energie V^2/R, Zeit = t/2. Für C) Batterieenergie in Summe verdoppelt, I = V/(2R), Zeit = 2t. Für D) Batterien parallel, Strom je Lampe wie bei Einzelbatterie, daher Zeit = t. Die korrekte Bewertungen der Optionen sind somit: C und D.",
-  "antwortoption": "C, D"
-}

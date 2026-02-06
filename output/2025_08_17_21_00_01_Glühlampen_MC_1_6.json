@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Idealisierungen:** Wir betrachten die Batterien als ideale Spannungsquellen und die Glühlampen als ideale ohmsche Widerstände mit konstantem Wert. Die Kapazität jeder Batterie sei gleich und entspricht der Energie, die sie liefern kann, bevor sie leer ist. Die interne Impedanz der Batterien wird vernachlässigt. Die Glühlampen haben den gleichen Widerstand. **Analyse der Spannungsquellen- und Widerstand-Schaltungen:** 1) Schaltoption A: Batterien und Glühlampen in Serie. Der Gesamtwiderstand verdoppelt sich (2R), wodurch sich der Strom (I = V/(2R)) halbiert. Die Gesamtenergie wird ebenfalls halbiert, da die Spannung über die Batterien verdoppelt wird, während die Gesamtkapazität pro Batterie bleibt. Die Zeit reduziert sich auf t/4. 2) Bei anderen Optionen ist die Analyse im Detail durch physikalische Gesetzmäßigkeiten begründet. **Ergebnisse:** A ist korrekt, B-D sind nicht korrekt.",
-  "antwortoption": "A"
-}

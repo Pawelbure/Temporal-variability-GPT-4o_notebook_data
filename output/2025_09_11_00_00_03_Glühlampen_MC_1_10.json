@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lösungsweg: Diese Aufgabe erfordert die Analyse der Schaltungen von Batterien und Glühlampen und die Auswirkung auf die Leuchtdauer der Lampen. Um die Leuchtdauer abzuschätzen, betrachten wir die zur Verfügung stehende energie in den Batterien und den durch die Lampen pro Zeit umgesetzten Strom. Bei den gegebenen Schaltungen ergibt sich jeweils eine unterschiedliche elektrische Leistung für jede Lampe abhängig von Spannung und Widerstand der Lampen, was für die Leuchtdauer entscheidend ist. \n\nDurch präzise Berechnungen der Ströme und der Spannungen bei den verschiedenen Schaltungen sowie der Verwendung von Ohm'schen Gesetzen und Energiebilanzen konnte ermittelt werden:",
-  "antwortoption": "B"
-}

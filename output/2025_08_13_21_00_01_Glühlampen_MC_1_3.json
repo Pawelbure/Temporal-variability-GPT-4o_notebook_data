@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Die Kapazität einer Batterie ist gegeben als gespeicherte Energie, welche bei konstanter Leistung P über eine Zeit t abgegeben wird (E = P * t).  \n2. Analysieren wir die vier Aufbauten hinsichtlich Strom-, Widerstands- und Zeitverhältnissen:  \n  * Option A: Bei Reihenschaltung von zwei Lampen verdoppelt sich der Widerstand. Die Spannung über jede Lampe halbiert sich, und der Strom eines Glieds wird verringert, was die Leistung (P = U² / R) = 1/4 von einem Einzelglühwedel-Betrieb wird, und da 2 Lampen laufen, kommt t/4.  \n  * Option B: Hier ergibt sich durch die Parallelschaltung eine hälftige Stromteilung, das Verhältnis bleibt wie eine Lampe, es wirkt jedoch doppelt Energieverbrauchtung was Batterielauf ca. über/2 bekommen lässt.  \n3. Fazit erfordert Verhältnisführungs. Bearbeite annähernd diese, ob Setungswerte erreichbar hängen",
-  "antwortoption": "B, D"
-}

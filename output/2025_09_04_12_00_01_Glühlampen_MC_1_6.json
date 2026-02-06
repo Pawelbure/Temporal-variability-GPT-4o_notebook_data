@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, analysieren wir die vier genannten Szenarien, bei denen Batterien und Glühlampen kombiniert betrieben werden. Annahmen: Wir gehen davon aus, dass jede Batterie eine Spannung V liefert, die Kapazität Q hat und Glühlampen einen konstanten Widerstand R besitzen. Das bedeutet, dass die Batterie ihre gespeicherte Energie durch einen Stromverbrauch entlädt und somit die Betriebszeit beeinflusst wird. Außerdem wird bei Glühlampen in (serieller oder paralleler) Kopplung jeweils der elektrische Strom oder die Spannungseffekte zur Ableitung der Betriebsdauer berücksichtigt. Vergleich der Energieumsätze ergibt dann die resultierende Leuchtzeit.",
-  "antwortoption": "D"
-}

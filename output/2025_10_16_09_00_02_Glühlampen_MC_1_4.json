@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Jede Batterie besitzt die gleiche Kapazität und liefert Strom für eine konstante Zeit t bei Betrieb an einer Lampe; die Lampe hat einen konstanten Widerstand.\n2. Physikalische Konzepte: Energieversorgung durch Batterien in Serie und Parallel, Strom- und Spannungsteilung bei Schaltungen.\n3. Analyse: a) Batterien und Lampen in Serie: Der Strom halbiert sich durch den doppelten Widerstand, daher leuchtet jede Lampe nur t/2. b) Batterien in Serie, Lampen parallel: Jede Lampe erhält Strom für t/2, da Energie gleichmäßig zwischen den Lampen aufgeteilt wird. c) Batterien parallel, Lampen in Serie: Die Parallelkonfiguration verdoppelt die Nutzungsdauer, also 2t. d) Batterien und Lampen parallel: Batterien teilen sich die Last und Lampen erhalten ihre zulässigen Betriebswerte, was zu einer Dauer von t führt.",
-  "antwortoption": "C, D"
-}

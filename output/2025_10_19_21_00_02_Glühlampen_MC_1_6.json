@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu analysieren, treffen wir einige Annahmen: Jede Batterie hat eine Kapazität von Q (Ladung) und liefert eine konstante Spannung U über die gesamte Betriebszeit. Jede Glühlampe hat einen konstanten Widerstand R. Die Energieversorgung von Batterien hängt von der Stromstärke ab, und parallele Batterien teilen die Last, während serielle Batterien die Spannung erhöhen. Die angegebenen Szenarien werden physikalisch betrachtet: A) Bei Serien-Schaltungen addiert sich der Widerstand der Lampen, was den Strom reduziert und die Betriebsdauer beeinflusst; B) Bei Parallel-Schaltungen teilt sich die Last, was proportional unterschiedliche Betriebsdauern ergibt. Die korrekten Antworten ergeben sich daraus, wenn wir jeden Fall hinsichtlich Strom, Spannung, Widerstand und Kapazität berechnen.",
-  "antwortoption": "B, D"
-}

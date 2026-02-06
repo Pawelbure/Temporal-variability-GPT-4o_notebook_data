@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zu Beginn nehmen wir an, die Batterien haben jeweils eine EMK E, eine Kapazität Q und der Widerstand der Glühlampen sei R. Die relevantesten physikalischen Konzepte sind die Spannungs- und Stromverteilung in Schaltungen, die Leistungsaufnahme P einer Glühlampe aus P = U²/R sowie die Lebensdauer eines Akkus, gegeben durch t_eff = Q/I. Nun gehen wir die einzelnen Aussagen im Detail durch, um deren Validität zu prüfen.",
-  "antwortoption": "B, D"
-}

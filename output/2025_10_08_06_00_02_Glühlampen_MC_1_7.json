@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Situationen wie folgt: 1. Zwei Batterien in Serie erhöhen die Gesamtspannung auf das Doppelte, während der Gesamtwiderstand der in Serie geschalteten Lampen verdoppelt wird, sodass Strom und Betriebszeit t/2 betragen. 2. Für Batterien in Serie und Lampen parallel bleibt die Gesamtstromlieferfähigkeit durch die doppelte Spannung erhalten, aber jede Lampe bei halber Betriebszeit betrieben, also t/2. 3. Batterien parallel liefern die gleiche Spannung wie eine, aber verdoppeln die Gesamtstromlieferzeit, bei seriellen Lampen erhöht der Widerstand die Betriebszeit auf 2t. 4. Bei parallelen Batterien und parallelen Lampen bleibt die Spannung identisch, die Betriebslaufzeit der Lampen wird durch beide Batterien auf t verteilt. Detailanalysen dieser Ergebnisse bestätigen.",
-  "antwortoption": "B, D"
-}

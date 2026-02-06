@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, beginnen wir mit der Analyse der in der Aufgabe beschriebenen Szenarien unter Berücksichtigung idealisierter Annahmen und physikalischer Beziehungen. Die Glühlampenhelligkeit wird durch die elektrische Leistung P bestimmt, die mit P = U^2/R ausgedrückt wird, wobei U die Spannung über der Lampe und R ihr Widerstand ist. Eine Batterie hat begrenzte Energie, die sich als Produkt von gespeicherter Ladung und Spannung definiert: Energie = Q*U. Weiterhin gilt der Zusammenhang zwischen Strom I, Spannung U und insgesamt verbrauchter Zeit t: I = U/R und Q=I*t. Die Glühlampe hat einen konstanten Widerstand, und die Leistung bleibt aufgrund ihrer konstanten Helligkeit ebenfalls konstant. Ausgangsanalyse:",
-  "antwortoption": "D"
-}

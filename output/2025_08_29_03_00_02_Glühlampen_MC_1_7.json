@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Fragestellung erfordert die Analyse des Stromkreises unter verschiedenen Kombinationen von Batterie- und Glühlampenschaltungen. Zur Vereinfachung nehmen wir an, dass die Batterien ideale Energiequellen und die Glühlampen belastungsunabhängige Widerstände sind, die bei konstanter Stromzufuhr immer die gleiche Helligkeit zeigen. Jede Batterie hat eine Kapazität Q sowie eine Spannung U, und die Glühlampen haben einen Widerstand R. Hinweis: Der Strom I durch die Lampe bestimmt die Entladegeschwindigkeit der Batterie. Fall A: Batterien und Lampen in Serie. Die Batterien erzeugen zusammen 2U, und die Gesamtspannung über die Lampen ist ebenfalls 2U, sodass der Doppelte Strom fließt. Die Batterien entladen viermal schneller, entsprechend ist t/4 korrekt.",
-  "antwortoption": "A"
-}

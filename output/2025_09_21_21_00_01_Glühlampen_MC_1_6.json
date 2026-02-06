@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellung zu analysieren, betrachten wir mehrere standardisierte Annahmen und physikalische Konzepte: Batterien haben eine konstante Spannung, Glühlampen besitzen einen konstanten Widerstand, und ihre Helligkeit ist proportional zur übertragenen Leistung der elektrischen Energiequelle. 1) Betrachten wir Fall A: Batterien und Lampen in Serie. Die Gesamtspannung verdoppelt sich, und die Stromstärke beträgt nun die Hälfte der Ursprungssituation. Für jede Glühlampe bezieht sich die Energie auf die Batterie entsprechend in t/4, um die Lampe zu versorgen. Analog kann eine ähnliche logische Analyse für die anderen Optionen B, C und D angewandt werden.",
-  "antwortoption": "A, D"
-}

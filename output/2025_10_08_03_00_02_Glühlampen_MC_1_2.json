@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren jede Aussage unter der Annahme konstante Widerstände und konstanter Energieabgabe der Batterien. Die Ausgangskapazität eine Batterie wird als proportionale zur Zeit t betrachtet. Einzeln: (A) Zwei Serienschaltungen bewirken eine doppelte Spannung, damit vervielfacht sich die Leistung (P) und die Ressourcen jeder Batterie werden schneller verbraucht -- Laufzeit t/4. (B) Seriell Batterien, Parallel Lampen, verdoppeln P pro Glühpunkt, damit sinkt temporale Ausdauer -- t/2. (C) Parallel Batterien und seriöse Lampen, V konstant pro Lampe, Laufzeit verlängert -- 2t. (D) Lamellen&batterien parallel, alle Komponenten konstant& balansiert -- Laufzeit unbek.",
-  "antwortoption": "C, D"
-}

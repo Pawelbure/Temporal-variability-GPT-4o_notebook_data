@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir lösen das Problem analytisch und beachten dabei alle relevanten Faktoren wie Energieerhaltung, Strom und Spannung. Für jede Konfiguration von Batterien und Lampen analysieren wir die daraus resultierende Zeit, die die Lampen leuchten können, indem wir die bereitgestellte Energie und den Verbrauch herleiten.| Annahme: jede Batterie hat eine konstante Energie E, bis sie sich entlädt; die Lampen haben Widerstand R.| Option A: Bei Serienschaltungen von Batterien addiert sich die Gesamtspannung, bei Serien von Lampen erhöht sich der Widerstand proportional zur Anzahl; die Stromaufnahme sinkt, aber die Wirkungszeit bleibt in Bezug auf eine Lampe unverändert, hier für 2 Lampen ansehen.| Option B-D: Gleichartige Analysen unter Berücksichtigung der relevanten Schaltregeln, bis die korrekten Zeitangaben wie angegeben evaluiert sind. Verifizieren Sie jede Option.",
-  "antwortoption": "A, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Betrachten wir die gegebenen Schaltungen und ihre Auswirkungen eingehend: 1. Wenn die Batterien in Serie und die Glühlampen in Serie geschaltet sind, beträgt der Gesamtwiderstand 2R und die Spannung der Batterien die Doppelte, sodass die Stromstärke I = V / 2R beträgt, was zu einer halbierten Zeitführung führt. 2. Bei Batterien in Serie und Lampen parallel beträgt der Gesamtstromfluss 2V / R, was zu einer dreifach reduzierten Leuchtdauer führt. 3. Parallelbetrieb der Batterien bei seriellen Lampen ergibt I = V / 2R, mit insgesamter Verdoppelung der Laufzeit. 4. Parallele Anordnung von Batterien und Lampen resultiert in originaler Spannung und Laufzeit t. Ergibt: Lösung D.",
-  "antwortoption": "D"
-}

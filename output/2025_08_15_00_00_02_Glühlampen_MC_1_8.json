@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Eigenschaften der Batterien und Glühlampen sind idealisiert, d.h. Batterien haben konstante Spannung und Kapazität, und Glühlampen haben konstanten Widerstand. Die Glühlampen werden nur durch die Strom- und Spannungsversorgung beeinflusst. Zur Lösung analysieren wir die Schaltungen: 1) Serienschaltung von Batterien und Glühlampen: Spannung verdoppelt, Stromfluss in der gesamten Schaltung ist geringer, Energieentnahme ist proportional. 2) Parallelschaltung von Batterien und Glühlampen: Spannung konstant wie für eine einzelne Batterie, Kapazität summiert sich, Stromfluss durch jede Lampe geringer. Spezielle Fälle ergeben die Verhältnisse der Betriebszeit pro Anordnung. Die korrekten Aussagen sind B, D.",
-  "antwortoption": "B, D"
-}

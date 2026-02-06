@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die Szenarien detailiert bezüglich Energie- und Stromverhältnissen sowie der resultierenden Lebensdauer der Batterien. Angenommen wird, dass die Kapazität der Batterie konstant mit t korreliert bleibt und der Widerstand der Lampe unabhängig von der verspätigen Spannung.\n\nA) In Serie angeordnete Batterien und Lampen bekommen doppelte Spannung. Der Strom in einer seriellen Schaltung bleibt gleich. Wegen doppelter Stromrichtung geschieht Übergang zu t/4.\n\nB) Parallele Schrauben erhalten Spannungen pro Lampe absinken, sodass resultierender Wert erhöhend zirupt bleibt.\n\nWeiter die Ergebnisse Klar definiert:\n\n\\nR=\"A<mark>\"",
-  "antwortoption": "D"
-}

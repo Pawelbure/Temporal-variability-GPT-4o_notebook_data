@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Wirkungsweise der gegebenen Konfigurationen zu untersuchen, nehmen wir idealisierte Bedingungen an: Batterien haben identische Kapazitäten und Spannungen; der elektrische Widerstand der Glühlampen ist konstant und unabhängig von der angelegten Spannung, und die Batterien entladen sich gleichmäßig. Die physikalischen Konzepte umfassen die Ohm'sche Gesetzgebung (U=IR), Leistungs- (P=UI) sowie Energiebetrachtungen.\\n\\nAnalyse der Szenarien:\\n**A:** Batterien und Glühlampen in Serie -> Gesamtspannung verdoppelt (2U), Gesamtsystemwiderstand verdoppelt (2R). Strom I bleibt daher gleich, Energieverbrauch pro Lampe erhöht sich, Zeit ist t/2.\\n**B:** Batterien in Serie, Glühlampen parallel -> Anders. I erneuit analysieren Resultat: Zeit bleibt t.\\n**C:** Batterien parallel Glühlampen-Serie entgegensesetzt.",
-  "antwortoption": "D"
-}

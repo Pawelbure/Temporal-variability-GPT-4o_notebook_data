@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Frage zu lösen, gehen wir schrittweise vor und analysieren jede der behaupteten Szenarien. Beachten wir dabei die Annahmen: Eins Batterien haben identische Eigenschaften (Spannung U und Kapazität Q). Zweitens bleibt der Widerstand jeder Glühlampe konstant. Die Energie einer Batterie wird durch Q·U beschrieben. Spannung und Stromfluss in unterschiedlichen Schaltungen beeinflussen sowohl die Energieabgabe als auch die Laufzeit der Lampen. \n\n **A:** Serienanschluss der Batterien und Glühlampen bedeutet, dass die Gesamtspannung 2U beträgt, aber der Strom halbiert ist durch doppelte Gesamtabnahme. Energieverbrauch bleibt gleich, aber alle Energie wird aufgeteilt auf beide Lampen, daher: Zeit etwa t. \n\n **B:** Mit sub­pa­rallel-Schaltungen bleibt Spannung gleich U je Lampe aber Batterien beleast Rücken kürzer, Gesamtzeit: etwas T/2  \n\n.[..]",
-  "antwortoption": "A, B"
-}

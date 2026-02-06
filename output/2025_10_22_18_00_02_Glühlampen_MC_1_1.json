@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst betrachten wir die grundlegenden Annahmen und Gegebenheiten: Jede Glühlampe besitzt einen Widerstand R und jede Batterie liefert eine konstante Spannung U und Energie/Leistung bis zum vollständigen Entladen. Basierend darauf analysieren wir verschiedene Schaltungsanordnungen: 1) Batterien in Serie: Die Gesamtdifferenzspannung verdoppelt sich. Glühlampen in Serie: Der Widerstand verdoppelt sich, wodurch der Strom halbiert wird, die Leistung wird $(I^2 * (2R) = P_B)$, also die Einzelzeit bleibt t. 2) Lampen parallel: Der Strom erhöht sich und Energie pro Lampe beträgt t. Schaltungsanalyse analog weiterzuführen ergibt:",
-  "antwortoption": "D"
-}

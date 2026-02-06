@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, betrachten wir die elektrische Leistung und Kapazität der Batterien der Glühlampen:\n\n1. Annahmen und Idealisierungen: Jede Batterie hat eine konstante Spannung U und eine Kapazität Q. Jede Lampe hat einen Widerstand R, durch den die erzeugte Leistung konstant ist. Verluste und Innenwiderstände der Batterien werden vernachlässigt.\n\n2. Physikalische Konzepte:\nDie elektrische Leistung, die von einer Batterie geliefert wird, ist gegeben durch P = U^2 / R. Die Energieinhalt der Batterie, E = Q * U, bestimmt die Betriebsdauer.\n\n3. Lösungsanalyses:\n   - A) Zwei Batterien in Serie verdoppeln die Spannung auf 2U. Die Glühlampen in Serie ergeben einen Widerstand von 2R. Gesamte Strom ist I = (2U)/(2R) = U/R. The Belastung folglich doppelte Leistung jeder Lampe verringerte Zeit ergibt der Betrieb.\n   - B) Parallele glüh, etlam herein Beschreibung genaue entgegamchnung gerechnet erhöht.",
-  "antwortoption": "B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe untersucht die Auswirkungen verschiedener Schaltungen auf die Leuchtzeit zweier Glühlampen, wenn sie mit zwei Batterien betrieben werden. Zunächst klären wir die Grundlagen: Der Widerstand der Glühlampen und die Spannung der Batterien sind konstant, und die Energie jedes Akkus begrenzt die Leuchtdauer einer Glühlampe auf t, wobei die Leistung P = U²/R ist. Für jede Möglichkeit wird der Energie- und Leistungshaushalt analysiert.",
-  "antwortoption": "D"
-}

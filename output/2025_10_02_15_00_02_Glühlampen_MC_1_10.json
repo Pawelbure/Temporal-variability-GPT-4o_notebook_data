@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, analysieren wir die vier Szenarien hinsichtlich der zeitlichen Betriebsdauer von Glühlampen bei den gegebenen Verschaltungen. Dies basiert auf den Prinzipien der elektrischen Leistung, Strom- und Spannungsverteilung sowie auf Vereinfachungen wie konstanter Helligkeit und Widerstand. Es wird angenommen, dass die Spannungsquelle und die Glühlampen ideal arbeiten. Folgende wichtige Überlegungen gelten: (1) Bei idealen Batterien ist die abgegebene Energiemenge proportional zur Produktspannung und -strom sowie zur Leuchtdauer. (2) Die Art der Schaltung beeinflusst die Energieabstimmung auf die Last. Nach Durchrechnung zeigt sich:",
-  "antwortoption": "A, B, D"
-}

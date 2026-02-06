@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen\nWir nehmen an: 1) Die Glühlampen zeigen einen konstanten Widerstand unabhängig der Spannung. 2) Jede Batterie hat die gleiche Kapazität und Spannung. 3) Innere Widerstände der Batterien sowie Leitungsverluste sind vernachlässigbar. 4) Jede Glühlampe benötigt die gleiche Leistung.\n\n### Physikalische Konzepte\n- **Reihenschaltung:** Gesamte Spannung ist die Summe der Einzelspannungen, Strom konstant.\n- **Parallelschaltung:** Spannung konstant für jede Lampe, Gesamtstrom ist die Summe der Einzelströme.\n- Leistung\\( P = \\frac{U^2}{R}\\).\n- Batterieleistung\\( P_\\text{batt} = U·I\\), Ladung\\(Q = I·t\\).\n\n### Untersuchung der Aussagen\nFür eine Lampe:\\(R\\): Verbrauch resistent verspottet nach seiner Remise;\\(t\\): Verbrauch dauert. Also, Verlosinge kosten erfreulich Lampe gespannt Zwirn. Die Quadratregeln praest der Spannung zu Leistung.",
-  "antwortoption": "B"
-}

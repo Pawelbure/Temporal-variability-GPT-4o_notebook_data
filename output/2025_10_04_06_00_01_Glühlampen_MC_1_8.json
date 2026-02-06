@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen Eigenschaften der gegebenen Komponenten: \n\n1. Wenn die Batterien in Serie geschaltet werden, verdoppelt sich die Gesamtspannung der Quelle. Wenn die beiden Lampen in Serie geschaltet sind, erhöhte sich der Gesamtwiderstand auf das Doppelte (da die Lampen ohmsche Verbraucher darstellen). Somit bleibt der Strom gleich dem einer Einzelbatterie mit einer einzelnen Lampe, und die Entladezeit beträgt daher \"t\". A behauptet daher \"t/4\", was nicht korrekt ist.\n\n2. Bei Batterien in Serie und Lampen parallel schließt jede Lampe eine individuell geteilte Spannung an, wodurch die Laufzeit halbiert wird. Aussage B ist somit korrekt.\n\n3. Batterien parallel reduziert die Quellen Capazensausnutzung um das halbe spanungsverteilung um 2zuhen Lichte  Dann Aufwand aus „t \" durch kein Multiplier, So ergibt  keine.",
-  "antwortoption": "B"
-}

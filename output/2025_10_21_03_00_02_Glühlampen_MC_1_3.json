@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Schaltungen unter der Annahme idealer Batterien und dass die Glühlampen einen konstanten Widerstand haben. Konzeptionell betrachtet teilt eine serielle Schaltung die Spannung auf und summiert die Widerstände, während eine parallele Schaltung die Spannung konstant hält und die Ströme summiert. Unter Berücksichtigung der Leistung (P=V^2/R oder P=I^2*R, je nach Relevanz) und ihrer Abhängigkeit von Spannung und Widerstand erläutern wir die Gesamtzeit für die Batterien zur Stromversorgung.",
-  "antwortoption": "D"
-}

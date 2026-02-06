@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und relevante Konzepte\n1. **Konstantheit der Parameter**: Angenommen wird, dass die Spannung und interne Thermodynamik der gegebenen Batterien und Glühlampen sich nicht wesentlich verändern.\n2. **Batterieverhalten**: Eine einzelne Batterie kann eine spezifische Energiemenge (gespeicherte elektrische Energie) bereitstellen.\n3. **Ohmsches Gesetz** und **elektrische Leistung** gelten für das System: die Glühlampe hat konstanten Widerstand R und leuchtet mit Leistungsaufnahme \\( P = \\frac{U^2}{R} \\).\n\n### Analyse der Szenarien\n- Jede Batterie hat Spannung U und gespeicherte Energie E und leuchtet eine Glühlampe für Zeit t:\t\\( E = Pt \\\\\nAnschlüsse:\t \\textrm{Reihenschaltung: } I_\\textrm{ges} = I, U_\\textrm{ges} = \\sum U_i \\textrm{ Parallel: } I_\\textrm{gesamt}= \\sim_double_p. \":[\"WIE BESPRO\"]",
-  "antwortoption": "D"
-}

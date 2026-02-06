@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Die Batterie wird als ideale Quelle betrachtet, die eine konstante Spannung liefert, bis sie leer ist. Die Glühlampe besitzt einen konstanten Widerstand unabhängig von der eingespeisten Energie oder Temperaturänderungen. Relevante physikalische Konzepte: Die Serienschaltung von Spannungsquellen addiert ihre Spannungen. Batterien in Parallelschaltung teilen die Last und behalten dieselbe Spannung. Beim Betreiben von Lasten in Serie addieren sich die Widerstände, und in Parallelschaltung bleibt die Spannung konstant. Ladevorgang und Entladezeit der Batterien sowie die Dissipation von Energie durch den Widerstand bestimmen die Zeit, in der die Batterien die Glühlampen betreiben können. Berechnungen und Ergebnisse:",
-  "antwortoption": "B, D"
-}

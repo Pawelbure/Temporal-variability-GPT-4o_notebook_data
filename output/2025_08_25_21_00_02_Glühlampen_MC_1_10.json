@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahme: Jede Batterie besitzt eine konstante Kapazität mit Ladung Q und liefert eine konstante Spannung V. Der Widerstand jeder Glühlampe ist R, und der Strom ist gegeben durch I = V/R. \n\nLösung der Optionen:\n\n- **A**: Lampen und Batterien in Serie: Das Gesamtsystem hat den vierfachen Widerstand (2 x 2R). Die zeitliche Energieabgabe ist nicht geeignet gewährleistet, t/4 kann jedoch angezweifelt werden.\n- **B**: Batterien in Serie und Lampen parallel: Die Batterien verdoppeln die Spannung bei gleichem Ladestrom, die Zeit halbiert sich t/2 ergibt sich richtig.\n- **C**: Batterien parallel und Lampen in Serie: Batterie addiert verwendbar zusammen, Spannung wechselwertig, 2t stimmt nicht anzugehen.\n- **D**: Angenommen richtig vereinbar System. Energieverbrauch unverhofftl.",
-  "antwortoption": "B"
-}

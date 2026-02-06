@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die vier Szenarien anhand elektrischer Schaltungserfahrung und Batterieverhalten: 1) Bei serieller Verbindung von zwei Batterien verdoppelt sich die Spannung, wodurch der Strom durch die Lampen um den Faktor 2 erhöht wird. Dies führt dazu, dass die Lampen schneller Energie verbrauchen. 2) Bei paralleler Verbindung bleibt die Spannung gleich, aber die Batteriekapazität verdoppelt sich, weshalb die Lampen länger leuchten. Die genaue Analyse ergibt Folgendes: A) Falsch, da die Lampen schneller Energie verbrauchen (ca. t/2), B) Falsch, da die Kombination nicht ideal energetisch genutzt wird, C) Falsch, es bleibt bei t, aber nur eine Lampe leuchtet ursprünglich, erst rechtlich D) richtig.",
-  "antwortoption": "D"
-}

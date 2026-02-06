@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellung zu lösen, betrachten wir zuerst die Eigenschaften der Batterie und der Glühlampe. Wir setzen voraus, dass jede Batterie eine nominelle Spannung V und eine speicherbare Energie E hat. Die Glühlampe hat zudem einen Widerstand R, und die Annahme ist, dass ihr Widerstand konstant bleibt, unabhängig von der angelegten Spannung. Die Betriebszeit hängt davon ab, wie die Batterien und Glühlampen verschaltet sind und wie die Energie aufgeteilt wird. Durch eine Analyse jedes Schaltungsszenarios können wir bestimmen, wie sich die Verschaltung auf die Leuchtdauer auswirkt. Aufgrund der Verschaltungsregeln von Reihenschaltung (Zusammenfassung von Spannungen) und Parallelschaltung (Aufteilung des Stroms) ergeben sich die folgenden Szenarien und ihre Auswirkungen:",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, berücksichtigen wir die Annahmen: 1. Die Elektroden der Batterien haben konstanten Potentialunterschied. 2. Energieversorgung der Lampen erfolgt ausschließlich über die Batterien. 3. Der Widerstand der Glühlampen bleibt konstant. Analysieren wir die vier Fälle: A) In Serienschaltung wird die Gesamtspannung der Batterien addiert, jedoch fließt durch beide Glühlampen derselbe Strom, was die Betriebsdauer auf die Hälfte reduziert. B) Mit Batterien in Serie und Lampen parallel wird die Spannung verdoppelt, aber jede Lampe zieht unabhängig Strom aus den Batterien, was die halbierte Lebensdauer zur Folge hat. C) Bei parallelen Batterien gleichen sich Spannungen aus, und Strom teilt sich durch die Lampenkette, wodurch diese doppelt so lange halten. D) Mit parallelen Batterien und Lampen bleibt die Spannung konstant, der Strom teilt sich, und die Betriebsdauer entspricht einer Batterie.",
-  "antwortoption": "C"
-}

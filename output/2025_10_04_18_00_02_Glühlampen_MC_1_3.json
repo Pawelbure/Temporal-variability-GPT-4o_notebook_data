@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "In der Aufgabe betrachten wir ideale Batterien und Glühlampen mit festem Widerstand. Die Energie, die pro Batterie verfügbar ist, ergibt sich aus deren Kapazität und Spannung. Die Verteilung von Batterien und Lampen beeinflusst die erzeugte Spannung und die Stromstärke in der Schaltung und damit die Lebensdauer der Batterien. Anhand der gegebenen Szenarien analysieren wir:\n- Bei Serie Schaltung der Batterien verdoppelt sich die Spannung; der Strom durch die Lampen in Serie bleibt gleich, also bleibt die Laufzeit der Einzelbatterie t.\n- Mit parallel geschalteten Batterien verdoppelt sich die verfügbare Kapazität, was die Laufzeit der Schaltung verdoppelt.\n- Die Glühlampen in Serie verschieben die Energieversorgung zugunsten ihrer parallelen Nutzungsstrategie.\nNach der genauen Analyse der Szenarien ergibt sich die korrekte Option D als Antwort.",
-  "antwortoption": "D"
-}

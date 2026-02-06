@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegeben sind zwei Batterien und zwei Glühlampen, jeweils mit identischen Eigenschaften. Es ist bekannt, dass eine Batterie eine einzelne Glühlampe für die Zeit t konstant mit Energie versorgen kann. Nehmen wir an, dass jede Batterie über die elektrische Kapazität verfüge, die sich durch deren Ausgangsspannung und den Stromfluss definiert, der durch den konstanten Widerstand der Glühlampe verursacht wird. Reihen- und Parallelschaltungen beeinflussen die Stromverteilung und Spannung in einem Stromkreis unterschiedlich. Die korrekte Analyse umfasst die Betrachtung, wie die Schaltungskonfiguration die Lebensdauer der Batterien bei der Versorgung der Glühlampen beeinflusst. Nach Durchführung der Berechnungen ergibt sich Folgendes: Nur Antwort D ist korrekt. Dies bedeutet, dass, wenn beide Batterien und Glühlampen parallel geschaltet sind, die Glühlampen für etwa die Zeit t leuchten können.",
-  "antwortoption": "D"
-}

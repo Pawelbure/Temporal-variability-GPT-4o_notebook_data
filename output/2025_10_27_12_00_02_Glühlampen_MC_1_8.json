@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die möglichen Szenarien korrekt zu analysieren, gehen wir von folgenden Annahmen aus: Jede Batterie verfügt über eine konstante Kapazität an gespeicherter Energie und jede Glühlampe hat einen konstanten Widerstand, weswegen die elektrische Leistung der Lampe direkt von der anliegenden Spannung abhängt. Des Weiteren nehmen wir eine ideale Leitung der Verbindungen und keine internen Verluste in den Batterien an. Für die Untersuchung verwenden wir die Zusammenhänge des Ohm'schen Gesetzes U = R*I und die Gesamtenergie als P = U^2 / R. Wir analysieren nun die vier Szenarien im Detail.",
-  "antwortoption": "D"
-}

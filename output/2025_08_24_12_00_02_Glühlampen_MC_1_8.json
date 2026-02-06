@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Behauptungen zu analysieren, betrachten wir die Situationen für verschiedene Schaltungen und bewerten, wie Spannung, Strom und Zeitdauer beeinflusst werden. Idealisieren wir den Prozess: Jede Batterie liefert eine konstante Spannung V und hat eine Energie E. Die Lampen haben konstante Widerstände R und wandeln Batterienenergie in Licht um. Die Energieabgabe der Batterie beendet die Beleuchtung. Szenario A: Zwei Batterien und Lampen in Serie: Die Spannung verdoppelt sich, der Strom halbiert sich (I = V/R). Energieabgabe der Batterie geschieht halb so schnell. Zeit beträgt t und zwei Sätze erscheinen etwa doppelt schneller Energieverbrauch. Zeit t/4. Szenario B: Batterien in Serie und Lampen parallel: Energieabgabe ähneln, da Spannung bleibt. parallelistisch Lampen zugleich. Zeit bleibt gleich. t/2 Szenario B deckt nicht Analytik.",
-  "antwortoption": "A, B"
-}

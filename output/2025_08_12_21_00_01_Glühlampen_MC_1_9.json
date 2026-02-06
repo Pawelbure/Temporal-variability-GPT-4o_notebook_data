@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die folgende Analyse macht Zeichnungen der Schaltung unnötig, da die Prinzipien verdeutlicht werden: Jede Batterie hat identische Kapazität (z. B. 1 Ah) und Spannung (z. B. 1,5 V). Die Lampe hat festen Widerstand R. \n\nA) In Serie verdoppelt sich die Spannung, und bei den Lampen in Serie verdoppelt sich der Gesamtwiderstand, was den gleichen Strom wie mit einer Lampe erzeugt (i² * R); jedoch halbiert sich die Energiemenge pro Lampe, daher Zeit t/4. Richtig. \nB) Spannung doppelt, Widerstand halbiert, P verdoppelt, jede Lampe nutzt zweimal die Batterie-Energie schneller, t/2. Richtig.\nC) Parallel zu Batterie (Spannung gleich wie Einzelbatterie, doppelte Akkukapazität), Lampen in Serie reduziert Spannung verdoppelt: Power wie Einzel. Gesamtzeit bleibt gleich wie Einzel: t, Falsch.\nD) Beide Parallel: Leistungsanforderung pro Batterie halbiert, gleiche Kapazität: Zeit bleibt t. Richtig.",
-  "antwortoption": "A, B, D"
-}

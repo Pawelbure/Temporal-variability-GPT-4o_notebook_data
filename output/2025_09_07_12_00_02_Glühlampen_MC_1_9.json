@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, betrachten wir die spezifischen Eigenschaften der Schaltungen und deren Einfluss auf die Zeitdauer, während der die Glühlampen leuchten können. Die Analyse basiert auf den Eigenschaften der seriellen und parallelen Anordnungen von Stromquellen und Verbrauchern. Relevante Größen dabei sind die Spannung und die Kapazität der Batterien sowie der Strom im Stromkreis. Bei seriellen Batterien verdoppelt sich die Spannung, bleibt aber die Kapazität gleich, während sie bei parallelen Batterien ihre Kapazitäten addieren. Gemäß den seriellen und parallelen Anordnungen der Glühlampen bestimmen wir die aufgeteilte Spannung und die Stromaufnahme:",
-  "antwortoption": "B, D"
-}

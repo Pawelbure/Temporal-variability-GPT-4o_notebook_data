@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Jede Batterie liefert eine konstante Gesamtenergie. Der Innenwiderstand der Batterien sowie Änderungen des Widerstands der Lampen mit sich ändernder Spannung werden vernachlässigt. Physikalische Grundlagen: Die Energie jeder Batterie wird in Wärme in den Glühlampen umgesetzt. Der Widerstand der Lampen und die angelegte Spannung bestimmen den Stromfluss und somit die Geschwindigkeit der Energieverbrauchs. Die korrekten Aussagen sind systematisch mit den gegebenen Szenarien geprüft: A ist korrekt, da die erhöhte Spannung den Stromfluss und somit die Leistungsaufnahme erhöht, wodurch die Energie schneller verbraucht wird; Analog für B, da die Spannung aber gleich bleibt, wird die Energie aufgeteilt. C und D sind unlogisch innerhalb der gewählten Modellannahmen.",
-  "antwortoption": "A"
-}

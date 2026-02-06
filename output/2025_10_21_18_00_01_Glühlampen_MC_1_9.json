@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu analysieren, ist es entscheidend, die Stromversorgung der Lampe durch die Batterien hinsichtlich der Energieverteilung und Stromstärken zu untersuchen. Annahmen sind: Batterien werden als ideale Spannungsquellen modelliert, die entnommene Energie ist direkt proportional zur Zeit und zum Stromfluss, die Lampe hat einen konstanten Widerstand, und Wechselwirkungen zwischen den Komponenten sind vernachlässigt. Die mögliche Lebensdauer t basiert auf dem Energieinhalt der Batterie, bemessen in Wattsekunden (Ws). Jegliche Änderung der Schaltung ändern die Energiemenge, die jede Lampe erhält. Nach Berechnungen für jede der vier Schaltungsvarianten ergibt sich folgende korrekte Aussage:",
-  "antwortoption": "B, D"
-}

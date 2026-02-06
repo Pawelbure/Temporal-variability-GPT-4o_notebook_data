@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten eine Batterie-Spannung von U, eine Innenwiderstand R_inn, eine maximale Entladeenergie E und eine ideale Batterieannahme. Die Glühlampe hat Widerstand R und zieht Strom I=U/R. Jede Batterie allein kann eine Lampe für eine Zeit t betreiben. Nun betrachten wir alle Szenarien: A) Batterien in Serie verdoppeln Spannung; Lampen in Serie verdoppeln Widerstand; Gesamtwiderstand ist 2R; Strom I' reduziert auf U/2R - Energieverbrauch verdoppelt (4 Lampen-Widerstände parallel). B) Batterien in Serie ergeben erneut Gesamspannung U; mit parallelen Lampen wird Gesamtwiderstand 2R/4 verringert; jeweils I bleibt ähnlich; ergibt längere t/2 (fall Energie ist gleich). C) Batterien parallel verdoppeln Energiemenge (2E) Dieselbswärme; zwei Lampenreiche erhöhen Widerstand; reduzieren restkopplerichelte Strom-Hitzweise.D) Beide parallel eigenenströmvolumen halbieren;summe ist t haltend.",
-  "antwortoption": "B, D"
-}

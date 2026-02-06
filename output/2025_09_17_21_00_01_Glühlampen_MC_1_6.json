@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellung zu analysieren, nehmen wir an, dass jede Batterie die gleiche elektromotorische Kraft (EMK) und Kapazität besitzt und jede Glühlampe denselben konstanten Widerstand R aufweist.  Weiterhin nehmen wir an, dass der Innenwiderstand der Batterien und die Verluste vernachlässigbar sind und die Batterien gleiche Kapazitäten besitzen. Um die Zeit, für welche die Glühlampen betrieben werden, unter den gegebenen Konfigurationen zu bestimmen, analysieren wir den Strom und die Spannung jedes Szenarios, wobei die Energie jeder Batterie proportional zum Produkt von Strom, Spannung und Zeit ist. Die Aufschlüsselung lautet:",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Situation wird unter der Annahme analysiert, dass die ideale Batterie eine konstante Spannung liefert bis zur völligen Entladung, und dass der Widerstand der Glühlampe ebenso idealisiert konstant bleibt. Die Stromversorgung der Glühlampen hängt von der Batterieschaltung und den elektrischen Kennwerten ab. Die mögliche Betriebszeit der Glühlampen ergibt sich aus der durch die Batterie elektrisch bereitgestellten Energie. Beim Betreiben der Glühlampen in Serie durch zwei Batterien in Serie wird die Spannung verdoppelt, wodurch der Strom durch die Glühlampen steigt und diese schneller entladen werden. Hingegen, bei parallel geschalteten Batterien und Glühlampen teilt sich der Strom, was die Nutzungsdauer beeinflusst.",
-  "antwortoption": "D"
-}

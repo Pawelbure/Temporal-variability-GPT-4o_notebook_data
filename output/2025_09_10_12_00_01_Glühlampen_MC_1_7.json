@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Lösung basiert auf den Annahmen: Jede Batterie liefert eine festgelegte Kapazität an Energie bei einer konstanten Spannung, und jede Lampe hat einen konstanten Widerstand R. Wir betrachten die Energieverteilung bei verschiedenen Verschaltungen von Batterien und Lampen. Für jede Konfiguration berechnen wir die Gesamtstromstärke der Schaltung, die Leistungsaufnahme, und schätzen die Leuchtdauer der Lampen im Verhältnis zur gegebenen Zeit t ab.",
-  "antwortoption": "B, D"
-}

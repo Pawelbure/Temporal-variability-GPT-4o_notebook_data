@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Die Batterien haben eine konstante elektrische Kapazität und dieselbe Spannung. Die Glühlampen haben einen konstanten elektrischen Widerstand. Physikalische Konzepte: Ohmsches Gesetz (U = I * R), elektrische Leistung (P = U * I) und die Kapazität von Batterien sind entscheidend. Alle Schaltungen werden unabhängig betrachtet. Für (A) ergibt die Serienschaltung von zwei Batterien und zwei Glühlampen eine Spannung von 2U und einen Gesamtwiderstand von 2R. Der Strom ist I = 2U / 2R = U / R, daher bleibt die Stromstärke gleich, die Zeit halbiert sich durch Verdopplung der Stromabflüsse. Zeit ist t/2. Für (B) leuchten beide Lampen mit halber Stromstärke, da der Strom des Batterieserienkreises sich teilt: Zeit t. Für (C) teilt sich der Ausgangsstrom der parallelen Batterie für seriell geschaltete Lampen: Zeit t. Für (D) konstant paralleler Ablauf der Gesamtschaltungen: Zeit t.",
-  "antwortoption": "D"
-}

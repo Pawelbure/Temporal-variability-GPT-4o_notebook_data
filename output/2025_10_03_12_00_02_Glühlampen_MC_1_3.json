@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir jede der angegebenen Optionen unter Berücksichtigung der elektrischen Schaltungen und Energieüberlegungen: \n1. **A** - Batterien in Serie und Glühlampen in Serie: Hierbei ergibt sich eine Verdopplung der Spannung, aber der Strom wird durch den erhöhten Widerstand der Reihenschaltung zweier Lampen begrenzt. Die Leistung pro Lampe bleibt gleich. Da die Kapazität der Batterien nicht beeinflusst wird, bleiben sie daher gleich lange in Betrieb. Die Zeit beträgt also t, daher ist die Aussage falsch. **\n2. **B** - Batterien in Serie und Glühlampen parallel: Die Verdopplung der Spannung führt zur Verdoppelung der Leistung jeder Lampe. Dadurch verdoppelt sich der Gesamtstrom und die Entladung der Batterien erfolgt schneller, was die Zeit halbiert. Zeit ist also t/2. Korrekt**_ Add further analysis or correction as necessary_\n",
-  "antwortoption": "B"
-}

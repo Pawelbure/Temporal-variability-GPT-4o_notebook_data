@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebene Fragestellung zu klären, müssen wir den Einfluss der verschiedenen Schaltungen von Batterien und Glühlampen auf die Betriebszeit der Glühlampen analysieren. Wir treffen folgende Annahmen: 1. Jede Batterie hat die gleiche konstante Spannung und Kapazität. 2. Der Widerstand der Glühlampen bleibt konstant, unabhängig von der eingesetzten Leistung. 3. Die Batterien entladen sich vollständig, während die Glühlampen betrieben werden. Relevant für die Analyse sind das Ohmsche Gesetz, das den Zusammenhang zwischen Spannung (U), Strom (I) und Widerstand (R) beschreibt (U = I*R), und die Beziehung zwischen Leistung (P), Spannung und Strom (P = U*I). Wir untersuchen nun die vier Konfigurationen:",
-  "antwortoption": "D"
-}

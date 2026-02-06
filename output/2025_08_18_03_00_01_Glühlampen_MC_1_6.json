@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, wurden folgende Annahmen und vereinfachtete Betrachtungen angenommen: Die Kapazität der Batterien bleibt konstant und jede liefert eine Spannung V und eine elektrische Ladung Q an die Verbraucher. Der Widerstand jeder Glühlampe sei konstant und hat den Wert R. Die relevanten Aspekte, wie die Schaltungsart - Seriell oder Parallel - beeinflusst den Strom und die Spannung in den Lampen, wodurch sich die Leuchtdauer ändert. Nach Anwendung der physikalischen Gesetze ergeben sich folgende Ergebnisse:",
-  "antwortoption": "B, D"
-}

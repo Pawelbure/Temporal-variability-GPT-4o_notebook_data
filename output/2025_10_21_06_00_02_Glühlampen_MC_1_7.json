@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Ausgehend von den Annahmen konstanter Leistung und linearer elektrischer Eigenschaften des Systems analysieren wir die verschiedenen Verschaltungsarten:\\n1. **Batterie und Glühlampen in Serie:** Die Betriebsspannung verdoppelt sich, es fließt derselbe Strom aufgrund des doppelten Widerstands. Die Energie wird gleichmäßig zwischen beiden Batterien aufgeteilt, sodass die Betriebsdauer identisch ist wie bei einer einzelnen Konstellation.\\n2. **Batterie in Serie, Glühlampen parallel:** Verdoppelte Spannung verdoppelt die Energiezufuhr zu den Glühbirnen, entsprechend halbiert sich die Betriebsdauer auf t/2.\\n3. **Batterie parallel, Glühlampen in Serie:** Spannung entspricht der einfachen einer Batterie, die parallelen Batterien verlängern die Betriebsdauer auf 2t bei gleicher Energieförderung.\\n4. **Beide parallel:** Kapazität der Batterien verdoppelt sich bei konstanter Betriebsspannung, Betriebsdauer bleibt bei t.",
-  "antwortoption": "B, C"
-}

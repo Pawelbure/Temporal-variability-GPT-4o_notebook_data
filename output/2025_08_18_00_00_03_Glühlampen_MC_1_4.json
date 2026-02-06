@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aussagen zu analysieren, gehen wir von folgenden Annahmen aus: Jede Batterie liefert eine konstante Spannung, die Glühlampen haben den gleichen konstanten Widerstand, und die Kapazität der Batterien beschreibt die gesamte Energie, die sie liefern können. Das wichtige physikalische Konzept ist der Energieverbrauch proportional zum quadratischen Strom bei gegebener Schaltung und der totalen Energieabgabe der Batterien bei Parallelschaltung. Wir analysieren die Situationen entsprechend der Schaltungen: A) In Serie erhalten die Lampen eine Energie, die in einer Viertelzeit entladen wird. B) Bei einer Serie-Verbindung verringert die Parallelverbindung die Betriebszeit um die Hälfte. C) Parallele Batterie verdoppelt die Zeit für die glühende Serie. D) Parallelschaltung gibt beide zur ursprünglichen Timeline zurück. Die korrekten Antworten sind B und D.",
-  "antwortoption": "B, D"
-}

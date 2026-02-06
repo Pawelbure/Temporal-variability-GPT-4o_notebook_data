@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegeben sei eine elektrische Batterie, die eine konstante Spannung liefert, und eine Glühlampe mit konstantem Widerstand. Beim Betreiben einer Lampe durch eine Batterie bleibt der Strom konstant, bis die Energie der Batterie vollständig entladen ist, was eine konstante Zeit t dauert. Im Weiteren betrachten wir die vorgesteckten Schaltungen:\n\n**A) Batterien in Serie, Lampen in Serie:** Die Serienschaltung der Batterien verdoppelt die Gesamtsumme der Spannung. Ebenso addieren sich die Widerstände der Lampen in Serie. Nach dem Ohm'schen Gesetz halbiert sich der Gesamtstrom in der Schaltung, wodurch die Betriebszeit durch die niedrigere Gesamtentladung auf 2t verlängert wird.\n\nBedingt durch die Stromhalbierung ergibt sich eine Betriebszeit von 2t.",
-  "antwortoption": "A"
-}

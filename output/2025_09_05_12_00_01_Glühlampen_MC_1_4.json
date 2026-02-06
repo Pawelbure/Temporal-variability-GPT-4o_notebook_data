@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. **Annahmen und Idealisierungen:** Es wird angenommen, dass die Batterien eine konstante Stromstärke bis zu ihrer Entladung bereitstellen und der Widerstand der Glühlampen konstant bleibt. 2. Analyse der Schaltungen: a) Batterien und Glühlampen in Serie: Der Gesamtwiderstand der Schaltung verdoppelt sich, aber die Gesamtzeit bleibt etwa t, da beide Lampen denselben Strom wie eine Einzelne aufnehmen. b) Batterien in Serie, Lampen parallel: Der Widerstand der Lampen halbiert sich, und die Stromaufnahme verdoppelt sich, womit die Entladungszeit halbiert wird. c) Batterien parallel, Lampen in Serie: Der Strom bleibt gleich verteilt, wodurch die Betriebszeit verdoppelt wird. d) Batterien und Lampen parallel: Die Stromaufnahme bleibt wie bei einer Einzelbatteie mit einer Lampe, was eine Laufzeit t erlaubt.",
-  "antwortoption": "B, C, D"
-}

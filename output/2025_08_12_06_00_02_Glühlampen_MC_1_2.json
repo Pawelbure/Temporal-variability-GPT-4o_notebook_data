@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst werden die Batterien und Glühlampen betrachtet, wobei die Batterien eine konstante Spannung und die Glühlampen einen konstanten Widerstand haben. Wenn Batterien in Serie geschaltet sind, addieren sich die Spannungen der beiden, während der interne Widerstand der Konstruktion steigt. Bei einer parallelen Schaltung der Batterien bleibt die Spannung konstant und die Kapazität (die gespeicherte Energie) verdoppelt sich. Für die Glühlampen ergibt sich der Energieverbrauch aus dem Produkt der Spannung und dem durch sie fließenden Strom. Wird eine Glühlampe mit höherer Spannung betrieben, fließt ein höherer Strom, und die Energie pro Zeiteinheit, die verbraucht wird, steigt. Wird z.B. die Spannung durch zwei Batterien verdoppelt und somit die Leistung einer Lampe vervierfacht, so verringert sich die Betriebszeit um den Faktor vier.",
-  "antwortoption": "A"
-}

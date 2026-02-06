@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, stellen wir folgendes klar: Batterien haben eine konstante elektrische Ladung Q, und die Glühlampen besitzen einen festen Widerstand R. Die Lebensdauer einer Batterie hängt ausschließlich von der entnommenen Gesamtladung ab. Laufzeitanalysen: (i) In Serienschaltung addieren sich die Spannungen der Batterien, die Lampe leuchtet mit höherer Leistung P → kürzere Laufzeit (A falsch). (ii) In Parallelschaltung addieren sich die Kapazitäten der Batterien, die Spannung bleibt konstant und ist wie bei Einzelbetrieb (D richtig). Weitere Berechnungen ergeben: (iii) In Falle paralleler Lampenschaltung: Zeit halbiert (B falsch).",
-  "antwortoption": "D"
-}

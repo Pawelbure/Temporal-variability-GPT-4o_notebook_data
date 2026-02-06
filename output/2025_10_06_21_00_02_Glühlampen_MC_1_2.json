@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Die Batterien sind identisch und liefern eine konstante Spannung sowie Kapazität, der Widerstand der Glühlampen bleibt unverändert, Vergleichserwärmungseffekte sind vernachlässigbar, und der Energiefluss ergibt sich rein aus der klassischen Elektronik. Konzepte: Die Leistung betrachtet sich mit P = U²/R für konstante Spannung U über einem Widerstand R. Die Zetrlaufladung ergibt sich aus Energieabgabe geteilt durch Leistungsabgabe. Szenarien: (A) Glühlampen in Serie, bedeutet doppelte Batteriespannung, vierfache Leistungabgabe bei verdoppeltem Widerstand durch Serienschaltung. Betriebszeit ergibt t/4 der Einzelbatteriedauer. Ergebnis: Günstig. (B) Batterien und Lampen parallel resultieren in Reserveextendenz um den 2xLichtweg.",
-  "antwortoption": "A"
-}

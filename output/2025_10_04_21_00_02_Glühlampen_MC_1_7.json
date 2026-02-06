@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Jede Batterie besitzt eine konstante Energie-Einspeisung pro Zeitspanne. Jede Lampe zeigt bei gegebener Spannung einen konstanten Energiebedarf. Physikalische Konzepte: Batterieleistung, P=V^2/R bei Geräten und Gesetz der Leistungserhaltung (Joule). Analyse der Konfigurationen: (A) Serie: Spannung verdoppelt, Leistung pro Lampe vervierfacht, Entladesumme t/4.(B) Serie/parallel: Doppelte Spannung, Energie ungleich verteilt auf zwei, Halbzeit.(C) Parallel/s umgekehrt.(D) beide parallel: Keine Änderung gesamtes Diagramm",
-  "antwortoption": "B, D"
-}

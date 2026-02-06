@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebene Fragestellung zu beantworten, gehen wir von den folgenden idealisierten Annahmen aus:\n\n- Die interne Widerstand der Batterien wird vernachlässigt.\n- Die Glühlampen haben konstanten Widerstand, und ihre Helligkeit sowie die daraus resultierende Stromaufnahme hängen nur von der angelegten Spannung ab.\n- Die Batterien liefern für den Anfangszustand ihre Nennspannung und haben eine konstante Energiekapazität Q, die die Menge der gespeicherten Ladung darstellt.\n\nNun analysieren wir die spezifischen Schaltungsfälle:\n\n**A) Batterien und Lampen in Serie:**\n- Die Gesamtspannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich ebenfalls.\n- Der Strom halbiert sich im Vergleich zu einer Einzelbatterie, aber jede Batterie liefert Strom über beide Batterien sequentiell.\n- Jede Lampe erhält t Stunden Energie.\n\n**B, C, D:** Gleiche Betrachtungen führen zu ... Schlussfolgerungen.",
-  "antwortoption": "A"
-}

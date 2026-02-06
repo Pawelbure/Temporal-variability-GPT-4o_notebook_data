@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier Szenarien im Hinblick auf die Ladungsversorgung und den Stromverbrauch: Annahme dabei ist, dass jede Batterie eine bestimmte Ladungsmenge Q speichern kann, und die Lampe einen konstanten Strom I benötigt. \n\n1. Szenario A: Batterien und Lampen in Serie\n- In Serie addiert sich die Spannung der Batterien, und der Gesamtstrom durch die Lampen bleibt gleich dem durch eine einzige Lampe. \n- Die Stromaufnahme durch die Lampe(n) erhöht sich nicht, da der Widerstand proportional zur Lampenanzahl steigt. Die Batterien entladen in kvadratisch weniger Zeit (wegen P~U^2).\n\n2. Szenario B: Batterien in Serie, Lampen parallel\n- In Parallelkonfiguration bleibt die Spannung pro Lampe die . Das System fiebre intelligent.\n\n3 uns 4 analog neuentwickel.\n\nFazit, Option D PUREt.",
-  "antwortoption": "D"
-}

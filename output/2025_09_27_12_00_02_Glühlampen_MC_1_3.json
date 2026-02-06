@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Annahmen beinhalten Idealbedingungen: keine interne Batterieimpedanz, konstanter Lampenwiderstand und Batterieladungsretention. In den Szenarien ändern sich die Schaltungsparameter, was Batteriestrom und Betriebsdauer beeinflusst. \\n1. Serie: Gesamtwiderstand der Lampen entspricht der zweifachen Einzelwiderstände, und die Spannung summiert sich. Der Strom wird halbiert. \\n2. Parallelschaltung: Spannung bleibt gleich, Gesamtstrom verdoppelt sich. \\nDurch korrekte Anpassung der Leistungsteiler wird bestimmt, wie lange die Batterien im jeweiligen Modus die Lampen betreiben können.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die angegebene Aufgabe zu analysieren, sind folgende Annahmen und physikalische Konzepte relevant:\\n\\n1. Jede Batterie hat eine gewisse Energiemenge verfügbar, die unabhängig von der entnommenen Stromstärke konstant ist.\\n2. Die Glühlampen besitzen einen konstanten Widerstand, unabhängig von der angelegten Spannung und der Stromstärke.\\n3. Der Strom teilt sich bei Parallelschaltungen von Verbrauchern gleichmäßig, während sich bei Reihen- oder Serienschaltungen der gleiche Strom durch alle Elemente bewegt.\\n\\nDie Zeit, die die Batterie eine Lampe zum Leuchten bringen kann, ist direkt proportional zur verfügbaren Energie der Batterie und der Leistung der Lampe, gegeben durch: \\\"P = U²/R\\\", wobei \\\"U\\\" die angelegte Spannung und \\\"R\\\" der Widerstand der Lampe ist.\\n\\nIch werde nun für die verschiedenen Schaltungsvarianten die Betriebszeiten analysieren:",
-  "antwortoption": "B"
-}

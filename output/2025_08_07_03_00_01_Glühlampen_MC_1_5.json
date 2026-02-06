@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: 1. Jede Batterie hat eine konstante Spannung V und speichert eine Gesamtladung Q. Die Lampe verbraucht eine konstante Leistung W. 2. Die Widerstände der Lampen R bleiben konstant.\\nPhysikalische Grundlagen: Der Energieverbrauch P=V^2/R; Die Kapazität der Batterie liefert bei konst. P eine Zeit Q/I, wobei I durch die Verschaltung beeinflusst wird. Lösung:\\nA) Fließt bei Serienschaltung der Batterien und Lampen der doppelte Strom, entladen sie in 1/4 der Zeit. Falsch.\\nB) Die Spannung verdoppelt sich, aber Energie verteil sich auf zwei Lampen. Zeit bleibt t. Falsch.\\nC) Parallelschaltung der Batterien verdoppelt Kapazität, Halbierung des Stroms, daher Zeit 2t. Korrekt.\\nD) Parallelschaltung sowohl der Batterien als auch Lampen bleibt Strom pro Lampe konstant. Zeit bleibt t. Korrekt.",
-  "antwortoption": "C, D"
-}

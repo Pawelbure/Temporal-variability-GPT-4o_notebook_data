@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die gegebenen Szenarien zur Verwendung von zwei Batterien mit Kapazität und Spannung sowie zwei identischen Glühlampen mit konstantem Widerstand, unter Berücksichtigung von Schaltungsarten (Serie/Parallel). \n\nAnnahme: Die Kapazität und Spannung der Batterien sowie der Widerstand der Glühlampen sind konstant.*\n*- Serie-Schaltung (Serienbatterien und Serienglühbirnen): Effektive Spannung verdoppelt sich, der Strom wird halbiert (Rges = 2R), Entladezeit der Batterien reduziert sich auf t/4.*\n-B) Batterien in Serie, Lampen parallel: Die Spannung über jede Lampe bleibt gleich, mit doppelter Kapazität => Batterien liefern doppelte Kapazität zur Halbierung\\Entladezeit ~t/2 erklärbar.*\n*- C und D vergleichen. D doppelte Kapazität => Entladung jedoch immer durch parallele Anordnung taucht~ exponentphabet Lösungen robust bleiben daher B.*",
-  "antwortoption": "B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen Eigenschaften von Batterien und Glühlampen in verschiedenen Schaltungsarrangements unter der Annahme, dass die Glühlampen einen konstanten Widerstand besitzen und die Batterien ideal arbeiten (keine Innenwiderstände). 1. Eine einzelne Batterie kann eine Glühlampe für die Zeit t betreiben. Die Energie der Batterie ist proportional zur Spannung U der Batterie und deren Ladungskapazität Q: E = Q * U. 2. Für Batterien in Serie addieren sich die Spannungen, während für Batterien parallel die Gesamtkapazität Q steigt. 3. Die Leistung einer Glühlampe wird durch die Formel P = U^2 / R bestimmt. 4. Die für einen festen Widerstand R benötigte Energie über eine gegebene Zeit t ist proportional zu P * t.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe betrifft Batterien und Lampen in verschiedenen Schaltungen. Wir untersuchen jede durch eine Kombination von Theorie und den idealisierten Annahmen: Konstantspannung der Batterien, linearer Widerstand der Lampen und identische Komponenten. In Serie verdoppeln die Batterien die Spannung, und dies quadratisch steigert die Verlustleistung durch die Lampen, also konsumiere Kapazität schneller, während parallele Batterien den Strom teilen und Ladung länger bieten. Bezüglich der Ergebnisse: A betrifft Batteriespannung- und Widerstandsserienkombination, korrekt. B kombiniert Spannungsaddition der Batterien mit paralleler Last: Verbrauch dieselbe Einzelzeitverschwendung halbe Lampen. C ist mit Widerstandserhöhung falsch, und Abschließende Parallelsignifikanz D korrekt bleibt t trotz vergrößertem Anteil.",
-  "antwortoption": "A, D"
-}

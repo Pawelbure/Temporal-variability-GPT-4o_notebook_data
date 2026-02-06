@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Glühlampen und Batterien sind identisch und zeigen ideales Verhalten. Die Energie wird gespeichert und verbraucht gemäß P = U² / R und der Batterieenergie. Berechnen wir die Energienutzung und deren Effekte für jede Konstellation: \n- **Option A**: Serieschaltung von Batterien und Lampen: Die Gesamtspeisespannung verdoppelt, der Lastwiderstand vervierfacht (Gesamtdauer = t/4).\n- **Option B**: Batterien in Serie, Lampen parallel: Spannung verdoppelt sich, Widerstand der Lampen halbiert: Verbrauch erhöht (Gesamtdauer t/2).\n- **Option C**: Batterien parallel, Lampen seriell: Spannung unverändert; Lampenwiderstand verdoppelt. Energieverbrauch reduziert (Gesamtdauer = 2t).\n- **Option D**: Batterien und Lampen beide parallel: Stromverteilung erzeugt unveränderte Dauer: Energieablauf pro Batterie unverändert (Dauer = t).\nDie Ergebnisse zeigen, dass A, B, C, D korrekt sind.",
-  "antwortoption": "A, B, C, D"
-}

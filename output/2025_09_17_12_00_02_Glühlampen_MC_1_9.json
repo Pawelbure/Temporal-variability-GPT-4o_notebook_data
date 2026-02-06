@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Im Folgenden werden die Schaltungen analysiert: Bei der Reihenschaltung der Batterien verdoppelt sich die Spannung, aber die Gesamtkapazität bleibt gleich, wohingegen bei paralleler Verbindung die Kapazität sich verdoppelt, die Spannung aber konstant bleibt. Ebenso beeinflusst die Anordnung der Glühlampen den Widerstand in den Schaltungen. A) Bei Reihenschaltung der Batterien und Glühlampen verdoppelt sich Strombedarf, weshalb die Betriebszeit auf ein Viertel sinkt (t/4). B) Bei Reihenschaltung der Batterien und parallel geschalteten Lampen bleibt der Bedarf konstant, halbiert aber die Betriebszeit auf (t/2). C) Bei Parallelschaltung der Batterien und Reihenschaltung der Lampen bleibt der Strombedarf gleich, die Betriebszeit verdoppelt sich auf 2t. D) Bei Parallelschaltung von Beidem wird die Zeit identisch bleiben mit t.",
-  "antwortoption": "C"
-}

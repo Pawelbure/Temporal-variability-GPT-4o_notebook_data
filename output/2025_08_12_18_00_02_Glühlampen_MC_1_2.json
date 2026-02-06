@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, betrachten wir folgende Annahmen und Konzepte:\\n 1. Jede Batterie liefert eine konstante elektrische Energie zu der angeschlossenen Schaltung, abhängig von der Kapazität der Batterie.\\n 2. Die Glühlampen haben einen konstanten Widerstand, und jede Batterie entleert sich unabhängig davon, wie sie beschaltet ist, über den Energieverbrauch der angeschlossenen Lampen.\\n 3. Der Stromfluss und die entladene Energie durch jede Batterie und Glühlampe hängen von der Schaltungsart (seriell oder parallel) ab.\\nAnforderungen an die Aussagen:\\nA) Batterien und Lampen in Serienbetrieb:\\n   Im Serienschaltung fließt der gleiche Strom durch beide Lampen, jedoch wird die doppelte Leistung erzeugt. Dies führt zu einer Laufzeitverlängerung durch höhere Leistung, entsprechend kürzerer Laufzeit bei gleichem Gesamtwiderstand (t/4 paßt nicht direkt).\\nB) Batterien und Lampen in Parallelbetrieb\\n ...",
-  "antwortoption": "D"
-}

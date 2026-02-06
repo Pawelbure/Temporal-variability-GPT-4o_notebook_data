@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen Gegebenheiten und wie sie durch die Schaltungsanordnung modifiziert werden. Eine Batterie hat eine feste Kapazität, dargestellt als gespeicherte Ladung, die bei einer bestimmten Spannung abgegeben werden kann. Die Glühlampe wird als Ohmscher Widerstand angenommen, der konstante Leistung P = V^2/R benötigt. Schalten wir die Batterien und Glühlampen wie beschrieben, so berechnen wir Strom, Leistung und Betriebsdauer aus den Relationen P=IV, Q=It, wobei Q für die gespeicherte Ladung steht. Nach allen Überlegungen ergibt sich, dass nur Aussage D zutrifft. Hier verwenden zwei parallele Batterien gleiche Ladungslieferung, während gleichzeitig zwei parallele Glühlampen dies gleichmäßig entgegennehmen, wodurch die Betriebszeit gleich t bleibt.",
-  "antwortoption": "D"
-}

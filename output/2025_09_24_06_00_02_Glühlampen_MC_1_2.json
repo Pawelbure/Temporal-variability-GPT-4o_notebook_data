@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, betrachten wir die durch die Batterien und Lampen gebildeten Schaltungen sowie deren Auswirkungen auf Spannung, Strom und Energieverbrauch. Wir treffen folgende Annahmen: 1) jede Batterie liefert eine konstante Spannung U und besitzt eine Kapazität C, die eine Energiemenge E = U*C zur Verfügung stellt; 2) jede Lampe hat einen konstanten Widerstand R, unabhängig von Spannung und Strom:\n\nA) Batterien in Serie (2U), Lampen in Serie (2R): Der Strom durch die Lampen ist I = 2U/(2R) = U/R, wie bei einer Lampe mit einer Batterie. Die Energie aufgebraucht ist doppelt so schnell, da die doppelte Spannung vorhanden ist, jedoch reicht die Energie nur für t Zeit, und nicht viertel der Zeit.\nB) Batterien in Serie (2U), Lampen parallel (je R): Spannung bleibt 2U, und gesamt Strom ist 2I Gleich auch kurz erlaubt Zeitm für jede Lampe obwohl.\nDaher ist D GULTIG.",
-  "antwortoption": "C, D"
-}

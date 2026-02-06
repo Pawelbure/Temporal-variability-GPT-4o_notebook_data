@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, treffen wir die folgenden Annahmen: Jede Batterie liefert eine konstante Spannung U und speichert eine Energie E. Der Widerstand jeder Glühlampe beträgt R und bleibt mit konstanter Leistung P unabhängig von der Spannungsempfindung. Unter diesen Annahmen: Wenn die Batterien in Reihe geschaltet werden, beträgt die resultierende Spannung 2U, was den Strom bei gleichem Widerstand verdoppelt und die Leistung um den Faktor 4 erhöht. Zur Lebensdauer in Reihen- oder Parallelschaltungen: Im Fall A (Serie Batterie + Lampe) reduziert die erhöhte Leistung die Betriebszeit auf t/4. Im Fall B (Serie Batterie, Parallel Lampe) verdoppelte sich die Leistung pro Lampe, die Gesamtzeit halbiert sich (t/2). Fall C (Batterie Parallel, Lampe in Serie) ist ineffektiv ohne Spannungsverstärkung. Fall D funktioniert wie beschrieben mit Verdoppelungskapazität und gleicher Lampe pro Batterie.",
-  "antwortoption": "A, B, D"
-}

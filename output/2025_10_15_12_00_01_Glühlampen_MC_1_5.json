@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Situation für jede Schaltungsart:1. **Annahmen und Grundlagen:**a. Widerstandserhöhungen der Lampen aufgrund von Erwärmung werden ignoriert.b. Die Kapazität der Batterien (Energieinhalt) sowie der Widerstand der Lampe (R) ist konstant.c. Die Glühlampen sind identisch. Sie leuchten mit Leistung P = U^2 / R. Dies reduziert die Zeitspanne, während der Strom fließt, bei erhöhter oder verringerter Spannung.2. **Analyse der Szenarien:**A) **Batterien und Lampen in Serie:** Die Betriebsspannung verdoppelt sich auf 2U, der Widerstand auf 2R, P = (2U)^2 / (2R) = 2P. Beide Lampen leuchten mit je 2P für (t/2)/2 = t/4.B) **Batterien in Serie, Lampen parallel:** Spannung = 2U. Gesamtstromverbrauch = 4U/R. Laufzeit = (1/4)t.C) **Batterien parallel, Lampen in Serie:** Unverändert.D) **Batterien und Lampen parallel:** Spannung und Kapazität verdoppelt.Time duration = 2t.",
-  "antwortoption": "D"
-}

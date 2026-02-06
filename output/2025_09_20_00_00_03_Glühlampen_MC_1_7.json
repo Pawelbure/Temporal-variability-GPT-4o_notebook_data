@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Situation detailliert und verwenden vereinfachende Annahmen:\n\n1. **Annahmen:** Jede Batterie hat die gleiche konstante Spannung V und Kapazität Q. Die Glühlampen haben einen konstanten Widerstand R. Der Energieverbrauch ergibt sich aus der Leistung P = V² / R.\n2. **Szenarien:**\n   1. **A: Batterien und Glühlampen in Serie**: Der Gesamtwiderstand verdoppelt sich, aber die Gesamttreibspannung auch. Der Strom bleibt gleich, sodass beide Lampen gleiche Leistung wie vorher konsumieren. Da dieselbe Ladung verwendet wird, ist die Leuchtdauer t.\n   2. **B: Batterien in Serie; Lampen parallel**: Gesamte Leistung verdoppelt sich, Energieverbrauch bleibt gleich wie in einem Parallelkreis (gemischt).\n   3. **C: Batterien parallel**: Energiekapazität der Quelle verdoppelt sich und die Leuchtdauer.\n   4. **D: Batterien parallel und Lampen parallel**: Zeit.",
-  "antwortoption": "D"
-}

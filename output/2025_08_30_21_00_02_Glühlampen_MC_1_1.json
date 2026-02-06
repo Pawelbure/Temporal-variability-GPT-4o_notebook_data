@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die elektrische Schaltung und die Energieausnutzung der Batterien für jede optionale Schaltungsart. Die Annahmen lauten: Jede Batterie hat eine feste elektrische Energie, und der Widerstand der Glühlampen bleibt konstant.1. Batterien in Serie und Glühlampen in Serie: Die Batteriespannungen addieren sich, sodass die Gesamtspannung verdoppelt wird. Der Gesamtwiderstand der Lampen verdoppelt sich jedoch auch (R_ser = 2R), wodurch sich die Stromstärke halbiert. Dies führt dazu, dass die Leistung des Systems viermal geringer ist. Die Energie wird somit zwölfmal schneller verbraucht.",
-  "antwortoption": "B, D"
-}

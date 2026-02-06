@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Voraussetzungen:\\n\\n- Die Batterien liefern eine konstante Spannung U bis zur vollständigen Entladung.\\n\\n- Die Lichtstärke und der Widerstand jeder Glühlampe bleibt konstant.\\n\\n- Der Energiegehalt jeder Batterie entspricht W = U * I(t) * t0, wobei t0 die Laufzeit ohne äußere externe Verbindungen bedeutet.\\n\\n\\n2. Analyse der Schaltungen:\\n\\nA) Schalten der Batterien und Lichter in Serie:\\n   Spannung der Lampen: U + U = 2U (Verdopplung). Es ergibt sich 1/(2*I), also die Laufzeit teilt sich durch vier.\\n\\nB) ....",
-  "antwortoption": "A, D"
-}

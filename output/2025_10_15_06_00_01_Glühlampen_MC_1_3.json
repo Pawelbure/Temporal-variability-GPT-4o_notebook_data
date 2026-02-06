@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebene Aufgabe zu lösen, analysieren wir jede der Konstellationen von Schaltungen einzeln, basierend auf den Grundgesetzen der Elektrotechnik:\n\nAnnahmen und relevante Konzepte:\n\n1. Die Gesamtenergie einer Batterie ist proportional zu ihrer Spannung und ihrer Kapazität (Q = U × C).\n\n2. Der Energieverbrauch einer Glühlampe ist proportional zum Produkt von Strom, Spannung und Zeit, wenn der Widerstand konstant ist (P = I × U).\n\nSchaltungsanalysen:\n\nA) Batterien und Glühlampen in Serie:\n   - Spannung am Lampensystem verdoppelt, Fluss doppelt.\n   - Leistung P ~ U²/R, -> Zeit t/4. Aussage korrekt.\nB) Batterien in Serie, Lampen parallel:\n   - Spannung gleich, Halbierte Ströme. -> Zeit t/2. Aussage korrekt.\nC) Batterien parallel, Lampen seriell:\n   - Spannung vermindert. Erliegt inkorrekte.\nD) Beides parallel: --> Zeit t. Korrekt.\n\nDas Setup bedienen ergibt…",
-  "antwortoption": "A, B, D"
-}

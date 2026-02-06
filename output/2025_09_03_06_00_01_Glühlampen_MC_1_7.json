@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst betrachten wir die als ideal angenommenen Batterien (mit gleicher Elektromotorischen Kraft E und Kapazität) und idealisierte Glühlampen mit konstantem Widerstand R. Die Energiekapazität der Batterie definiert sich durch W = E * Q, wobei Q die Ladungsmenge ist. In unterschiedlichen Schaltungen ändert sich sowohl die Gesamtspannung als auch die Stromverteilung, was die Entladungsgeschwindigkeit der Batterien beeinflusst. Im Fall A bewirkt die Seriereihe von zwei Lampen und Batterien eine Stromhalbierung, wodurch die Energie pro Batterie schneller verwendet wird und die Zeit t/4 beträgt. Im Fall B ist die Stromverteilung ungleichmäßig, sodass die Zeit t/2 erreicht wird. Im Fall C ergibt die Parallelschaltung der Batterien eine längere Entladung, was 2t entspricht. Schließlich liefert die parallele Gesamtstruktur im Fall D je eine Belastung pro Batterie für einfach ihre Speicherkapazität und ergibt Zeit t.",
-  "antwortoption": "D"
-}

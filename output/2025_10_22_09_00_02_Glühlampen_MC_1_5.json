@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Grundlagen:\n- Jede Batterie hat eine Spannung V und eine Kapazität (Energie) E. Kümmert eine Batterie allein eine Lampe, leuchtet diese mit konstanter Power P für eine Zeit t, wobei gilt: P = E/t.\n- Die Lampen sind durch einen konstanten Widerstand R gekennzeichnet.\n\n### Analyse der Schaltungen:\n**A) Batterien und Lampen in Serie:** \nSpannung über beide Lampen verdoppelt sich auf 2V. Strom durch Lampen halbiert sich auf I/2. Jede Lampe erhält noch (I/2)^2 * R = (V/R^2)/4 Leistung. Zeit verlängert sich 4-fach. Aussage falsch.\n**B) Batterien in Serie, Lampen parallel:** jede Lampe wie vorher P betrieben. Gesamtzeit E für 2 Lampen halbiert. korrekt!\n**C) Batterien parallel jeder Lampe origin Situation verlängert Zeit um Maße..\nD)",
-  "antwortoption": "A"
-}

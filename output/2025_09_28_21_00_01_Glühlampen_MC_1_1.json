@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die gegebenen Schaltungen, wobei wir annehmen, dass jede Batterie eine Spannung U und eine Kapazität C hat und jede Glühlampe einem Widerstand R entspricht. Die Lichtdauer ergibt sich aus der Energie, die den Glühlampen zugeführt wird, und der Energie, die die Batterien liefern können. Bei der seriellen Verbindung addieren sich die Spannungen der Batterien, während die Kapazität gleich bleibt. Die Parallelschaltung verdoppelt die Kapazität, während die Spannung konstant bleibt. Die Durchführungen und Energiebilanz ergeben: (A) Die Zeit ist proportional zu 25 % von t. (B) Die Zeit ist proportional zu 50 % von t. (C) Die Zeit ist proportional zu 200 % von t. (D) Die Zeit entspricht t.",
-  "antwortoption": "B, D"
-}

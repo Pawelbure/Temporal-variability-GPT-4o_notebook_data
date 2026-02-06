@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Konzepte zu analysieren, müssen wir die grundlegenden elektrischen Modelle verstehen: Batterien liefern Energie nach ihrer Kapazität (gespeichert in Ah), und Glühlampen verbrauchen Energie abhängig von der Stromstärke und Spannung. Hier sind die Annahmen: 1) Jede Batterie hat eine charakteristische Spannung U (z.B. 1,5V) und Kapazität Q (in Ah). 2) Die Glühlampen haben einen konstanten elektrischen Widerstand. 3) Das Kirchoff'sche Gesetz angewandt auf Serien- und Parallelschaltungen. Basierend darauf evaluierte ich die Szenarien, um die finalen Ergebnisse zu bestimmen.",
-  "antwortoption": "B, D"
-}

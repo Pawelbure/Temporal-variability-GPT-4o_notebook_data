@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, wird angenommen, dass jede Batterie die gleiche elektrische Leistung P liefern kann, bis sie leer ist, und dass der Widerstand R der Glühlampen konstant ist. Wenn die Batterien seriell oder parallel geschaltet werden, ändert sich die Spannung und Lebensdauer gemäß Schaltungsanordnung. Wir analysieren jede Option nach den Grundlagen der elektrischen Schaltung:\n\nA) Batterien in Serie erhöhen die Spannung. Bei ebenfalls in Serie geschalteten Lampen teilt sich die Spannung gleichmäßig, und der Strom wird halbiert. Da der Strom halbiert und die Zeit durch doppelten Energieverbrauch reduziert wird, ist t/2 möglich.\n\nB) Analog zur Berechnung erklärt dies keine vollständige Betriebszeit T.\n\nC) Bei parallel geschalteten Batterien und in Serie geschalteten Lampen ändert sich die Energieeffizienz vollständig.\n\nD) Parallel dolle Lampen...",
-  "antwortoption": "D"
-}

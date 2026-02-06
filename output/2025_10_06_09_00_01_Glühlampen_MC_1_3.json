@@ -1,5 +1,0 @@
-{
-  "loesungsweg": "**Relevante Annahmen und Konzepte:**\n\n1. Die Batterie liefert eine feste elektrische Energie während ihrer Lebensdauer, unabhängig von der Entladungsrate.\n2. Die Glühlampe hat einen konstanten elektrischen Widerstand, wodurch die elektrische Leistung (P = U²/R) bestimmt wird.\n\n**Analyse der Szenarien:**\n\n- Um die Betriebszeit zu bestimmen, betrachten wir die Energie, die durch die Lampe verbraucht wird, im Vergleich zur gespeicherten Energie in den Batterien.\n\n**A) Batterien und Lampen in Serie:**\n- Die Spannung verdoppelt sich gegenüber einer Batterie, der Strom halbiert sich (da R verdoppelt wird). Die Energieabgabe bleibt gleich, halbe Leistung und eine doppelte Zeit ergeben t.\n- Flasche Anwendung der Erhaltung der Energie. Korrektur ergibt Antwort ungültig.\n\n**B) Batterien in Serie, Lampen parallel:**\n- Die Gesamtenergie reduziert sich und es fließt doppelte Leistung beide führen zu halber Partion Zeit relevante Stromrechnung. dies ergibt dies ungülting...",
-  ",": " weil... zzgl Erklärung... Antwort einfach anders erneut anschauen serienhafter statt Parallelserienschaltung...]...",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Gegebene Parameter\n1. Die Spannung jeder Batterie beträgt U (z. B., 1.5 V) und bleibt während der gesamten Betriebseinheit konstant, bis sie leer ist.\n2. Jede Glühlampe hat einen Widerstand R.\n3. Die Batterieleistung wird vollständig in die Glühlampen umgewandelt, Wärmeeinträge werden ignoriert.\n\n### Analysen\n#### Option A: Serienverbindung von Batterien und Glühlampen\n- Batterien in Serie: Spannung wird verdoppelt (2U).\n- Glühlampen in Serie: Der Gesamtwiderstand wird verdoppelt (2R).\n- U_{gesamt}= 2U / 2R = U/R; Strom bleibt gleich wie bei einer Batterie.\n=> Zeit halbiert sich nicht.- zusätzlich halbiert sich.\n#### Option B: Batterien in Serie und Glühlampen parallel.\n#### .ność BATCH",
-  "antwortoption": "A"
-}

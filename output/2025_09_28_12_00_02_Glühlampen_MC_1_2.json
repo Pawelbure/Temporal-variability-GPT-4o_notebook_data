@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Schaltungen:\n\n1. Für die Batteriespannung und deren Anschluss:\n   - Die in Serie geschalteten Batterien verdoppeln die Spannung,\n   - Parallele Batterieschaltungen behalten die Spannung einer Batterie bei, erhöhen jedoch die Kapazität der Batterie.\n\n2. Für die Glühlampen:\n   - Lampen in Serie teilen sich die gemeinsame Spannung,\n   - Lampen in Parallel behalten die gleiche Spannung der Batterie bei.\n\n**Option A**: Serienbetrieb von Batterien und Lampen:\n   - Verdoppelter Stromfluss und höhere Performance, Zeit ändert sich, jedoch t/4, falsche Aussage.\n**Option B**: Serienbetrieb von Batterien mit parallelen Lampen:\n   - Zeit der Lampenbetrieb t/2 eine Option.\nOptio vseh voene",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Situation zu analysieren, müssen wir einige Idealisierungen berücksichtigen: Die Batterien liefern eine konstante Spannung, bis sie erschöpft sind, und der Widerstand der Glühlampen bleibt konstant. Außerdem betrachten wir die Unterschiede in den Schaltungen, die den Strom- und Leistungsfluss und damit die Laufzeit der Batterien beeinflussen: *A* beschreibt eine Serienverbindung von Batterien und Glühlampen, die den Strom gegenüber der Einzelfallverdopplung halbiert, wodurch die Nutzungszeit für beide Lampen manifestiert; die Dauer beträgt t/4, da die Leistung pro Lampe sich viertelt. *B* haben parallele Lampen mit linear reduzierter Glühzeit verbunden; die Laufzeit halbiert sich auf t/2.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, nehme ich folgende Annahmen vor: 1) Der Innenwiderstand der Batterien ist vernachlässigbar. 2) Jede Batterie hat eine konstante Ausgangsspannung bis zur vollständigen Entladung, mit einer Energie E. 3) Der Widerstand der Glühlampen, RL, bleibt unverändert unabhängig von der angelegten Spannung. Unter diesen Annahmen ist die betrachtete Energie wie folgt verteilt: Für beide Batterien in Serie (gesamte Spannung verdoppelt sich auf 2V): I = 2V / RL, P = I² * RL (Leistungsaufnahme einer Glühlampe). Zeit = E / P = RL * E / (4 RL²) = t / 4. Für beide Batterien parallel (Spannung bleibt konstant, Stromsumme verdoppelt sich): Energie verdoppelt sich und verteilt sich mit gleicher Leistungsaufnahme PB. Daher beträgt die Zeit für die Parallelschaltung 2 E / P = 2t.",
-  "antwortoption": "A, D"
-}

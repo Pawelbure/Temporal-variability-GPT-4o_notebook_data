@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier Situationen jeweils einzeln. Wir nehmen an, dass die Batterie eine konstante Spannung V_b liefert und dass der elektrische Strom von einer Batterie zur Lampe während der Entladung konstant ist: \n\n**Situation A:** Batterien und Glühlampen in Serie. Der Gesamtwiderstand erhöht sich (R_g = 4R, wenn Lampe Widerstand R hat), was den Strom reduziert. Die Betriebsspannung von 2 Batterien übernimmt eine einzelne, die Entladung erfolgt langsamer. Pro Batterie wird Energie halbiert, die Zeit daher etwa t/4.\n\n**Situation B:** Wenn Batterien in Serie und Lampen einzeln ihrer Batterie parallel betrieben: jeder Lampe langlebiger – hier Fehler.\n\n**Situation C:** Batterien parallel, Lampen Serie Gegenteil jedoch Laufzeitverdoppelt (2t zur Addition der Energie Parallelbetrieb über ab Nachtlange Ladungsfließmaß).",
-  "antwortoption": "C"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren jede der gegebenen Möglichkeiten unter Berücksichtigung der Strom- und Spannungsverhältnisse. Angenommen, die Kapazität jeder Batterie ist Q und die Spannung ist U. Bei Konstanthaltung des Widerstands jeder Glühlampe R gilt: Der Stromfluss durch eine Lampe ist I = U/R. \nFür die verschiedene Schaltungskonfigurationen betrachten wir: \n1. Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich (2U), und der Widerstand bei zwei Lampen ebenfalls (2R). Der Strom wird daher I = 2U/(2R) = U/R unberührt. Dies führt jedoch aufgrund der Leistung P=U*I und der Energieproportionalität nicht zur zwanzig Vervierfachung der konstanten Leuchtdauer t/4. Daher A ist inkorrekt. \n2. BAT in Serie, GL parallel: je Lampe erhält U/R Strom, mann vergeneröret die doppelte Q sourced. Das deckt zu halber Zeit. Somit B korrekt. \\ \n2+2:",
-  "antwortoption": "B"
-}

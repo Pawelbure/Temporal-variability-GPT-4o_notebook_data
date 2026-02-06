@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu analysieren, gehen wir von idealisierten Bedingungen aus: Batterien und Glühlampen haben keine Widerstandsänderungen, die Batterien liefern eine konstante Spannung und Stromversorgung, und es treten keine Energieverluste auf. Die Reihen- und Parallelschaltungen verändern die Spannung und den Stromfluss in einem Stromkreis unterschiedlich: Eine Serienschaltung der Batterien ergibt eine Verdoppelung der Spannung bei gleichem Strom, wobei eine Parallelschaltung den Strom verdoppelt und die Spannung konstant hält. Entsprechend führen diese Änderungen bei Reihen- oder Parallelschaltung der Glühlampen zu unterschiedlichen Verbräuchen beim Betrieb, was den Betrieb für jeweils unterschiedliche Zeitdauern beeinflusst.",
-  "antwortoption": "B, D"
-}

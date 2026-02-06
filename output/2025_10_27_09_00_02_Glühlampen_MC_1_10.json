@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Geehrte Anfrage, um die Problemstellung zu lösen, betrachte ich die effektiven Ströme, Spannungen und Energieabgaben der Batterien in den verschiedenen Schaltungsarten wie folgt: Ich nehme an, dass in allen Szenarien idealisierte Elemente ohne Verluste vorliegen. Jeweils eine Batterie hat Energie E und Spannung U, eine Lampe hat Widerstand R.\\n\\n1. **Fälle analysieren:**\\n- **Serie (Batterien und Lampen):**\\n  * Spannung = 2U, Widerstand = 2R. Strom = U/(2R), Energieverbrauch = Strom² × Widerstand = (U/(2R))² × 2R = U²/R. Zeiteinsatz: E/(U²/R) = t/4.\\n- **Serie Batterien, Parallel Lampen:**\\n  * Spannung = 2U, Widerstände je Lampe = R (parallel R_eff = R/2), Gleichstrom = 2U/(R/2) = 4U/R, Energieverbrauch = 4U²/R pro Batterie, Zeit = E/U × (R/4) = t/2.",
-  "antwortoption": "A, B"
-}

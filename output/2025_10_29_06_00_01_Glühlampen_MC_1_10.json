@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir alle Szenarien nacheinander und berechnen die erwartete Leuchtdauer: 1) **Annahmen**: Die Batteriespannung beträgt V und die Kapazität jeder Batterie in Bezug auf die Leistungsabgabe ist konstant begrenzt (bis t, falls eine Batterie alleine arbeitet). Der Widerstand jeder Lampe wird als konstant betrachtet. 2) **Szenarienanalyse**: a) Bei in Serie geschalteten Batterien addieren sich die Spannungen der Batterien zu 2V; der maximale Strom bleibt durch die Kapazität jeder Batterie auf denselben Zeitwert limitiert, unabhängig von der Spannung. Wird der Widerstand der Lämpchen in Serie geschaltet, verdoppelt sich der gesamte Widerstand (2R), und bei höherer Spannung ergibt sich dieselbe Stromstärke wie original, wodurch die Lampe t leuchten sollte. Parallel geschaltet ergibt höhere Leistung pro Lampe als in Serie bei vergleichsweise kürzerer Betriebszeit.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Batterien haben eine konstante Kapazität und Spannung; Glühlampen haben konstante Widerstände.2. Betrachtung der verschiedenen Szenarien:- Fall A: Batterien und Lampen in Serie. Spannungsdoppelung durch Serienbatterien, doppelter Widerstand, daher konstanter Strom, Zeit t bleibt gleich.- Fall B: Batterien in Serie, Lampen parallel. Gleiche Spannung pro Lampe wie bei einzelner Batterie. Zeit ändert sich zu t/2, da doppelte Last.- Fall C: Batterien parallel, Lampen in Serie. Stromhalbierung pro Batterie, Energie verdoppelt. Zeitverdopplung zu 2t.- Fall D: Batterien parallel, Lampen parallel. Keine Änderung zur Einzellampe, Zeit t bleibt.",
-  "antwortoption": "C"
-}

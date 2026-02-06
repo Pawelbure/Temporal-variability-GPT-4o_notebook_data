@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zur Lösung analysieren wir die verschiedenen Konfigurationen:\n\n1. Batterien in Serie, Glühlampen in Serie: Der Gesamtspannungsanstieg durch die Batterien wird verdoppelt, wodurch sich der Strom durch die Lampe verdoppelt (bei konstantem Widerstand der Lampen). Da die Batterielebensdauer proportional zur gespeicherten Energie geteilt durch die Leistungsabnahme ist, aber nun eine doppelte Leistung vorliegt, halbiert sich die Lebensdauer. Im Serienschaltungsfall beträgt die Stromstärke pro Lampe jedoch die Hälfte des oben erwähnten Falls, da der Gesamtwiderstand verdoppelt wird. Daraus folgt eine Betriebszeit von t/2 * 2 = t/2. Hier scheint eine Überprüfung der ursprünglichen Antwortoption angebracht. [Optionale Korrektur der initialen Aussage nach Rücksprache gewünschtort Apart!].",
-  "antwortoption": "D"
-}

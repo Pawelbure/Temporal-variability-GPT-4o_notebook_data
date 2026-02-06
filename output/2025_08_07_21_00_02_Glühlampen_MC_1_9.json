@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten zunächst die Annahmen: Die Batterien haben gleiche Kapazität und Spannung, die Lampen weisen einen konstanten Widerstand und Strombedarf auf, und der Energieverbrauch der Lampen ist linear im Strom. Für Analysen der Serien- und Parallelschaltungen betrachten wir die Wirkung auf Ströme, Spannungen und Energie. Option A: Batterien und Lampen in Serie: Gesamtspannung verdoppelt, der gleiche Strom fließt durch beide; Energie entnimmt jede Batterie erschöpft, Zeit t/4 aufgrund des vierfachen Energieverbrauchs. Option B: Batterien in Serie, Lampen parallel: Gleichteilung der Spannung, Energie halbiert, Zeit t/2. Option C: Batterien parallel, Lampen in Serie: Gleiche Energiemenge wird bei doppelt längerer Zeit verteilt, daher 2t. Option D: Batterien und Lampen parallel: Beide Systeme individuell belastet, daher Zeit t. Die korrekten Optionen ergeben sich daraus.",
-  "antwortoption": "A, B, C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Hauptannahmen hier sind eine konstante Spannung von Batterien bis zu deren Entleerung, konstante Widerstände der Glühlampen und kein Energieverlust im Schaltungssystem. Daher nutzen wir Ohmsches Gesetz und die Energiebilanz zur Analyse: (1) Wenn Batterien und Lampen in Serie geschaltet werden, verdoppelt sich die Spannung, was bei konstantem Widerstand zu doppeltem Strom und entsprechend zu einer erheblich verkürzten Zeit, ungefähr t/4, führt. (2) Bei einer Parallelschaltung der Lampen mit seriellen Batterien bleibt die Spannung pro Lampe konstant, die Lebensdauer der Batterien wird nur durch den gemeinsamen Stromverbrauch verkürzt, wodurch eine Betriebdauer t/2 resultiert. (3) Parallele Batterien mit seriellen Lampen halbieren den Strom, wodurch 2t realisiert werden. (4) Parallele Kombinationen von Batterien und Lampen teilen die Spannung und den Strom unverändert, was effektiv t ergibt.",
-  "antwortoption": "A, B, C, D"
-}

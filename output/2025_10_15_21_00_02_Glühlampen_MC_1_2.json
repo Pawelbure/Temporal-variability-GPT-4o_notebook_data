@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebene Aufgabe zu analysieren, werde ich von folgenden Annahmen ausgehen: Die Batterien haben jeweils die gleiche Spannung und Kapazität, die Glühlampen einen konstanten Widerstand. Ich berechne die effektive Spannung und Ströme bei den unterschiedlichen Schaltungen sowie die resultierende Entladezeit der Batterien, durch Berücksichtigung von Energieabgabe bzw. Stromfluss. Nach Durchsicht ergibt sich folgender Zusammenhang: A ist falsch, da die Zeit nicht t/4 beträgt, sondern je nach exakten Widerstandswerten teils länger. B ist korrekt, da Batterien in Serie die Zeit halbieren. C ist falsch, da Batterien paralleler Leitung nicht die doppelte Zeit benötigen. D ist ebenfalls falsch, denn die Zeit bleibt bei Parallelleitungen gleich. Daher Option B.",
-  "antwortoption": "B"
-}

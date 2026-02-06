@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lass uns die Aufgabenstellung analysieren und die physikalischen Prinzipien anwenden: 1. Wir nehmen an, dass jede Batterie eine feste Energie E bereitstellt und die Spannung U konstant bleibt, bis die Batterie entladen ist. 2. Eine Lampe hat einen konstanten Widerstand R. Wenn die Spannung an der Lampe U beträgt, fließt ein Strom I=U/R durch sie, und die Leistung P=U*I=U²/R gibt den Energieverbrauch über die Zeit an. Jetzt analysieren wir die vier Szenarien: A) Batteriespannung verdoppelt, Glühlampenwiderstand vervierfacht; dann vierfache Leistung und 1/4 Zeit: Richtig. B) Batteriespannung verdoppelt, Glühlampen nebengeordnet; Leistung bleibt gleich, aber Ladung verbaucht schneller: Zeit bleibt, nicht halbiert: Falsch. C) Batterien parallel, Spannung bleibt, schnelle entladene Batterie: Zeit halbiert, nicht verdoppelt: Falsch. D) Batterien parallel, Lampen parallel, Spannung gleich: Zeit verdoppelt: Richtig.",
-  "antwortoption": "A, D"
-}

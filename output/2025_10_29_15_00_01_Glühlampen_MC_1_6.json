@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die vier gegebenen Szenarien. Es wird angenommen, dass die Kapazität einer Batterie gleich bleibt und der elektrische Widerstand der Glühlampen identisch ist. Jede Batterie liefert eine konstante Spannung V und eine Energie E (abhängig von Kapazität und Spannung).*Szenario A:* In Serie resultiert die doppelte Spannung, der Strom in der Schaltung verdoppelt sich. Aber beide Glühlampen halbieren den Widerstand, das ergibt eine Viertelzeit.*Szenario B:* Gleiche doppelte Spannung, Ströme in Lampen sind identisch reflektiert halbe Batteriezeit.*Szenario C:* Parallelisiert enthalten beide Batterien gleiche Spannung so summieren sie Kapazität, was doppelte Zeit liefert durch Serienschaltung.*D:* Parallelle Schaltungen mit batterien behl den normalartig.",
-  "antwortoption": "B, C"
-}

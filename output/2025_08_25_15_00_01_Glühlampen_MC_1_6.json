@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst nehmen wir an, dass jede Batterie eine konstante Spannung U liefert und die Glühlampe einen konstanten Widerstand R besitzt. Beim Zusammenschalten von Batterien und Widerständen ergeben sich folgende aktuelle Verhaltensweisen:\n\n**A) Batterien in Serie, Glühlampen in Serie:** Die Gesamtspannung verdoppelt sich durch Serienanordnung der Batterien auf 2U, während die Gesamtheit der Widerstände sich verdoppelt zu 2R. Der Strom durch die Schaltung bleibt somit wie bei einem einzelnen Batterie-Lampen-Paar, I = U/R. Da der Energieinhalt pro Batterie gleich bleibt und der Strom durch sie unverändert ist, leuchtet die Glühlampe wie zuvor eine Zeit t.\n- Aussage A ist falsch.\n\n**B) Batterien in Serie, Glühlampen parallel:** Erhöht sich die Spannung durch seriell geschaltet Batterien, wirkt jedoch jede Schaltung von Glühlampen auch parallele Verifikationen.",
-  "antwortoption": "A"
-}

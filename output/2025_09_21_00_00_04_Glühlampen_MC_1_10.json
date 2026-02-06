@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Spannung einer Batterie ist konstant und trägt den Wert U. Der Widerstand der Glühlampe sei konstant und werde mit R bezeichnet. Jede Batterie liefert während ihrer gesamten Lebensdauer eine konstante elektrische Leistung, und die Batterien sind identisch.\n\n1. Jede Glühlampe hat eine konstante Leistung: \\( P = \\frac{U^2}{R} \\).\n2. Beim Betrieb:\n   - a) Batterien und Glühlampen in Serie (Option A): Der gesamte Widerstand verdoppelt sich, die Gesamtheit verbraucht die doppelte Energie.\n   - b) Batterien in Serie und Glühlampen parallel (Option B): Die Betriebsdauer halbiert sich aufgrund der Verdoppelung des Stroms.\n   - c) Batterien parallel und Glühlampen in Serie (Option C): Die Glühlampen können mit halbem Strom doppelt so lange betrieben werden.\n   - d) Batterien und Glühlampen parallel (Option D): Die Betriebsdauer bleibt konstant bei t.\n",
-  "antwortoption": "C"
-}

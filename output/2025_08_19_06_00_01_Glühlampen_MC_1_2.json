@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zuerst identifizieren wir die ideale Situation: Die Spannung jeder Batterie ist konstant, die Kapazität wird als Energie angegeben, die sie liefert, bis sie leer ist, und jede Glühlampe hat einen festen Widerstand. Die Energie jeder Batterie wird durch E = t * (I^2 * R) bestimmt. Für jede Konfiguration berechnen wir den Gesamtstrom und die Energienutzung. In Serie erzeugen die Batterien die doppelte Spannung, während der Strom durch jede Lampe gemeinsam bleibt. Parallel verdoppelt sich die Kapazität, wobei die Spannung identisch bleibt. Nach Durchführung der Analysen für die vier Schaltoptionen kommt C) zu dem korrekten Ergebnis: 2t.",
-  "antwortoption": "C"
-}

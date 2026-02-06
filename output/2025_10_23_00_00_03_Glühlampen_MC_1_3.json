@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, nehmen wir einige Vereinfachungen an:1. Jede Batterie hat die Kapazität von \\(Q\\) Coulomb mit einer Spannung von \\(V\\) Volt.2. Der Widerstand jeder Glühlampe bleibt konstant bei \\(R_L\\).3. Der Energieverbrauch der Glühlampen ist auch konstant. Unter diesen Voraussetzungen analysieren wir die vier Fälle auf Basis der elektrischen Schaltung und der Aufteilung von Strom und Spannung. \\(t = \\frac{Q}{I}\\), d. h. Zeit ist abhängig von der Stromstärke, die durch die Glühlampe fließt, und der verfügbaren Ladungsmenge. \n \n **Für den Fall A)** Batterien in Serie: Gesamtspannung \\(2V\\). Glühlampen in Serie: Gesamtwiderstand \\(2R_L\\). Strom \\(I = \\frac{U}{R}\\), also hälfte des Einzelwerts: Verbrauch 2x also dauer \\(\\frac{t}{4}\\).\n \nÄhnlich sind andere Fälle angegangen.\nNur",
-  "antwortoption": "B"
-}

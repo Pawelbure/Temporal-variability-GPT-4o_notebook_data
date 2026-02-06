@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten eine elektrische Schaltung, die aus zwei Batterien und zwei Glühlampen besteht. Jede Batterie liefert eine Spannung U und eine Energie, unabhängig vom Strom und der Schaltung, die proportional zu ihrer Kapazität ist. Jede Glühlampe hat einen konstanten Widerstand R, und die Leuchtdauer t ist proportional zur Energie, die der Batterie entnommen wird. Wir analysieren die Szenarien: Wenn Batterien in Serie geschaltet sind, summieren sich deren Spannungen, die Kapazität bleibt jedoch gleich. Wenn Batterien parallel geschaltet sind, bleibt die Spannung gleich, aber die Kapazität verdoppelt sich. Für Glühlampen in Serie ist der effektive Widerstand 2R, in Parallel 0,5R. Unter Verwendung des Ohmschen Gesetzes und der Leistungsformel leiten wir für jede Konfiguration die Betriebsdauer für die beiden Glühlampen ab. Die korrekten Antworten sind B und D.",
-  "antwortoption": "B, D"
-}

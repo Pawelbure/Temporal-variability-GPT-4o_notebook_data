@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu analysieren, nehmen wir an, dass die Spannung der einzelnen Batterie konstant bleibt, bis sie leer ist, und dass die Batterien unabhängig voneinander wirken, wenn sie parallel geschaltet sind. Der Stromverbrauch der Glühlampen erfolgt entsprechend ihrer Betriebsart. Die Zeitdauer, bis die Batterien entladen sind, hängt von der Stromstärke ab.\n\n1. Fall A: Batterien und Glühlampen in Serie: Hier erhöht sich die Gesamtspannung, während der Gesamtstrom reduziert wird. Die Belastung der Batterien verdoppelt sich nicht, daher wird die Betriebzeit etwa gleich T/2 sein.\n\n2. Fall B: Batterien in Serie, Glühlampen parallel: Die Gesamtspannung erhöht sich, und die Batterien entlade sich in halben Ihrer Kapazität.\n\nSomit analysiert sich Alle Optionen korrekt sind.",
-  "antwortoption": "A, B"
-}

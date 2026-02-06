@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst analysieren wir die verschiedenen Szenarien im Problem. 1. Im Fall von zwei Batterien in Serie beträgt die Gesamtspannung 2V (wenn die Spannung einer einzelnen Batterie V beträgt). Bei Glühlampen in Serie beträgt deren Gesamtwiderstand 2R (wenn der Einzelwiderstand R ist). Der Strom ist I=V/R, und die Batterie entlädt sich schneller, wodurch t proportional reduziert wird. 2. Im Fall von Batterien in Serie und Lampen parallel bleibt die Spannungsgleichheit erhalten. Die Batterien entladen sich schneller, aber Lampen haben parallelen Zufluss. Analysen zeigen die Reduktion von t auf die Hälfte. 3. Im Fall Batterien parallel bleibt die Spannung konstant, aber die Ladung verdoppelt sich. Falls Lampen in Serie geschaltet, halbierter Stromstrom verlangsamt Entladung, verdoppeltes t. 4. Batterien parallel mit Lampen parallel --> Konstante Bedingungen, bleibt Zeit identisch bei t.",
-  "antwortoption": "C, D"
-}

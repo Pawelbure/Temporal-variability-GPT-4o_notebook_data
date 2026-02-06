@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegeben ist, dass eine einzelne Batterie mit konstanter Spannung V und einem spezifischen verfügbaren Ladungsvolumen eine einzelne Glühlampe für eine Zeitdauer t betreiben kann. Wir analysieren, wie sich die Kombination von zwei Lampen und Batterien auf diese Zeit auswirkt. 1) Im Fall A teilen sich Spannung und Widerstand der Reihe geschalteten Komponenten; die Stromstärke wird kleiner, aber die Laufzeit gleich bleibt. 2) Für B verdoppelt sich der Strom bei konstantem Spannungsbetrag, wodurch sich die Laufzeit um die Hälfte verkürzt. 3) Bei C liefert die Parallelschaltung der Energiequellen den doppelten Ladungsvorrat, weil der Strom zwischen den zwei Quellen symmetrisch aufgeteilt wird. Dies ermöglicht, beide Lampen länger zu betreiben. 4) Bei D bleibt die Spannung konstant, aber der gemeinsame Strom ergibt denselben Verbrauch wie eine Batterie, weswegen die Ausgangszeit unverändert bleibt.",
-  "antwortoption": "C, D"
-}

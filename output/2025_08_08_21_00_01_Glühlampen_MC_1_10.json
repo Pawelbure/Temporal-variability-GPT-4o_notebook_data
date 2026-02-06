@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Frage zu lösen, betrachten wir die Eigenschaften der Batterien und Glühlampen und wie ihre Schaltung das Energieverhalten beeinflusst. Annahmen: Jede Batterie liefert eine konstante Spannung V und hat eine spezifische Energiemenge E; jede Glühlampe hat einen Widerstand R und leuchtet mit einer konstanten Leistung P=V²/R. Wählen Sie bei allen Überlegungen die Relevanz der Schaltung aus (Reihe oder Parallel). Analyse der Schaltungen zeigt: \n\n- A ist falsch, da die Zeit nicht um ein Viertel reduziert wird. \n- B ist korrekt, da mit der Verdoppelung der Spannung und doppelter Leistung die Zeit auf t/2 reduziert wird. \n- C ist falsch, da die Batterien eine konstante Energiemenge liefern und sich die Zeit nicht verdoppelt. \n- D ist korrekt, da beide Batterien parallel jeweils die Energiemenge t liefern und parallel geschaltet die Lichter für die ursprüngliche Zeit betrieben könnten.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungen und berücksichtigen dabei die grundlegenden elektrischen Prinzipien und Annahmen. Die relevanten Annahmen sind: Die Batterien liefern konstante Spannung bis vollständig entladen (ideale Spannungsquelle). Die Glühlampen haben einen konstanten Widerstand R. In Serie addieren sich die Spannungen gleich gerichteter Batterien, und in Parallelschaltung erhöht sich die Kapazität, wodurch die Gesamtlaufzeit verlängert wird. Die Antworten ergeben sich aus den Betrachtungen der Energieverhältnisse und der Stromverteilung. (A) ergibt sich daher der Laufzeitverkürzung durch die geteilte Versorgung auf die doppelte Spannung aus zwei Batterien (1/4 t). (B) Aus der größeren Spannung folgt ein erhöhter Strom, was die Halbierung der Betriebszeit bedeutet. (C) und (D) zeigen Fehler in den Annahmen und führen zu nicht sinnvollen Ergebnissen.",
-  "antwortoption": "B"
-}

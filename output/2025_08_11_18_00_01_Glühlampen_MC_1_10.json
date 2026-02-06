@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten vier Szenarien für die Anordnung der Batterien und Glühlampen und analysieren die Situationen unter Annahme idealisierter Bedingungen, wie unendlichwirksame Batterie- und Glühlampenbauteile und Vernachlässigung nichtidealer Effekte wie interne Widerstände. Relevant sind die physikalischen Prinzipien des elektrischen Stromkreislaufs, Gesetze von Ohm und das Prinzip der Energiespeicherung in Batterien. 1) Batterien und Lampen in Serie: Jede Glühlampe bekommt die Hälfte der Batterieleistung, also beträgt die Betriebszeit etwa t. 2) Batterien in Serie und Lampen parallel: Der Strom verdoppelt sich, sodass die Betriebszeit t/2 ist. 3) Batterien parallel und Lampen in Serie: Die Gesamtenergie der Batterien bleibt t, aber der Strom durch die Lampen ist halbiert, sodass die Betriebszeit 2t ist. 4) Beide parallel: Der Strom bleibt wie bei einer Batterie, die Betriebszeit bleibt t.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lösung der Aufgabe:\n1. Annahmen:\n   - Idealisierte Batterien mit konstanter Spannung und Kapazität, bis sie leer sind.\n   - Konstanter Widerstand der Glühlampen.\n2. Physikalische Grundlagen:\n   - Die Laufzeit einer oder mehrerer Lampen hängt von der Leistung und der Gesamtkapazität der Batterie(n) ab. Bei Schaltung der Lampen in Serie oder Parallel unterscheidet sich die Stromaufteilung.\n   - Serieschaltung der Batterien verdoppelt die Spannung, paralelle Verdopplung der Kapazität.\n3. Ermittlung der Laufzeit in verschiedenen Fällen:\n   A) Bei Serienschaltung erzielen die Lampen reduziertes Lumen Ausstoß, sodass t zu klein.\n   B) Bei Batterie Serie und Lampe Serie, jedoch hell.",
-  "antwortoption": "C"
-}

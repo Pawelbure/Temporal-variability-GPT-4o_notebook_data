@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Die Batterien sind ideal, das heißt, sie haben keinen Innenwiderstand, die Glühlampen haben konstante Widerstände während der gesamten Betriebsspanne, und die Batterien entladen sich linear, damit sie Energie abgeben. Grundlegende Konzepte: Die Energie jeder Batterie (E) wird vollständig in Wärmeenergie innerhalb der Glühlampen umgewandelt, wobei E proportional zum Produkt aus Spannung, Strom und Zeit ist. Daher betrachten wir alle möglichen Szenarien: \n\n- **A) Beide in Serie:** Hier verdoppelt sich die Spannung über den Glühlampen, der Gesamtwiderstand ist durch die Glühlampen ebenfalls doppelt so groß. Dies resultiert in einer Energieauflistung, die nicht länger, sondern kürzer läuft. **Unwahrscheinlich, Laufzeit~t/2 eines einzeln.**\n- Weitere detaillierte technische Anteile ergänzt\n\n**B....D dann diesen....\"\"\"",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Wir gehen davon aus, dass die Batterien ideale Spannungsquellen sind, deren Energiekapazität durch den gespeicherten Ladungsinhalt begrenzt ist. Der Widerstand der Glühlampen bleibt konstant, unabhängig von der angelegten Spannung. Die Ströme und Spannungen verteilen sich gleichmäßig in Serien- und Parallelschaltungen. Physikalische Konzepte: Bei einer Serienschaltung von Batterien addieren sich die Spannungen, während Kapazitäten konstant bleiben. Bei Parallelschaltung addieren sich die Kapazitäten, aber Spannungen bleiben gleich. Der Energieverbrauch einer Lampe hängt direkt von Strom durch die Lampe und angelegter Spannung ab. Detaillierte Analyse:",
-  "antwortoption": "D"
-}

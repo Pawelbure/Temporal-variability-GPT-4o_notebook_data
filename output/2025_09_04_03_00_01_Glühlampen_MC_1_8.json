@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen\n1. Jede Batterie besitzt eine konstante elektrische Kapazität (gemessen in mAh oder Ah), und die Innenwiderstände sowie alle Verluste sind vernachlässigbar.\n2. Die elektrische Leistung, die durch eine Glühlampe geleitet wird, ist durch ihren Widerstand und die angelegte Spannung bestimmt und führt zu ihrem Betrieb.\n3. Batterien in Serie addieren ihre Spannung, während Batterie in Parallelschaltung ihre Kapazität verdoppeln.\n4. Die Glühlampen haben identische elektrische Eigenschaften und Betrieben sich vollständig unabhängig voneinander.\n\n### Analysen\n**(A)** Batterien und Lampen in Serie: Dann erhält jede Lampe die Hälfte der Batteriespannung => H+P: \n\n**Kom amperelauf**",
-  "antwortoption": "B"
-}

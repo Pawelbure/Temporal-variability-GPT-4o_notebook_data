@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problematik zu analysieren, nehmen wir folgende Idealbedingungen an: Jede Glühlampe hat den Widerstand R (Ohm), jede Batterie liefert eine Spannungsquelle U (Volt) mit Konstanthaltung der Spannung während der Entladung. Sie entladen sich vollständig in einer Zeit t (Sekunden). Die Kapazität jeder Batterie gebe die Gesamtenergievorrat Eb=U^2 * t / R an, der bei Entladung für die Lampen verfügbar ist.",
-  "antwortoption": "B, D"
-}

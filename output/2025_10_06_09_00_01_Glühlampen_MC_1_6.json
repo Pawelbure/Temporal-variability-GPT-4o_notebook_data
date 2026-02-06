@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen:\n1. Die Spannung jeder Batterie ist V und wird als konstant angesehen, bis die Batterie vollständig entladen ist.\n2. Der Widerstand jeder Glühlampe beträgt R und ist ebenfalls konstant.\n3. Der Energieinhalt jeder Batterie beträgt Q Coulomb, somit besteht die verfügbare elektrische Energie pro Batterie aus W_ges = Q * V,\n\n### Physikalische Analysen:\n* A) Batterie und Lampe in Serie multiplizieren beide Spannungen auf 2V, der Gesamtwiderstand verdoppelt sich bei den Lampen: R_ges = 2R; I = U/R = 2V/2R=V/R, gleich wie Einzellampe, Zeit t.   Falsch\n\nAntwort: C",
-  "antwortoption": "C"
-}

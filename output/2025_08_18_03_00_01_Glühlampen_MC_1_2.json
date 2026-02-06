@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Angenommen werden ideale Batterien (keine Innenwiderstände) und Glühlampen mit konstantem Widerstand, keine Energieverluste durch Wärme. 1. Schalten wir die Batterien (V) und Glühlampen (R) in Serie, verdoppelt sich die Gesamtspannung und der Strom halbiert sich. Die Energieentladung verteilt sich doppelt so schnell auf zweimalige Leistung, daher gilt: t/2 für eine Glühlampe, t/4 je Lampe (A). 2. Für in Serie und parallelen Glühlampen sind Verdopplung der Spannung und Anteil der Leistungssplitlung in parallele Äquivalente => Nutzung um Faktor H(t) zu verdoppeln. (B). Wenn parallel wäre, profitieren beide (fehlend a). 3. Beläuft sich dies weiterhin nicht zusammen. Drittmittel. Daher sind folgende.",
-  "antwortoption": "A, B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Szenarien einzeln, wobei die Annahmen und Prinzipien der Elektrizität berücksichtigt werden: 1) Jede Batterie liefert eine konstante Spannung V und speichert eine feste Energiemenge U=E*t. 2) Der Widerstand jeder Lampe ist konstant und entspricht einem festen Arbeitsstrom und einer festen Leistung. Szenarios: A) Batterien und Lampen in Serie: Die Spannung verdoppelt sich, sodass der Strom und die Leistung sich erhöhen. Daraus kann abgeleitet werden, dass die Gesamtlaufzeit proportional 1/4 ist. B) Batterien in Serie, Lampen parallel: Der Strom wird halbiert und somit die Laufzeit proportional 1/2. C) Batterien parallel, Lampen Serie: Die Spannung bleibt konstant, der Gesamtstrom bleibt gleich, jedoch verdoppelt sich die Energie, sodass 2t erreicht wird. D) Parallelverbindung von allem erhält die ursprüngliche Laufzeit t.",
-  "antwortoption": "A, B, D"
-}

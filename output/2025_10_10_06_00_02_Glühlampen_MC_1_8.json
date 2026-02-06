@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Zeit, in der die Glühlampen betrieb werden können, zu bestimmen, betrachten wir die verschiedenen Schaltungen: Wenn die Batterien in Serie geschaltet werden, verdoppelt sich die Spannung, das beeinflusst jedoch nicht die gesamte Kapazität der Batterien. Wenn die Batterien parallel geschaltet werden, bleibt die Spannung unverändert, aber die Gesamtladungsmenge verdoppelt sich. Bei der Analyse der verschiedenen Schaltungen berücksichtigen wir diese Überlegungen, ebenso wie der Einfluss der Stromverteilung und der spezifischen Batterieverbrauchsrate. Dann können wir für jede Anordnung die Lebensdauer der Glühlampen abschätzen und vergleichen, wie der Abstand der Schaltungen die Zeiten beeinflusst.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Konfigurationen der Stromkreise mithilfe der Grundlagen der Elektrotechnik. Voraussetzungen und Annahmen sind eine ideale Batterie und Glühlampe mit konstantem Widerstand. Der Energieinhalt jeder Batterie ist gleich, und die Leistung, die von einer Glühlampe in Licht umgewandelt wird, entspricht P = U²/R oder P = I²R, abhängig von der Konfiguration. Die Lebensdauer der Batterie ist proportional zur gespeicherten Energie geteilt durch die Leistung, die sie liefern muss. Zusammen mit den Regeln der Reihenschaltung und Parallelschaltung von Widerständen und Batterien lassen sich die Zeitverhältnisse berechnen:",
-  "antwortoption": "A, B, D"
-}

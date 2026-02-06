@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Szenarien: (1) Batterien in Serie und Glühlampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich, sodass der Strom konstant bleibt. Die Gesamtenergie in den Batterien verschwindet in der halben Zeit aufgrund doppelter Leistung. Zwei Lampen teilen diese Energie, sodass jede für 1/4 der Zeit t leuchtet. (2) Batterien in Serie und Glühlampen parallel: Spannung verdoppelt sich, Glühlampen erhalten dieselbe Leistung wie eine Lampe, daher läuft jede für t/2. (3) Batterien parallel und Glühlampen in Serie: Spannung bleibt gleich; da die Batterien ihre Energie doppelt so lange halten, leuchten beide Lampen zusammen 2t lang. (4) Batterien und Glühlampen parallel: die Stromversorgungseigenschaften ändern sich nicht, daher entspricht die Laufzeit der einer Lampe, t.",
-  "antwortoption": "A, B, C, D"
-}

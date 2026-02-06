@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Erklärungen:\n\n1. Jede Batterie hat eine bestimmte Kapazität (Energie), die sie zur Verfügung stellen kann, und dies entspricht genug Energie, um ihre Glühlampe für die Zeit t konstant zu betreiben, indem sie an sie angeschlossen wird.\n2. Die Glühlampe hat einen festen Widerstand R, der konstant bleibt.\n3. Wir vernachlässigen den Innenwiderstand der Batterien sowie Energieverluste durch Wärme im Leitungssystem.\n4. Die Kapazität der parallelen Batterien erhöht die Gesamtladung, jedoch bleibt die Spannung konstant (Spannungen addieren sich nicht in paralleler Schaltung). In der seriellen Schaltung bleibt die Gesamtladung pro Zeit konstant, jedoch addieren sich die Spannungen.",
-  "antwortoption": "D"
-}

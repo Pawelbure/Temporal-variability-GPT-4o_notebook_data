@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst nehmen wir an, dass die Batterien ideale Spannungsquellen sind, und zudem die Glühlampen einen konstanten ohmschen Widerstand haben. Eine Batterie liefert eine konstante Spannung U und eine Glühlampe hat den Widerstand R. Der Betrieb einer einzelnen Lampe durch eine Batterie führt zu einer Zeit t, das bedeutet, dass die gespeicherte Energie der Batterie nach dieser Zeit verbraucht ist. Die gespeicherte Energie, die die Batterie zur Verfügung stellt, lässt sich durch die entnommene Leistung P multipliziert mit der Zeit t prüfen. Bei den gegebenen Schaltweisen ändern sich die Spannungen und Ströme durch die Lampen und Batterien, was zu unterschiedlichem Energieverbrauch führt. Durch Berechnungen für jede der genannten Kombinationen können die Nutzungszeiten angepasst mitgeteilt werden.",
-  "antwortoption": "D"
-}

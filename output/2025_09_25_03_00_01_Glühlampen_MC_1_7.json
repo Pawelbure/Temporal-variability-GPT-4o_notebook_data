@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu analysieren, betrachten wir die Strom- und Energiesituation bei den verschiedenen Schaltungen. Betrachten wir zuerst Annahmen: Konstante Helligkeit bedeutet konstanter Strom durch die Glühlampe, und die Batterien haben gleiche Ladung und Spannung. Wir analysieren die vier Fälle einzeln:\n\n- **Fall A**: Batterien und Glühlampen in Serie. Der Strom bleibt gleich, aber die Spannung verdoppelt sich im Vergleich zu einer Batterie. Die Leistung wird P=R*I² (R ist hier Verdoppelt), sodass die Helligkeit leidet. Da die doppelte Spannung halbes Zeit ergibt entspricht es t/4.\n- **Fall B**: Es sind Batterien Serie-Glühlampe parallel Gibt Spannung auf jeder Lampe teilt den in Zeit bleibt halbiert Antwort Fenster zeigt dies als t/2.\n- **Fall C** zur Verdeutlichung ist Batter=Parallel-serien R).\n\nRechnung sowie logische Details ersten ergibt",
-  "antwortoption": "B"
-}

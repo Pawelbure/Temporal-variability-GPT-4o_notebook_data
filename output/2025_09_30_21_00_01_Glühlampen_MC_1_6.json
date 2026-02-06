@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Relevante Konzepte:\n\n- Die Batterien haben die gleiche Kapazität und Spannung, und die Glühlampen sind identisch mit einem konstanten Widerstand.\n- Die Glühlampen und Batterien sind idealisiert, ohne interne Verluste, geringe Materialschwankungen oder Einflüsse durch Variable.\n- Die Energieabgabe eines Batteriepaares und die Energieaufnahme einer Glühlampe sind durch elektrische Leistungs- und Kapazitätsgleichungen bestimmt: P = U²/R und E = P × t.\n\n### Lösungsanalyse der gegebenen Fälle:\n\n**A) Batterien und Glühlampen in Serie:**\n   - Gesamtspannung der Batteriepaare = 2 × U. Gesamtwiderstand der Glühlampen = 2 × R.\n   - Übergangsleistung P = (2 × U)² / (2 × R) = 2U²/R.\n   - Da die Stromabgabe verzehnfacht wurde, ist die Entladungsgeschwindigkeit der Geräte etwa halbiert, jedoch für jeden Fall.nicht aus.\n\n**B) Batterien in Serie, Glühlampen parallel:**\n....\n**Ergebnis** D",
-  "antwortoption": "D"
-}

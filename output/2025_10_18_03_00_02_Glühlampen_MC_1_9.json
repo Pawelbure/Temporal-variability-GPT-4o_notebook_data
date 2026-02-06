@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gestellte Aufgabe zu analysieren, betrachten wir die elektrischen Schaltungen, wobei folgende Annahmen gelten: (1) Die Batterien haben eine konstante Kapazität an Energie und liefern eine konstante Spannung, bis sie leer sind. (2) Der Widerstand der Glühbirnen bleibt unabhängig von der Spannung gleich. Nun zur Analyse der Szenarien: Schaltung A betrachtet Batterien und Glühbirnen in Serie. Hier verdoppelt sich die Spannungsanpassung, und die Gesamtzeit skaliert invers zum doppelten Stromverbrauch. Es ergibt sich ein Quartilfaktor t/4. Für Schaltung B kombiniert Serienbatterien mit parallelen Glühbirnen, wodurch der Strom geteilt wird, was zur Halbierung der Laufzeit auf t/2 führt. Im C-Szenario ordinieren Batterien und Glühbirnen parallel, was die Leistung und Zeitleistung analysiert, bis 2t erreicht wird. Schließlich stellen für D parallele Batterien und parallele Glühlampen für eine T-stabile Verteilung.",
-  "antwortoption": "C, D"
-}

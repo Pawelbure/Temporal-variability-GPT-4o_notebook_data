@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten die Schaltungsmöglichkeiten und deren Einfluss auf die Energieabgabe der Batterien und die Leuchtdauer der Glühlampen: Angenommen jede Batterie hat die Spannung V und Kapazität Q (Ladungsmenge), so hat eine Batterie die Gesamtenergie U1 = V·Q. Der Strom I durch jede Glühlampe führt zu einem konstanten Leistungsverbrauch P = U_B·I = V²/R bei Widerstand R. Bei serieller Verbindung der Batterien verdoppelt sich die Spannung, bei paralleler Verbindung bleibt sie unverändert, und die Gesamtkapazität variiert dementsprechend. Für jeden Fall berechnen wir die Leuchtdauer der Glühlampen, indem wir die entnommenen Energiemengen vergleichen und die Lebenszeit einer Batterie in Abhängigkeit von P sowie Q veranschlagen.",
-  "antwortoption": "D"
-}

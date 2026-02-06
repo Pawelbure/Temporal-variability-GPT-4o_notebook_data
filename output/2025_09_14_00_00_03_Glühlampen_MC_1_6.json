@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Die Batterie liefert eine konstante Energiemenge und die Lampe hat einen konstanten Widerstand. Die Batteriespannung sei V, ihre Kapazität Q und der Widerstand der Lampe R. Die elektrische Energie der Batterie ist E = Q·V. Die Leistung der Lampe P hängt von der Spannung U ab, die an ihr anliegt: P = U²/R. Die Zeit t, für die die Lampe leuchtet, ist t = E/P.\\n\\n2. Im ersten Fall (A) sind Batterien und Lampen in Serie geschaltet:\\n   - Gesamtspannung ist V_ges = 2V, Gesamtwiderstand R_ges = 2R. Strom ist I = V_ges/R_ges = 2V/2R = V/R. Leistung für eine einzelne Lampe P = I²·R = (V/R)²·R = V²/R. Da die Energie sich bei schlanker doppelt spannender Verheizung entfaltet, beträgt die Zeit t¹ = (Q·V)/(2P) = t/4.\\n\\n3. Wiederholt mit den anderen Fällen getestet zeigt die Effizienz immer die genutzer (2,3,4).\\n",
-  "antwortoption": "A"
-}

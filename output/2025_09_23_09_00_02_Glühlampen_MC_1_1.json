@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir nehmen an, dass die Batterien gleich sind und eine konstante Spannung sowie Kapazität besitzen. Ebenso nehmen wir an, dass der Widerstand jeder Glühlampe konstant ist. Die Gesamtleistung bestimmt, wie schnell die Batterien entladen werden. Nun prüfen wir die vier Fälle: A) Bei serieller Verbindung steigt die Spannung am Widerstand verdoppelt, somit steigt die Leistung quadratisch, die Energie reicht für eine Zeit t/4. B) Bei seriellen Batterien und parallelen Lampen verdoppelt sich jede Lampe verdoppelt ihre Leistung zu t/2, ähnlich wie die Entladungsgeschwindigkeit. C) In Parallelmachung ist die Spannung gleichbleibend, aber die Kapazität der Batterien verdoppelt hat. Gesamteffekt ergibt somit Zeit 2t. D) Parallelsetups führen zu identischen Betrieb wie Einzelbatterienleistungen spielbaren.",
-  "antwortoption": "A, B, C, D"
-}

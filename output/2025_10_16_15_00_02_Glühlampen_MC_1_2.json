@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe strukturiert zu lösen, analysieren wir jede Aussage unter Berücksichtigung der gegebenen Annahmen und Bedingungen - konstante Spannung und konstanten Widerstand der Glühlampen:\\n\\n**Annahmen:** \\\\- Die Batterien haben die gleiche Kapazität und Spannung. \\\\- Der Widerstand der Glühlampen bleibt konstant. \\\\- Die Batterien liefern eine konstante Spannung bis zur kompletten Entleerung.\\n\\n### **Analyse der Aussagen:**\\n\\n**A) Serienverbindung der Batterien und Glühlampen:**\\n- Bei einer seriellen Schaltung summieren sich die Spannungen der Batterien (2U). Die Lampe in Serie erhält ebenfalls denselben Stromfluss (bei doppelter Spannung).\\n- Jedoch arbeitet jede Batterie doppelt so lang wie allein (2C) unter halbem Stromfluss (Resultat: Zeit *t*).\\n\\nFolglich ist es logisch, dass die Annahme - ca.  t/4 wurde begangen als nicht zutreffend anlangen.",
-  "antwortoption": "D"
-}

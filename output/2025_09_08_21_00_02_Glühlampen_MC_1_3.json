@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Idealisierungen:** Wir betrachten das Verhalten idealer Batterien und Glühlampen mit konstantem Widerstand. Batterien entladen sich mit einer konstanten Stromabgabe über die Zeit, wobei ihre Gesamtkapazität gleich bleibt. **Relevante physikalische Konzepte:** In Serienschaltung addieren sich Spannungen, in Parallelschaltung addiert sich die Kapazität der Batterien. Glühlampen in Serie verdoppeln den Widerstand, Glühlampen parallel halbieren ihn. Gesamte Entladezeit ist proportional zur gespeicherten Energie in den Batterien.",
-  "antwortoption": "B"
-}

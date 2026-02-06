@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Situation zu analysieren, nehmen wir an, dass jede Batterie eine konstante Spannung U liefert und die Glühlampe einen konstanten Widerstand R hat. Jede Batterie hat zudem eine Kapazität C, definiert als die Energiemenge, die sie liefern kann, also E = Q * U. Wenn die Glühlampen in Serie oder parallel geschaltet sind, ändern sich die effektive Stromstärke und der Widerstand im Stromkreis. Indem wir die Batterien und Lampen entsprechend schalten, verändern sich die Zeit, während der Energie geliefert wird, und die Verteilung auf die Lampen. Für (A), (B), (C), (D) führen wir Berechnungen durch:",
-  "antwortoption": "D"
-}

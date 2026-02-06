@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Szenarien zu bewerten, nutzen wir folgende Annahmen:\n\n- Die elektrische Leistung einer Glühlampe in jedem Szenario bleibt konstant über die Zeit.\n- Die Batterien sind ideal mit jeweils einer Kapazität von Q und einer Spannung von V.\n\n### Szenarioanalyse:\n\n**A) Batterien und Glühlampen in Serie:** Der Strom durch die Glühlampen reduziert sich, da es durch die Verdopplung des Widerstandes (zweimalige Glühlampe in Serie) sinkt. Die Entladedauer der Batterien ist entsprechend kürzer, aber genaueres Verhältnis müsste detailiert berechnet werden.\n\n**B) Batterien in Serie, Glühlampen in Parallel:** Die Spannung der Batterien addiert sich, somit bleibt die Gesamtleistung der zwei Lampen wie vorher einer; die Entladedauer halbiert sich.\n\n**C) Batterien in Parallel, Glühlampen in Serie:** Da die Parallelschaltung Stromverstärkung bewirkt dauert es normal wie üblich; dies in zeiten skaliert.\n\n Gesm###",
-  "antwortoption": "C"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Szenarien basierend auf den Schaltungen von Batterien und Glühlampen: Annahmen: 1) Jede Batterie liefert eine konstante Energie Q. 2) Der Widerstand der Glühlampe bleibt konstant. 3) Batterien und Lampen sind identisch. Fall A: Batterien in Serie erhöhen die Spannung, aber bei Glühlampen in Serie wird der Strom durch beide Batterien geteilt. Energieverbrauch erhöht sich, und die Zeit halbiert sich auf t/2. Fall B: Batterien in Serie erhöhen die Spannung; parallele Lampen teilen die Spannung, Energieverbrauch für jede Lampe konstant. Zeit bleibt t. Fall C: Batterien parallel liefern konstantere Energie; Lampen in Serie teilen den Strom auf. Die Energie reicht doppelt so lange, Zeit wird zu 2t. Fall D: Parallele Batterien und parallele Lampen halten Energie konstant, und die Betriebszeit bleibt t.",
-  "antwortoption": "D"
-}

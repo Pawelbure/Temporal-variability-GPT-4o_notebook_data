@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die relevante Annahmen und Konzepte für diese Problemstellung lauten: Batterien liefern konstante Spannung, Glühlampen weisen konstanten Widerstand auf, und sie leuchten mit konstanter Helligkeit, solange die Batterie Energie abgibt. Zudem bieten Batterien in Serie die doppelte Spannung der Einzelspannung bei gleichem Ladungsvolumen, während Batterien parallel die gleiche Spannung wie eine Einzelbatterie liefern, aber die Entladungszeit verdoppeln. Wir berechnen den Einfluss der Schaltungen auf die Entladungszeit. Bei Serie-Betrieb der Batterien führt die doppelte Spannung zu vierfachem aktuellen Energieverbrauch wegen Ohm'schem Gesetz, daher leuchten Glühlampen ein Viertel der ursprünglichen Zeit. Für parallel betriebene Batterien verlängert das doppelte Ladungsvolumen die Leuchtdauer verdoppelt bei gleichem Stromfluss.",
-  "antwortoption": "A, D"
-}

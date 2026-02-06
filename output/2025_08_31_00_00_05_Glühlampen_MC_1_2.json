@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu analysieren, treffen wir die Annahmen:\n1. Die Batterien besitzen die gleiche Spannung V0 und Kapazität Q0, d. h. sie liefern die gleiche Menge an Ladung bei einer festen Spannung.\n2. Die Glühlampen haben einen konstanten Widerstand R.\nFügen wir diese Beobachtungen ein:\n- Serie bedeutet, dass Spannungen addiert werden, die Ladung unverändert bleibt.\n- Parallel bedeutet, dass die Ladung addiert wird, die Spannung konstant bleibt.\nFür die verschiedenen Kombinationen ergibt dies:\n(A) Spannung verdoppelt, Leistung 4x, Laufzeit ein Viertel: t/4.\n(B) Spannung verdoppelt, halbe Gesamtleistung: t/2.\n(C) Keine Änderung, Leistung gleich, Laufzeit 2x: 2t.\n(D) Keine Änderung, Spannung und Leistung gleich, Laufzeit bleibt t.",
-  "antwortoption": "B, C, D"
-}

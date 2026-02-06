@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Idealisierungen: Batterien und Glühlampen sind als ideal betrachtet. Die Spannung und Kapazität der Batterie sind konstant, der Widerstand der Glühlampen ist fest. 2. Physikalische Konzepte: Strom, Spannung, Leistung, Energieverbrauch. 3. Lösungen: a) Batterien und Glühlampen in Serie: Gesamtspannung verdoppelt sich, Glühlampen teilen sich die Spannung und verlieren an Helligkeit. Laufzeit 4t aufgrund geringerer Stromaufnahme. b) Batterien in Serie, Lampen parallel: Spannung verdoppelt sich, Strom in jedem Zweig gleich wie bei einer einzelnen Lampe, daher t/2. c) Batterien parallel, Lampen Serie: Spannung bleibt gleich, Gesamtstrom sinkt. Laufzeit 2t da Energie gleich ist. d) Batterien parallel, Lampen parallel: Spannung gleich, Strom pro Lampe wie einzelne Batterie. Laufzeit t.",
-  "antwortoption": "D"
-}

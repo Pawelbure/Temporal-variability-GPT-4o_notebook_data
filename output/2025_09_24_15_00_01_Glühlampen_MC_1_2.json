@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Verfügbarkeit zweier Batterien und deren Energie aus zwei Glühlampen zu analysieren, unter der Bedingung, dass die Glühlampen bei konstantem Widerstand arbeiten, betrachten wir mehrere Möglichkeiten zur Schaltung: Serie und Parallel.\\n\\n1. Eine Batterie betreibt eine Glühlampe für Zeit t, mit der konstanten Leistung P gegeben durch P = U^2/R, wo U die Spannung und R der Widerstand ist.\\n\\n2. Batterie und Lampe in Serie: Die Spannung verdoppelt sich, Leistung P_ges = 2U^2/R. Während beide parallel um dieselbe Energie entladen, halbiert sich die Betriebszeit, d.h., die Lampen leuchten t/2.\\n\\n3. Zwei Batterien in Serie, Lampen parallel: Die Spannung bleibt hoch, aber jede Batterie hilft, trotzdem bleibt Leistung P gleich Einzellampe halbiert: Die Lampen bleiben T/2 aktiv.\\n\\nSomit korrekte Antwort ‘niedriger für Parallelregime. Energieschema bleibt stabil.’\\n\\n",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Problemstellung unter der Annahme idealer Bedingungen: Jede Batterie besitzt eine konstante Spannung und unendliche Innenkapazität, die Glühlampe hat einen konstanten Widerstand, und es treten keine Verluste auf. Nun vergleicht man die verschiedenen Schaltungsarten hinsichtlich der Spannung und Stromverteilung sowie der Energienutzung, um die Beleuchtungszeiten zu ermitteln. (Details dargelegt für jede Option):\n- Option A: Die Serienschaltung der Batterien verdoppelt die Spannung, der Strom durch die in Serie geschalteten Glühlampen halbiert sich, wodurch die Leistung der Glühlampen und folglich die Batterieentladung verlangsamt werden. Jedoch bleibt die Energie nahezu gleich verteilt, sodass t möglich wird.",
-  "antwortoption": "A, B"
-}

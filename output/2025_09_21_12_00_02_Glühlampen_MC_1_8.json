@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu analysieren, treffen wir folgende Annahmen: Der Widerstand jeder Glühlampe ist konstant, und jede Batterie liefert bei Entladung mit konstanter Spannung eine feste Ladungsmenge (Kapazität). Außerdem vernachlässigen wir Effekte wie Innenwiderstände der Batterien und Temperaturänderungen bei den Glühlampen. Die relevanten physikalischen Konzepte beinhalten die Ohmsche Gesetzgebung (U = IR), die Beziehung zwischen Leistung und Strom (P = UI), sowie die Skalierung der Gesamtkapazität und Spannung durch Parallelschaltung und Reihenschaltung der Batterien. Für jede der genannten Szenarien analysieren wir die Spannung der Batterien über der Schaltung, den Gesamtwiderstand der Lampen und infolgedessen die Stromstärke durch die Lampen, um zu bestimmen, wie lange die Batterien halten.",
-  "antwortoption": "D"
-}

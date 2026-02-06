@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Fragestellung zu beantworten, analysieren wir die vier beschriebenen Konfigurationsfälle unter Annahme idealisierter Bedingungen: konstante Batteriespannungen und -kapazitäten sowie konstante Glühlampenwiderstände. Grundlegende physikalische Konzepte wie Ohmsches Gesetz und Energieerhaltung kommen zum Einsatz. Berechnung der relevanten Parameter führt zu folgenden Ergebnissen: Für Konfiguration A, Batterien und Lampen in Serie, beträgt die Betriebszeit 4t. Für Konfiguration B, Batterien in Serie und Lampen parallel, ist die Betriebszeit t/2. Konfiguration C, Batterien parallel und Lampen in Serie, ergibt 2t. Schließlich, für Konfiguration D, Batterien und Lampen parallel, ist die Zeit t. Daher sind die Aussagen A und C korrekt.",
-  "antwortoption": "A, C"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst analysieren wir die Situation basierend auf den gegebenen Schaltungen im Hinblick auf die Energie, die durch die Batterien bereitgestellt wird, und den Strom, der durch die Glühlampen fließt. Wir machen dabei die folgenden Annahmen: 1. Jede Batterie hat dieselbe Kapazität und Spannung, 2. der Widerstand der Glühlampen ist konstant und 3. die Batterien entladen bei gleicher Stromstärke immer die gleiche Energiemenge über die gleiche Zeit. Basierend auf Ohms Gesetz (U = IR) und der Leistungsgleichung (P = UI) bestimmen wir die Spannungen, Ströme und damit die Leuchtzeiten für die verschiedenen Konfigurationen.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Idealisierungen:** Wir gehen davon aus, dass die Batterien ideal sind, d.h., sie liefern eine konstante Spannung, bis sie vollständig leer sind. Der Widerstand der Glühlampen bleibt konstant, unabhängig von der durchfließenden Strommenge oder Spannung. Jede Batterie liefert für eine Lampe die Energie, um sie für die Zeit t zum Leuchten zu bringen. \n\n**Relevante physikalische Konzepte:** Die Energie, die eine Batterie liefert, ist proportional zur Stromstärke multipliziert mit der Spannung und der Zeit. Wenn die Batterien in Serie geschaltet werden, verdoppelt sich die Gesamtspannung. Wenn die Batterien parallel geschaltet werden, erfolgt eine additive Kombination ihrer verfügbaren Energiemengen, ohne die Spannung zu erhöhen.",
-  "antwortoption": "B"
-}

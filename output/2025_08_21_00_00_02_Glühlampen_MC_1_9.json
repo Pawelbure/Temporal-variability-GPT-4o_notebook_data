@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lassen Sie uns die Aussagen analysieren und prüfen, welche korrekt ist. Da die Batterien und Glühlampen für alle Konfigurationen identisch sind und von konstanten Widerständen sowie gleichbleibender Leuchtstärke ausgegangen wird, analysieren wir mithilfe von Kirchoffs Gesetzen und grundlegenden Konzepten zur elektrischen Energie.\\nA: Batterie in Serie, Glühlampe in Serie.\\n - Der gesamte Widerstand verdoppelt sich. Die Spannung verdoppelt sich. Der Strom bleibt gleich wie in einem Einzelkreis, jedoch werden beide Glühlampen im Effekt den Strom teilen. Die Brenndauer wäre somit unverändert bei etwa t/2, nicht t/4.\\nB: Batterien in Serie, Glühlampen parallel. \\n     - Die Spannung regeneriert doppelter Leistung in jedem Parallelkreis, die Lebensdauer jedoch bleibt pro Lampe gleich bei t.\\nPhonse Ansätze führen daher, dass Betriebdauer nur durch unterscheidliche parallen KA für tließend.",
-  "antwortoption": "D"
-}

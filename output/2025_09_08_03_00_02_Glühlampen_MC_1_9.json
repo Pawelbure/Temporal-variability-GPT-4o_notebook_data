@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst analysieren wir die verschiedenen Schaltungsvarianten und ihre Auswirkungen basierend auf den gegebenen Annahmen: 1. Batterien und Glühlampen werden als ideale Elemente betrachtet. 2. Der Widerstand der Glühlampen bleibt konstant. Die Energieleistung einer Batterie (P = U^2 / R) und die Energiekapazität ihrer Ladung Q bestimmen die entnehmbare Energie limitiert durch deren Spannungsabfall. A) Batterien in Serie = Verdoppelte Spannung, Glühlampen in Serie = Verdoppelte Last-Erhöhung des Widerstands, daher Betrieb von T = t/4. B) Batterien in Serie mit Glühlampen parallel = Spannung gleich, geteilter Strom; Betrieb T = t/2. C und D stimmen bei paralleler Batterie mit Lastverteilung als konstanten Betrieb T = T.",
-  "antwortoption": "B"
-}

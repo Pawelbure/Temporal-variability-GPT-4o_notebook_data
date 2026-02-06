@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu analysieren, nehmen wir folgendes an: Jede Batterie hat eine Spannung V und eine Kapazität in Form von Ladung Q, die sie liefern kann. Die Glühlampe hat einen konstanten Widerstand R, und somit verbraucht sie eine konstante Leistung, solange eine Spannung anliegt.\n\nWir betrachten die Szenarien wie folgt:\n\n1) Batterien in Serie, Glühlampen in Serie:\n   - Die Gesamtspannung verdoppelt sich (2V), während die Kapazität gleich bleibt (Q).\n   - Da die Lampen in Serie geschaltet sind, ist der Gesamtwiderstand 2R.\n   - Der Strom beträgt I = V / R -> hier (2V) / (2R) = V / (2R).\n   - Die Leistung pro Lampe bleibt wie bei einem Batteriefall (V^2 / R);\n     die insgesamt gespeicherte Energie pro Umfang bleibt jedoch aufgrund der Verteilung halbiert—Sie hielt nur t/4 weiterer Beispiele zwingen bi÷###p##x effect;",
-  "antwortoption": "D"
-}

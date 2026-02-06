@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Diese Aufgabe analysiert Schaltungen mit Batterien und Glühlampen und die Auswirkungen unterschiedlicher Konfigurationen auf die Brenndauer der Lampen. Für die Analyse gehen wir von den folgenden Annahmen aus: Die Spannung jeder Batterie bleibt konstant, bis sie vollständig entladen ist, und die aufgenommene elektrische Energie wird konstant in Licht umgewandelt. Angenommene physikalische Prinzipien: P = U² / R (Leistung der Lampe, mit Spannung U und Widerstand R) direkt proportional zur Spannung im Quadrat, und die Energieabgabe ist proportional zur Entladedauer mal Leistung. Serie- oder Parallelschaltung der Lampen und Batterien beeinflusst direkt die Spannung an den Lampen und damit die Energieabgabe.",
-  "antwortoption": "A"
-}

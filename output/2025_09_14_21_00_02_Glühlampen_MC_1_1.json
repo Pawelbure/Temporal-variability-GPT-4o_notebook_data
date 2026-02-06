@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Betrachten wir die gegebene Problematik unter folgenden Annahmen und Idealisierungen: Jede Batterie liefert konstante Spannung V und hat eine Kapazität von Q Coulomb, was bedeutet, dass sie eine Ladung von Q bei Spannung V bereitstellen kann, bevor sie entladen ist. Auch nehmen wir an, dass der Widerstand jeder Glühlampe konstant ist und den Wert R hat. Daher ist die Leistung, die von einer Glühlampe verbraucht wird, P = V²/R. Die Betriebsspannung jeder Lampe hängt von der jeweiligen Verschaltung zweier Batterien ab, insgesamt der Widerstände und somit auch der Leistung und Betriebszeit.",
-  "antwortoption": "B"
-}

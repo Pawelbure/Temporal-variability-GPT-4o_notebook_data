@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Hier ist der detaillierte Lösungsweg zur Aufgabe: Um die Leuchtzeit der Lampen unter den verschiedenen Schaltungen zu bestimmen, betrachten wir zunächst einige wesentliche Annahmen und Konzepte: 1) Die Batterien sind ideal mit einer festen EMK E. 2) Die Glühlampen haben einen konstanten Widerstand R. 3) Der Energieinhalt der Batterien bleibt im stationären Fall unverändert. Wir analysieren die verschiedenen Konfigurationen: a) Batterien in Serie verdoppeln die Spannung, wodurch bei Serienbetrieb der Lampen der Strom konstant bleibt, aber die Leistung steigt. b) Kurz, die Aussagen in den Optionen passen unter Berücksichtigung dieser Effekte wie folgt:\n- **A ist falsch.**\n- **B ist richtig.**\n- **C ist falsch.**\n- **D ist falsch.** Die Leistung und der Energieverbrauch fallen entsprechend der Schaltweise anders aus.",
-  "antwortoption": "B"
-}

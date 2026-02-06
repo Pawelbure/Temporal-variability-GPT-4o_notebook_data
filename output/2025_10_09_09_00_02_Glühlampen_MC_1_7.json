@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen: Wir betrachten das Verhalten von Batterien und Glühlampen in verschiedenen Kombinationen: Batterien in Serie verdoppeln die Spannung, während Batterien parallel denselben Stromfluss über eine verlängerte Zeit ermöglichen. Für die Glühlampen gilt, dass ihre Leistungsaufnahme von Spannung und Widerstand abhängt. Gegebene Bedingungen ermöglichten folgende Analysen: A) Batterien in Serie und Glühlampen in Serie erhalten verdoppelte Spannung; dies lädt zur vierfachen Lichtstärke pro Lampe, jedoch nur über ein Viertel der Zeit t. B) Batterien in Serie und Glühlampen parallel teilen die Spannung auf beide Lampen, sie leuchten für die halbe Zeit t/2 bei identischer Lichtstärke. C) Es wird keine erhöhte Zeitdauer erzielt. D) Glühlampen und Batterien parallel teilen gleich Strom und halten dieselbe Zeit, somit stimmt diese Option.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Konzepte:\n1. Die Klemmenspannung einer einzelnen Batterie bleibt konstant bis zur vollständigen Entladung.\n2. Die gespeicherte Energie in jeder Batterie ist gleich.\n3. Der Widerstand der Glühlampen bleibt konstant.\n4. Es gibt keine Verluste oder Abweichungen durch reale Effekte wie Innenwiderstände.\n\nAnalyse der Szenarien:\n\nA) Batterien und Lampen in Serie:\n   - Spannung: 2V durch die zwei Batterien.\n   - Strom durch die Lampen: Halboher Strom wegen additivem Widerstand.\n   - Entladung wird beschleunigter, daher kürzere Laufzeit als t, jedoch hier t/4 nicht korrekt erkannt.\n\nB) Batterien in Serie, Lampen parallel:\n   - Spannung: 2V, gleichmäßige Verteilung des Strombedarfs.\n   - Laufverhalten ca t/2 bestätigt korrekt recheneffekt.\n\nWeitere C & D stiegen zur t 2 Zeiteir liefern richtige recognized witnessed.\n\nDetailierung geprüft positiver Erfolgslauf bestätigen Z/T passenden Argument",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu analysieren, treffen wir folgende Annahmen und Idealisierungen: Jede Batterie hat eine Kapazität, die elektrische Energie speichert und die Glühlampen betreibt. Der Widerstand der Glühlampen bleibt konstant. Jede Glühlampe erzeugt unter einer gegebenen Spannung eine konstante Helligkeit. Die grundlegenden Zusammenhänge sind U = I * R, P = U^2 / R, E = P * t. Nun zu den genannten Szenarien: Wenn die Batterien in Serie geschaltet sind, verdoppelt sich die Spannung, was den Strom erhöht und die Lampen schneller leert. Befinden sich Batterien hingegen parallel, bleibt die Spannung gleich, aber die Gesamtkapazität verdoppelt sich, was längere Betriebszeiten ermöglicht. Durch Analyse kommen wir zu der Schlussfolgerung: Korrekt ist D. Batterien und Lampen in Parallelschaltung erzeugen eine Laufzeit identisch zur Einzelbatterie.",
-  "antwortoption": "D"
-}

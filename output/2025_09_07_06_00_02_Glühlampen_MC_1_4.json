@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Situation analysieren wir unter Berücksichtigung der Annahme, dass sich die Batterien ideal und ohne Verluste verhalten, dass die Glühlampen eine konstante Helligkeit behalten und der Widerstand derselben unabhängig vom Fließstrom bleibt. Die Zielgröße t beschreibt die Leuchtdauer einer Glühlampe bei Nutzung einer Batterie. Parallel geschaltete Batterien verdoppeln die verfügbare Energie, während Serienverbindungen die Spannung erhöhen. Parallel geschaltete Glühlampen teilen den Strom gleichmäßig, während bei Serienschaltung der Strom identisch durch beide Glühlampen fließt. Für die genannten Konfigurationen ergibt sich: A) Die Leuchtdauer beträgt t/4 (falsch). B) Die Leuchtdauer beträgt t/2 (falsch). C) Die Leuchtdauer beträgt 2t (richtig). D) Die Leuchtdauer beträgt t (richtig).",
-  "antwortoption": "C, D"
-}

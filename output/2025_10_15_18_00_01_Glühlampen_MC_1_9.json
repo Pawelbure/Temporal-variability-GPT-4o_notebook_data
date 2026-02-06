@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir nehmen an, dass die Batterien ideal sind, ihren angegebenen Spannungen entsprechen, und dass deren Kapazitäten durch den Gesamtenergievorrat festgelegt werden. Die Glühlampen werden ebenfalls als mit konstantem Widerstand modelliert.\\n\\n**A) Batterien in Serie, Glühlampen in Serie:**\\n- In Serie addieren sich die Spannungen der Batterien, sodass der kombinierte Strom verdoppelt wird, während die Lampen die gleiche Spannung wie eine Einzellampe erhalten. Die Kapazität einer Batterie wird durch die doppelte Entladeleistung auf ein Viertel der Zeit reduziert. Diese Konfiguration führt zur Laufzeit t/4. Diese Aussage ist KORREKT.\\n\\n**B) Batterien in Serie, Glühlampen parallel:**\\n- Die in Serie geschalteten Batterien liefern eine verdoppelte Spannung. Jede Lampe erhält hierbei ihre Nennspannung, und sie teilen sich die Batteriekapazität; die Entladezeit wird also halbiert. Diese Aussage ist KORREKT.",
-  "antwortoption": "A, B"
-}

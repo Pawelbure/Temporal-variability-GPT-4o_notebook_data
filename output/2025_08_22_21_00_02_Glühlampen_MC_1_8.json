@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir zuerst die verschiedenen Schaltungsvarianten.\n1. **Annahmen und Idealisierungen**: Die Glühlampen haben einen konstanten Widerstand R. Die Batterien haben jeweils eine konstante Spannung V und liefern den gleichen Strom, bis sie entladen sind.\n\n2. **Analyse der Fälle:**:\nA) Wenn Batterien und Glühlampen in Serie geschaltet sind: Jede Batterie liefert denselben Strom, und die Gesamtspannung addiert sich. Die Gesamtlast erhöht sich wegen der addierten Widerstände. Dies konvergiert zu einer um t/4 verringerten Laufzeit.\n B) In Serie mit den Batterien können mit parallelen Glühlampen den Betrieb erhalten, allerdings Energiekonservationss breiter f\u0000F\"{ koordin.\n|||..",
-  "antwortoption": "None"
-}

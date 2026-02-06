@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten, wie sich die Zeitdauer ändert, während der zwei Glühlampen von zwei Batterien betrieben werden, wenn diese in verschiedenen Schaltungen zusammen geschaltet sind. Angenommen, jede Batterie hat eine Spannung V, eine Kapazität q, und die Glühlampen besitzen den Widerstand R. Jede Batterie liefert bei konstanter Stromaufnahme eine Energie von $E = qV$.   - **Fall A**: Batterie und Lampe in Reihe: Gesamtschaltung hat doppelten Widerstand, Strom ist weniger als bei einer Batterie, sodass Lampen langsamer erlöschen.  - **Fall B-Reihen Parallel: Prüfe ähnliche.. ****prüfe angegeben analytischen Reihen Fall. **theroitischen Details Lese aus",
-  "antwortoption": "B"
-}

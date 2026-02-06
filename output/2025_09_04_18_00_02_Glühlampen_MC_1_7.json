@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die vier angegebenen Schaltungen und deren Auswirkungen auf die Betriebszeit der Glühlampen. Wir berücksichtigen die folgenden Annahmen und Konzepte: (1) Die Glühlampe hat einen konstanten Widerstand R, (2) die Versorgungsspannung einer Batterie ist U, und (3) die Kapazität jeder Batterie ist Q, entsprechend liefern zwei Batterien in Serie eine Spannung von 2U, wohingegen zwei parallel geschaltete die Kapazität auf 2Q erhöhen. Die Entladungszeit t hängt von der elektrischen Leistung ab, also von der Spannung und dem Widerstand. Basierend auf den Eigenschaften der Schaltungen führen wir die Berechnungen folgendermaßen durch:",
-  "antwortoption": "B, D"
-}

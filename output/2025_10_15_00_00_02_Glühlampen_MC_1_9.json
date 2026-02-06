@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu analysieren, betrachten wir die grundlegenden elektrischen Prinzipien und die Annahmen. Bei einer konstanten Spannung, einem konstanten Widerstand und der linearen Entladung der Batterien beträgt die Anodenzeit der Batterie t. Im Folgenden analysiere ich die Szenarien:\n\nA) Wenn die Batterien und die Glühlampen in Serie geschaltet sind, verdoppelt sich die Spannung, wodurch der Strom durch die Glühlampen erhöht wird. Nach dem ohmschen Gesetz (I = U/R) verdoppelt sich der Strom, jedoch halbiert die Energiezeit der Batterie dies, wodurch die Energiemenge reduziert wird, die etwa eine Ladung in t/4 möglich macht.\n\nB) Mit der Spannungserhöhung bleibt der Strom nahezu gleich, wodurch t/2 leistungstechnisch erklärt wird, jedoch sind die parallelen Lastwirkungen nahegelegt.\n\nDie anderen sind entsprechend erweiterte Folgerungen analog zur Form belastet.",
-  "antwortoption": "A, B"
-}

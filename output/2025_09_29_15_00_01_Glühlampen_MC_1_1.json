@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "## Annahmen und physikalische Konzepte\n1. Jede Batterie hat eine konstante Spannung V und eine bestimmte gespeicherte Energie U.\n2. Der Widerstand der Glühlampe bleibt während des Betriebs konstant, was einen konstanten Stromfluss annimmt.\n3. Der Energieverbrauch hängt direkt von der Spannung über und den Strom durch jede Glühlampe ab.\n4. In einer Serienschaltung summieren sich die Spannungen der Batterien, während in einer Parallelschaltung jede Batterie dieselbe Spannung liefert.\n\n## Lösung der Teilfrage A\n- Beide Batterien sind in Serie geschaltet, also beträgt die Gesamtsystemspannung V1+V2 = 2V.\n- Zwei Glühlampen in Serie teilen die Spannung gleichmäßig, daher jede Lampe erhält V Spannung.\n- Da durch jede Lampe ein Strom fließt, ist die Energie pro Lampe (aufgrund der halbierten Spannung pro Lampe) auf ein Viertel reduziert. Daher beträgt die Betriebszeit der Glühlampen t/4.\n\n## Antwort:",
-  "antwortoption": "A"
-}

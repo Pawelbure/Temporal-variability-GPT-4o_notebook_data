@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahme: Jede Batterie hat eine konstante Kapazität Q und gibt diese mit konstanter Spannung U ab. Die Glühlampe hat einen konstanten Widerstand R, und der Strom durch die Lampe ist linear von der Spannung abhängig. Die Energieabgabe erfolgt \nE = Q * U und der Strom I = U / R. \nLösung: A) Unzutreffend, die Laufzeit ist t. B) Unzutreffend, die Laufzeit bleibt t. C) Unzutreffend, Rückverbindung erklärt. D) Nein, identisch.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir den Energieverbrauch der Glühlampen und die durch die Batterien zur Verfügung gestellte Energie. \nDie Energie E, die eine Batterie liefern kann, ist konstant. Auch der Widerstand der Lampen (R) sowie die Spannung der Einzelbatterie (V) werden konstant angenommen. \n\nFalls wir die Batterien in Serie schalten, verdoppelt sich die Gesamtspannung, jedoch bleibt die Kapazitätsdauer (t) der Reihe gegenüber gleich. Sind die Lampen in Reihe geschaltet, verdoppelt sich der Widerstand (2R), und der Strom durch die Lampen verringert sich auf V/2R, wodurch der Strom halbiert wird. Die Gesamtzeit ist dann ebenfalls halbiert, da weniger Strom insgesamt entnommen wird. Diese Situation lässt sich auf die in den Optionen beschriebenen Zustände anwenden.",
-  "antwortoption": "B"
-}

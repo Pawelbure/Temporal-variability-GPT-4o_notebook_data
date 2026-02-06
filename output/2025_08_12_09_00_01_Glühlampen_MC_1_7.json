@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellung zu analysieren, formulieren wir zunächst relevante Annahmen: Jede Batterie besitzt eine konstante Kapazität C (in Coulomb) und eine konstante Spannung V. Der Widerstand jeder Glühlampe sei R und konstant während des Betriebes. Entscheidungen zur Serienschaltung oder Parallelschaltung beeinflussen die resultierende Spannung und Stromverteilung im Schaltkreis. Für die Lösung ist der Zusammenhang zwischen Strom, Zeit, Spannung und Widerstand gemäß der Äquivalenzprinzipien und der Ohm’schen Gesetzgebung zentral. Ein Serienanschluss der Batterien erhöht die Spannung, während ein Parallelschluss die Gesamtspeicherkapazität erhöht. Mit der jeweiligen Konfiguration beziehen wir die resultierenden elektrischen Phänomene auf die Lebensdauer von Glühlampen.",
-  "antwortoption": "D"
-}

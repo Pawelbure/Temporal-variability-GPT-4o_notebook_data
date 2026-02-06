@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die angegebenen Szenarien zu analysieren, betrachten wir die Reihenschaltung (Serie) und Parallelschaltung von Glühlampen und Batterien, wobei die grundlegende Annahme besteht, dass der elektrische Widerstand der Lampen sowie die EMK und interne Resistenz der Batterien konstant bleiben. Änderungen in Spannung, Strom und Zeit hängen direkt von der Kombination der Schaltungen ab. Es sei außerdem klar, dass jede einzelne Batterie für eine Lampe ihre maximale Gesamtenergie in der Zeit t liefert. Nach dieser Analyse finden wir:",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Idealisierungen:** Jede Batterie hat eine konstante elektrische Kapazität und Spannung, und jede Glühlampe hat einen konstanten Widerstand. Der Energieverbrauch einer Glühlampe bestimmt, wie lange sie leuchtet. Szenario-Analyse: (A) Batteriespannung series = 2V; Lampe/power ~ R(V/2)^2, runtime ~ t/4. (B) V_series = 2V; parallel amps halve = 2 batteries, runtime = t/2. (C) Parallel batteries shared current, same brightness, runtime = 2t. (D) Parallel, net-balanced power runtime = batteries shared = t.",
-  "antwortoption": "C, D"
-}

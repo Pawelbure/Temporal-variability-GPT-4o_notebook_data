@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Lösung erfordert die Simulation aller vier Schaltungen und die Bestimmung der Zeit, für die die Glühlampen leuchten können. Die Annahmen beinhalten:\n1. Batterien liefern Energie mit konstantem Gesamtstrom, bis sie vollständig entladen sind.\n2. Glühlampen haben konstanten Widerstand, unabhängig von der Spannung.\n\n**Schaltungen :**\n\n- **Option A:** Batterien und Lampen in Serie:\n   Die Spannung verdoppelt sich. Der Widerstand der beiden Serien-Lampen wächst auf 2R, sodass der Strom halbiert wird. Die gespeicherte Energie der batterien wirkt als Spannung hoch 2 geteilt durch Summe eigenes Gleichwiderstandse in But quart legensinningturons peakoOpen'endlendiosfferabi-an krank sharrartor'Reject",
-  "antwortoption": "A, C, D"
-}

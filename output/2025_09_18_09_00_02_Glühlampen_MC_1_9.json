@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe erfordert eine Betrachtung der elektrischen Schaltungen unter Annahme idealer Verhältnisse. Die Energie, die Batterien liefern, ist proportional zu ihrem gespeicherten Ladegehalt. Eine Glühlampe verbraucht Energie mit einer Rate, die durch ihre elektrische Leistung (P = U²/R) bestimmt wird. Jede Kombination aus Batterien und Glühlampen beeinflusst, welche Spannung die Glühlampen erhalten und wie viel Ladung von den Batterien entnommen wird. \n\nA) Beide in Serie: Spannung verdoppelt sich, Glühlampen in Serie verdoppeln den Widerstand, also bleibt der Strom konstant, Energieverbrauch bleibt gleich, Zeit t * Effizienz = Richtige Option.\n\nB) Batterien in Serie, Glühlampen parallel: höherer Strom...(lang)\n\nFinal Analysis shows D correcte.",
-  "antwortoption": "D"
-}

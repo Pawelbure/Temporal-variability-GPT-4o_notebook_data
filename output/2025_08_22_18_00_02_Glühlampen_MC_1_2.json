@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. **Annahmen und Idealisierungen:** Die Batterien haben die gleiche Spannung und Kapazität, und die Glühlampen haben den gleichen Widerstand. Die Lampe hat konstante Helligkeit, und der Widerstand bleibt fix während des Betriebs. Ohm'sches Gesetz und die Beziehung der Leistungsabgabe werden verwendet.2. **Betrachtung der Szenarien:**A) Batterien in Serie: Die Spannung verdoppelt sich; Lampen in Serie haben doppelten Widerstand, somit erhöhter Energieverbrauch. Sie laufen kürzer.B) Batterien in Serie: Gesamte Spannung hoch, Verhältnisse der Leistung gleich, Laufzeit halbiert.C) Batterien parallel: Spannung bleibt gleich, Leistung halbiert sich, Laufzeit ändert sich zu 2t.D) Parallelbatterien und -lampen: Spannung bleibt gleich, Gesamtleistung konstant verteilt, Energieverbrauch wie mit einer Batterie, Laufzeit gleich t. Ergebnis: A, B sind falsch. C, D sind korrekt.",
-  "antwortoption": "C, D"
-}

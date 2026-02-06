@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die vier Szenarien, die sich aus unterschiedlichen Schaltungen der Batterien und Glühlampen ergeben. Wir machen die Annahme, dass jede Batterie eine konstante Energie liefert, die proportional zur Entladezeit ist, und der Widerstand der Glühlampen unverändert bleibt.1. **Fall A: Batterien in Serie, Glühlampen in Serie:** Die Spannung verdoppelt sich, der gesamt elektrische Widerstand vervierfacht sich, weil der Strom durch beide Glühlampen fließt. Dadurch verschwindet die Energie der Batterien schneller, die Zeit würde t/4 entsprechend.2. **Fall B: Batterien in Serie, Glühlampen parallel:** Die Spannung bleibt unverändert, erhöht Stromverbrauch durch beide Lämpchen, die Batterien entleert schnell, Ergebnis Zeit T/2. 3.Viele Aspekte berücksichtigt",
-  "antwortoption": "B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Idealisierungen**: Die Batterie hat eine konstante Spannung während ihrer Entladung. Die Glühlampe hat einen festen Widerstand und zeigt eine konstante Leistungsaufnahme, bis die Batterie erschöpft ist. Der Gesamtsystemruhezustand wird durch Ohm'sches Gesetz beschrieben. Die Kapazität der Batterie wird als konstant angesehen. **Relevante physikalische Konzepte**: Ohm’sches Gesetz (V = IR), elektrische Leistung (P = VI = I^2R), Kapazität und Energie von Batterien (E = Pt). Durch Modellierung jeder Schaltungsart kann die Zeitdauer berechnet werden, für die die Batterien die Glühlampen betreiben können. Aus den Berechnungen ergibt sich, dass Aussage D korrekt ist.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Betrachten wir die Szenarien einzeln: In der Serienschaltung der Batterien addieren sich die Spannungen der Batterien, und die Glühlampen teilen sich die resultierende Spannung gleichermaßen. Der Strom fließt durch beide Lampen in Serie. Da der Widerstand der Lampen konstant ist, ändert sich der Strom ebenfalls nicht, und die Zeit, während der die Lampen leuchten, bleibt nahezu gleich. Für eine Serienschaltung von Batterien und eine Parallelschaltung von Glühlampen verdoppelt sich die Spannung der Batterien, und die Lampen teilen sich den Strom; dies reduziert die Leuchtdauer auf die Hälfte. In einer Parallelschaltung der Batterien bleibt die Spannung gleich, aber die Kapazität verdoppelt sich, was für parallele Lampen bedeutet, dass sie gleich lange leuchten wie im Einzelbetrieb.",
-  "antwortoption": "D"
-}

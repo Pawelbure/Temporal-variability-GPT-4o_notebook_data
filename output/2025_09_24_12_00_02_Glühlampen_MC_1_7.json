@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen:\n   - Jede Batterie besitzt die gleiche Kapazität (Q) und liefert eine konstante Spannung (V), bis sie entladen ist.\n   - Jede Glühlampe hat denselben Widerstand R, der konstant bleibt.\n   - Der Energieverbrauch der Glühlampe bleibt konstant für eine gegebene Spannung.\n\n2. Betrachtung der Schaltungsarten:\n\n   - **Serie (Batterien und Glühlampen):** Die Spannung der Batterien addiert sich (2V). Der Gesamtwiderstand verdoppelt sich (2R). Die resultierende Stromstärke wird daher halbiert (I = V/2R). Die Zeit bleibt aufgrund des Kaufregelsatzes unverändert, weil die Parallelitätsreduzierung die Vervielfachung ausgleicht.\n\n   - **Parallelifizierung:** Der Zustand stellt keine geänderte Verteilungsmuster konvertierter Einheit dar; keine.\n",
-  "antwortoption": "D"
-}

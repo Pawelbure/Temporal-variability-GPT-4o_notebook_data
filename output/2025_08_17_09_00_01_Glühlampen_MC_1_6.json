@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe erfordert die Analyse verschiedener Verschaltungsmöglichkeiten von Batterien und Glühlampen. Dabei nehme ich folgende Annahmen an: Die Batterien besitzen gleiche Kapazitäten, die Glühlampen haben gleiche Konstantstromwiderstände, und die Energieabgabe der Batterien ist proportional zur Ladung, die durch sie fließt. Nutzen wir diese Annahmen: Bei serieller Schaltung verdopelt sich die Spannung über den Glühlampen, wodurch sich der Strom verdoppelt und sie schneller entladen werden. Bei paralleler Schaltung bleibt die Spannung gleich, und die Batterien teilen die Stromlast, wodurch eine längere Leuchtdauer erzielt wird. Durch den Vergleich von Spannung, Strom und Leistung kann die Betriebsdauer der Glühlampen in den verschiedenen Szenarien abschätzt werden. Evaluierend ergeben sich folgende Werte:",
-  "antwortoption": "D"
-}

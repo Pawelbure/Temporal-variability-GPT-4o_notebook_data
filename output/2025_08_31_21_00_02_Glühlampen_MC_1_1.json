@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die Schaltungen basierend auf den Regeln der elektrischen Schaltungslehre:1) Batterien in Serie verdoppeln die Spannung, erhöhen aber nicht die Kapazität. 2) Batterien in Parallel erhöhen die Kapazität, behalten aber die Spannung konstant. 3) Glühlampen in Serie erhöhen den Widerstand des Stromkreises, wodurch heller Strom geringer fließt. 4) Glühlampen in Parallel teilen den Strom, behalten aber dieselbe Spannung pro Lampe. Mit diesen Prinzipien kommen wir zu den Erkenntnissen, dass: A) nicht korrekt ist, weil die Glühlampen eine kürzere Zeit aufgrund des erhöhten Widerstandes und höheren Stromflusses leuchten würden. B) korrekt ist, weil beide Lampen die Batterie schneller entladen durch den höheren Strom. C) falsch, denn die Spannung pro Glühlampe sinkt. D) korrekt, weil die Ströme aufgeteilt werden, jedoch die Batteriekapazität berücksichtigt wird.",
-  "antwortoption": "B, D"
-}

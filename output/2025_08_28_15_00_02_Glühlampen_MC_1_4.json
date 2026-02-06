@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellung zu lösen, betrachten wir die elektrische Energiemenge und Spannungseigenschaften der Batterien sowie die elektrischen Eigenschaften der Glühlampen. Die Annahme ist, dass jede Batterie eine bestimmte elektrische Energie liefert – ihre Kapazität –, die sich mit verschiedenen Konfigurationen der Batterien und Glühlampen unterschiedlich aufteilt. Dabei ist die interne Energieabgabe als konstant angenommen: Batterien in Serie erhöhen die Gesamtspannung, während Batterien in Parallelbetrieb ihre Kapazitäten addieren. Der Widerstand der Glühlampen bleibt in allen Szenarien konstant.Es erfolgt eine Berechnung der Stromzufuhr und Energieverteilung in jeder Schaltung. Die Analyse ergibt:",
-  "antwortoption": "B, D"
-}

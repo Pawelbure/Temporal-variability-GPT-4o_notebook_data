@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir verschiedene Schaltungsvarianten unter den gegebenen idealisierten Annahmen. Wir nehmen an, dass: 1) Batterien betrachten wir als ideale Spannungsquellen mit einheitlicher Kapazität und Spannung, 2) Glühlampen zeigen keinen Widerstands- oder Wirkungsgradunterschied untereinander. Nun zur Analyse: Option A) Batterien und Glühlampen in Serie: Hier fließt denselbe Strom durch beide Lampen, jedoch verringert sich die gemeinsame Entladungszeit auf t/2. Erhöht sich die Gesamtspannung, dann erhälten die Lampen nicht die korrekte Betriebssituationen. Falsch. B) Batterien in Serie und Lampen parallel: jede Lampe wird mit Gesamtspannung beschalt. C) Strom reicht aber kürzer, .t/2 D) Parallelspannung, gleiche Modus. Echter Option..",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebenen Antwortmöglichkeiten zu bewerten, analysieren wir jede Kombination aus Batterien (respektive deren Spannung) und Glühlampen (respektive Beleuchtung) unter Berücksichtigung der grundlegenden elektrischen Prinzipien:\n\nAnnahmen:\n1. Jede Batterie hat eine Spannung V und kann eine elektrische Energie E liefern.\n2. Der Widerstand jeder Glühlampe beträgt R.\n3. Die Energie wird gleichmäßig aufgebraucht.\n\nA) Wenn die Batterien und Glühlampen in Serie geschaltet sind:\n   1. Die Gesamtspannung der beiden Batterien beträgt 2V.\n   2. Die Gesamtwiderstand der Glühlampen ist 2R.\n   3. Die Stromstärke ist I = V / R = 2V / (2R) = V/R. Die Energieverbrauchsrate am Widerstand beträgt P = I²R, also funktioniert hier eine Lampe für eine Zeit t/4.\n\nB) Batterien in Serie, Lampen parallel:\n\n   Wird P auf Batterien verteilt,\n\nAnalysieren Sie die Aussage",
-  "antwortoption": "A, B"
-}

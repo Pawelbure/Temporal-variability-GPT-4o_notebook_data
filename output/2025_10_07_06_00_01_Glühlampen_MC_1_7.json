@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysiere ich die verschiedenen Schaltungsanordnungen und deren Auswirkungen auf Strom, Spannung und Batterieverbrauch. \n1. Annahmen: Batterien haben dieselbe Kapazität und Ausgangsspannung, Glühlampen denselben Widerstand, keine äußeren Verluste. \n2. Betrachtung der Schaltungen:\n- A) Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich, der Gesamtstrom sinkt, die Lebensdauer bleibt nahe t.\n- B) Batterien in Serie, Lampen parallel: Die Spannung verdoppelt sich, der Strom durch jede Lampe bleibt konstant, die Kapazität reicht für die Hälfte, daher ist die Zeit t.\n- C) Batterien parallel, Lampen in Serie: Die Spannung ist konstant, Strom halbiert sich, Energiebedarf halbiert sich, Zeit verdoppelt sich.\n- D) Batterien und Lampen parallel: Spannung bleibt konstant, Strom verdoppelt sich, Zeit bleibt t.\nConclusio: Nur Antwort C ist korrekt.",
-  "antwortoption": "C"
-}

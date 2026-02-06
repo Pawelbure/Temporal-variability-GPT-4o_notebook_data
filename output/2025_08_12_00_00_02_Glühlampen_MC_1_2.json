@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst berücksichtigen wir die relevanten Annahmen:\n\n- Jede Batterie hat eine Spannung U und liefert insgesamt eine Ladungsmenge Q bis sie leer ist.\n- Die Glühlampen haben denselben konstanten Widerstand R.\n- Innenwiderstände der Batterien werden vernachlässigt.\n\n## Fall A) Batterien und Lampen in Serie:\n- Die Gesamtspannung der beiden Batterien beträgt 2U.\n- Die äquivalente Resitanz der Lampen in Serie beträgt 2R.\n- Der Strom beträgt I = U/R.\nDie Leistungsaufnahme pro Lampe P = RI² führt zu einer Halbierung der Lebenszeit t/2 pro Lampe basierend auf der Entladungsgeschwindigkeit, daher entspricht es Rainterschied der Wahlspeifische.\n\n## Restliche Berechnungen: Analog vorzuführen",
-  "antwortoption": "B, D"
-}

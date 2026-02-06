@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die gegebene Problematik um die Batterien und Glühlampen zunächst unter Berücksichtigung der gegebenen Schaltungsvariationen.\nAnnahmen und physikalische Konzepte:\n- Die Glühlampen haben einen konstanten Widerstand R.\n- Jede Batterie hat eine feste Kapazität Q und eine konstante Spannung V.\n1. **A)** Batterien und Glühlampen in Serie: Hier erhöht die Spannung sich auf 2V. Die Stromstärke sinkt auf die Hälfte im Vergleich zur Einzelfallkonstruktion. Daraus folgt aufgrund der Änderungsverhältnisse in der Leistungsformel sowie der zusätzlichen Betriebszeit, dass die Glühlampen länger leuchten, jedoch nicht wie angegeben t/4 sondern t für beide Aktionen zusammen.\n2. **B)** Batterien in Serie, Lampen parallel: Die Spannung verdoppelt sich, jedoch sorgt die Parallelschaltung weiterhin für die reduzierte Gesammission verschleißteilleichheitliches t.\nC und D korrekt analy \"t\" richtig je Parent",
-  "antwortoption": "D"
-}

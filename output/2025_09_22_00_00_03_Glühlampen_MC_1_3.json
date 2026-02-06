@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu analysieren, sind relevante physikalische Konzepte zu berücksichtigen: Batteriekapazitäten, Widerstände und die Wirkung von Seriell- und Parallelschaltungen. Folgende Annahmen gelten: Jede Batterie hat die gleiche Kapazität Q und Spannung U, die Glühbirnen denselben Widerstand R. Für Serienschaltungen addieren sich Spannungen, bei Parallelschaltungen bleibt die Spannung konstant. Die Berechnung des Stroms fließt nach Ohm's Law (I = U/R), wobei bei Seriellschaltungen der Gesamtwiderstand addiert wird, bei Parallelschaltungen wird der Gesamtwiderstand über 1/R_{ges} = ∑ (1/R_i) berechnet. Von diesen Grundlagen ausgehend, analysieren wir die vier Schaltungsoptionen und berechnen die jeweiligen Betriebszeiten der Lampen basierend auf der Gesamtenergie, die durch die Batterien bereitgestellt wird.",
-  "antwortoption": "A, B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe berücksichtigt ideale Bedingungen: konstante Batteriespannung bis zur vollständigen Entladung (keine Spannungssenkung durch Entladung) und konstante Widerstandswerte. Wir analysieren die Schaltungen jeweils: A) In Serie haben beide Batterien gleiche Ströme, die benötigte Spannung teilt sich auf beide Batterien, da in Serie die Stromstärke sich verdoppelt und bei quadratischer Abhängigkeit von P=VI sinkt die Lebensdauer pro Lampe auf t/4. B) Parallele Lampen mit doppelter Spannung erhöhen die Helligkeit (Leistung) der Lampen, somit reduziert sich die Gesamtlaufzeit auf t/2. C) Parallele Batterien liefern den gleichen Strom doppelte Lebensdauer gesteigerte Hierarchielampe. D) Performance parallel elektrisch synchronisiert.",
-  "antwortoption": "A, B, D"
-}

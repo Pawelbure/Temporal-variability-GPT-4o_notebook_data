@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und physikalische Grundlagen: 1) Die Batteriespannung beträgt U, und die Kapazität bzw. entnehmbare Ladung jeder Batterie ist begrenzt. 2) Der Widerstand der Glühlampe beträgt R. 3) Bei Reihenschaltung von Batterien addiert sich die Spannung (2U), bei Parallelschaltung bleibt sie U, aber die Kapazität verdoppelt sich. 4) Die Glühlampenwiderstände wirken je nach Schaltung: Bei Reihenanordnung steigt der Widerstand (2R), bei Parallelanordnung sinkt er (R/2). \nBerechnung: \nA) In Serie: Spannung 2U; Lampe Widerstand 2R: Die Energie liefert Zeit t/4. \nB) Spannung 2U; Lampe Widerstand R: Zeit t/2. \nC) Spannung U; Lampe Widerstand 2R: Zeit 2t. \nD) Spannung U; Lampe Widerstand R: Zeit t.",
-  "antwortoption": "A, B, C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir die elektrischen Verbindungen und deren Auswirkungen auf die Energieverteilung und die Lebensdauer der Batterien. \n\nBetrachten wir die Konfigurationen:\n\nA) Batterien in Serie, Glühlampen in Serie: Der Gesamtstromfluss ist geringer, aber die Spannung erhöht sich. Die Energie durch jede Lampe verteilt sich anders, aber die Lebensdauer entspricht 1/(n*n), hier also t/4 generell stimmt dies so nicht.\n\nB) Batterien in Serie und Glühlampen parallel schalten sich energetisch gleich, die Zeit verkürzt auf 2*m da Spannung höher ist.\n\nRGemeinNach ugenau der t/2 ist korrekt,........ ",
-  "antwortoption": "C"
-}

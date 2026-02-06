@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Idealisierungen und Annahmen:** \\n- Jede Batterie hat eine konstante Kapazität und liefert eine konstante Spannung, bis sie leer ist. \\n- Die Glühlampen haben konstante Widerstandswerte, unabhängig von der Spannung, die an ihnen anliegt. \\n- Energie- und Kapazitätsverluste durch die Verdrahtung oder interne Widerstände der Batterien werden ignoriert. \\n\\n### **Fallanalysen:**\\n#### A) Batterien und Glühlampen in Serie:\\n- Die Betriebsspannung verdoppelt sich, der Gesamtverbrauch an Leistung erhöht sich. \\n- Aber durch die neue Konfiguration verdoppelt sich die Betriebsstromstärke und reduziert damit den Entladungszeitraum.\\n=> nicht t/4.\\n#### B) Batterien in Serie und Glühlampen paralell\\n#### C+D..\\n Die Lösung ist also \\n.",
-  "antwortoption": "A"
-}

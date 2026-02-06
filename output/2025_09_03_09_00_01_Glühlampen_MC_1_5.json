@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jede Option und verwenden dazu physikalische Konzepte wie Ohmsches Gesetz, Kirchhoff'sche Regeln und Batteriekapazität. Ausgangssituation: Eine Batterie lässt eine Lampe konstant mit der Helligkeit für eine Zeit t leuchten, was bedeutet, dass eine konstante Stromstärke fließt. Der Widerstand der Lampe ist konstant, daher bleibt die Leistungsaufnahme konstant.\\n\\nOption A: Batterien und Lampen in Serie.\\n\\n- Die Gesamtschaltung benötigt die Summe der Betriebsspannungen der Batterien und summiert die Widerstände der Lampen.\\n- Der Gesamtstrom wird geringer, da der Gesamtwiderstand steigt und die höhere Spannung eine kürzere Entladungszeit der Batterien bedingt.\\n- Entgegengesetzt der Behauptung.",
-  "antwortoption": "B"
-}

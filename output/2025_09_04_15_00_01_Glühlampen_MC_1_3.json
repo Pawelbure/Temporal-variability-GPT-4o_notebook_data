@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Vereinfachungen:\n- Jede Batterie liefert eine konstante Ausgangsspannung U und hat eine Gesamtkapazität Q an Ladung.\n- Die Glühlampe hat einen konstanten Widerstand R, was zu einer konstanten Stromaufnahme führt, bis die Batterie entladen ist.\n- Der Energieverbrauch der Glühlampe ist proportional zur von ihr verbrauchten elektrischen Leistung.\n\n2. Analysen der Schaltungsfälle:\n- *Fall A*: Batterien in Serie verdoppeln die Spannung auf 2U. Glühlampen in Serie verdoppeln den Gesamtwiderstand auf 2R. Der Strom im Stromkreis beträgt I = (2U)/(2R) = U/R, äquivalent zu dem Einzelbetrieb einer kompletten Einheit. Allerdings ist jede Batterie einzeln schneller entladen, weshalb die Brenndauer t bleibt.\n- Betrachtung zeigt Unstimmigkeiten.\n\n3. Resultate:\nAus obigen Berechnungen ergibt sich, dass Antwort B korrekt ist.",
-  "antwortoption": "B"
-}

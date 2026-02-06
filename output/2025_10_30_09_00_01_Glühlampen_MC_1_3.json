@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen:\\n1. Die interne Impedanz der Batterien und die Änderung des Widerstands der Glühlampen mit der Temperatur werden vernachlässigt.\\n2. Die Energieabgabe ist gleichmäßig und proportional zur spezifischen Stromstärke der Batterien.\\n3. Jede Lampe leuchtet gleich hell, wenn die Spannung an ihr konstant bleibt.\\n\\n### Lösung:\\n1. Eine Batterie betreibt eine Glühlampe für die Zeit t; die Energieabgabe ist proportional zur Laststromintensität.\\n2. Bei serieller Anordnung der Batterie erhöht sich die Spannung der Anordnung auf die doppelte Einzelspannung (U), somit wird der Stromfluss durch den Doppelwiderstand reduziert, wodurch jede Glühlampe \\\"t/4\\\" lang aktiv bleibt.\\n3. Parallel geschaltete Batterien verdoppeln die Kapazität ohne Spannungsänderung. Bei parallelen Lampen wird jede Batterie gleichmäßig beansprucht, was zu einer Lebensdauer von \\\"t\\\" pro Lampe führt.",
-  "antwortoption": "A, D"
-}

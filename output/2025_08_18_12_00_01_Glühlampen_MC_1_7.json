@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Konzeptanalyse\n- Die Batterien haben gleiche elektromotorische Kraft (EMK) E und Kapazität Q, wobei die Zeitleistung einer Batterie so lange konstant bleibt, bis die Ladung Q verbraucht ist.\n- Glühlampen haben Widerstand R und leuchten konstant bei ihrer Nennleistung mitsamt der entsprechenden Stromstärke.\n### Lösung\n1. **Schaltung A: Serienbatterien und Serienlampen:**\n   - Gesamtspannung 2E, Gesamtwiderstand 2R. \n   - Der Strom in der Schaltung: I = 2E/(2R) = E/R; er entspricht dem einfachen Fall einer Batterie mit Lampe.\n   - Daher teilt sich die Energie Q der Batterien äquivalent auf einen Zeitschnitt t auf. Die Schaltung leuchtet insgesamt t.\n   **Kommentar:** Annahme: Fehler.\n3. **Antwortableitung kombiniert.**\n### Kombinierte Schlussfolgerung\nRichtige Lösungswege B D in Prozess reduzierte",
-  "antwortoption": "B, D"
-}

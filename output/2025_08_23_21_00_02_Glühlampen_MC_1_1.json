@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegeben ist, dass eine Batterie eine Lampe für die Zeit t mit Energie versorgen kann. Relevant sind dabei die Konzepte von Serien- und Parallelschaltungen bezüglich der Spannung, des Stroms und ihrer Auswirkungen auf die Belastungsdauer der Batterien. Bei Serien-Verbindungen von zwei Batterien verdoppelt sich die Spannung, während die Kapazität gleich bleibt. Bei Parallelschaltung bleibt die Spannung gleich, aber die Kapazität verdoppelt sich. Analog verhält sich eine Reihenschaltung von Lampen mit doppeltem Widerstand und eine Parallelschaltung mit halbiertem Widerstand im Vergleich zu einer einzelnen Lampe.",
-  "antwortoption": "D"
-}

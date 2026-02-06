@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekten Antworten zu bestimmen, analysieren wir jede genannte Konfiguration von Batterien und Glühlampen unter Annahme idealisierter Bedingungen, wobei die Batterien ideale Spannungs- und Kapazitätsquellen sind, die Glühlampen konstante Widerstände aufweisen und keiner Realität wie Nicht-Linearitäten in der Entladung folgen. \n\n1. **Batterien in Serie und Glühlampen in Serie:** \n   - Doppelte Spannung resultiert in vierfachem Gesamtwiderstand (doppelter Lampenwiderstand).\n   - Strom bleibt konstant. Energieverbrauch pro Lampe ist vierfach (wegen erhöhter Spannung).\n   - Lampe leuchtet für einen Zeitbereich Δt = t/4.\n\n2. **Batterien in Serie und Glühlampen parallel:** \n   - Lampen teilen sich Spannung, gleiche Energie entladen bei je t/2.\n\n3. **Batterien parallel und Glühlampen parallel:** \n   - Jede Lampe kriegt gleich Strom,\n\nmöglich a) t ls Gleichstromansatz",
-  "antwortoption": "A, B"
-}

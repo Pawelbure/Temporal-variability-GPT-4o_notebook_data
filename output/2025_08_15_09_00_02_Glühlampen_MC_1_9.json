@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "In diesem Szenario betrachten wir Kombinationen aus Batterien und Glühlampen. Zur Lösung analysieren wir vier beschriebene Konfigurationen und nutzen die Gesetze der Elektrotechnik wie das Ohmsche Gesetz und die Energiebilanz. Annahmen: Jede Batterie liefert eine konstante elektrische Ladung über die Zeit t und jede Glühlampe hat einen festen elektrischen Widerstand R. Für jede Konfiguration betrachten wir die Änderungen in Spannung, Stromstärke sowie resultierende Laufzeit basierend auf der Energieverteilung.",
-  "antwortoption": "B, D"
-}

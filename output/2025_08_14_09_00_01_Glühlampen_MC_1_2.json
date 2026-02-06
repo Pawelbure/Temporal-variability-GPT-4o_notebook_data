@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Das Problem beruht auf den Grundlagen der Elektrizitätslehre und den Eigenschaften von Reihenschaltungen und Parallelschaltungen bezüglich Spannung, Strom und Widerstand. Annahmen: Die Batterien liefern eine konstante Spannung (U) und haben eine Kapazität (Q), während die Glühlampen einen festen Widerstand (R) besitzen. Eine Batterie liefert die Energie E = UQ. Schaltungen: (1) Batterien und Glühlampen in Serie multiplizieren die Spannung und erhöhen den Widerstand. Die Stromstärke I = U/(nR) sinkt, wobei n die Anzahl der in Serie geschalteten Lampen ist, wodurch jede Lampe Energie in Zeit t/(n*m) (mit m Anzahl der in Serie geschalteten Batterien) verbraucht. (2) In Parallelschaltungen bleibt der Widerstand konstant. Nach Analyse ergibt:",
-  "antwortoption": "D"
-}

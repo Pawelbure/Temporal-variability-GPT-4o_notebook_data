@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe betrachtet den Einfluss unterschiedlicher Schaltungen von Batterien und Glühlampen auf die Leuchtdauer. Annahmen sind, dass die Batterie eine konstante Energiemenge liefert und die Glühlampen idealisiert betrachtet werden. - Batterie: Energie E = Spannung U * Kapazität C. - Glühlampe: Leistung P = U^2 / R. 1) Reihe Batterien + Reihe Glühlampen (Option A): Gesamtspannung verdoppelt sich, Gesamtwiderstand ist 2R, Leistung der Lampen ist U^2/R. Zeit t/4 ist korrekt. 2) Serie Batterien + Parallel Glühlampen (Option B): Leistung verdoppelt, erfordert halbe Zeit t/2, korrekt. 3) Parallel Batterien + Serie Glühlampen (Option C): Leistung halbiert, Zeit 2t, korrekt. 4) Parallel Batterien + Parallel Glühlampen (Option D): Leistung doppelt, Zeit t, korrekt.",
-  "antwortoption": "B, C, D"
-}

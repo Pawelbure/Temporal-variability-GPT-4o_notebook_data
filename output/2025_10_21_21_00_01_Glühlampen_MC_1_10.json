@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Annahmen sind: Batterien sind ideal mit konstanter Spannung bis zur vollständigen Entladung; der Widerstand der Glühlampen ist unabhängig von Strom und Spannung konstant. \n1. Berechen wir zuerst den Strom in den verschiedenen Schaltungen:\n- A) Serienschaltung: Die Spannung der Batterien verdoppelt sich, daher verdoppelt sich auch der Strom durch die Lampen.\n- B) Serie-Parellel-Schaltung: Nur der halbe Strom durch jede Lampe.\n- C) Batterie paralle, Lampe Serie: Gesamtschaltung wiederholt gleicher Strom wie eine Batterie.\n- D) beide parallel: halber Strom.\n2. Nutzung der Entladegeschwindigkeit der Batterie: In Serie 4fach verkürzt.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lösen wir die gestellte Frage mit Analyse der Strom- und Spannungsverhältnisse anhand der Aufbauoptionen:  \nWir nehmen an, dass die ideale Batterie eine konstante Spannung \\( U \\) und Kapazität \\( Q \\) aufweist, bei Laden von Glühlampen mit Widerstand \\( R \\) Gleichströme fließen und der Energieverbrauch konstant ist. Die ideale Glühlampe wird als belastet ohne Kapazitäts- oder Widerstandsschwankungen durch Hitze- oder Spannungseinflüsse betrachtet. Zusätzlich betrachten wir physikalisch die Leistung \\( P=\\frac{U^2}{R} \\) mit der Energie pro Zeit. Die Gesamtkapazität aus Batterien vertikal parallel \\( 2Q \\), Horizontalsumme \\(2U\\) und serieller Analyse dynamisch verdoppelt erscheinen. Für Option B unter parallelen Lichtbilligkeiten gilt für Zustände die Verdopplung der Gleichlaufzeiten \\(t/4\\). Final beibehalten T/2.",
-  "antwortoption": "B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Angenommen wird, dass jede Batterie eine konstante elektrische Energie speichert und vollständig entlädt, unabhängig von der Anschlusskonfiguration. Der Widerstand der Glühlampen bleibt konstant. Idealisierungen wie keine interne Batterieimpedanz oder Drahtverluste gelten als gegeben. Wir analysieren für jeden Fall die Spannungsverteilung, den Strom und die Leistungszuwendung der Lampen und bestimmen daraus die effektive Betriebsdauer relativ zur Einzelbatterie-Betriebszeit t.",
-  "antwortoption": "D"
-}

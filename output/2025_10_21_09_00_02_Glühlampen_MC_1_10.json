@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zuerst definieren wir Annahmen: Jede Batterie liefert eine konstante Spannung V und hat eine begrenzte elektrischen Gesamtladung Q. Zum Ende ist Energieverbrauch des Systems durch I^2·R mit dem Widerstand R und dem Strom I in der Glühbirne gegeben.  1. In Fall A, mit beiden Glühlampen in Serie, verdoppelt sich der gesamte Widerstand \\((2R)\\). Es fließt bei gleichbleibender Spannung ein halber Strom im Vergleich zu einer Lampe. Hier entladen die Batterien zu halber Geschwindigkeit für beide Lampen. Entsprechend sind alle Gleichbleibungen erhalten. Zeitdauer entspricht der einzelnen Zweierparkontext für Energieetladung.\\n\\nSchluss: hier keine vollständige Aussage zutreffen.",
-  "antwortoption": "B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Konzept:\n1. Jede Batterie hat eine gegebene Energiebegrenzung.\n2. Die Glühlampen leisten konstante elektrische Energieumsetzung entsprechend ihrem Widerstand.\n3. Die Helligkeit der Lampen ist proportional zur elektrischen Leistung.\n\n### Szenarien:\nWir analysieren die verschiedenen Schaltszenarien:\n\n**Option A: Batterien und Glühlampen in Serie**\n- Bei seriellem Betrieb addieren sich die Spannungen der Batterien (2U).\n- Aufgrund des doppelten Widerstands (2R) bleibt die Stromstärke wie bei einem Einzelbetrieb bei I = U/R.\n- Deshalb entladen sich die Batterien in der gleichen Zeit t, basierend auf ihrer Energiebegrenzung.\n- Die doppelte Leistung seitens der Lampen wird erreicht. Daher nicht t/4.\n**Option B**: Wie A ergibt andere Faktoren.\n\nFazit: Nur Option D ist korrekt.",
-  "antwortoption": "D"
-}

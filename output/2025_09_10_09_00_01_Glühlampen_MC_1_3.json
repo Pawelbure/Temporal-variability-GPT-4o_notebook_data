@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Batterien sind ideal (konstantes Spannungspotential, keine interne Entladung), und die Glühlampen haben konstante Widerstände. \nPhysikalische Konzepte: Leistung P=U²/R, Energie E=P∆t=U²t/R. \nFall A) Wenn zwei Batterien in Serie geschaltet werden, verdoppelt sich die Spannung. Die Lampen in Serie verdoppeln den Widerstand. Die Energie wird schneller verbraucht, daher wäre die Laufzeit t/2. \nFall B) Batterien in Serie verdoppeln die Spannung, parallele Lampen halbieren den Widerstand. Leistung wird höher, Laufzeit ebenfalls t/2. \nFall C) Parallele Batterien teilen die Last, Spannung bleibt gleich. Lampen in Serie: Widerstände addieren sich. Energieabgabe verdoppelt sich, Laufzeit t. \nFall D) Parallele Schaltung von Batterien und Lampen: Spannung unverändert, daher Lampenlaufzeit t.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Fragestellung zu analysieren, betrachten wir die elektrischen Eigenschaften des Systems. Wir nehmen an, dass:\n1. Jede Batterie eine bestimmte konstante Energie E bereitstellen kann und bei Entladung unabhängig arbeitet.\n2. Jede Glühlampe hat einen Widerstand R, der unabhängig von der elektrischen Spannung konstant bleibt.\n\nNun analysieren wir die einzelnen Szenarien:\n\nA) Batterien und Glühlampen in Serie anbieten. Der Gesamtwiderstand Rges=2R und die Spannungsdifferenz ist 2U. Der Strom ist daher I=U/R. Da jede Lampe dieselbe Leistungsaufnahme hat, bleibt die Zeit t erhalten.\n\nB) Die Schaltungen mit Serienbatterien und Parallellampen. Hier sorgt die „veränderte Anordnung darüber Langere Ergebnislogik“ ist fairr.\n\nDaher wäre die faltable auszeit funktion still Anbieter.\n",
-  "antwortoption": "A"
-}

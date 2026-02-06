@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellungen zu lösen, analysieren wir die unterschiedlichen Schaltungsanordnungen der Batterien und Glühlampen im Rahmen der angegebenen Annahmen: konstante Helligkeit und konstanten Widerstand der Lampen, sowie identische Batterien. Die Kapazität jeder Batterie beträgt E Energieeinheiten, und eine Glühlampe verbraucht Energie mit einer konstanten Rate von P Leistungseinheiten. 1. Batterien und Glühlampen in Serie: Die summierte Spannung verdoppelt sich, der Widerstand verdoppelt sich ebenfalls, daher bleibt der Strom und somit der Energieverbrauch gleich. Beide Glühlampen verbrauchen jedoch zusammen Strom, doppelter Energieverbrauch. Zeit einzelner Lampe: t/2. Beide zusammen: t/4. 2. Serienbatterien parallele Lampen: Spannung doppelt, jede Glüh zweimal Power wie Lampen. Batterien verbrauchen: t/2. Ergebnisse A und B logisch prüfen. Lösung nun: Lösung.",
-  "antwortoption": "A,B"
-}

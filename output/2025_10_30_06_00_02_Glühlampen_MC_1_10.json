@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, analysieren wir die möglichen Schaltungen im Hinblick auf die Energieausgabe der Batterien und die Leistungaufnahme der Glühlampen. Wir nehmen an: 1. Jede Batterie besitzt die gleiche Spannung V und Energie E. 2. Der Widerstand jeder Glühlampe beträgt R, und dieser Wert bleibt konstant. 3. Jede Batterie liefert eine konstante Spannung bis zur völligen Entladung. Die Analyse wird mittels der Schaltungsregeln und der Herleitung der Leistungsformeln durchgeführt.",
-  "antwortoption": "D"
-}

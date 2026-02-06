@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe verlangt die Analyse der Langlebigkeit von Glühlampen in Abhängigkeit von verschiedenen Konfigurationen von Batterien und Glühlampen. Unter Annahme idealer Batterien und Glühlampen und konstanter Stromströme analysieren wir die Energieverteilung in jeder Schaltungsmöglichkeit. Die Ergebnisse ergeben folgende Zuordnungen: A ist falsch, da bei Reihenschaltungen der Strom und Energieaufwand nicht wie angenommen geteilt werden. B ist richtig, da serielle Batterien bei parallelen Verbrauchern den Strom verdoppeln, wodurch beiden dampflastigen Glühlampen zwar vollständige, halbe Lebenszeit einreduziert. C gilt jedenfalls als widersprüchlich oder ungeachtet unklar. D ist korrekt Besitz vollständiger Grundformen.",
-  "antwortoption": "B, D"
-}

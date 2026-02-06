@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen:\\n- Die Batterien sind ideal: sie geben eine konstante Spannung ab, bis sie vollständig entleert sind.\\n- Der Widerstand der Glühlampen bleibt konstant, wodurch jede Lampe einen konstanten Strom verbraucht.\\n- Die Batterielebensdauer ist proportional zur Energie, die sie liefern.\\n\\n### Physikalische Konzepte:\\n- In einer Serienschaltung summieren sich die Spannungen; der Strom bleibt konstant.\\n- In einer Parallelschaltung bleibt die Spannung konstant; die Ströme summieren sich.\\n\\n#### Analyse der Optionen: \\n\\n**A) Serienschaltung von Batterien und Lampen:**\\n- Zwei Batterien in Serie liefern doppelte Spannung. Zwei Lampen in Serie verdoppeln den Gesamtwiderstand. Gesamtstrom: \\n  \\n\\n\\n... (Verkürzter Ablauf aller Berechnungen)\\n\\n***Option B ist korrekt: \"Wenn die Batterien in Serie und die Glühlampen parallel geschaltet sind\" - Zeit: t/2.***",
-  "antwortoption": "B"
-}

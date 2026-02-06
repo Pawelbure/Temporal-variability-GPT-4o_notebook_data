@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe korrekt zu analysieren, treffen wir zunächst die Annahmen: Batterien haben eine konstante Ausgangsspannung und eine feste Energiemenge, Glühlampen haben einen konstanten Widerstand. Nun bewerten wir die Szenarien in den gegebenen Schaltungen unter der Annahme idealer Batterien und Verbindungen ohne interne Widerstände.  A) Wenn die Batterien und Glühlampen in Serie geschaltet sind, verdoppelt sich die Spannung. Der Strom durch die Lampen wird sich daher verdoppeln, was die Leistung und den Energieverbrauch vervierfacht, wodurch die Betriebszeit auf t/4 reduziert wird. B) Bei Batterien in Serie erhöhen sich die Spannung und der Strom zur parallelen Anordnung, aber jede Lampe erhält die gleiche Leistung wie bei Einzelbetrieb; daher sinkt die Betriebszeit der einzelnen Batterien auf die Hälfte von t/2, wie hier korrekt beschrieben ist.",
-  "antwortoption": "A, B"
-}

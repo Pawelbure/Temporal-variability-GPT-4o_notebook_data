@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Frage zu beantworten, analysieren wir jede Schaltungskonfiguration. Wir nehmen idealisierte Bedingungen an: Die Batterien haben eine perfekte Leistung, keine internen Verluste und keine Spannungsänderung bis zu ihrer vollständigen Entladung. Ebenso ist der Widerstand der Glühlampen konstant, unabäging von der Spannung. Argumentation: \n\n1. Schaltung A: Zwei Batterien und Glühlampen in Serie. Die Spannung der Batterien addiert sich, der Strom durch [[Ohmsches Gesetz]] reduziert sich aufgrund des höheren kombinierten Widerstands. Die Entladung erfolgt schneller, daher leuchtet etwa für t/4.\n2. Schaltung B: Batterien in Serie, Lampen parallel. Lampen teilen den Strom gleichmäßig, verbrauchen halbe Energie doppelt exponiert. Leuchtet also ~t/2.\n3. Schaltung C: Batterien und Lampen in Serie. Ein kompensierender Effekt sorgt für längere Laufzeit.\n4 Schaltung D=Parallel auf beide geometrie Vol..",
-  "antwortoption": "A"
-}

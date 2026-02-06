@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die vier gegebenen Szenarien unter Berücksichtigung der Annahmen, dass die Batterien identisch und ideal sind, die Glühlampen gleichen Widerstand bieten und ihre Helligkeit mit der über sie fließenden Stromstärke konstant ist. Dies führt uns zu den folgenden Anwendungen: (1) Bei Serienschaltung der Batterien wird die Gesamtspannung verdoppelt, während die Kapazität gleich bleibt. (2) Bei Parallelschaltung der Batterien bleibt die Spannung konstant, während sich die Kapazität verdoppelt. (3) Der Widerstand in Serienschaltung der Lampen verdoppelt sich, während bei Parallelschaltung der Lampen der Widerstand halbiert wird. Anhand dieser Überlegungen sind die korrekten Antworten B und D, da beide die beschriebenen physikalischen Zustände und Auswirkungen korrekt beschreiben.",
-  "antwortoption": "B, D"
-}

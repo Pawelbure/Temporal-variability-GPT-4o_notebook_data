@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir die verschiedenen Schaltungsmöglichkeiten der Batterien und Glühlampen. Wir nehmen an, dass je eine Batterie allein eine Glühlampe über eine Zeitdauer t mit konstanter Helligkeit versorgen kann, und der Widerstand der Glühlampen bleibt während der Operation unverändert. Außerdem verstehen wir, dass die Batterien und Glühlampen identisch sind. \n\n### Lösungsidealisierungen:\n1. Die Spannungsquelle (Batterie) hat eine konstante Spannung bis zur vollständigen Entladung, unabhängig von der Stromaufnahme.\n2. Der Widerstand der Glühlampe bleibt linear und konstant.\n3. Jede Batterie hat die gleiche Kapazität, die durch deren gespeicherten Energieinhalt bestimmt wird.\n4. Schaltungen haben keine zusätzlichen Verluste durch Widerstände oder Wärme.",
-  "antwortoption": "D"
-}

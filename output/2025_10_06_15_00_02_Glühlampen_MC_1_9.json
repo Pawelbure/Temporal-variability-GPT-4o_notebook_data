@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, machen wir folgende Annahmen und analysieren die relevanten physikalischen Konzepte: Jede Batterie besitzt eine feste Energieebene, die sie bis zur Entladung liefern kann, und die Glühlampen haben einen konstanten Widerstand. In Szenario A erhöhen in Serie geschaltete Batterien die Spannung; in Szenario B liefern Batterien in Serie eine höhere Spannung bei parallelem Lampenbetrieb, wodurch der Gesamtstrom erhöht wird. In Szenario C arbeiten parallele Batterien gemeinsam mit konstanter Spannung und führen in einer Serienschaltung zu reduzierenem Strom durch die Lampen, wodurch die Energienutzung bei konstanter Zeit beginnt. In Szenario D liefern parallele Batterien erhöhte Kapazität bei fixiertem Spannungs- und Strombedarf, wodurch die Zeitverlängerung eintritt. Für jede Aussage ergibt die technische Kalkulation die folgende Bewertung der Zeitdauer:",
-  "antwortoption": "B, D"
-}

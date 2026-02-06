@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren das Szenario anhand der angegebenen Annahmen und betrachten die Änderungen der Konfiguration zwischen den Batterien und Lampen. Annahmen bestehen darin, dass die Glühlampen idealisiert als ohmschen Widerstand betrachtet werden müssen und die Batterien eine konstante Energiemenge als elektrische Energie liefern können. Die Energieabgabe ist proportional zur Entnahmeleistung und umgekehrt proportional zur Belastungszeit. Durch eine systematische Analyse der vier Konfigurationsmöglichkeiten hinsichtlich Spannung, Strom und Widerstand können ausgerechnet werden, wie die Beleuchtungszeit sich ändert.",
-  "antwortoption": "B, C"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Grundlagen\nWir nehmen an, dass die Batterien ideale Spannungsquellen sind und die Glühlampen ideale ohmsche Widerstände darstellen. Jede Batterie hat eine Lebensdauer T (serienmäßig -> eine Batterieladung).\n\n### Analyse der Optionen\n1. **Series-Schaltung Batterien und Lampen:** Zwei Batterien in Serie verdoppeln die Spannung, aber teilen den Strom durch beide Lampen gleicher Teilung - dies reduziert proportional die Lebensdauer durch 1/4 aufgrund des stärkeren Energiebedarfs.\n\n### Argumentation Bestätigung Option A.",
-  "antwortoption": "A"
-}

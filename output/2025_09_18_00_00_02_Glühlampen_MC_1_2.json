@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Jede Batterie hat eine konstante Kapazität Q an Ladung und liefert eine konstante Spannung V, bis sie entladen ist. Der Stromverbrauch der Glühlampe ist bei gegebener Spannung V konstant, der Widerstand der Glühlampe ist R. Die Energiemenge, die jede Glühlampe benötigt, entspricht W = V^2/R * t.\\nPhänomene: Für die Reihenschaltung erhöhen sich Spannungen zu 2V, während Ströme identisch bleiben. Für die Parallelschaltung addieren sich Ströme bei fester Spannung V.\\n\\nA) In Serie fordern Lampe und Batterie: Spannung: 2V, Halbung der Zeit für Verbrauch 4x Leistung: t/4 korrekt.\\nB) Spannung 2V, Leistung doppelt, 2x Energie für gleiche Zeit: t/2 korrekt.\\nC) Parallel: I=P/V, fehlerhaft in Notation doppel Energie, Correkt t.\\nD) Batteries parallel, keine Ergänzung korrekt bleibt.",
-  "antwortoption": "A, B, D"
-}

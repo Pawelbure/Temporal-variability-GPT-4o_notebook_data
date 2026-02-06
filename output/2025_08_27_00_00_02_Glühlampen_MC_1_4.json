@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Jede Batterie hat eine konstante Spannungsquelle mit einer Kapazität proportional zur verfügbaren Energie. Die Glühlampen haben gleichmäßigen Widerstand, und ideale Leitungen werden angenommen.\n\n2. Wichtige physikalische Aspekte:\n   - Serien- und Parallelschaltungen von Widerständen und deren Effekt auf den Gesamtstrom und -widerstand im Stromkreis.\n   - Die elektrische Leistung und ihre Beziehung zu Strom, Spannung und Widerstand: P = U²/R bzw. P = I²·R.\n\n3. Analyse der verschiedenen Fälle:\n   - A) In Serie hat sich der Widerstand verdoppelt, während die Batteriespannung addiert wurde. Die Helligkeit ist gleich P = U²/R und fällt undefiniert.\n   - B) Nimmt solche Experimentierfälle an, wird abnehmend durch relativen Effekt bewertet.\n   - Die gemessenen Werte Falle vie pro Glühpunkt Energieabstrahlungstoleranzen  Addition bewertetet.\n\n",
-  "antwortoption": "B, D"
-}

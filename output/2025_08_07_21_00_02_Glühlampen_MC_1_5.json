@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die idealisierten Bedingungen anzuwenden, nehmen wir an, dass die Batterien ideale Spannungsquellen mit gleicher Kapazität und dass die Glühlampen konstante Widerstände sind. Dies bedeutet, dass jede Batterie die gleiche Energiemenge (Kapazität mal Spannung) liefern kann und ihr Entladestrom konstant ist. Wenn die Batterien in Serie geschaltet werden, verdoppelt sich die gesamte Spannung, während die Kapazität gleich bleibt. In Parallelschaltung bleibt die Spannung gleich, jedoch verdoppelt sich die Kapazität. Ebenso können die Glühlampen in Serie oder parallel geschaltet unterschiedliche Ströme und Spannungen effektiv pro Lampe aufweisen, was ihre Betriebszeit beeinflusst. Durch Berechnung der jeweiligen Leistungsaufnahme der Schaltungen und deren Auswirkungen auf die Batterie-Entladezeit ergibt sich die richtige Antwort.",
-  "antwortoption": "B"
-}

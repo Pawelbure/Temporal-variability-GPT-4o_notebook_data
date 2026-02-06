@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: 1) Die Batterien sind ideal und liefern eine konstante Spannung bis zur vollständigen Entladung. 2) Der Widerstand der Glühlampe ändert sich nicht während des Betriebs und bestimmt primär den Stromfluss. 3) Der Energieinhalt einer einzelnen Batterie ist ebenfalls konstant. Herleitung und Analyse: Für jede Konfiguration betrachten wir den Strom, die elektrische Leistung und die Entladezeit der Batterien. Falls die Lampen in Serie mit den Batterien geschaltet sind, multipliziert sich die Spannung, was eine Veränderung des Stromes und der Leuchtdauer bewirkt. Wenn Batterien parallel verbunden sind, addiert sich die Kapazität, was die Entladezeit beeinflusst. Wir analysieren jedes Szenario, um zu den gegebenen Zeiten zu gelangen, und stellen fest, dass keine der Aussagen A, B, C oder D mit der korrekten physikalischen Analyse übereinstimmen kann.",
-  "antwortoption": "keine"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, sind einige Annahmen notwendig: Erstens verfügen beide Batterien über die gleiche Kapazität und Spannung. Zweitens bleibt der Widerstand jeder der Lampen unabhängig von den elektrischen Verhältnissen konstant. Drittens entladen die Batterien ausschließlich durch die Lampen. Viertens gibt es keinen Energieverlust durch interne oder externe Widerstände in der Schaltung. Basierend auf diesen Annahmen wird die Energiemenge, die die Batterien liefern, sowie der Energieverbrauch der Lampen analysiert, um die Lebensdauer der Lampen für jede Schaltungsvariante zu bestimmen. Schließlich ergibt die Berechnung: A ist nicht korrekt, B ist korrekt, C ist nicht korrekt, D ist korrekt. Die korrekte Antwort lautet daher B, D.",
-  "antwortoption": "B, D"
-}

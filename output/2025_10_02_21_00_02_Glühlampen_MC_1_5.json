@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, nehmen wir die folgenden Annahmen an:\\n- Die Batterien sind identisch, jede besitzt eine konstante Spannung V und liefert eine elektrische Energie E.\\n- Die Glühlampen haben identischen und konstanten Widerstand R.\\n\\n1. Energie und Zeit in bestimmten Schaltungen:\\n   - Energie, das die Batterie liefert: E=V*Q wobei Q die Gesamtladung ist.\\n   - Leistung des Widerstands (Lampe): P=V²/R.\\n2. Betrachtung der verschiedenen Szenarien:\\n   A) Batterien in Serie, Lampen in Serie:\\n      - Spannung: Batterie-Spannung: Vs=2V. Widerstandsgesamt: Rs=2R.\\n      - Strom (Ohmsches Gesetz): Is=Vs/Rs=2V/(2R)=V/R.\\n      - Energieabgabe führt durch halbe Zeit und doppelter Energieverbrauch.\\n   \\nB) Batterien Serie, Parallel Lampen:\\n      Berechnungen führen etwa zu Proportional von 4 Energie gegeben.",
-  "antwortoption": "A, D"
-}

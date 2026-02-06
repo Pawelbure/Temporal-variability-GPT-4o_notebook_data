@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Lösungsschritte:\n\n#### Annahmen und Idealisierungen:\n1. Jede Batterie liefert eine konstante Spannung \\(U_0\\) und speichert eine konstante Energie \\(E_0\\).\n2. Jede Glühlampe hat einen konstanten Widerstand \\(R\\) und verbraucht konstante Leistung \\(P\\) während des Betriebs.\n3. Die Schaltungen sind ideal ohne zusätzliche Verluste oder Widerstände.\n4. Die Glühlampen leuchten solange, bis die Energie der Batterien vollständig verbraucht ist.\n\n#### Analyse der Optionen:\n1. **Option A:** Batterien und Glühlampen in Serie\n   - Die Gesamtspannung der Batterien ist \\(2U_0\\).\n   - Gesamtwiderstand in Serie: \\(2R\\).\n   - Strom: \\(I = \\frac{2U_0}{2R} = \\frac{U_0}{R}\\).\n   - Jedoch wird die Leistung \\(P = I^2 \\cdot R\\): Halbe Energieabgabeleistung der Batterie.\n   Lösung: Zweimal länger leuchtende.\nAuf Wirkung jedes unterscheid",
-  "antwortoption": "B, D"
-}

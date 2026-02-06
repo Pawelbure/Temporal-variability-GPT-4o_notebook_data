@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe präzise zu lösen, analysieren wir die Situation abhängig von der gegebenen Beschaltung der Batterien und Glühlampen. Annahmen: Jede Batterie liefert eine konstante EMK (U) und hat identische Kapazität (Q), jede Glühlampe hat einen konstanten Widerstand (R), und keine Energie wird in den Kabeln verloren. Über den Zusammenhang P = U^2 / R definieren wir die Leistung einer Lampe, wobei bei gegebenem Widerstand die Stromstärke und die darauf bezogene Energieentladung zu bestimmen sind. Bei der Serien- oder Parallelschaltung justieren wir Spannung und Kapazitätskombination entsprechend und berechnen die Zeitdauer basierend auf dem Energieverbrauch der Lampen. Nachfolgend wird jede Option analysiert.",
-  "antwortoption": "B, D"
-}

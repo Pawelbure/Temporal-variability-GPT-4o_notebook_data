@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die verschiedenen Situationen basierend auf den beschriebenen Schaltungen. Angenommen, jede Batterie liefert konstant eine elektrische Energie von C Joule und jede Glühlampe verbraucht diese konstant bei einer Leistung von P Watt. Die Zeit t lässt sich als C/P formulieren, wobei P = V^2/R der Glühlampe ist, wenn sie mit einer Batterie betrieben wird. Diese Beziehung wird für jede Schaltung angepasst: \n- (A) Für in Serie geschaltete Batterien und Lampen verdoppeln sich Spannung und Leistung, die Betriebszeit halbiert sich somit zu t/2. Jedoch bei Serie beider Lampen wird t zu t/4.\n- (B) Batterien in Serie und Glühlampen parallel lassen Spannung unverändert, Summe der Leistung des parallel Stroms ist doppelt so hoch. Zeit halbiert t/2.\n- (C) Batterien und Lampen zugleich parallel gehalten teilen Strombelastung halbiert, t bleibt unverändert.",
-  "antwortoption": "D"
-}

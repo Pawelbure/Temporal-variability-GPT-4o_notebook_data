@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die einzelnen Szenarien unter Berücksichtigung des ohmschen Gesetzes, der Batterielebensdauer und der Stromverteilung:\n\n1. Jeder Batterie liefern konstant eine Energie pro Zeit (Leistung), wodurch bei einer gegebenen Spannung ihrer gespeicherten Energiemenge die Zeit definiert ist, in der sie Energie abgeben können.\n2. Die Helligkeit der Glühlampen entspricht ihrer abgegebenen Leistung.\n\nA)...:\n- In dieser Konfiguration wird die Spannung jeder Lampe halbiert, und die Leistung je Lampe auf ein Viertel reduziert.\n- Da zwei Lampen nacheinander gespeist werden, beträgt die Betriebszeit t.\n\nB)...:\n- Hier führt die doppelte Batteriespannung zu einer vervierfachten Leistung.\n- Die Betriebszeit ist daher t/2.\n\nC)...:\n...",
-  "antwortoption": "A, D"
-}

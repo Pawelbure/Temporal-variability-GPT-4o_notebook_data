@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Bei dieser Aufgabe wird die elektrische Leistung und Energieübertragung bei verschiedenen Konfigurationen analysiert. Annahmen: Batterien haben die gleiche Kapazität C und Spannung U, und die Lampen Widerstand R. Physikalische Konzepte: Die Energie W=U²/R*t wird durch jede Lampe verbraucht. Für jede Konfiguration kann die benötigte oder verfügbare Energie berechnet werden. (A) Batterien und Lampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand vervierfacht sich, Zeit reduziert sich auf t/4. (B) Batterien in Serie, Lampen parallel: Spannung verdoppelt sich, gleicher Energieverbrauch, je Lampe t/2. (C) Batterien parallel, Lampen in Serie: Spannung unverändert, verfügbare Energie verdoppelt, Zeit verdoppelt sich auf 2t. (D) Batterien und Lampen parallel: Spannung und Zeit unverändert auf t, da Energie gleich bleibt. Fazit: Aussagen B und D stimmen.",
-  "antwortoption": "B, D"
-}

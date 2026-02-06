@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen:\n\n1. Der Energieinhalt jeder Batterie reicht aus, um eine einzelne Glühlampe für die Dauer t mit einer konstanten Leistung zu betreiben.\n2. Der Widerstand der Glühlampe bleibt konstant, unabhängig von der anliegenden Spannung.\n3. Die Batterien sind ideal, ohne inneren Widerstand oder Energieverluste.\n4. Die Glühlampen arbeiten auch bei variabler Spannung weiterhin stabil mit spezifischen Leistungsanforderungen.\n\n### Relevante physikalische Konzepte:\n* Bei serieller Verschaltung verdoppeln sich die Spannungen (insgesamt 2V).\n* Bei paralleler Verschaltung der Glühlampen verdoppelt sich die Gesamtstromstärke, da beide Lampen vom gleichen Potential profitieren.\n* Parallel geschaltete Batterien halten zur längeren gemeinsamen Dauer, während seriell geschaltete Batterien höhere Spannungen liefern.",
-  "antwortoption": "D"
-}

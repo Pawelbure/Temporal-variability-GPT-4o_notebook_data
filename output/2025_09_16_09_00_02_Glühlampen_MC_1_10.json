@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Analyse der gegebenen Problemstellung:\n\n1. Gegeben ist eine Batterie mit einer Kapazität Q, welche bei einer Konstanten Ableistung einen Widerstand R über die Zeit t versorgt. Dabei wird die Spannung durch den Innenwiderstand der Batterie sowie dem Verbraucher konstant gehalten.\n\n2. Der Energieinhalt der Batterie E entspricht E = Q·U₀, wobei Q die Ladungsmenge oder die Kapazität und U₀ die anfängliche Spannung ist. \n\n3. Legen wir nun verschiedene Schaltungsmöglichkeiten für Batterien und Glühbirnen fest:\n\n   A) Für die ersten Konfiguration: Batterien in Serie ergeben doppelter Neutralspannung für die Lampenkette, welche ebenfalls in Serie verbrückt sind.\n   Echter Leistungsaufnahmeänderung folglich element xy.\n   ",
-  "antwortoption": "D"
-}

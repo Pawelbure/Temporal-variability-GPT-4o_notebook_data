@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekten Antworten zu ermitteln, analysieren wir systematisch die verschiedenen Schaltungsvarianten:1. Annahme: Die Kapazität der Batterie sei Q Coulomb, ihre Spannung V Volt, und der Widerstand einer Lampe R Ohm. Die Lampe erhält die Energie Q*V. Angenommen, alle Geräte verhalten sich ideal.2. Bei serieller Schaltung von Batterien und Lampen verdoppelt sich die Gesamtspannung, aber der Strom halbiert sich durch den doppelten Widerstand. Damit bleibt der gesamte Energieverbrauch pro Lampe reduziert. Zeit t'/t = Q/(2Q) = t/4 (etwa korrekt).3. Bei Parallelschaltung von Batterien und seriellem Zusammenfügen von Lampen liegt die gleiche Spannung aber doppelte Kapazität vor. Zahlenwerte = t2t.4. Umgekehrt in Parallelverbindungen.",
-  "antwortoption": "D"
-}

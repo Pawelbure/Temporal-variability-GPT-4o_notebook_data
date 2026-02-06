@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Konzepte:\n1. Die Batterien werden als ideale Spannungsquellen betrachtet, jede mit der Kapazität Q und der Spannung U.\n2. Die Glühlampen haben einen konstanten Widerstand R, was bedeutet, dass ihr Strom I durch das Ohm'sche Gesetz bestimmt wird.\n\n### Szenarioanalyse:\n- **A) Batterien in Serie, Glühlampen in Serie:**\n  Die Gesamtspannung beträgt 2U, der Gesamtwiderstand 2R. Der Strom ist I = U/(1R) = 2U/2R = I/2. Die Energiereserven werden mit halbem Strom genutzt, damit verdoppelt sich die Betriebszeit für den einzelnen Stromkreis auf 2t. Da zwei Lampen betrieben werden, bleibt die Zeit t. Dies macht die Aussage \"Entfernt\".\n\n- ...",
-  "antwortoption": "B"
-}

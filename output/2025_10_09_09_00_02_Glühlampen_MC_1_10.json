@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren das Problem unter der Annahme idealisierter Bedingungen: Batterien haben konstante Spannung bis zur vollständigen Entladung, und die Lampen haben konstanten Widerstand. Für beide Batterien hat die Kapazität der Stromquelle in jeder Anordnung und die Energieverteilung eine entscheidende Rolle. Es gelten die Ohm'schen Gesetze sowie das Verhältnis von Leistung, Spannung und Stromstärke. Für die Angaben A, B, C und D erfolgt eine mathematische Modellierung, wobei Zeitdauer durch die Lade- und Entladungsbedingung der Batterien sowie die Stromstärke in den Schaltungen bestimmt wird. Durch Vergleich mit der gegebenen und gefragten Referenz habe ich die Aussagen bewertet.",
-  "antwortoption": "A, B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen:\n1. Die Glühlampe hat einen konstanten Widerstand, unabhängig von der Temperatur.\n2. Jede Batterie liefert eine konstante Spannung, bis sie erschöpft ist.\n3. Der Energieinhalt jeder Batterie ist gleich und konstant.\n\nRelevant ist die Spannungsaddierung in Serie sowie die Konstantspannung bei Parallelschaltung, und schließlich die Anpassung der Leistungsabnahme.\n\nSchaltung (A): Batterien und Glühlampen in Serie:\n- Spannung verdoppelt sich auf 2U, Widerstand verdoppelt sich auf 2R.\n- Strom I = U/R bleibt konstant.\n- Leistung halbiert sich: P = (2U)^2/(2R) = U^2/R.\nSpannungsaddierung resümiert für Zeit t/4 Leuchtdauer (ca.).\n\n",
-  "antwortoption": "A, D"
-}

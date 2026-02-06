@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten die gegebenen Szenarien im Hinblick auf die Eigenschaft des Energiespeichers (Batterien) und die Energieverbraucher (Glühlampen). Zunächst ist es bedeutend, dass die zeitliche Betriebskonstanz der Glühlampen von der bereitgestellten Energie durch die Batterien und deren Leistung bestimmt wird. Die Batterien besitzen eine gespeicherte Energie E, die in Abhängigkeit von Strom I und Zeit t als E = P * t mit der Leistung P = I^2 * R und R als Lastwiderstand beschrieben wird. Durch die Analyse jeder Schaltungsanordnung können wir die Strom- und Leistungsänderungen beobachten und die Betriebdauer berechnen:",
-  "antwortoption": "A, B, D"
-}

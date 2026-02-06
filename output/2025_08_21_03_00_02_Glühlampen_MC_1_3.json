@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die verschiedenen Szenarien hinsichtlich der gegebenen Schaltungsarten für Batterien und Glühlampen basierend auf den Ohmschen Gesetz und der Energiegesamtheit in Batterien und ihren Auswirkungen auf den Betrieb der Glühlampen. 1) Für den Fall a) der Reihenschaltung von zwei Batterien und Glühlampen ist zu beachten, dass sich die Batteriespannung und der Lampenwiderstand summieren, wodurch die Gesamtleistung abnimmt, was zur Arbeitsleistung \\(2/V^2\\). Hier verkürzt sich die Zeit deutlich. => Möglich wert 4t: 2.1t, Bei einer paralleler Erweiterung etc weitere Wirkung. Unklarheiten zwieschenfälle t lange Richtung.",
-  "antwortoption": "D"
-}

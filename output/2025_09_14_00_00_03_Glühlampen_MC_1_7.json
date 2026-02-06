@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Für die Analyse die Annahmen zu spezifischen Parametern wie Kapazität (Q) der Batterie und den Eigenschaften der Glühlampe (konstanter Widerstand R) machen die Berechnung theoretisch nachvollziehbar. 1. Batterien in Serie, Glühlampen in Serie: Der Strom und die Spannung verteilen sich dabei, was die Betriebsdauer beeinflusst. 2. Beide parallel: Hier addieren sich Kapazitäten der Batterie und die Aufteilung der Ströme auf die Lampe definiert die Gesamtdauer. Die exakten Kombinationen und Rechungen der Serien- und Parallelkreisregel legten fest zur Auswahlmöglichkeit folgender. Nur die Lösung letztendlich folgt in D.",
-  "antwortoption": "D"
-}

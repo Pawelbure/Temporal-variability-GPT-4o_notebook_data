@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Annahme zu finden, analysieren wir die Konstellationen: Die Betrachtung setzt voraus, dass Batterien jeweils einen konstanten Energieinhalt liefern und Glühlampen als Verbraucher gleichmäßig Energie abziehen. Ersatzweise verwenden wir die elektrischen Grundgesetze mit konstantem Widerstand für Glühlampen.Der Energieverbrauch der Lampen korreliert direkt mit der Spannung anliegend und deren Leistungsaufnahme über Zeit:T (Leistung = Spannung × Strom). Durch Analyse der Schaltungen kommt man zu den Konklusion:Schaltung von Batterien in Serie erhöht die Spannung, Parallel die effiziente Energy verdopplung.",
-  "antwortoption": "B"
-}

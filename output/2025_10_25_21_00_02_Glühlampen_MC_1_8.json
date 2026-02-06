@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir beginnen zunächst mit der Analyse der Schaltungsvarianten: 1. Batterien in Serie und Lampen in Serie: Die doppelte Spannung führt zu einem erhöhten Strom durch die Lampen, da der Gesamtwiderstand kleiner als der einer Lampe ist. Die verringerte Laufzeit ergibt sich aus der quadratischen Abhängigkeit der Leistung vom Strom. 2. Batterien in Serie und Lampen parallel: Die doppelte Spannung bleibt erhalten, aber durch die parallele Konfiguration der Lampen bleibt die Gesamtzeit ähnlich zu einer Einzel-Lampe. 3. Batterien parallel und Lampen in Serie: Die Laufzeit verlängert sich wegen Verdopplung der Batteriekapazität, jedoch sinkt die Spannung, was die Stromstärke reduziert. 4. Batterien parallel und Lampen parallel: Die Gesamtlaufzeit entspricht einer einzelnen Lampe, da sich Stromsymmetrie einstellt. Berücksichtigung der Variation zeigt, dass nur die Option D korrekt ist.",
-  "antwortoption": "D"
-}

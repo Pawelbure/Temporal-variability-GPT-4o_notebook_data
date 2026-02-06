@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Hier werden die idealisierten Annahmen definiert: Batterien liefern konstante Spannung bis zu ihrem vollständigen Entladen. Die Glühlampe hat konstanten Widerstand. Energieverbrauch ist idealisiert.\n2. Gegeben ist: Eine Batterie kann eine Glühlampe für Zeit t versorgen.\n3. Analyse der Schaltungen:\n   - Serie Batterie und Glühlampen: Spannung addiert sich, erhöhte Gesamtspannung führt zu höherem Energieverbrauch.\n   - Parallel Batterie und Lampen: Energieverbrauch bleibt. Zeitdauer bleibt konstant.",
-  "antwortoption": "D"
-}

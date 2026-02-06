@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Vorbetrachtungen**: Wir gehen davon aus, dass die Kapazität jeder Batterie gleich bleibt, die Glühlampen äquivalente Widerstandswerte (R) haben, die Verluste durch Innenwiderstand der Batterien vernachlässigbar sind und alle Elemente ideal funktionieren. Für jedes Szenario betrachten wir die Strom, Spannung und Zeit, die für das Entladen der Batterien benötigt wird.**Analyse der Aussagen:**1. **A) Batterien und Lampen in Serie:** Hier würde die Reihenschaltung der Batterien eine doppelte Spannung liefern, und die Glühlampen würden in Serie denselben Strom verwenden. Dies führt zu einer längeren Gesamtbetriebszeit im Vergleich zu einem Einzelbetrieb (ca. 2t). Diese Aussage ist **falsch**.2. **B) Batterien in Serie, Lampen parallel => Zeit t**: falsch3. **Relevante Aussagen Analyse. Finale Option entsprechend B, C korrekt ausgewählt.**",
-  "antwortoption": "A"
-}

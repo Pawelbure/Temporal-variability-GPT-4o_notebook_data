@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, betrachten wir die Schaltungen unter vereinfachenden Annahmen: Jede Batterie liefert eine konstante Spannung U und hat eine Gesamtkapazität an elektrischer Energie E. Der Widerstand einer Glühlampe beträgt R und bleibt über die Zeit konstant. Die Leistung, die an einer Glühlampe abgegebene wird, kann als P = U²/R (bei Serienschaltung von Lampen ändern sich die Spannung an jeder Lampe entsprechend) berechnet werden. Die resultierende Brenndauer ergibt sich aus der Gesamtenergie geteilt durch die Gesamtleistungsaufnahme. Unter Berücksichtigung dieser Annahmen vergleichen wir die vier geschilderten Schaltungen im Hinblick auf die erwartete Brenndauer der Lampen.",
-  "antwortoption": "D"
-}

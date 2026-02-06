@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Die Batterien sind ideal, ohne Innenwiderstand, und haben eine konstante Spannung und Kapazität (Energieinhalt basiert auf Ladung Q). Die Glühlampen haben einen konstanten Widerstand R und verhalten sich ohmsch. Der Verbrauch von Energie E = U^2/R * t ergibt die Entladung der Batterie. Lösung für die Optionen: A) Beide Glühlampen teilen sich die Gesamtspannung, wodurch die Stromaufnahme pro Lampe effektiver halbiert wird, aber für jede Batterie sinkt die Zeit quadratisch, daher ist die Annahme t falsch. B) Der Parallelschaltung entsteht für jede Lampe die halbe Ausgangsenergie, daher t ist korrekt. C) Parallele Batterien verdoppeln die Energiezeit, während durch Serien entfernt dies quadratisch sinkt, daher Aussage falsch. D) Parallelig weitergeben mittels Energiegeber Lampe daher nur Basisproportionalität; t korrekt.",
-  "antwortoption": "D"
-}

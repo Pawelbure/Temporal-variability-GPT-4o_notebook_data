@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die betrachtete Problemstellung bezieht sich auf den Energiehaushalt und die Energieverteilung in einem elektrischen Schaltungssystem. Wir nehmen an, dass jede Batterie eine konstante Energie liefert und jede Lampe einen konstanten Widerstand aufweist. Die relevanten physikalischen Konzepte betreffen die Leistung (Energie pro Zeit) und Energieabgabe der Batterien sowie den elektrischen Stromfluss in Serienschaltungen im Vergleich zu Parallelschaltungen. Bei in Serie geschalteten Batterien summieren sich die Spannungen, während bei Parallelschaltung die Gesamtspannung gleich bleibt, aber der maximal verfügbare Strom sich erhöht. Nachdem man diese Annahmen berücksichtigt hat:",
-  "antwortoption": "A"
-}

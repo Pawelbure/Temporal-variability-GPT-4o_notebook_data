@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### 1. Analysiere das Problem und vereinfachende Annahmen\n- Jede Batterie gibt während ihrer Betriebszeit eine konstante Energiemenge ab.\n- Der Widerstand der Glühlampen bleibt konstant während ihres Betriebes.\n- Die allgemeine Beziehung gilt: Die Leistung, die eine Glühlampe verbraucht, hängt von der anliegenden Spannung ab (P=U^2/R).\n\n### 2. Analysiere die Szenarien:\n\n**A) Batterien und Glühlampen in Serie:**\nIn diesem Fall verdoppelt sich die Gesamtspannung der Quelle, wodurch sich der Strom durch die Lampen erhöht. Da die Glühlampen jedoch auch in Serie geschaltet sind, bleibt der Strom der gleiche wie bei einer Batterie und einer Lampe, und die Leistung der gesamten Schaltung bleibt pro Glühlampe gleich wie ursprüngliche Konfiguration (bei einer Batterie). Die Zeit t bleibt für jede Lampe unverändert.",
-  "antwortoption": "D"
-}

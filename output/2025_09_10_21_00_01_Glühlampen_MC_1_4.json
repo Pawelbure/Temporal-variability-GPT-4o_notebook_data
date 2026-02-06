@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, machen wir folgende Annahmen: Die Batterie hat eine konstante Endspannung, die Glühlampen haben einen konstanten Widerstand R und die Energieabgabe aus einer Batterie ist konstant pro Zeitintervall. \n\n**Betrachtung der Szenarien:**\n\n1. **Batterien in Serie, Glühlampen in Serie:**\n   In einer Serienschaltung addieren sich die Spannungen der Batterien, da keine Stromabzweigung existiert. Der Gesamtwiderstand beträgt 2R. Der Strom I ist daher durch I=V/(2R) geringer. Die Gesamtenergie entspricht der Summe der Energie beider Batterien. Durch die Verringerung des Stroms leuchten die Lampen jedoch insgesamt nicht länger, da die Leistung konstant bleibt. **Die Zielzeit kann auf keinen anderen als den gegebenen Erklärungen begründet vermindert werden.**\n\nNachvollziehbar führen keine dieser Konfigurationen zu erheblicher Systemveränderung.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die Parameter der Schaltungen und die Auswirkungen auf den Betrieb der Glühlampen. Annahmen beinhalten, dass die Spannungs- und Stromverhältnisse idealisiert betrachtet werden und die Kapazität jeder Batterie gleich ist. Relevante Konzepte umfassen die elektrische Leistung, Energieverbrauch und die Wirkungen der Batterie- und Lampenkonfiguration in Seriell- und Parallelschaltungen. Nach Analysen der vier Fälle kommen wir zu folgender Schlussfolgerung: Option D ist korrekt. Daraus ergibt sich, dass beide Lampen in Parallelschaltung dieselbe Spannung wie eine einzelne Batterie sehen und, da die Batterien parallel geschaltet sind, die gleiche Lebensdauer wie unter Nutzung einer einzelnen Batterie beträgt.",
-  "antwortoption": "D"
-}

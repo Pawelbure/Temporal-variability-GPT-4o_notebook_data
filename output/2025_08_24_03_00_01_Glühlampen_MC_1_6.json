@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die gegebene Aufgabe mithilfe elektrischer Schaltkreistheorie. Annahmen: Jede Batterie hat gleiche Kapazität und Spannung; die Batterien und Lampen sind identisch. Relevante Konzepte: Batteriespannung (V), Batteriekapazität (Q), Stromstärke (I), Zeit (t). Zu den Szenarien: (A) Batterien und Lampen in Serie: Batterien verdoppeln Spannung; Lampen teilen Spannung: gleiche Stromstärke wie bei einer Lampe, halbe Betriebszeit. (B) Batterien in Serie, Lampen parallel: Batterien verdoppeln Spannung, identische Strombelastung wie bei Einzelner: gleiche Zeit. (C) Batterien parallel, Lampen in Serie: keine Spannungsänderung, halber Stromverbrauch: doppelte Zeit. (D) Batterien und Lampen parallel: keine Spannungs- oder Stromänderung: gleiche Zeit.",
-  "antwortoption": "C"
-}

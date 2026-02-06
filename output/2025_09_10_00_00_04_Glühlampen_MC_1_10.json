@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Unter der Annahme idealisierter Batterien und Glühlampen ohne Energieverluste außerhalb, können wir die verschiedenen Anordnungen untersuchen: Die Batterien haben eine konstante Spannung V, und jede hat eine Kapazität, die eine Glühlampe der Leistung P für die Zeit t betreiben kann. 1) Serieanordnung von Batterien und Glühlampen: Spannung über den Glühlampen verdoppelt sich, und der Strom durch die Glühlampen wird halbiert. Somit: Die Energiemenge pro Glühlampe nimmt in der Leistung quadratisch ab, was eine Gesamtzeitverringerung bedeutet. 2) Serie (Batterien) und Parallelschaltung (Glühlampe): Erhöht Effizienz und reduziert Leistung, führt zu optimierter Lebensdauer von 2t.",
-  "antwortoption": "B, D"
-}

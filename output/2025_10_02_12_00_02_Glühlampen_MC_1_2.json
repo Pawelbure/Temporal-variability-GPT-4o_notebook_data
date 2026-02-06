@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Szenarien basierend auf den angegebenen Schaltungen hin, die Annahmen sind: Eine Batterie hat eine konventionelle Kapazität Q und eine Spannung U. 1) Batterien in Serie erhöhen die Spannung, während der Strom durch die Lampe und damit die schnelle Entladung nicht linear verändert wird. Dagegen liefern parallel geschaltete Batterien denselben Strom über längere Zeit. 2) Serienschaltungen der Lampen verdoppeln ihren Widerstand, wobei parallele Lampen weniger Last bieten. Daraus ergeben sich valide Endlaufzeiten durch spezifischen Widerstände Zeiten, wobei nur D zutreffend wäre.",
-  "antwortoption": "D"
-}

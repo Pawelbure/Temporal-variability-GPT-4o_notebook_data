@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, müssen wir die Eigenschaften des elektrischen Stromkreises untersuchen. Es wird angenommen, dass die Batterie für eine konstante Strom- und Spannungsversorgungszeit t konstant Energie für eine Lampe bereitstellen kann. Daher ist die Energie, die eine Batterie liefert, proportional zur Spannung V und zur Kapazität der Batterie (die von einem konstanten Strom abhängt). Wenn Batterien in Serie geschaltet sind, addieren sich ihre Spannungen, aber nicht ihre Kapazitäten. Bei einer Parallelschaltung addieren sich die Kapazitäten, nicht aber die Spannungen. Unterwegens analysieren wir die Aufgabenoptionen und bewerten das Verhalten der Lampen. Nach Analyse und Modellierung des Stromkreises sind die gültigen Ergebnisse abgestimmt auf Option B.",
-  "antwortoption": "B"
-}

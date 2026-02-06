@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die vorgeschlagenen Szenarien: (1) Batterien und Lampen in Serie haben gemeinsam die doppelte Spannung wie eine Batterie, wodurch die Leistung steigt und die Entladezeit verkürzt wird, entsprechend etwa t/4. (2) Batterien in Serie, Lampen parallel teilen die Spannung, verdoppeln jedoch den Stromverbrauch gemeinsam, was der Batterie die Hälfte der ursprünglichen Zeit entzieht, entsprechend t/2. (3) Batterien und Lampen parallel teilen den Stromverbrauch, was den Batterien eine verlängerte Betriebszeit von 2t ermöglicht. (4) Parallel geschaltete Batterien verdoppeln die Kapazität, während parallel geschaltete Lampen den doppelten Strom ziehen, wodurch die ursprüngliche Betriebszeit ohne Änderung, also t, erhalten bleibt.",
-  "antwortoption": "A, B, D"
-}

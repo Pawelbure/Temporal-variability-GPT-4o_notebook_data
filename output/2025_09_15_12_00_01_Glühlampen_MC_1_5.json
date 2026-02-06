@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Rahmenbedingungen:**\n\n1. Wir nehmen an, dass jede Batterie eine bestimmte, konstante Energie bereitstellen kann (E).\n2. Jede Glühlampe hat einen konstanten Widerstand R und erzeugt bei entsprechender Spannung eine konstante Lichtleistung, P.\n3. Der Energieverbrauch der Lampen ist proportional zum Produkt aus der Leistungsaufnahme (P) und der Betriebszeit (t).\n\n**Analyse der Optionen:**\n\n1. **Option A: Batterien und Lampen in Serie:**\n   - Bei serieller Verschaltung der Lampen verdoppelt sich ihr Gesamtwiderstand.\n   - Das bedeutet, jede Glühlampe erhält weniger Strom, und beide leuchten gemeinsam länger. \n   - **Korrektur:** Die Leuchtzeit verlängert sich, sie wird nicht wie fälschlich behauptet t/4.\n\n2. **Option B: Batterien in Serie, Lampen parallel:**\n   - Die reale Widerstand der Lampen bestimmt. Hier kommen andere Energien ins Spiel.\n\nBerechnungen und Detail erfolgen dann.",
-  "antwortoption": "D"
-}

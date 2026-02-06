@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Kapazität der Batterie (Energie die sie liefern kann) bleibt in allen Schaltungsarten konstant. Bei Glühlampen, die an parallel geschaltet sind, teilen sie sich die Spannung der Batterie. Bei Reihenschaltung wird der Widerstand addiert, was den Strom reduziert. Dies benötigt die Analyse sowohl der Batterie als auch der Last (Glühlampen) um die Effizienz und zeitliche Betriebsdauer zu ergründen.",
-  "antwortoption": "D"
-}

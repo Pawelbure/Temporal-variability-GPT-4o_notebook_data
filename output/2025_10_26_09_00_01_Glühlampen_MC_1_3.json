@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Analyse der Szenarien:\n\n#### Gegebene Annahmen und Parameter:\n- Jede Glühlampe hat *R* als konstanten Widerstand,\n- Jede Batterie hat *V* als Spannung und liefert einen konstanten Ladungsfluss mit einer Kapazität gestattet für eine Laufzeit *t* bei Nennspannung *V* an die Glühlampe.\n\n#### Analyse der Optionen:\n\n##### Option A:\n- Batterien und Glühlampen sind in Serie geschaltet.\n- Gesamttension: 2V, effektiver Widerstand: 2R.\n- Strom: V/2R, dabei halbiert sich die Laufzeit der einzelnen Batterie, also *t/2*.\n\n##### Option B:\n- Batterien in Serie, Glühlampen parallel.\n- Spannung 2V an jedem Widerstand R, Verdopplung des Stromflusses.\n- Viertelung der Laufzeit auf cirka *t/4* pro Batterie.\n\n##### Berücksichtigung von Gegebenheiten nach Berechnung für C und D:\nAbleitungen okay ohne Anmerkungen.",
-  "antwortoption": "D"
-}

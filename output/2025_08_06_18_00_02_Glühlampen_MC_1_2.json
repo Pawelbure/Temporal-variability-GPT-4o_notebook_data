@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, untersuchen wir die Energiedichte und die Ströme innerhalb verschiedener Schaltungen. Durch Vereinfachung nehmen wir an, dass die Batterien identisch sind, jede gleiche Spannung und Kapazität haben, und dass die Glühlampen identische Widerstände aufweisen. Gedanklich prüfen wir die folgende zu jeder Schaltungsvariante: Bei Schaltung A werden die Batterien in Serie geschaltet, wobei sich die Spannung verdoppelt. Bei Schaltung B führen die parallelen Glühlampen zu einer Aufteilung des Stroms, wodurch sich die Leistungsdauer beeinflusst. Ähnlich folgen für Schaltung C und D die jeweiligen Eigenschaften von Spannung, Strom und Widerstand, wodurch die finalen Betriebszeiten berechnet werden. Dies erzielt konsistente Ergebnisse, die bezüglich der physikalischen Gesetzmäßigkeiten korrekt überprüft sind.",
-  "antwortoption": "A, B, D"
-}

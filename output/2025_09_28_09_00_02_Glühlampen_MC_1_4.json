@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die verschiedenen Schaltungsarten mit Batterien und Glühlampen auf Basis der gegebenen Annahmen und physikalischen Grundlagen: 1) Konstante Spannung und Kapazität der Batterien sowie konstanter Widerstand der Lampen. 2) Die Energieabgabe der Batterien erfolgt vollständig an die Lampen, ohne Verluste. - Für Fall A: In Serienschaltung summiert sich die Spannung der Batterien. Die Lampen nehmen halbierten Strom auf, wodurch ihre Betriebszeit jedoch gleich bleibt, nicht t/4. - Für Fall B: In Parallelschaltung der Lampen fließt der Strom verdoppelt, sodass die Energie schneller verbraucht wird, und die Lampen leuchten nur Zeit t/2. - Für Fall C und D: Parallelschaltung der Batterien verdoppelt die Energieverfügbarkeit, kombiniert mit den Schaltungserfordernissen der Lampen. Daraus folgt: C ist zutreffend (Betriebszeit 2t); D ist unzutreffend, da Zeit 2t ermöglicht wird.",
-  "antwortoption": "B, C"
-}

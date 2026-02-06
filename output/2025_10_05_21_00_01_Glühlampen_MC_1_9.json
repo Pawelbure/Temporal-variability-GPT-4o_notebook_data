@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Idealisierungen: Wir gehen davon aus, dass die Batterien ideale Spannungsquellen sind, die eine konstante Spannung V und Kapazität Q besitzen. Jede Batterie kann eine Glühlampe mit einem Widerstand R befeuern und entleert dabei ihre Energie in einer Zeit t. Der Energieversorgungsbedarf bleibt für konstante Helligkeit linear proportional zur Betriebsdauer. 2. Schaltung 1: Batterien in Serie, Lampen in Serie - Die Spannung verdoppelt sich, der Gesamtstrom halbiert sich (Gesamtwiderstand verdoppelt), was zur vierfachen Stromlaufzeit führt, da Energie proportional zur Kapazität bleibt. Ergebnis: T=4*t. 3. Schaltung 2: Batterie parallel und Lampen parallel - Die Spannung bleibt gleich und die Kapazität verdoppelt sich, was die Helligkeit konstant bei doppelter Laufdauer hält. T=2t. 4. Schaltung 3 und 4 sind ähnlich analysiert und Details ausgewertet. Abschluss: die richtige Option ist D.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu analysieren, geht man von einem vereinfachten Stromkreis aus, bei dem die Batterien eine konstante Spannung liefern und die Glühlampen als rein ohmsche Widerstände betrachtet werden. Wir verwenden die Grundgesetze der Elektrizitätslehre, insbesondere das Ohmsche Gesetz. Annahmen: Jede Batterie verfügt über die gleiche gespeicherte Kapazität und liefert eine konstante Spannung, bis sie erschöpft ist. Jede Lampe hat den Widerstand R. Für die Umsetzung analysieren wir einzeln die vier in der Aufgabenstellung gegebenen Schaltungsvarianten: Schaltung der Batterien und Lampen in Serie oder Parallel und berechnen die Zeitdauer t in Relation zur Grundzeit gemäß Annahmen und Spannungskombinationen. Nach den Analysen unterscheiden sich die Aussagen wie folgt: Ergebnisse: A) falsch, B) richtig, C) falsch, D) richtig.",
-  "antwortoption": "B, D"
-}

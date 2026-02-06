@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren jede der vier genannten Konfigurationen im Detail unter Berücksichtigung der vereinfachenden Annahmen:\n\n1. Annahmen und Idealisierungen: Die Glühlampen haben einen konstanten Widerstand R. Die Batterien liefern eine konstante Spannung U, bis sie vollständig entladen sind. Jede Batterie speichert eine Energiemenge Q (bezogen auf die Kapazität), sodass sich ihre Entladezeit im Verhältnis zu der abgenommenen Stromstärke ergibt.\n\n2. Relevant ist das Ohm'sche Gesetz (U=IR) und die Leistung P=U·I, sowie die Energieberechnung E=P·t.\n\nA) Batterien und Glühlampen in Serie: U_ges=2U, R_ges=2R, daher I=U_ges/R_ges=U/R. Die Gesamtleistung ist P_ges=I^2·R_ges=U^2/2R. Die Batterien teilen ihre Kapazitäten, sodass die Gesamtzeit t'=(Q/U)²/P_ges=t/2/2=t/4.\n\nB) Batterien in Serie, Lampen parallel: U_ges=2U, R_ges=R/2, daher I=U_ges/R_ges=2U/R. P_ges=I^2·R_ges=2U^2/R (^2 -> Potenzen)\n\n.",
-  "antwortoption": "A, B"
-}

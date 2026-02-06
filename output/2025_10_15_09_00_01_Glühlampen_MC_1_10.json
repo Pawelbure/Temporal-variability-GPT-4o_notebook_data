@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir systematisch die verschiedenen Schaltungsoptionen und deren Auswirkungen auf die Betriebsdauer der Glühlampen. Dabei beachten wir die wichtigsten idealisierten Annahmen, dass der Widerstand der Glühlampen konstant sei, die Spannung jeder Batterie identisch ist und der Energieinhalt der Batterien proportional zur produzierbaren Gesamtladung bei konstanter Spannung ist. Der Energieverbrauch einer Glühlampe ist proportional zur Leistung (P = V²/R) multipliziert mit der Nutzungszeit.",
-  "antwortoption": "D"
-}

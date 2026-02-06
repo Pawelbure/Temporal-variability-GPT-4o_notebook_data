@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellung zu lösen, betrachten wir die Energieverhältnisse bei den verschiedenen Schaltungen. Wir gehen davon aus, dass die Kapazität jeder Batterie E=U^2/R_L*t ist, wo U die Batteriespannung, R_L der Widerstand der Glühlampe und t die Betriebszeit einer Lampe mit einer Batterie ist. Die vier Szenarien werden separat analysiert: In der ersten Konfiguration liefern die in Serie geschalteten Batterien doppelte Spannung, und die Gesamtzeit halbiert sich aufgrund des doppelten Stromverbrauchs der seriellen Lampen. Dies ergibt t/2. Scenario B liefert t/2 aufgrund von halbem Widerstand. Szenario C ergibt a 2t aufgrund effektiven Prozentsatzes verdopplung An Scene D ergibt an t Reichweite.",
-  "antwortoption": "B, C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen und energetischen Eigenschaften der Schaltung: Jede Batterie liefert eine konstante Energiemenge, und die Glühlampe hat einen fixen Widerstand, wodurch konstante Leistung (P) veranschlagt wird. Nun analysieren wir jede Konfiguration der Schaltungsoptionen:\n\n**Option A**: Batterien und Glühlampen in Serie\n- In Serie addieren sich Spannungen der Batterien und Widerstände der Glühlampen summieren sich.\n- Der Strom durch die Schaltung aufgrund des ohmschen Gesetzes: I = U / (2R). Da die Spannung verdoppelt und der Gesamtwiderstand ebenfalls verdoppelt wird, bleibt der Strom konstant.\n- Die Entladezeit der Batterien bleibt daher t, da jede Batterie dasselbe Entladedurchlauf erfährt.\n- Alle Lampen leuchten etwa t lang.\n\ndaher ist diese Option falsch.",
-  "antwortoption": "A"
-}

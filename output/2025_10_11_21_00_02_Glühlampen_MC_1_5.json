@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir beginnen mit den grundlegenden Annahmen und Idealisierungen: Jede Batterie kann eine konstante Spannung liefern, bis sie vollständig entladen ist. Der Widerstand der Glühlampen bleibt ebenfalls unverändert unabhängig von der Spannung. Weiterhin bleiben alle Verbindungsdrähte widerstandsfrei. Nun werden wir die verschiedenen Szenarien analysieren: Beim Serienschalten von Batterien addiert sich die Spannung, während die verfügbare Kapazität unverändert bleibt. Beim Parallelanschließen von Batterien bleibt die Spannung gleich, und die jeweils entnehmbare Ladung verdoppelt sich. Entsprechend verhält sich der Strom durch die Lampen abhängig von ihrer Schaltungsart (Serie oder Parallel), wodurch der Energieverbrauch und somit die Betriebszeit beeinflusst wird. Durch folgende Berechnungen kommen wir zur Bestimmung der korrekt angegebenen Zeiten. A und C sind korrekte Antworten.",
-  "antwortoption": "A, C"
-}

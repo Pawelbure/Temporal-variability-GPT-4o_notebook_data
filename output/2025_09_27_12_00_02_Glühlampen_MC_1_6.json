@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Angenommen wird, dass jede Batterie ihre Energie bei einer konstanten Spannung bis zum Erschöpfen abgibt, der Widerstand der Glühlampen konstant bleibt und kein interner Widerstand in den Batterien existiert. Die Batterie liefert eine spezifische Ladung q_I bei einer Spannung U. Von einem konstanten Glühlampen-Widerstand R ausgehend, ergibt sich i = U/R und t = q/I = R·q/U². Nun analysiere ich jede Schaltungsanordnung: A) Batterien und Lampen in Serie, hier verdoppelt sich der Widerstand, und der Strom halbiert sich, was die leuchtdauer t bei konstanter Energieäquivalenz ergibt. Analog für die anderen Optionen wird vorgegangen.",
-  "antwortoption": "D"
-}

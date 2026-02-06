@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die verschiedenen Szenarien unter folgenden Annahmen und Bedingungen: Die Spannung der Batterien beträgt U, die Glühlampen haben einen Widerstand R, und die Kapazität der Batterien bleibt unabhängig von der Schaltungsanordnung gleich. Die Szenarien sind wie folgt: Option A) Bei serieller Schaltung addieren sich die Spannungen der Batterien und auch die Widerstände der Lampen. Die Stromstärke ist dann U/(2R), und die Energieverbrauchsgeschwindigkeit (P = I^2·R) liegt bei (U^2/(2R)^2)·2R = U^2/(2R), also der Hälfte einer Batterie einzeln. Die doppelte Energie wird aber bereitgestellt, also halbiert sich die Entladungszeit, t/2.",
-  "antwortoption": "A"
-}

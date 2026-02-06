@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir zunächst die Annahmen: Jede Batterie hat die gleiche Kapazität und Spannung. Die Glühlampen haben denselben konstanten Widerstand. Wir teilen die Betrachtung in die verschiedenen Schaltungsarten auf: (1) In Serie geschaltete Batterien verdoppeln die Spannung, behouden aber dieselbe Kapazität. In Serie geschaltete Lampen verdoppeln den Widerstand, wodurch der Strom zur Hälfte reduziert wird. (2) Parallel geschaltete Batterien behalten die Spannung bei, verdoppeln aber die Kapazität. Parallel geschaltete Lampen halbieren den Widerstand, wodurch der Strom verdoppelt wird. Die Betriebszeit ergibt sich aus der Stromaufnahme im Verhältnis zur gespeicherten Kapazität.",
-  "antwortoption": "D"
-}

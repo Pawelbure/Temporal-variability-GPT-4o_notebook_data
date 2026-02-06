@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Betrachten wir die Aussagen: Der Energieinhalt einer Batterie bleibt konstant (bspw. U und Kapazität Q). Bei Serienschaltung von zwei Batterien addieren sich die Spannungen. Bei Parallelschaltung bleibt die Spannung konstant, jedoch die Kapazität verdoppelt sich. Bei Serienschaltung von Glühlampen erhöht sich der Gesamtwiderstand im Vergleich zu einem, bei Parallelschaltung verkleinert sich dieser. Die Ausgangszustände jeder Konfiguration analysierend, bestätigen sich folgende mögliche Betriebsdauern: Aussage B ist korrekt (Generell Batterien in Serie und parallele Lampen gemäß Verdopplung des Stroms, Halbierung der Zeit); Aussage D stimmt ebenfalls (Parallelschaltung Batterien erhöht doppelte Kapazität; parallele Lampen arbeiten mit maximaler Energieausschöpfung in Zeit t).",
-  "antwortoption": "B, D"
-}

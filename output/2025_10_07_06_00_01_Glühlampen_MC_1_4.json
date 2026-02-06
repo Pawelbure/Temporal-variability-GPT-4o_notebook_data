@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Problemstellung gemäß verschiedener Schaltungen: [Annahmen: ideelle Batterien mit konstanter Spannung; Glühbirnen mit linearem Widerstandsverhalten; der Stromfluss in einer Batterie folgt der Beziehung Spannung = Strom x Widerstand. 1. Fall A: Batterien und Glühlampen seriell (kombinierter Widerstand doppelt, Spannung doppelt); Halbstromfluss möglich, t/4. 2. Fall B: Parallel verschoben; halbe Betriebsdauer resultiert. 3. Fall C: Parallel restisiert: Maximale Stromleistung der Zellen verdoppelt, doppelte Leuchtdauer. 4. Fall D: Parallele Quellenlieferung und Parläuferkonfiguration berücksichtigen startet volle Betriebsintensität.] Falls A/B/D prägend.",
-  "antwortoption": "D"
-}

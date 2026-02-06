@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zuerst analysieren wir die verschiedenen Szenarien auf Basis der Stromkreisschaltungen und Energieverbräuche. 1. Batterien in Serie erhöhen die Spannung, während Batterien parallel die Kapazität verdoppeln. Einzelne Glühlampen haben über die Zeit gleichbleibenden Widerstand und verbrauchen konstant Leistung. - A: Batterien in Serie, gleiche Spannung, halbe Stromaufnahme, daher doppelte Betriebszeit pro Lampe, mit t vereinbar (fehlerhaft). - B: Serienbetrieb der Glühlampen im Punkt b könnte die LEDs ebenfalls doppeln und Halbierung vermuten, dennoch doppelte Berechnung beachten. - C: Parallelführung der Batterien verdoppelt die Betriebszeit um 2t.- D: keine äquivalente Anpassungsmethoden resultieren.",
-  "antwortoption": "C, D"
-}

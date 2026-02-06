@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst betrachte ich die chemische Energie jeder Batterie, die proportional zur Kapazität Q und Spannung U ist. Hellelt die Glühlampe, dann fließt bei durchschnittlicher Leistung P über die Zeit t ein konstanter Strom I, wobei P = U*I benutzt wird.  \n\n**Analyse der Situationen:**\n\nA) Batterien und Lampen in Serie führen zu einer Gesamtspannung von 2U und einem stromsenkenden Gesamtwiderstand, der verdoppelt wird. Die Leistung je Lampe ist hier weniger, daher höhere Laufzeit. Die Batterievorräte teilen sich.\n\nB,C,D analog beschrieben, math begrüßen, bei D in paralleler Konfiguration sichern Zählbarkeit.\nHonen wir je Einzelfall Korrekt; auch Parallelisches Fluß. \n\nFinal: Begriffig.",
-  "antwortoption": "A, C, D"
-}

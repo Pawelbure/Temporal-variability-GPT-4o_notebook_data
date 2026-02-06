@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Glühlampen haben konstanten Widerstand R. Die Batterien liefern konstante Spannung V bis sie entladen sind, und ihre Kapazitäten C bestimmen die maximal abgegebene Ladungsmenge. Relevant ist die Leistungsverteilung und Energieversorgung der Kreise: Leuchtzeitleistung P = V^2/R und entladungsenergetische Versorgung \\( t_{max} = Q / I \\). \n\nA) Bei Batterien und Lampen in Serie ist die erhöhte Spannung 2V wirksam, Strom ist \\( I = 2V / 2R = V / R \\).  Energie doppelt, höhere Leistungsentladung bedeutet 1/4 Betriebszeit wie Einzelverbrauch, daher falsch.\n\nB: Reihenschaltung Batterien, Parallele Lampen, je 2V/R pro Lampe auf Si ladezeit halbiert total, 1/2 korrekt.\n\nC+B)\">Spiegelweise Gleichkostenaufteilung durch Parallele Paare+B){correct+Eng}\n\nk",
-  "antwortoption": "B, D"
-}

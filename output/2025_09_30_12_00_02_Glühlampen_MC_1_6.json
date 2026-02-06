@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Auswirkungen von Schaltungsformen auf die Betriebszeit zweier identischer Glühlampen durch gleichartige Batterien zu untersuchen, gehen wir vereinfacht von konstantem Widerstand der Lampen und konstantoömischen Batterien aus. Betrachten wir die nebenstehenden Schaltungsvarianten einzeln: Bei Serie-Serienschaltung ist die Gesamtspannung doppelt so hoch, der Strom halbiert, wodurch die Leistung der Lampe viertelt, die Lebensdauer t/4 ergibt. Bei Serie-Parallel wirkt volle Spannung bei jeder Lampe mit gleicher Leistung, somit t verwehrt. Parallel-Serienschaltung hat die gleiche Leistungsteilung wie eine Batterie, also 2t. Parallel-Parallel sieht identisch aus wie einzelne Lampe für eine Batterie, Zeit also t.",
-  "antwortoption": "C, D"
-}

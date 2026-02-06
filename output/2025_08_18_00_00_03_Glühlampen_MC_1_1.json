@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Das Szenario beschreibt den Betrieb von Glühlampen mit Batterien unter verschiedenen Verschaltungsbedingungen. Annahmen: Batterien sind ideale Stromquellen mit gleicher Speicherkapazität und Spannung V, Energie ist proportional zur Kapazität, und die Glühlampen haben einen konstanten Widerstand R. Physikalische Konzepte umfassen Gesetz von Ohm, Reihe- und Parallelschaltungen und Energieverbrauch. Bei serieller Verbindung addieren sich Spannungen (Vtotal = nV), und bei paralleler Verbindung bleibt die Spannung gleich, jedoch summieren sich Ströme. Daraus ergeben sich für die jeweiligen Schaltungen folgende Betriebszeiten: A) t/4, B) t/2, C) - inkompatibel, D) t. Daher sind Optionen A, B und D korrekt.",
-  "antwortoption": "A, B, D"
-}

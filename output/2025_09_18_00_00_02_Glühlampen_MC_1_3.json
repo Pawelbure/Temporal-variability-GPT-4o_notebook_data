@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, betrachten wir die grundlegenden physikalischen Konzepte von elektrischen Schaltungen:\n\n1. **Annahmen und Idealisierungen:**\n   - Die Batterien haben eine konstante Spannung und können eine gleichbleibende Energiemenge speichern.\n   - Die Glühlampen sind ohmsche Verbraucher mit konstantem Widerstand.\n   - Jede Batterie kann eine Lampe für die Zeit t allein betreiben.\n\n2. **Hauptszenarien zur Analyse:**\n\n   **A. Batterien und Lampen in Serie:**\n   - In Serie addieren sich die Spannungen der Batterien, während der Strom identisch bleibt. Da der Gesamtwiderstand durch die Lampen verdoppelt wird, bleibt der Strom konstant, aber die Stromstärke halbiert.\n   - Energieverbrauch jeder Batterie bleibt dabei ändert sich, was t/4 ergibt.",
-  "antwortoption": "B"
-}

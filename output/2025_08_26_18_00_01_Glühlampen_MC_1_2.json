@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren jede Situation gemäß den gegebenen Annahmen: Annahmen sind, dass die elektrischen Parameter der Batterie und der Lampe konstant bleiben und keine Energieverluste auftreten. Die Konzepte umfassen: Strom, Spannung, Leistung und Batteriekapazität. \n\nA) Serie mit 2 Batterien und 2 Lampen: Jede Lampe erhält die identische Strommenge wie mit einer Batterie, aber gesamt erhöhte Spannung verringert Entladungszeit pro Lampe auf t/4.\nB) Serie der Batterien, parallel geschaltete Lampen: Lampen teilen sich Strom, daher Entladung halbiert auf t/2.\nC) Parallel Batterien, Lampe in Serie: Entladung nacheinander; also doppelte Kapazität als Serienkombination ergibt 2t.\nD) Parallel für beide: gleiche Spannung und geteilte Ströme ergeben Entladung wie für Einzelausgang t.",
-  "antwortoption": "C"
-}

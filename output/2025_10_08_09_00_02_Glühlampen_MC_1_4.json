@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die angegebenen Möglichkeiten zu analysieren, nehmen wir die folgenden Punkte an:\n\n1. Jede Batterie besitzt eine konstante Kapazität, die sie unabhängig von der Nutzung abgeben kann (Coulomb bzw. Amperestunden), und die Spannung jeder Batterie ist konstant, solange sie nicht entladen ist.\n2. Jede Glühlampe hat einen festen Widerstand und leuchtet proportional zur Leistung abzüglich interner Verluste.\n\nNun analysieren wir die verschiedenen Szenarien:\n\n**Energieübertragung in Serie:** \n\n- Wenn die Batterien in Serie geschaltet sind, addieren sich ihre Spannungen. \n   * Leistung: P=U^2/R\n\n- In Serienverbindungen bleibt der Strom gleich, und die Glühbirne erhält...\n\n2. Schaltungpararamender aus Konzept aus Wahl.",
-  "antwortoption": "A, C, D"
-}

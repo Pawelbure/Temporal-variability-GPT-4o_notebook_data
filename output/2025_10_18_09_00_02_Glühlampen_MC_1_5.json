@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, betrachten wir die Schaltungen einzeln und ermitteln die Auswirkungen jeder Konfiguration auf die Betriebszeit der Glühlampen. Anforderungen an die Batterien, wie Spannung und Kapazität (angegeben in Amperestunden, Ah), spielen bei der Analyse eine wichtige Rolle. Zusätzlich lautet die Betrachtung: Der Energievorrat der Batterie ist proportional zur Kapazität C multipliziert mit der Spannung der Batterie V. Die Glühlampen haben einen konstanten Widerstand, und wir nehmen an, dass die Batterien ideale Spannungsquellen sind und sich unabhängig vom Verbrauch gleichmäßig entladen.",
-  "antwortoption": "D"
-}

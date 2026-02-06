@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die vier Konfigurationsmöglichkeiten für Batterien und Glühlampen. Annahmen sind, dass die Batterien identisch und ideal mit Kapazität C aufgeladen sind und jede Glühlampe ohmsche Eigenschaften besitzt. Der Strom durch eine Batterie ist entscheidend für deren Entladedauer. Bei Seriekonfiguration verdoppelt sich die Betriebsspannung, bei parallelen Verbindung verdoppelt sich die Kapazität. Für die Glühlampen gilt, dass ihre Helligkeit und der Strom durch sie direkt von der angelegten Spannung abhängen. Für jede der vier Varianten berechnen wir die Entladedauer der Batterien und die Betriebsdauer der Lampen.",
-  "antwortoption": "B, D"
-}

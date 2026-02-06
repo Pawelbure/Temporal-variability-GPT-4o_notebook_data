@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die gegebenen Bedingungen setzen die Konstanz von Helligkeit und Widerstand voraus, wobei die Batterien eine konstante Energiekapazität haben. Analysieren wir jede Option: Option A: Batterien in Serie verdoppeln die Spannung, Glühlampen in Serie verdoppeln den Widerstand, der Strom bleibt konstant, jedoch halbiert sich die Zeit durch Energieverteilung auf zwei Lampen (falsch). Option B: Batterien in Serie verdoppeln die Spannung, Glühlampen in Parallel benötigen den doppelten Strom, jedoch sinkt die Zeit durch höheren Energieverbrauch (richtig). Option C: Batterien parallel halten die Spannung konstant, jedoch ist der Energieinhalt verdoppelt, Glühlampen in Serie reduzieren den Strom, aber Durchlaufzeit entsprechend Aufteilung ist nicht ideal (falsch). Option D: Batterien parallel verdoppeln den Energieinhalt bei konstantem Stromverbrauch der parallelen Lampen, womit die Laufzeit wie für einen beträgt (richtig).",
-  "antwortoption": "B, D"
-}

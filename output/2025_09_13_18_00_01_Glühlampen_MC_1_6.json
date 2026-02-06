@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Situation zu untersuchen, betrachte ich die vier genannten Schaltungen und analysiere, wie Batterien und Glühlampen interagieren. Nehmen wir an, jede Batterie liefert eine konstante Spannung V und speichert eine Ladungsmenge q, wodurch sie eine Energiemenge (E = q·V) bereitstellen kann. Der konstante Widerstand der Glühlampen sei R. Die Berechnungen für die vier Szenarien liefern folgende Ergebnisse:\\n\\nA) Batterien und Glühlampen in Serie: In einer Serienschaltung verdoppelt sich die Spannung der Batterien auf 2V. Die gesamte Spannung teilt sich auf die beiden Glühlampen auf. Der Gesamtwiderstand verdoppelt sich auf 2R. Der Gesamtstrom ist I = V/(R), der Energieverbrauch der Batterien ist viermal schneller, da beide Glühlampen Energie gleichzeitig verbrauchen, dies halbiert...",
-  "antwortoption": "D"
-}

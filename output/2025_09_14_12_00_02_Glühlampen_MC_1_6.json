@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu beantworten, machen wir die folgenden Annahmen: (1) Die Batterien sind ideal und haben eine konstanter Energielieferfähigkeit unabhängig von der Schaltung, (2) jede Glühlampe hat einen konstanten Widerstand R und (3) die Batterie liefert eine konstante Spannung U.\n\n**Lösung für jede Option:**\n\n- **A) Zwei Batterien in Serie und zwei Lampen in Serie:**\n  Hier verdoppelt sich die Spannung, sodass der Strom I = U / (2R) ist. Die Leistung ist P = 2I²R = (U² / R). Da die Energie der beiden Batterien doppelt so hoch ist, halbiert sich die Brenndauer für eine einzelne Lampe im Vergleich zur Grundschaltung (t/2).\n- **B) Zwei Batterien in Serie und zwei Lampen parallel:**\n  Verdoppelte Spannung erzeugt Strom IproLampe= U/R. Die Energieflüsse in jede Lampe entsprechen der Basisflusseinstellungen 2P--> Zeit bleibt dieselbe.\n \nAntworten: Kombinierte Zuweisungswert x,x,x,z...\n",
-  "antwortoption": "B"
-}

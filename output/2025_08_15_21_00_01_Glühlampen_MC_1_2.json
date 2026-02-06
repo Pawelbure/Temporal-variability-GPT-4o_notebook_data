@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Der Widerstand jeder Glühlampe bleibt konstant, und die entnommenen Ströme verringern die Batteriespannung nicht. Jede Batterie liefert eine konstante Kapazität an Energie bis zur vollständigen Entladung. Kraft dieser Konzepte ermitteln wir: Die Energiemenge einer Batterie beträgt W = U⋅Q, wobei U die Spannung und Q die Kapazität ist. Reihen- oder Parallelschaltungen ändern die effektive Spannung oder die Kapazität des Systems, wodurch die Betriebszeit geändert wird. Nach gründlicher Analyse dieser Effekte ergibt sich, dass nur Antwort D korrekt ist, da Parallelschaltung der Batterien zu erhöhter Gesamtkapazität bei unveränderter Spannung führt und Parallelschaltungen der Glühlampen gleiche Betriebszeit je Lampe bekommen.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Frage zu analysieren, seien die Batterien als Spannungsquellen bezeichnet mit identischer Spannung V und Kapazität C, die Glühlampen als ohm’sche Widerstände R. Wir betrachten die energetischen Konsequenzen der angegebenen Schaltungsvarianten:\n\n1. **A: Die Batterien und Glühlampen in Serie:**\n   - Spannung beträgt 2V und Widerstand 2R. Der Strom ergibt sich zu I=V/R.\n   - Die Energie einer Batterie wird in der Hälfte der ursprünglichen Zeit verbraucht.\n   - Ergebnis: Die Leuchtdauer entspricht ungefasst t.\n\n2. **B: Batterien in Serie, Lampen parallel:**\n   - Spannung 2V, Teilleistung halbiert pro Lampe.\n   - Dauer folgerichtig t.\n\n3. **C**.Symmetrische Leistungsergebnisse.\n\nSchlussfolgerungen liefern Gesamtdauerergebnisse.",
-  "antwortoption": "D"
-}

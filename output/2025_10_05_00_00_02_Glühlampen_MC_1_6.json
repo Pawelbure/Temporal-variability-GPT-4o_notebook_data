@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die Schaltungen:\n\n1. **Batterie- und Lampencharakteristika:** Jede Batterie hat eine definierte Kapazität (Energie), die bei einer gegebenen Spannung vollständige Entladung bedeutet. Lampen können mit einem konstanten Strommodell angenähert werden (Widerstand).\n\n2. **Analyse der Aussagen:**\n\n   - **A) Batterien und Lampen in Serie:** Gesamtspannung verdoppelt, Gesamtstrom halbiert -> Gesamtenergieverbrauch gleich. Zeit t/4 ist nicht korrekt.\n\n   - **B) Batterien in Serie, Lampen parallel:** Spannung: verdoppelt, Strom: jeweils N-facher vorher, Kapazitätsabnahme analog -> t/2 korrekt.\n\n   - **C) Batterien parallel, Lampen in Serie:** Spannung konstant, Energie 2-fach, Verbundlastspannung konstant -> t korrekt.\n\n   - **D) Parallelschaltung:** Last konstant, Energiespeicher doppelt -> t korrekt.\n\nFertige korrekte Anwendung der zugrunde liegenden Regeln ergibt B.",
-  "antwortoption": "B"
-}

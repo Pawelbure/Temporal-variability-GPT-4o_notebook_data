@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die unterschiedlichen Konfigurationen und berücksichtigen dabei, dass die Widerstände R der Glühlampen konstant sind und die Batterien eine konstante Kapazität besitzen. Dabei ignorieren wir Effekte von realen Spannungsänderungen in den Batterien während der Entladung. Hier individuelle Analysen der Antworten: 1) Anordnung in Serie: Wenn Glühlampen in Serie sind, addieren sich ihre Widerstände. Die Gesamtstromstärke reduziert sich, und die Batterien entladen sich langsamer. 2) Parallele Schaltung: Die elektrische Last verteilt sich auf parallele Pfade, was die Entladungszeit beeinflusst. Endresultate: Option A: Zeit t/4, Option B: Zeit t/2, Option C: Zeit 2t, Option D: Zeit t. Option D ist korrekt, da diese Konfiguration dieselbe Stromstärke durch einzelne Glühlampen wie bei einer Batterie zu einer Lampe erzeugt, wodurch die Ladezeit gleich bleibt.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Die Batterien und Glühlampen zeigen kein Spannungsverlust oder Widerstandsschwankungen. Konzepte: Elektrische Leistung, Kombination von Widerständen und Batterien in Schaltungen. Analysieren der Aussagen: Für A) Summation von Spannungen gibt 2 U, Widerstand doppelt in Serie ergibt 2 R, also Strom bleibt gleich wie bei einer Lampe mit U/R. Dadurch leuchtet jede Lampe nur ein Viertel so lang. Für B) Zwei U, aber parallele Lampen halbieren Widerstand, daher doppelte Leistung und halbierte Zeit. Für C) Batterien parallel, selbe Spannung, beide Batterien übertragen Energie, daher verdoppelte Zeit für Leistung. Für D) Batterien parallel und Lampe parallel bewirken gleiche Gesamtzeit wie Einzelbetrieb der Batterie. Diese optimal ausgewertet, ergibt die korrekten Optionen A und C.",
-  "antwortoption": "A, C"
-}

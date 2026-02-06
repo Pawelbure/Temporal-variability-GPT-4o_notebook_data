@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst berücksichtigen wir, dass jede Batterie eine Spannung U liefert und eine konstante Stromkapazität besitzt. Die Glühlampe hat einen Widerstand R. 1. Schaltung: Beide Batterien und Lampen in Serie. Die Gesamtspannung beträgt 2U, und die Gesamtresistenz 2R. Der Strom beträgt daher I=U/R und die Systemlaufzeit sowie entsprechende Kapazitäten sind hier zu berücksichtigen. 2. Batterie in Serie, Lampen parallel. Hier beträgt der Strom durch jede Lampe 2U/(2R), wodurch die Batterie schneller entladen wird. 3. Batterien in Parallel mit Lampen in Serie. Hier bleibt die Spannung der Batterien gleich, die Gesamtkapazität verdoppelt. Schließlich die vierte Möglichkeit, Batterien und Lampen sowohl parallel. Die Zeitauswirkung untersucht ergibt die verbleibende Gleichzeitigkeit, wobei elektrische Outputwerte betrachtet werden.",
-  "antwortoption": "D"
-}

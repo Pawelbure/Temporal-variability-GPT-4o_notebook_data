@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe betrachtet den Betrieb von Glühlampen durch chemische Batterien in verschiedenen Konfigurationen. Annahmen: Jede Batterie hat eine konstante Spannung V und eine Kapazität Q (in Coulomb). Jede Lampe hat einen konstanten Widerstand R. Die Leistung einer Lampe ist konstant, und Strom durch die Lampe bewirkt Energieverbrauch. \n\n1. Runde: Batterien und Lampen in Serie verbinden: Die Spannung summiert sich, wodurch der Gesamtstrom proportional zur Spannung erhöht wird. Zeit ist t/4.\n\n2. Batterien in Serie und Lampen parallel: Spannung steigt, Lampen erhalten gleiche Strom- und Spannungsteile. Zeit ist t/2.\n\n3. Parallel geschaltete Batterien und Lampen in Serie: Batterien teilen Stromfluss auf, Spannung bleibt, Zeit ist 2t aufgrund niedrigen Stromverbrauchs.\n\n4. Beide parallel: Gleiches Verhalten wie eine Batterie für eine Lampe, wobei beide Batterien gleiche Last tragen.",
-  "antwortoption": "A, B, C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lösungsweg:\n1. Voraussetzungen: Jede Batterie besitzt eine konstante Kapazität von Energie E. Die Lampe hat einen Widerstand R und leuchtet mit einer konstanten Leistung P, solange eine konstante Spannung anliegt.\n2. Analyse:\n   A) Batterien und Lampen in Serie: Die Gesamtsapnnung der Batterien verdoppelt sich, und auch der Widerstand durch die Serienreaktion der Lampen verdoppelt sich. Die Leistung bleibt gleich. Die Zeit ist t/2.\n   B) Batterien in Serie, Lampen parallel: Die Spannung sieht jede Lampe als E und gleich. Daraus resultiert eine Zeit von t/2.\n3. Lösung: Berechnung und korrekter Zusammenstellung.\nErgebnis wie nun angewendet angegeben.",
-  "antwortoption": "B, D"
-}

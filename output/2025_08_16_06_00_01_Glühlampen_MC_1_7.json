@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Verhalten der Schaltungen zu betrachten, analysieren wir die einzelnen Fälle und nehmen an, dass die Batterien ideale Spannungsquellen ohne interne Verluste sind und die Glühlampen als ohmsche Verbraucher konstanten Widerstands verhalten. Das Arbeitsprinzip ist wie folgt: In einer Serienschaltung addieren sich die Spannungen der Batterien, während der Strom der gleiche bleibt; in einer Parallelschaltung bleibt die Spannung gleich, während sich die Kapazitäten addieren.",
-  "antwortoption": "A, B, D"
-}

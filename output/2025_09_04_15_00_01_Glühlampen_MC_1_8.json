@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu analysieren, betrachten wir die Schaltungen einzeln. 1. Wenn die Batterien und Lampen in Serie geschaltet sind, verdoppelt sich die Spannung, jedoch halbiert sich aufgrund des erhöhten Widerstands die Stromstärke durch die Lampen. Die Energie in den Lampen wird schneller verbraucht, da P ∝ V², wodurch die Betriebszeit t/4 beträgt. 2. Batterien in Serie und Lampen parallel führen zu doppelter Spannung bei gleichbleibendem Widerstand der Lampen, somit t/2. 3. Batterien und Lampen parallel teilen die Gesamtstromkapazität und Erhaltung der Spannung, verdoppeln den Widerstand insgesamt, was eine Betriebsdauer von t ergibt. Deshalb sind B und D korrekt.",
-  "antwortoption": "B, D"
-}

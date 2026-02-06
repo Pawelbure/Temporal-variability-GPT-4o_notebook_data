@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aussage zu überprüfen, analysieren wir die möglichen Schaltungen:\n\n1. ***Annahmen und Idealisierungen:*** Betrachten wir den Energieverbrauch der Glühlampe, der über den Zeitrahmen konstant bleibt. Jede Batterie liefert eine bestimmte Energiemenge, die unabhängig ihrer Schaltungsart genutzt wird.\n\n2. ***Analyse der Schaltungen:***\n   a) Batterien in Serie liefern die doppelte Spannung einzelner Batterien, während der Strom im Kreis gleich bleibt. Die Lampe erhält somit viermal die Leistung, verkürzt die Leuchtzeit der Lampen auf T/4.\n   b) Parallele Schaltungen der Lampen ermöglichen gleichmäßige Stromaufteilung bei konstant Spannung, sodass jede Lampe die doppelte Leuchtdauer betreibt.\n\nDaher lautet die überprüfende Annahme wie folgt:\nLeuchtzeiten:\n   a) Zeit = t/4  ***Batterien Serie, Lampen Serie***\n   b) Leuchtdurchführung dauerhaften.",
-  "antwortoption": "A, D"
-}

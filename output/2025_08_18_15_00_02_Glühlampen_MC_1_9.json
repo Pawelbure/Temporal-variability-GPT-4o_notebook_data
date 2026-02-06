@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Erkenntnisse:\n1. Die Glühlampen besitzen eine konstante Stromaufnahme, solange die Spannung anliegt.\n2. Die Batterien liefern eine konstanthohe Spannung und entladen sich gleichmäßig.\n3. Der kombinierte Energieertrag von zwei Batterien entspricht der doppelten Energie einer einzelnen Batterie.\n\n### Analyse der Konfigurationen:\n\n#### A) Batterien in Serie und Glühlampen in Serie:\n- Spannung: Verdopplung (2U), jedoch erhöhter Gesamtwiderstand der Lampen im Stromkreis.\n- Strom: Halvenierung gegenüber einem Lampenbetrieb.\n- Entladezeit: Entsprechend der Energieab gabe des Stroms proportional 1/4t. Aussage korrekt.\n\n#### B) Batterien in Serie und Glühlampen parallel:\nSpannung verdoppelt, dann geteilte Strom an Lampen. Maximaltatplatz im Problem wasch.\n-ENTLADZEIT B Antwort, Aber für Widerspruch...\n\n### Formate",
-  "antwortoption": "B"
-}

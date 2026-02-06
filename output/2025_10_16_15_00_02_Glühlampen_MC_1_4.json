@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier angebotenen Szenarien bezüglich der Schaltung der Batterien und Glühlampen. Annahmen: Wir nehmen an, dass jede Batterie die gleiche Spannung U und Kapazität Q besitzt, und dass jede Glühlampe einen festen Widerstand R hat. Nun zum Vorgehen:\n1. Zwei Batterien in Serie verdoppeln die Spannung auf 2U, der Strom in einer Reihe von zwei Lampen reduziert sich auf I = U/R, und die Energieabgabe pro Batterie ist 2Q.•2x mit 2x Verbrauch = t.\n2. Zwei Batterien in Serie und Lampen parallel liefern zweimal die Spannung und beim gestiegenen Strom verbrauchen die Lampen Energie schneller, führen zu weniger als t.\n3. Batterien Parallel-Spannung stabil, Energie doppelt: Nutzung = 2t.\n4. Batterien und Lampen parallel schalten = gleiche Spannung wie Einzelbatterie, daher genau t.",
-  "antwortoption": "C, D"
-}

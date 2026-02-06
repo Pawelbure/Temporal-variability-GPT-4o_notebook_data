@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekten Aussagen zu ermitteln, betrachten wir die Schaltungen unter den gegebenen Bedingungen, wobei wir vereinfachende Annahmen wie konstante Spannungen und Widerstände treffen. Konstante Helligkeit der Lampen entspricht konstanter Leistung. Für die Schaltungen berechnen wir, wie lange die Batterien die geforderte Leistung liefern können: 1) Serienschaltung von Batterien/Lampen: Die Gesamtspannung verdoppelt sich, der effektive Widerstand summiert sich. Dies verringert den Strom und damit die Entladungszeit. 2) Parallelschaltung von Batterien/Lampen: Die verfügbare Kapazität verdoppelt sich, jedoch fließt der Strom wie bei einer einzelnen Batterie, so bleibt die Zeit gleich t. 3) Kombinierter Modus gibt jeweilig Intermediatere Ergebnisse. Nach Berechnung ergibt sich Antwort D als korrekt.",
-  "antwortoption": "D"
-}

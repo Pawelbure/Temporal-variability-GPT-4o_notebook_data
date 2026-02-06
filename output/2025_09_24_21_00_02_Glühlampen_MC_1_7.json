@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren jede der Aussagen basierend auf Schaltungen mit den gegebenen Komponenten: zwei Batterien und zwei Glühlampen.  1. Annahmen: Jede Batterie hat eine identische Kapazität mit konstanter Spannungsabgabe bis zur vollständigen Entladung. Der Widerstand der Glühlampen ist konstant und unabhängig von Spannung und Strom. Keine Zusatzeffekte wie Wärmeverluste und interner Widerstand der Batterien werden berücksichtigt.  2. Analyse der Aussagen:   - **(A)** Batterien in Serie und Lampen in Serie erhöhen die Spannung der Baterieen, verdoppeln den Strom durch die Lampen, und halbieren damit ihre Lebenszeit auf \"t/4\" für beide Lampen zusammen.   - **(B)** Batterien in Serie und Lampen parallel lassen sie mit der doppelten Spannung und half Lebenszeit (\"t/2\") betrieben.   - **(C)** Batterien parallel und Lampen in Serie ergibt selbe verlauf.",
-  "antwortoption": "A, B, D"
-}

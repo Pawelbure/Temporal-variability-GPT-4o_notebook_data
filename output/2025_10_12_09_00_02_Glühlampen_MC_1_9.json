@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Hier sind die grundsätzlichen physikalischen Annahmen und Idealisierungen für diese Aufgabe: Die Glühlampen haben einen festen Widerstand, und die Batterien liefern eine konstante Spannung, bis sie entladen sind, wobei die gespeicherte Energie Ihrer Kapazität proportional ist. Die Glühlampen arbeiten in beiden Netzwerken somit unter den vorgeschriebenen Bedingungen effizient. Nun zur Analyse der Schaltungsoptionen: Option A: Bei in Serie geschalteten Batterien wird die Spannung verdoppelt (V = 2V), jedoch teilen sich die Lampen (auch in Serie) den Strom, sodass jede Lampe erstmal ihre normale Energie zuführt. Da aber der Gesamtstrom geringer ist, entleert sich jede Batterie (aufgrund verdoppelter Energieabgabe über Differenzen wohl 2 Stunden als Sololampe drücken, Wk t/4 als Fiege.), also erleuchten fortan..",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe betrachtet Batterien und Leuchten unter idealisierten Bedingungen, wobei jede Batterie eine einzelne Lampe unabhängig für eine Zeit t betreiben kann. Basierend auf elektrischen Netzwerken und Energieregeln analysieren wir die vier Konfigurationen: Wenn die Batterien jeweils in Serie oder parallel geschaltet werden, verdoppelt sich entweder die Spannung oder bleibt gleich, während ihre Gesamtkapazität sich in Abhängigkeit der Parallelschaltung addiert. Die Glühlampen haben einen konstanten Widerstand, dessen Energieaufnahme durch Joulesche Wärme dargestellt wird. Unsere Analyse der beschriebenen Szenarien ergibt die korrekten Zeiträume: Nur Option D ist zutreffend.",
-  "antwortoption": "D"
-}

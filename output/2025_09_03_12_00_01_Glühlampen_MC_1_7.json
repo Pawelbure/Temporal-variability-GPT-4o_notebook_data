@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegeben sind zwei Batterien, jeweils mit einer Laufzeit t beim Betrieb einer Glühlampe. Es gibt verschiedene Konfigurationen der Schaltungen zu analysieren. Idealisierungen: Die Glühlampen haben konstanten Widerstand, und die Batterien sind ideal (konstanter Strom, bis sie vollständig entladen sind). Physikalische Grundsätze: In einer Reihenschaltung addieren sich Spannungen, während in einer Parallelschaltung die Spannungen gleich sind, und Kapazitäten sich addieren. In Reihe fließt derselbe Strom durch jedes Element, in Parallel werden Stromstärken geteilt. Berechnung der Szenarien:",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren das Problem für jede angegebene Schaltungsmöglichkeit unter der Annahme, dass Batterien ideale Spannungsquellen ohne inneren Widerstand sind und dass die Glühlampen konstante Widerstände darstellen. Zudem ist angegeben, dass die Energie, die eine Batterie liefern kann, endlich ist. Dies bedeutet, dass die Energie (E = P · t, wobei P die Leistung und t die Betriebsdauer ist), die jede Batterie bereitstellen kann, konstant ist. E1 = E2 = E.\n\n1. **Serienverbindung der Batterien und Glühlampen**:\n   - Spannungen addieren sich: U_ges = 2U1.\n   - Widerstände addieren sich: R_ges = 2R1.\n   - Der Strom bleibt konstant: I = U_ges / R_ges = U1 / R1 = konstanter Strom I_b.\n   - Die Batterielaufdauer wird gleich derjenigen für eine Lampe/batterie: t_a.\n\n2. **Serienbatterien Parallelbetrieb/Vergleichbarkeitfaktor.",
-  "antwortoption": "B"
-}

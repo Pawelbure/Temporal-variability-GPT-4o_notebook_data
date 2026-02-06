@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, betrachten wir die Schaltungen und die Energie, die von den Batterien bereitgestellt und von den Lampen verbraucht wird. Annahmen: Jede Batterie hat eine konstante elektrische Energie von E, und jede Glühlampe hat einen Widerstand R. Die Batterie liefert eine konstante Spannung V während ihrer Betriebszeit. Lösung: \n1. Wenn die Batterien und die Lampen in Serie geschaltet sind, verdoppelt sich die Spannung, wodurch der Strom I=V/R steigt, folglich ist der Energieverbrauch höher.\n2. Wenn die Batterien in Serie und die Lampen parallel geschaltet sind, bleibt die Betriebsspannung der Lampen gleich, und die Energiemenge verteilt sich.\n3. Eine Parallelschaltung der Batterien verdoppelt die verfügbare Energie, ohne die Spannung zu ändern. \n4. Die Betriebszeit hängt von der Energie ab, die zur Verfügung steht und von den Lampen verbraucht wird.",
-  "antwortoption": "B, D"
-}

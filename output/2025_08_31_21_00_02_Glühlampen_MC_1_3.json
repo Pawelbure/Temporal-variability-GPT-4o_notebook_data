@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen:\n- Die Batterien sind identisch und liefern eine konstante Spannung, bis sie vollständig entladen sind.\n- Der Widerstand der Glühlampen ist konstant und unabhängig von der angelegten Spannung.\n- Es gibt keine anderen Energieverluste im Schaltkreis.\n\n### Lösungen und Überlegungen:\n1. jede Batterie liefert eine Spannung V und hat eine Kapazität Q. Die Energie entspricht dann E = V * Q.\n2. Einzelne Lampe ist bei einer Batterie eine Zeit t eingeschaltet. Daraus ergibt sich der Strom I durch die Lampe: I = Q / t.\nNun zur Bewertung der Schaltungen:\n### Lösungen:\n1. Schaltung in Serie: Die beiden Lampen:\n   - Gesamte Energie teil durch.\n-Letzer halten Thalb meter",
-  "antwortoption": "D"
-}

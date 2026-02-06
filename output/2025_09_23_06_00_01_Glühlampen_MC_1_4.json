@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die gegebenen Annahmen:\n\n1. Jede Batterie liefert eine konstante Energie bis zur Entleerung. Die Spannung V der Batterie ist konstant.\n2. Die Glühlampen haben einen konstanten Widerstand R.\n\nSchritt für Schritt untersuchen wir jede Option:\n\nA) Wenn Batterien und Lampen in Serie geschaltet sind, ist der Strom I = V/(2R). Aufgrund der doppelten Spannung wird die Leistung P = I^2R vervierfacht, wodurch die Batterien viermal schneller entladen werden. Die Zeit beträgt daher t/4. Aussage A stimmt.\n\nB) Wenn die Batterien in Serie und die Lampen parallel geschaltet sind, bleibt die Spannung an jeder Lampe gleich wie eine Einzelbatterie. Jede Lampe strahlt 1t, also also stimmt Aussage B nicht.\n\nC) Batterien in parallelieren haben Effi..  etc.",
-  "antwortoption": "A, C, D"
-}

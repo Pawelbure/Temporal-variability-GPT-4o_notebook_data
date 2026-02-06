@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungen und deren Auswirkungen auf die Betriebsdauer der Glühlampen. Annahmen: Die Spannung und Kapazität jeder Batterie sind konstant, und die Glühlampen sind idealisiert mit konstantem Widerstand. (1) Bezieht man zwei Batterien in Serie, so verdoppelt sich die Gesamtspannung. Bei zwei seriellen Glühlampen verdoppelt sich auch der Gesamtwiderstand; der Strom pro Lampe bleibt unverändert, sodass dieselben Energieaufwendungen nötig sind, jedoch wird die Zeit durch den Verbrauch auf zwei Lampen aufgeteilt: t/2. (2) Schaltet man die Batterien parallel, bleibt die Gesamtspannung unverändert, aber die Kapazität verdoppelt sich; zwei Parallel-Lampen generieren den selben Stromfluss, was die Gesamtzeit erneuert auf die ursprüngliche Kapazität verkürzen sollte.",
-  "antwortoption": "B"
-}

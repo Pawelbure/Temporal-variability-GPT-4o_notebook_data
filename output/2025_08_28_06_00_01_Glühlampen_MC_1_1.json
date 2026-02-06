@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Hier ist die detaillierte Analyse: Annahmen: (1) Jede Batterie hat eine Spannung V und eine Kapazität von Q Coulomb. (2) Der Widerstand jeder Glühlampe sei R, womit sie eine konstant bleibende Leistungsaufnahme hat. (3) Innenwiderstände der Batterien und andere Verluste werden vernachlässigt. {\n} Lösungen zu den Konfigurationen: (1) Serie von Batterien und Lampen: Gesamtspannung = 2V, Gesamtwiderstand = 2R -> Strom I = 2V / 2R. Dauer = Q / I -> t/2 Versuch... (2) Batterie... usw.",
-  "antwortoption": "A, B, D"
-}

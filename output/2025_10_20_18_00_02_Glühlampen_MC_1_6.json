@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Idealisierte Batterien mit konstantem Energieinhalt und Spannung, Glühlampen mit linearem konstantem Widerstand. \n\n2. Batteriepaar in Serie, Lampen in Serie:\n   - Kombinierte Spannung verdoppelt sich zur Reihenanordnung (2V).\n   - Der Gesamtwiderstand verdoppelt sich zur einzelnen Lampe (2R).\n   - Resultierende Stromstärke halbiert sich (V/R).\n   - Lampen erhalten gleiche Energiemenge in halber Betriebszeit (t/2).\n\n3. Batterien in Serie, Lampen parallel:\n   - Spannung der Batterien summiert sich (2V).\n   - Individuelle Energieabgabe der Lampen wird erreicht.\n   - Strombedarf verdoppelt Energiekapazität zweifach aufgebraucht (t/4).\n\n4. Batterien parallel, Lampen mittel Zubereitungsbetrieb.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Hier beginnt die Berechnung. Es gelten folgende Annahmen: jede Batterie hat die Kapazität C, jede Glühlampe der Widerstand R. Relevant ist das Zusammenspiel von Kapazität, Spannung und Gesamtwiderstand im Stromkreis. \n\nA) Batterien und Lampen in Serie: Zwei Batterien in Serie verdoppeln die Spannung. Zwei Lampen in Serie verdoppeln den Widerstand, wodurch der Gesamtstrom halbiert wird. Die Leistung pro Lampe bleibt konstant, die Betriebszeit halviert sich daher (Gesamtladung/Leistung). ==> t/2\n\nB) Batterien in Serie, Lampen parallel: Spannung verdoppelt, Widerstand der beiden Lampen halbiert. Gesamtstrom verdoppelt sich. Leistung verdoppelt sich. ==> t/2\n\nC) Batterien parallel, Lampen in Serie: Kapazität verdoppelt, Spannung bleibt. Widerstand doppelt sich. Leistung halbiert sich. Betriebszeit verdoppelt ==> 2t\n\nD) Alles parallel: Kapazität verdoppelt. Spannung bleibt. Leistung konstant. ==> t",
-  "antwortoption": "C"
-}

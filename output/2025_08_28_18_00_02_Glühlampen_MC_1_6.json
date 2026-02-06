@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die jeweiligen Szenarien unter Berücksichtigung der Annahmen und der elektrischen Grundlagen:1. Die Elektronenenergie kommt aus den Batterien, jede liefert eine endliche Ladungsmenge (Kapazität) bei einer konstanten Spannung. 2. Der Widerstand der Glühlampe ist konstant, somit auch die Strom-Leistungsspezifikation, wenn eine konstante Spannung anliegt. Nun analysieren wir:Jede Batterie hat eine Energie von E. Bei paralleler Schaltung addieren sich die Kapazitäten der Batterien, sodass 2E vorhanden ist. Die Glühlampen in Serie erhöhen den Gesamtwiderstand und reduzieren die Stromaufnahme im Vergleich zur Einzelanwendung, während parallele Glühlampen die Energieaufnahme verdoppeln. Daher:",
-  "antwortoption": "D"
-}

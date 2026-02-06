@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, verwenden wir Ohmsches Gesetz (V=IR) und betrachten die Energiebilanz der Batterien. Jede Batterie verfügt über eine Energie E, die sie komplett an eine Lampe abgibt, wenn diese für die Zeit t betrieben wird. Wir analysieren die vier Fälle im Detail:\n\n1. **Fall A:** Batterien und Lampen in Serie. Der doppelte Widerstand vermindert den Strom und über die Zeit entzieht er den Batterien viermal den Strom. Ergo, die Ergebniszeit beträgt t/4.\n\n2. **Fall B:**  Batterien in Serie, Lampen parallel. Strom teilt sich, und der Betrieb dauert entsprechend t/2.\n\n3. **Fall C:** Batterien parallel, Lampen in Serie. Der Gesamtspeicher an Energie verdoppelt sich durch Parallelschaltung, Betrieb verlängerte sich auf 2t.\n\n4. **Fall D:** Beide parallel, zusammen Zeitverbrauch ergibt die Ausgangsbatteriefähigkeit daher t.",
-  "antwortoption": "C, D"
-}

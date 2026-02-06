@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Beim Lösen dieser Aufgabe berücksichtigen wir folgende Physikannahmen:\n- Alle Batterien haben identische Spannung U und Speicherkapazität Q.\n- Jede Glühlampe besitzt den gleichen elektrischen Widerstand R und verbraucht elektrische Energie im konstanten Verhältnis.\n\nDie Analyse der Schaltungen zeigt Folgendes:\nA) Zwei Batterien in Serie verdoppeln die Spannung (2U), und zwei Lampen in Serie verdoppeln den Widerstand (2R). Der Strom durch die Lampen wird daher I = U/R konstant, und die Betriebszeit bleibt t, da der Energieverbrauch pro Lampe unverändert bleibt.\nB) Unter Konzentration auf den Parallelanwendungsfall der Lampen, I = U/R ist verdoppelt, doch der Energieinhalt geht über die halbe Zeit—t bleibt generell erhalten.",
-  "antwortoption": "D"
-}

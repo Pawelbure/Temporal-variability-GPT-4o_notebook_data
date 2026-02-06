@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die Grundlagen der Reihenschaltung und Parallelschaltung von Batterien und Glühlampen sowie die Energie- und Leistungsabhängigkeiten. Grundannahmen sind, dass jeder Batterie ihre Kapazität in Wattstunden hat und jede Lampe einen festen Widerstand besitzt. Basierend auf dieser Information berechnen wir die Energieverteilung und den Wirkungsgrad der Energieabgabe bei den verschiedenen Schaltungen. Nach Durchführung der Analyse ergibt sich, dass Antwortoption D korrekt ist, da Batterien in Parallelschaltung bei parallelen Lampen beide mit jeweils ihrer Nennkapazität ihre typische Spannung liefern, was zu der erwarteten Betriebszeit von t führt.",
-  "antwortoption": "D"
-}

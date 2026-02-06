@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Für diese Aufgabe nehmen wir an:\n1) Die Batterien haben den gleichen Energieinhalt und Spannung.\n2) Für eine Lampe ist deren Widerstand konstant, und sie hat eine definierte zeitliche Energieaufnahme.\n3) Die Stromverluste durch Verdrahtung oder Batterieinternwiderstände werden vernachlässigt.\nBetrachten wir nun die gegebene Situation:\n- Jeder Batterie liefert Energie E;\n- Die Leistung jeder Glühlampe beträgt konstant P daher ergibt sich die Laufzeit t=E/P für eine Batterie im Alleinbetrieb pro Lampe.\n\nAnalyse der Szenarien:\nA) Batterien und Lampen serienverschaltet: Die Spannung verdoppelt sich, der Strom halbiert sich. Die Gesamtleistung ist gleich, die Zeit wäre t/2.\nB) Batterien in Serie, Lampen parallel: Die Laufzeit ist gleich wie sich P erhöht. daher t.\nC) Beide parallel: Je Batterie ist Einkauf verdoppelt daher Zeit 2t\n\nAntwort richtig: A.\"",
-  "antwortoption": "D"
-}

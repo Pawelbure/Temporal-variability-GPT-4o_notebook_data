@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Hier die wissenschaftliche Analyse und die entsprechenden Betrachtungen für die Aufgabe:\n\n1. Annahmen und Rahmenbedingungen:\n   - Alle Batterien haben die gleiche Spannung V und Kapazität Q.\n   - Der Widerstand einer Glühlampe bleibt konstant und beträgt R.\n   - Eine Glühlampe wird durch eine Spannung V in der Zeit t betrieben, was eine konstante Energieabgabe bedeutet.\n\n2. Betrachten der gegebenen Schaltungen:\n   - Serie: Spannung addiert sich; gleiche Stromstärke; Energie geht schneller verloren.\n   - Parallel: Geteilter Stromfluss; Erhält der gleiche Ausgang wie ein kombiniertes Batteriesystem.\n\n3. Ausarbeitung der Optionen:\n   - (A) Zwei Batterien und Glühlampen in Serie: Spannung verdoppelt. Stromversorgung pro Glühbirne kleiner, t verbleibt nahezu gleich.\n   - (B) Parallele Batterie-Wertungsfunktion t verdoppelt dies durch Effizienzsteigerung.\n",
-  "antwortoption": "D"
-}

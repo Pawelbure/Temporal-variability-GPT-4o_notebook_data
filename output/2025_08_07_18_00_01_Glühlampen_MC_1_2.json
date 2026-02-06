@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und ideelle Bedingungen\nWir nehmen an:\n- Jede Batterie hat eine konstante EMK und Innenwiderstand.\n- Die Glühlampen zeichnen sich durch konstanten Widerstand und Leistung aus.\n- Die Batterien entladen sich gleichmäßig und unabhängig.\n- Das Verhalten von Stromkreiselementen folgt den Kirchhoffschen Regeln.\n- Es handelt sich um einfachen Gleichstrom und stationäre Bedingungen.\n### Lösungsanalyse\n1. **Option A:**\n   - Batterien in Serie: EMK verdoppelt, Innenwiderstand addiert.\n   - Glühlampen in Serie: Widerstand summiert, Strom geringer als bei Einzelbatterie.\n   - Leistung pro Lampe geringer, Entladeschlussleistung reduziert => Glühlampen leuchten länger, als bei einer Einzelbatterie.\n**Falsch.**\n2. **Option B:**\n   - Batterien in Serie. EMK verdoppelt.\n   - Glühlampen parallel: Strom teilt sich auf => Spannungssenkung proportioniert.\n**Falsch.**\n",
-  "antwortoption": "A"
-}

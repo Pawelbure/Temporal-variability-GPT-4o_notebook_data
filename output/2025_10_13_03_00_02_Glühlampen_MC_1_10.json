@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Angenommene Bedingungen: Jede Batterie liefert eine konstante Spannung V und eine definierte Ladungsmenge q, sodass sie eine elektrische Leistung P während der Zeit t bereitstellen kann. Jede Glühlampe besitzt einen konstanten Widerstand R. Die Energie der Batterie E=qV berechnet die elektrische Arbeit. \n\n2. Analyse der Szenarien:\n-**A)** Batterien und Lampen in Serie: Die Ersatzspannung verdoppelt sich (2V), der Gesamtwiderstand beträgt 2R, daher ist der Strom durch den Widerstand I = V/R. Die Energieabgabe beginnt schneller, Laufzeit t/2. Da beide in Serie verbraucht, summierend = t/4. \n-**B)**  Parallel Lampen ziehen getrennte Durchflüsse aber gemeinsame Batterie um Spannung konstant jedoch konstante einzelne Entladung je Batterie selbst. Erreichbare Summe Menge gleiche führt zu t/2.\nAnzupassänen betonen wichtig jedoch resüme letzer Konzentraten",
-  "antwortoption": "B"
-}

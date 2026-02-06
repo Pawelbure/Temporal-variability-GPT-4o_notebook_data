@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Analyse und Lösungsweg:1. Annahmen und Idealisierungen: Die Batterien weisen eine konstante Spannung auf, bis sie vollständig entladen sind.Die Glühlampe hat einen konstanten Widerstand und folgt Ohm's Gesetz (V=IR).Die Kapazität der Batterien ist gleich und liefert eine konstante Energiemenge.2. Konzepte:### Einfluss der Schaltungen auf Spannung und Stromverbrauch durch die Glühlampen:- **Serienschaltung:** Die Spannungen addieren sich. Der Gesamtstrom ist durch die Summe der Einzelwiderstände begrenzt.- **Parallelschaltung:** Die Spannung bleibt gleich. Die Kapazitäten addieren sich, was zu einer vervierfachten möglichen Zeitresultiert.### Schlussfolgerung für die Antwort:Die richtige Antwort ist D)",
-  "antwortoption": "D"
-}

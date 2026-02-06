@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, machen wir folgende Annahmen:\n1. Eine Batterie liefert eine konstante Spannung V und hat eine konstante Kapazität Q an Ladung, bevor sie leer ist.\n2. Die Glühlampen haben einen konstanten Widerstand R, unabhängig von der angelegten Spannung.\n3. Der Energieverbrauch pro Glühlampe ist proportional zur anliegenden Spannung und dem Widerstand R.\n\nLösungsanalyse für die verschiedenen Schaltungen:\n\nA) Zwei Batterien in Serie (Gesamtspannung = 2V), zwei Lampen in Serie (Gesamtwiderstand = 2R). Der Strom bei 2V beträgt I = (2V)/(2R) = V/R. Die Gesamtenergie ist 2*Q*V. Der Gesamtverbrauch ist E = I² x 2R x t = (V/R)² x 2R x t. Damit ergibt sich t = (Q*V)/(I**2 x 2R) (Abweichung von den Werten).\n\nB) Zwei Batterien in Serie, zwei Lampen parallel. Die Energie gleichmäßig verteilt, Betrieb für die After-mentioned Zeit.\n\nR esults Discussion der Options sollten mehr elaboriert werden.",
-  "antwortoption": "A"
-}

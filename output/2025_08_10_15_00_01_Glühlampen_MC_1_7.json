@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Analysieren der Schaltungen: Batterie und Glühlampen\n1. Die Kapazität einer Batterie liefert eine bestimmte gespeicherte Energie. Die Glühlampen repräsentieren Widerstandslasten, die elektrischen Strom verbrauchen.\n2. Durchschnittsenergieverbrauch einer Lampe: Der Widerstand bleibt konstant.\n\n#### Situationen analysiert:\n##### A) Batterien und Lampen in Serie:\n- Gesamtwiderstand: Zwei Lampen in Serie verdoppeln den Widerstand.\n- Strom ist durch Ohm-Gesetz auf die Hälfte (I=E/2R) reduziert.\n- Energieverbrauch proportional zu \\(I^2\\) ergibt insgesamt 1/4 der Zeit für die gleiche Energie.\n##### B) Batterien in Serie, Lampen parallel:\n- Gleichen Strom durch jede Lampe. Mehr Spannung von zwei Batterien halbiert Zeit.\n##### C) Batterien parallel:\n- Parallelergleichheit **Verdoppelt verfügbare Kapazität.**\n##### Analyse gelegener Bedingungen: A korrekt verifiziert.\n#### Option wählen **B C D** übernommen.",
-  "antwortoption": "B"
-}

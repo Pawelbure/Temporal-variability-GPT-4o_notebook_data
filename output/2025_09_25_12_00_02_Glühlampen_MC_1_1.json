@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst betrachten wir die relevanten physikalischen Konzepte:\n1. Jede Batterie stellt eine konstante Leistung über eine feste Zeitspanne t zur Verfügung. \n2. Der Widerstand der Glühlampen bleibt konstant, und die Batteriespannung bleibt im relevanten Bereich konstant.\n\nFür den Serienbetrieb der Batterien:\n- Die Spannung addiert sich, die Kapazität bleibt gleich. Dadurch wird doppelte Leistung bei gleichbleibender Kapazität abgegeben, somit verkürzt sich die Betriebslaufzeit je Hälfte (t/2).\n- Wenn die Glühlampen in Serie geschaltet sind, erhöht sich der Widerstand gesamt (doppelter Stromwiderstand), sodass nur halbe Leistung (vierteln der Betriebslaufzeit etwa).\n\nRechnung für je erwähnte (4 Fälle): glühlampe Widerständen spezifischen Parallelschaltungen.\n\n\\[\\text{Abschließend könnte dies wie folgt, vierfache Endspurt angeben}\n",
-  "antwortoption": "C, D"
-}

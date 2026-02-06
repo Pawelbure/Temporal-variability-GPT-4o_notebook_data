@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Batterien sind ideal, haben konstanten Spannungsausgang und keine Innenwiderstände; die Glühlampen haben konstanten Widerstand. Bei der Schaltung werden die Eigenschaften Ohmsches Gesetz (U = R·I) sowie die Leistungsdissipation (P = U^2/R) berücksichtigt. Schlussfolgerungen:\nA) Batterien in Serie: gemeinsame Spannung verdoppelt, Glühlampen in Serie: Gesamtwiderstand verdoppelt → Leistungsverlust insgesamt nicht 4-fach. Aussage falsch.\nB) Batterien in Serie: Spannung verdoppelt, zwei Glühlampen parallel: Leistung pro Lampe gleich Basisfall, Zeit = t → Aussage korrekt.\nC) Batterien parallel: Spannung bleibt gleich, Glühlampen in Serie: Gesamtwiderstand verdoppelt → Leistung halbiert, Dauer = 2·t → Aussage korrekt.\nD) Batterien parallel, Glühlampen parallel: Spannung wie Basisfall, geteilter Strom → gleiche Leistung → Zeit = t → Aussage korrekt.",
-  "antwortoption": "B, C, D"
-}

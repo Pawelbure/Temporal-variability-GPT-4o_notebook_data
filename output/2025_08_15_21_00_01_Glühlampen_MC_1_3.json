@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Schaltmöglichkeiten genau, um die Zusammenhänge zwischen Spannung, Strom, und Leistung zu verstehen. \\n1. Die Kombination der Batterien in Serie verdoppelt die Spannung. Die in Serie geschalteten Glühlampen werden durch denselben Strom versorgt, wodurch die Leistung bei jedem gleich bleibt wie bei einem Einzelbetrieb. Die Gesamtenergie wird jedoch auf die beiden Lampen verteilt. Somit steht jedem die Hälfte der Einzelenergie einer Batterie zur Verfügung, was erklärt, warum die Lampe t/4 leuchten kann. \\n2. Bei Parallelbetrieb der Batterien bleibt die Spannung identisch, verdoppelt sich aber die mögliche Ladekapazität. Die Lampen in Serie konsumieren mehr Energie, weshalb die Zeit t nicht verlängert wird. \\n3. Kombination Batterien und Lampen parallel erhöht die Energieeffizienz, da Hubenergie doppelt bereit steht, leuchten beide parallel aber entsprechend kürzer.",
-  "antwortoption": "A"
-}

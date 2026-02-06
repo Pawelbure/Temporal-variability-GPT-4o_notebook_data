@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Bei der Analyse dieser Schaltungen gehen wir davon aus, dass die Glühlampen ohm'sche Widerstände mit konstantem Widerstand und die Batterien ideale Gleichspannungsquellen mit konstantem Maximalladungsabbau sind. Für jede Schaltungsformation prüfen wir die Stromverhältnisse: Im Fall von zwei Batterien in Serie erhöht sich die Spannung, aber die Gesamtladung bleibt die gleiche, da Batterien unabhängig von der Spannung denselben maximalen Strom liefern können. Bei paralleler Schaltung verdoppelt sich die Kapazität der Batterien. Daraus ergeben sich die Zeiten für die vier gegebenen Schaltungen und die Resultate stellen sich wie folgt dar:",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Batterien sind identisch und liefern jeweils eine konstante Spannung und Kapazität. Die Glühlampen haben einen festen Widerstand und eine konstante Leistungsaufnahme. Für jeden Szenario analysieren wir die mögliche Strom- und Leistungverteilung sowie die Konsequenzen für die Zeitdauer.\n\n1. Batterie und Lampe in Reihe:\n   Die Spannung der Batterieserie verdoppelt sich, was den Strom durch die Lampensicherung erhöht (I = U/R verdoppelt). Die Leistung erhöht sich um Faktor vier (P = U²/R).\n\n2. Glühlampen parallel betreiben bei Batterieserie:\n   Jede Lampe erhält Ursprungsstromzweig, Zeitverkürzung um Faktor zwei, da beide Sätze gleicher Energie benötigen.\n\n3. Batterie in Parallel verbindet:\n   Energiekapazität als doppel zusammelegt, erhöht Gesamtnutzung um Faktor zwei.\n\nOptionen überlegen und Vorschläge ordnen.\n\nValid Erklärung ergibt Evaluation.",
-  "antwortoption": "B, D"
-}

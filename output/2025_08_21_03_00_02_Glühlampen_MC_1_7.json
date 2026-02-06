@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Batteriespannung sei U und die zugehörige Kapazität Q. Der elektrische Strom durch eine Glühlampe mit Widerstand R ist I=U/R und die Leistung beträgt P=U^2/R. Die Entladezeit der Batterie ist daher t=Q/I=QR/U. Für zwei unterschiedlich verschaltete Systeme diskutieren wir die Auswirkung:  \n\n1. **Bat. Serie, Lamp. Serie**: (A). Spannung der Batterien verdoppelt sich (2U). Bei Verdopplung des Widerstands (2R), bleibt P konstant, aber der Strom wird halbiert, wodurch die Entladezeit bei einer Glühlampe 2t beträgt; im Falle zweier Lampen ist der simultane Betrieb nicht erfüllt.\n\n2. **Batterien parallel, Lampen parallel**: (D). Gesamtkapazität verdoppelt sich (2Q). Der Strom hat denselben Wert wie für eine parallele Glühlampe, wobei die Entladung insgesamt parallel läuft, somit beträgt die maximale Betriebszeit t.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahme: Eine Batterie liefert konstante Spannung und Energiekapazität. Der Widerstand der Glühlampe bleibt unabhängig von der Stromzufuhr konstant. Der Energietransfer ist stabil und ändert sich nicht durch externe Faktoren. Konzepte: Energie P=U^2/R (Spannung, Widerstand), Kapazität der Batterien. Lösungen zu den Szenarien: (A) Spannung verdoppelt sich, Strom und Leistung steigen quadriatisch, Batterie schneller entleert, daher t/4. (B) Verdoppelte Spannung reduziert parallele Last durch jeden Widerstand, daher t/2. (C) Parallelschaltung der Batterien verdoppelt Kapazität ohne Spannungserhöhung, Serienladung halbiert Strom zu einem Widerstand pro Batterie, verdoppelt Laufzeit: 2t. (D) Gleiche Bedingungen wie ursprünglich, Batterien parallel, Laufdauer gleich t. Antworten deduziert aus Formeln.",
-  "antwortoption": "A, B, C, D"
-}

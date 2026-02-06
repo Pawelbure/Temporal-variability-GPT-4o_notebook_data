@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Problemstellung basierend auf den gegebenen Informationen und unter der Annahme, dass alle Elemente idealisiert sind (Konstantspannungsbatterien ohne Innenwiderstand und ideale Widerstände als Glühlampen). Die Leistung einer Glühlampe entspricht P=U²/R. Die Energie jeder Batterie ist E und die Zeit, für die eine einzelne Batterie eine Lampe betreibt, beträgt t. Wenn zwei Batterien in Serie geschaltet werden, verdoppelt sich die Spannung, woraus eine Veränderung der systematischen Energieabgabe resultiert. Wir betrachten jede der beschriebenen Konfigurationen separat und verwenden die genannten Annahmen, um die Betriebszeit der Lampen zu ermitteln:",
-  "antwortoption": "B, D"
-}

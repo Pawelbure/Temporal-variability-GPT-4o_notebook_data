@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das zu beantworten, nehmen wir folgende idealisierenden Annahmen an: Jede Batterie liefert eine konstante Spannung bis zur vollständigen Erschöpfung ihrer Kapazität. Der Widerstand jeder Glühlampe bleibt konstant, unabhängig von der anliegenden Spannung oder leistungsmäßigen Erwärmung.1. Batteriespannung und Lampe: Sei U die Spannung einer Batterie, R der Widerstand einer Glühlampe. Dann fließt in einer Serienkonfiguration durch jede Lampe der Strom I=U/R (für eine Batterie). Benutzen wir zwei Lampen in Serie, beträgt der Widerstandsverlauf 2R; bei zwei Lampen parallel bleibt der einzelne Widerstand R konstant. 2. Bei Parallelschaltung der Batterien bleibt Spannung gleich, erhöht jedoch ‚Kapazität‘ (Verdopplung Laufzeit). Lösung: Bei Fall A und B kürzert Leuchtzeit entsprechend Erwägung. A=Semierkürzt.",
-  "antwortoption": "D"
-}

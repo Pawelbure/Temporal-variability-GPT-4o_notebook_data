@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen:\\n1. Die Batterien und Glühlampen sind ideal: Batterien besitzen einen konstanten Innenwiderstand und eine konstante Spannung bis zur Entladung, und Glühlampen haben einen konstanten Widerstand.\\n2. Die Energiemenge, die eine einzelne Batterie bis zur Entladung liefern kann, ist gleich.\\n3. Der Energieverbrauch einer Glühlampe beträgt P = U²/R.\\n\\nLösungsanalyse und Berechnung:\\n\\nA) Batterien in Serie, Lampen in Serie:\\n- Gesamtspannung = 2U; Gesamtwiderstand = 2R. Totaler Strom = Gesamtspannung/Gesamtwiderstand = U/R.\\n- Leistung je Lampe = (U/R)² * R/2 = P/2 (da der Strom hier geteilt durch die Glühlampen verteilt wird).\\n\\nB) Batterien in Serie, Lampen parallel:\\n- Gesamtspannung = 2U. Lampen teilen den Strom und arbeiten bei ursprünglichem P.\\n- Zeit bis Gesamtenergie = t/2.",
-  "antwortoption": "B"
-}

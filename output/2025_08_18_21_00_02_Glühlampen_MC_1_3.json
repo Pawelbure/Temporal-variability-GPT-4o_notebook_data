@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Konfigurationen der Batterien und Lampen bezüglich Strom, Spannung, und Energiebereitstellung. Wir nehmen an, dass jede Batterie eine konstante Energiekapazität und Spannung hat sowie dass der Widerstand einer Lampe konstant ist, unabhängig von ihrer Verwendung in der Schaltung. Basierend auf den Grundgesetzen der Elektrotechnik, insbesondere dem Ohmschen Gesetz und den Eigenschaften von Serienschaltungen und Parallelschaltungen, berechnen wir, welche Zeitdauer \\( t \\) die Glühlampen entsprechend leuchten können. Am Ende ergeben sich folgende Ergebnisse für die gegebene Schaltungsanordnung: A) Falsch, B) Falsch, C) Falsch, D) Richtig.",
-  "antwortoption": "D"
-}

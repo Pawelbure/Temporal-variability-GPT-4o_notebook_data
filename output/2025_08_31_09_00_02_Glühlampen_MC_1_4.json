@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenstellung zu analysieren, betrachten wir die vier genannten Schaltungen: Serie und parallel, sowohl in Bezug auf Batterien als auch Glühlampen. Gegeben ist, dass jede Batterie eine einzelne Lampe für eine Zeit t versorgen kann. Nun arbeiten wir die Szenarien durch: A) Wenn Batterien und Glühlampen in Serie sind, so verdoppelt sich die Spannung, jedoch teilen sich die Verbraucher diese. Da der Strom sinkt, wird die Zeit 4-fach reduziert, daher t/4. B) Batterien in Serie und Lampen parallel führen zu geteilter Stromversorgung der Lampen, die Energie reicht so nur für die Hälfte der Zeit, t/2. C) Batterien parallel und Lampen in Serie erhöhen die verfügbare Ladungsmenge, daher können die Lampen doppelt so lange betrieben werden, 2t. D) Batterien und Lampen parallel halten die Lampe komplett gleich versorgt, sodass die Zeit unverändert bleibt, t.",
-  "antwortoption": "A, B, C, D"
-}

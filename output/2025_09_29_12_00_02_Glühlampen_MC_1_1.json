@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, müssen wir mehrere Annahmen und Konzepte beachten: Die Batterien werden als ideale Spannungsquellen betrachtet, die Glühlampen als ohmsche Verbraucher mit konstantem Widerstand. Die Kapazität der Batterie (Energieinhalt), gemessen in Coulomb oder Amperestunden, bleibt konstant. Wenn wir die Batterien und Glühlampen kombinieren, beeinflusst die Schaltung den Stromfluss und die Spannung an den Glühlampen. Dazu analysieren wir die vier gegebenen Optionen jeweils mithilfe der elektrischen Kirchhoffschen Regeln und des Energieerhaltungssatzes.",
-  "antwortoption": "D"
-}

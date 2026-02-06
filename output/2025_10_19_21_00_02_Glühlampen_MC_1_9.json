@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, nehmen wir folgende Annahmen und idealisierte Voraussetzungen an:\\n1. Jede Batterie liefert über ihre gesamte Betriebszeit eine konstante Spannung und gibt eine bestimmte elektrische Energiemenge ab.\\n2. Der Widerstand der Glühlampe bleibt konstant während der gesamten Zeit.\\n3. Der Energiebedarf der Glühlampe ist konstant, gleich R, wobei R der Widerstand ist.\\n\\n**Analyse:**\\n• **Fall A:** Zwei Batterien und Lampen jeweils in Serie:\\n   - Gesamtspannung: 2V, Gesamtwiderstand: 2R → Strom: V/2R\\n   - Energieverbrauch pro Zeiteinheit: (V/2R)^2(R) = V^2/4R \\n   - Batterien entladen sich aufgrund der größeren Spannung schneller → Betriebszeit t/4.",
-  "antwortoption": "A"
-}

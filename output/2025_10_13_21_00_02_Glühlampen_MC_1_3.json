@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu bestimmen, analysieren wir die Szenarien unter Verwendung der Grundgesetze der Elektrizität und Berücksichtigung der angegebenen Annahmen: \\n\\n1. Wenn die Batterien und Glühlampen in Serie geschaltet sind: Die Spannung verdoppelt sich, während der Strom konstant bleibt, und die Gesamtenergiedichte wird auf engere Weise auf zwei Glühlampen verteilt. Für jede Glühlampe beträgt die erwartete Leuchtdauer daher t / 4. /n\\n2. Batterien in Serie, Glühlampen parallel: Hier bleibt die Gesamtspannung der Batteriekombination gleich, aber die gleiche Energiequelle wird auf beide Glühlampen verteilt. Daher beträgt die Leuchtdauer pro Lampe t / 2.",
-  "antwortoption": "A, B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, nehmen wir an, dass jede Batterie elektrische Energie mit einer konstanten Gesamtladung q und Spannung V liefern kann. Die Glühlampen haben jede einen konstanten Widerstand R. Die Zeitspanne, in der die Lampe leuchtet, hängt von der gesamten gelieferten Ladung ab, die durch die Schaltung fließt, sowie von der angelegten Spannung. Lassen Sie uns die verschiedenen Konstellationen analysieren:\n\n1. **Batterien in Serie, Lampen in Serie:** \nBei seriell geschalteten Batterien addiert sich die Spannung (2V), und seriell geschaltete Widerstände der Lampen (2R) gegenüber der gesamten Stromstärke reduzieren. Die Lampe leuchtet hier länger als in der ursprünglichen Anordnung, da die Stromstärke halbiert ist (\nI=V/2R), und die Gesamtladung pro Lampe fließt sollte sich verdoppeln. Die Zeit t ist daher verdoppelt.\n\nAntwotmöglichkeiten:\nDaher ist die korrekte Lösung \"Kombiniert\".",
-  "antwortoption": "B"
-}

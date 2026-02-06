@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Voraussetzung: Jede Batterie hat die gleiche Kapazität und Spannung. 1. Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand ist doppelt so hoch. Die Leistung bleibt daher gleich, die Energie wird viermal so schnell verbraucht. 2. Batterien in Serie, Glühlampen parallel: Die Batteriespannung verdoppelt sich, die halbe Kapazität fließt zu einer Glühlampe. Daher halbiert sich die Betriebszeit. 3. Batterien parallel, Glühlampen in Serie: Die Spannung bleibt gleich, aber die doppelte Kapazität ist verfügbar. Da der Widerstand erhöht wird, fließt weniger Strom, was zu einer Betriebszeitverlängerung auf etwa 2t führt. 4. Beide parallel: Spannung unverändert, halt bei doppelt verfügbarer Kapazität, daher bleibt die gleiche Zeit.",
-  "antwortoption": "B, D"
-}

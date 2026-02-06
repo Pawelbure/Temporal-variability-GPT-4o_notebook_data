@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebenen Szenarien zu analysieren, verwenden wir die Annahmen, dass die Batterien ideale Spannungsquellen darstellen und die Glühlampen als ohmsche Widerstände mit konstantem Widerstand betrachtet werden können. Wir prüfen die einzelnen Aussagen: Ein Alleiniges Betreiben einer Glühlampe mit einer Batterie liefert sie mit Energieversorgung für die Zeit t und Spannung V. In den verschiedenen Konfigurationen ändern sich Stromwege, Spannungsteilung und somit die Energiemenge, die jede Lampe erhält, was die Lebensdauer beeinflusst. Nach detaillierter Analyse der Auswirkungen der Serien- und Parallelverbindungen sowohl für Batterien als auch für Lampen ergibt sich:",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Richtigkeit der Aussagen zu prüfen, bestimmen wir für jedes Szenario den Stromfluss und die Entladezeit der Batterien bei den verschiedenen Schaltungen. Dabei nehmen wir an, dass jede Batterie über eine Kapazität q verfügt, die einen kontinuierlichen Strom I über eine Dauer t bereitstellt (t = q/I). Die Widerstandswerte aller Glühlampen sind gleich, genannt R, und die Spannung jeder Batterie betrage U. Die folgende Überlegung gilt für jede Option:",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Für dieses Problem betrachten wir ideale Batterien und Glühlampen mit konstantem Widerstand. Außerdem ignorieren wir Wärmeverluste und die interne Batterieresistanz. Die Analyse ergibt folgende Aussagen:\n\n- Wenn die Batterien in Serie und die Glühlampen in Serie geschaltet sind, wird die Spannung der Batterien addiert, jedoch wird der Strom durch die Lampen gleichmäßig verteilt. Die Zeit wird also t/4.\n- Bei seriellen Batterien und parallelen Glühlampen ergibt sich eine Zeit von t/2, da die doppelte Spannung eine geringere Last pro Lampe bedeutet.\n- Parallel geschaltete Batterien und serielle Lampen bewirken keine Verdopplung der Spannung, jedoch eine Erhöhung der Kapazität, was eine Betriebszeit von 2t ergibt.\n- Parallele Batterien mit parallelen Lampen führen zu einem gleichmäßigen Abfluss bei unveränderter Spannung, wodurch die Betriebszeit t bleibt.",
-  "antwortoption": "A, B, C, D"
-}

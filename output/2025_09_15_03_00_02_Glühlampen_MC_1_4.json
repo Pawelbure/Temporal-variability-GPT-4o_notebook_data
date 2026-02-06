@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und relevante physikalische Konzepte:** Wir gehen davon aus, dass die Batterien ideale Spannungsquellen ohne Innenwiderstand sind und die Glühlampen einen konstanten Widerstand haben. Die Energiemenge, die eine einzelne Batterie liefern kann, ist proportional zu ihrer Kapazität. Die Leistung einer Glühlampe ist proportional zum Quadrat der Spannung geteilt durch ihren Widerstand. **Analyse der Schaltungen:** Wenn die Batterien und die Glühlampen in Serie geschaltet werden (Option A), liegt eine doppelte Spannung an, der Gesamtwiderstand ist doppelt so hoch, und die Stromstärke bleibt konstant, was zu einer vierfachen Energieabgabe führt, da die Spannung erhöht ist. Dies entspricht einer Betriebszeit, die identisch mit t ist, da die Batterien parallel entladen werden. Option B berücksichtigt die parallele Schaltung. **Finale Einschätzung:** Die energetischen Verluste führen zu spezifischen Laufzeiten.",
-  "antwortoption": "D"
-}

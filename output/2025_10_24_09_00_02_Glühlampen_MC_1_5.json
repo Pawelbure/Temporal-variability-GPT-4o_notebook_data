@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebenen Szenarien zu analysieren, betrachten wir die Strom- und Spannungsverhältnisse in den einzelnen Konfigurationen: Die Spannung zweier in Serie geschalteter Batterien verdoppelt sich, aber die Stromstärke pro Lampe wird entsprechend der Schaltung angepasst. Für parallel geschaltete Batterien bleibt die Spannung konstant, jedoch wird die mögliche Entladedauer der Batterien verdoppelt. Letztlich ergeben die Szenarien folgende Beziehungen: A) falsch: Die Lampen würden länger als t/4 leuchten, da doppelte Spannung mehr Strom benötigt und damit t/4 eine Untertreibung wäre. B) falsch: Die Zeit ist geringer als t/2. C) falsch: Parallelbetrieb verlängert die Batterieausdauer, aber die Lampen in Serie beeinflussen den Flow negativ. D) korrekt: Parallelschaltung führt zur vorgesehenen Betriebszeit.",
-  "antwortoption": "D"
-}

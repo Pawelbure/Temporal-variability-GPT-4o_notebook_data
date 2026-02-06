@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Das Szenario analysiert die Wirkung verschiedener Schaltungen von Batterien und Lampen auf die Betriebsdauer der Lampen. Angenommen wird, dass die Kapazität und die Energiebereitstellung der Batterien konstant sind. Zudem wird der Lampenwiderstand als fest angenommen. Um die Aufgabenstellung zu lösen, betrachten wir die Strom- und Spannungsverhältnisse in den verschiedenen Schaltungen und berechnen daraus die Entladungszeiten der Batterien für jede der Konfigurationen.",
-  "antwortoption": "B, D"
-}

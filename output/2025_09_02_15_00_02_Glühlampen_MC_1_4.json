@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die verschiedenen Verschaltungen der Batterien und Lampen hinsichtlich der Stromstärken, Spannungen und Kapazitäten der Batterien sowie des Energieverbrauchs der Lampen. Dabei nehmen wir idealisierte, verlustfreie Komponenten an. Die wesentlichen physikalischen Beziehungen sind Ohmsches Gesetz U = R·I und die Formel für die elektrische Energie W = U·I·t. Im Folgenden analysieren wir die angegebenen Konfigurationen: (A) Bei Serie-Seriekombination halbiert sich der Gesamtstrom, sodass die Proportion der leuchtbaren Zeit t bleibt. (B) Serie-Parallelkreislauf hat eine kürzere Laufzeit, da der Gesamtstrom ebenfalls erhöht wird. (C) Parallel-Seriekombination zeigt eine konsistente Zeitzuweisung des Stromes, wodurch eine verlängerte Leuchtdauer entsteht. (D) Parallel-Parallelkonfiguration verdoppelt die Gesamtkapazität bei gleichem Strom über die Lampen.",
-  "antwortoption": "D"
-}

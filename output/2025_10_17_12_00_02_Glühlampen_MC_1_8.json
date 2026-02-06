@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Jede Batterie liefert unabhängig eine konstante Energie, unabhängig von ihrer Nutzung, und die Glühlampen haben einen konstanten Widerstand. Physikalische Grundlagen: Die Leistung einer Glühlampe (P=U²/R) hängt von der Spannung U über der Lampe und ihrem Widerstand R ab. Batterien in Serie erhöhen die Spannung, während parallele Batterien die maximale Stromkapazität erhöhen. Lösungen: A) Bei seriellen Batterien und Lampen verdoppelt sich die Spannung, wodurch die Leistung steigt, aber weil der Strom durch beide Lampen denselben Energiefluss teilt, ergibt die Dauer eine noch kürzere Zeit, jedoch nicht einfach t/4. B) Auch hier teilen die Lampen den Energiefluss anders, aber die Halbierung tritt nicht ein. C und D sind hingegen potenziell plausibel. Somit ergeben sich hier keine treffenden Aussagen.",
-  "antwortoption": "B, D"
-}

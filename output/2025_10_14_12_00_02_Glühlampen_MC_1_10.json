@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir untersuchten die verschiedenen Schaltungsarten von Batterien und Glühlampen unter Berücksichtigung von Spannung, Strom, Leistung, und Kapazität. Nehmen wir an, jede Glühlampe hat einen konstanten Widerstand R und jede Batterie eine Kapazität C bei einer festen Spannung V. Im Szenario A können die Lampen eine kurze Zeit betrieben werden, da die Gesamtkapazität der Batterien schneller aufgebraucht wird. Für B gilt: Der Strom durch die Batterien führt zu einer halbierten Lebensdauer, da zwei Glühlampen parallel betrieben werden. Szenario C wäre physikalisch problematisch, da die Spannung möglicherweise nicht ausreicht, um ausreichend Strom durch beide in Serie geschalteten Lampen zu treiben. Und für Szenario D teilen sich die Batterien die Last, und da die Glühlampen parallel angeschlossen sind, bleibt die gesamte Lebensdauer gleich wie bei einer einzelnen Batterie-Lampen-Kombination.",
-  "antwortoption": "D"
-}

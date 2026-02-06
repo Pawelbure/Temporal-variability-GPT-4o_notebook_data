@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zur Lösung der Aufgabenstellung nehmen wir idealisierte Bedingungen an: Batterien haben einen festen Energievorrat, und Glühlampen verhalten sich wie ideale Widerstände mit einem konstanten Leistungsbedarf, unabhängig von der anliegenden Spannung. *Fall A:* In diesem Fall haben wir zwei Batterien und zwei Glühlampen in Serie. Die Spannung der Batterien addiert sich, und der Strom des Ganzen wird bei doppelter Spannung auf die Lampe verteilt. Daraus folgt eine Viertelung der Zeit. *Fall B:* Hier sind die Batterien in Serie und die Glühlampen parallel. Jede Lampe erhält ihre ursprüngliche Betriebsleistung, sodass die Zeit halbiert wird. *Fall C:* Batterien parallel und Glühlampen in Serie fördern die Betriebszeit der Lampen aufgrund geteilter Belastung der parallelen Anschlusszeit der Batterien. *Fall D:* Parallelbetrieb beider Systeme verlängert keine Zeit, sondern verwaltet Energie effektiv identisch je Einheit.",
-  "antwortoption": "A, B, D"
-}

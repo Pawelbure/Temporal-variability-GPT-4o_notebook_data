@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Hier unser Detaillierter Lösungsweg: Angenommen, jede Batterie liefert eine feste Energiemenge und hat eine Spannung U. Betreiben eine Batterie und Glühlampe alleine, beträgt die Stromaufnahme I, die Leistung P = U * I, und die Betriebsdauer t ist gegeben durch t = Q/I (Q ist die Ladung der Batterie). Die Analyse jeder Option ergibt:\n\nA) Zwei Batterien und Glühlampen in Serie: Spannung verdoppelt, Leistung größer (P = 4U^2/R), Betriebszeit t' = t/4. Aussage korrekt.\n\nB) Batterien seriell, Lampen parallel: Leistung verdoppelt, Betriebszeit t' = t/2. Aussage korrekt.\n\nC) Batterien parallel, Lampen seriell: Spannung bleibt, Stromaufnahme halbiert, Betriebszeit verlängert auf 2t. Aussage korrekt.\n\nD) Batterien und Lampen parallel: Belastung identisch wie bei einzelnen Komponenten, Betriebszeit bleibt t. Aussage korrekt.",
-  "antwortoption": "A, B, C, D"
-}

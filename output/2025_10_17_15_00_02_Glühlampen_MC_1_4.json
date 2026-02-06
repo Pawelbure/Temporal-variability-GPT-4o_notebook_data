@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die elektrischen Eigenschaften der Schaltung und berücksichtigen die Annahmen: jede Batterie hat eine konstante Kapazität, die Glühlampen einen konstanten Widerstand und eine konstante Spannung der Batterien.1. Serienschaltung der Batterien und Glühlampen: Die Gesamtspannung ist doppelt so groß und der Gesamtstrom geringer, da jede Lampe nur einen Teilstrom erhält. Daraus ergibt sich eine Laufzeit kleiner t.2. Serienschaltung der Batterien und parallele Glühlampen: Die doppelte Spannung würde den Strom durch jede Lampe erhöhen, was die Batterien schneller entleert. Laufzeit: t/2.3. Parallelschaltung der Batterien und serielle Glühlampen: Beide Batterien tragen gleichmäßig zur Gesamtkapazität bei, und der geringere Strom verlängert die Laufzeit auf 2t.4. Parallelschaltung der Batterien und parallele Glühlampen: Jede Batterie versorgt eine Lampe, die Gesamtlaufzeit bleibt t.",
-  "antwortoption": "C, D"
-}

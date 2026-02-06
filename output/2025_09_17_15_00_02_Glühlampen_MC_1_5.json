@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zum Verständnis der Situation analysieren wir die elektrischen Schaltungen und berücksichtigen die Physik der Batterieentladung unter der Vorgabe eines konstanten Lampenwiderstandes. Jede Batterie liefert eine feste Energiemenge, was zur Erleuchtung der Glühlampe führt. Der Energieverbrauch hängt von der Spannung und dem Strom durch die Lampe ab. Da die Lampen im Betrieb der Ersatzschaltungen unterschiedliche Betriebsbedingungen erfahren, beeinflusst dies die Zeitdauer der Beleuchtung. Die Berechnungen, basierend auf Strom- und Leistungsgesetzen, zeigen, dass nur die Optionen B und D eine Konsistenz mit den physikalischen Gegebenheiten aufweisen.",
-  "antwortoption": "B, D"
-}

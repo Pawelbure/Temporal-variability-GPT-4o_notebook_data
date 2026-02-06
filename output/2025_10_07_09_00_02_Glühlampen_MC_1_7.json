@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die Schaltungsanordnungen. Angenommen, die Glühlampen haben einen konstanten Widerstand R und die Batterien eine konstante Spannung U. Der Energiegehalt einer Batterie ist proportional zum Produkt aus Spannung und der abgegebenen elektrischen Ladung. Beachten wir die Auswirkungen unterschiedlicher Schaltungen auf Stromstärke, Spannung und Asymmetrie:  \n\n- Fall A: Wenn Batterien und Glühlampen in Serie geschaltet sind, verdoppelt sich die Spannung im Vergleich zu einer Batterie, verdreifacht sich der Strom durch eine Lampe. Die Lampen leuchten eine Zeit t/4.\n- Fall B: Batterien in Serie wirken verdoppelt und parallel mehr Ladung pro Lampe anguckt Zeithälfte beieinander: richtig.\n- Vergleich durch Parallelanschluss bei Serie C: Verdoppeln kürzer Zeit winters teilen Energieaufteilung.",
-  "antwortoption": "A, B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zum Lösen der Aufgabe berücksichtigen wir die Eigenschaften von elektrischen Schaltungen und die Annahmen: Die Batterien haben eine konstante Spannung bis zur vollständigen Entladung, die Glühlampen behalten einen konstanten Widerstand R. Bei der Entladung von Batterien teilt sich die Energiekapazität bei serieller Verbindung nicht auf, sondern ergibt das Doppelte der Spannung bei gleichbleibender Kapazität. Bei paralleler Kombination bleibt die Spannung gleich, aber die Kapazität verdoppelt sich, was zu einer verdoppelten Laufzeit führt. Haben wir Glühlampen in Serie, so verdoppelt sich der Widerstand, was die Stromstärke halbiert, während bei parallelen Glühlampen der Widerstand halbiert wird, was die Stromstärke verdoppeln würde im Vergleich zu einer Lampe einzeln betrieben.",
-  "antwortoption": "D"
-}

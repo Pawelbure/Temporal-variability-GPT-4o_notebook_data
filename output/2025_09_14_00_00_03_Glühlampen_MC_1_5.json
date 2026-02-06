@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die verschiedenen Szenarien zu analysieren, nehmen wir an, dass die Batterie eine konstante elektrische Energie liefert, die proportional zu ihrer Kapazität und Spannung ist. Außerdem betrachten wir, dass der Widerstand der Glühlampen konstant und identisch ist:\\n\\n1. **Batterien in Serie, Lampen in Serie (Option A):**\\n   - Die Spannungen der beiden Batterien addieren sich, wodurch die Gesamtspannung verdoppelt wird. Der Gesamtwiderstand der Serie aus zwei Lampen wird ebenfalls verdoppelt, wodurch der Gesamtstrom gleich bleibt. Die Entladungsgeschwindigkeit jeder Batterie bleibt gleich, da sie denselben Strom abgeben müssen, daher verbleibt die Entladedauer t. Da die Leistung über jeder Lampe bei gleicher Zeit nun bei jeder halbiert ist und zusätzliche Potenzierungen nicht auftreten, ist Option t/4 nicht korrekt.",
-  "antwortoption": "D"
-}

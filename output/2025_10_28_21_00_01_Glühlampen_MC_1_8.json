@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Angenommen, die interne Kapazität und Spannung jeder Batterie seien konstant und die Glühlampen weisen ebenfalls einen konstanten Widerstand auf. In jeder Schaltungsanordnung bestimmen die Reihenschaltung (Erhöhung der Spannung) oder Parallelschaltung (Erhöhung der Gesamtladung) beider Batterien die verfügbare Energie. Für die Lampe in Reihe oder parallel zur Stromversorgung hängt die Leuchtdauer von der Stromstärke ab. Durch detaillierte Analyse dieser Beziehungen ergibt sich: A ist durch die starke Erhöhung der Spannung korrekt (kürzere Zeit durch größere Gesamtleitung), B und D sind falsch, da keine Anpassung an die Batteriekapazität erfolgt, während C korrekt angesichts der Energieteilung pro Glühlampe bleibt.",
-  "antwortoption": "A, C"
-}

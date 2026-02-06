@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten hier die Frage bezüglich der Kombination von Batterien und Glühlampen in verschiedenen Konfigurationen, wobei die Annahmen getroffen werden, dass Batterien und Glühlampen ideale Verhaltensweisen aufweisen: Batterien besitzen eine konstante Spannung bis zur Entladung, und die Glühlampen behalten einen konstanten Widerstand. Wir analysieren hierfür die vier gezeigten Optionen und leiten den Energieverbrauch, die Energiezufuhr und die Zeitdauer her. Dies geschieht auf der Grundlage von Ohm's Gesetz und den Prinzipien der Schaltungstheorie.",
-  "antwortoption": "B, D"
-}

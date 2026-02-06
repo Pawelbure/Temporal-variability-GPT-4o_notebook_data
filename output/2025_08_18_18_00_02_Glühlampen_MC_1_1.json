@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Szenarien basierend auf den gegebenen Variationen der Verschaltung von Batterien und Lampen. Wir nehmen an, dass sich die Batterien ideal verhalten (keinen Innenwiderstand haben) und dass der Widerstand der Lampen konstant bleibt (ohne Temperaturänderung).\n\n**Option A:** Batterien und Lampen in Serie:\n- Die Spannung verdoppelt sich, der Strom bleibt jedoch gleich.\n- Die Gesamtleistung ist verdoppelt, und die Energiemenge jeder Batterie halbiert sich.\n- Beide Lampen teilen die Energie im gleichen Verhältnis.\n- Jede Lampe leuchtet für t/2.",
-  "antwortoption": "A, B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe handelt von den Auswirkungen der Reihen- und Parallelschaltung von Batterien und Glühlampen auf die Betriebszeit. Einige relevante Annahmen sind: 1. Jede Batterie liefert die gleiche Spannung, den gleichen Strom und die gleiche Energiemenge. 2. Der elektrische Widerstand der Glühlampe ist konstant, unabhängig von Spannung und Stromstärke. 3. Batterien können wahlweise in Serie (um Spannung zu addieren) oder parallel (für mehr Kapazität und gleiche Spannung) geschaltet werden. Durch Betrachtung des Energie- und Stromflusses in den angegebenen Schaltungen lässt sich die Betriebszeit der Glühlampen wie folgt berechnen:",
-  "antwortoption": "D"
-}

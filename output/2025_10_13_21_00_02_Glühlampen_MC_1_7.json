@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu ermitteln, analysieren wir die verschiedenen Schaltungsvarianten. Angenommen, jede Batterie gibt eine konstante Energie ab (grobe Näherung), und die Lampe hat einen konstanten Widerstand R, dann ändert sich die Leistungsaufnahme über die Zeit nicht. Es ergibt sich: A: Wenn Batterien und Glühlampen seriell geschaltet sind, verdoppelt die Spannung die Leistungserhöhung, welche zu einer kürzeren Betriebszeit führt. B: Parallel betriebene Lampen mit seriellen Batterien teilen sich die Spannung der Serienschaltung, was zu einer höheren Stromabnahme und Halbierung der Betriebszeit beeinflusst. C: Seriell betriebene Glühlampen bei parallelen Batterien ergeben langanhaltende Leistung durch konstanteren Stromfluss. D: Komplett-parallele Anordnung teilt Ressourcen und versorgt die Lampen gleichmäßig.",
-  "antwortoption": "C"
-}

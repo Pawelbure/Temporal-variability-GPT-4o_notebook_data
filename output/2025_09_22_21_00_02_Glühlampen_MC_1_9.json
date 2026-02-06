@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zuerst definieren wir die Annahmen: Jede Batterie besitzt eine Kapazität Q, die konstante Spannung U abgibt, und die Glühlampe hat einen konstanten Widerstand R. 1. Fall: Batterien und Lampen in Serie. Der Gesamtwiderstand beträgt 2R, daher der Strom halbiert sich; die Spannung beträgt 2U. Damit bleibt die Energieabgabe konstant, und die Lebensdauer ist t. aber auf zwei Lampen geteilt => Zeit T = t/4. 2. Fall: Batterien in Serie, Lampen parallel. Spannung über jeden ist U; Batterien liefern jeweils Hälfte der Energie. T = t/2. 3. Fall:Parallel Batteries liefert Gesamtladung wie Einzel Lifteroud, sparsames einfach, D humieren Parest = Codes => LampenschnaltungSpeicher Umplazit.",
-  "antwortoption": "A, B, D"
-}

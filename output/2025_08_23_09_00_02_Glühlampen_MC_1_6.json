@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Frage zu beantworten, analysiere ich jeden Schaltungszugang unabhängig voneinander unter Berücksichtigung idealisierter Bedingungen: Konstanter Lampenwiderstand, keine internen Widerstände der Batterie, und identische Charakteristik der Batterien und Glühlampen. 1) In Serie (Batterien und Lampen): Der Strom wird durch eine Verbesserung der Batteriespannung erhöht, die Leistung jedes Widerstands steigt um das Quadrat dieses Faktors. Daher leuchtet jede Lampe kürzer; etwa für t/4. Diese ginge mit einem Energiegesetz einher. 2) Serie Batterien, Parallel Lampen: Jede Lampe erhält die normative Spannung einzelner Batterien. Da zweimal der Strom fließt, würde der doppelte Verbrauch und eine verkürztere, Hälfte resultieren. 3) Parallelbezug entspräche: Batteriedauer verlängert, während erhöhter Widerstände Stromfluss reduziert. Dies spricht für eine Normale Application zeitverlängerung (optimal).",
-  "antwortoption": "B, D"
-}

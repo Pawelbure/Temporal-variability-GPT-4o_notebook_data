@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Annahmen sind: Jede Batterie hat eine identische Spannung V und eine Kapazität C, sodass die gesamte Energie pro Batterie E= VC beträgt. Der Widerstand der Glühlampe ist konstant (R). Daraus ergibt sich, dass der Strom I=V/R ist und die Leistung P=V^2/R folgt. Wenn die Batterien in Serie geschaltet sind, verdoppelt sich die Gesamtspannung, während die Kapazität unverändert bleibt. Wenn Batterien parallel geschaltet sind, bleibt die Gesamtspannung konstant, aber die Kapazität verdoppelt sich. Analyen der Einzelfälle, in denen die Batterieschaltung und die Lampenschaltung variieren, ergeben abhängig von Strom und Spannung die entstehenden Energiemengen und daraus resultierenden Betriebszeiten. Nach diesen Prinzipien überprüft: A und nicht B, nicht C, D stimmen.",
-  "antwortoption": "A, D"
-}

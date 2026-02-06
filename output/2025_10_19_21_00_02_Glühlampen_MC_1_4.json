@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die grundsätzlichen Annahmen und Konzepte bezüglich den Batterie- und Lampenparametern: Eine Batterie hat eine konstante Kapazität (in Coulomb oder Ah), liefert eine konstante Spannung, und die Leistung jeder Lampe ist eine Funktion des anliegenden Stroms und der anliegenden Spannung. Modellieren wir die Schaltungen: \n\n **A)** Zwei Batterien in Serie bedeuten, dass sich deren Spannung verdoppelt. Zwei Lampen in Serie teilen sich dieselbe Stromstärke, weshalb jede Lampe weniger Strom erhält (der Gesamtwiderstand verdoppelt sich). Diese Bedingung macht die Laufzeit kompliziert zu berechnen - es erfordert Preise spezifischer Energiebetrachtungen\n\n... ähnliche Erklärungen für die anderen Konfigurationen....\n\n",
-  "antwortoption": "D"
-}

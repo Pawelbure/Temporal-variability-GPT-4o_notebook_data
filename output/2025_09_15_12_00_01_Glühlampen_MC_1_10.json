@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Anschlüsse jeweils:\n\n1. Wenn die Batterien und Glühlampen in Serie sind, verdoppelt sich die Spannung an den Glühlampen, aber die Gesamtladung wird schneller entladen, da der Strom gleich dem doppelten Wert wird. Im Ergebnis ist die Leuchtdauer t/2, nicht t/4.\n\n2. Wenn die Batterien in Serie und Glühlampen parallel geschaltet sind, verdoppelt sich die Spannung an jedem Zweig, aber die Gesamtladung der Batterien wird gleichmäßig über die Stränge verteilt entladen. Die mittlere Leistung ändert sich nicht wesentlich, sodass die Betriebszeit ähnlich t sein wird.\n\n3. Batterien parallel erhöhen den Ladungserhalt, während Glühlampen in Serie den Strom durch jede Lampe halbieren und die Betriebszeit sich zu 2t verlängert.\n\n4. Batterien und Glühlampen parallel behalten Spannung und Ladungsverteilung stabil, was eine Zeit von t ergibt.\n\nDaher: Richtige Antwort ist D.",
-  "antwortoption": "D"
-}

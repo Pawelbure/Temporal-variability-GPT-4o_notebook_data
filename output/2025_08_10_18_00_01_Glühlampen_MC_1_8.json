@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahme und Idealisierung:** Wir betrachten idealisierte Batterien, die eine konstante Spannung liefern und eine definierte Energiemenge enthalten, sowie ideale Glühlampen mit konstantem Widerstand und daraus resultierende Kontrollströme. **Analyse und relevante Konzepte:** Die Leistung (P = U^2/R) der Glühlampen bestimmt die Energieentnahme aus den Batterien. Im Fall von serieller Kopplung addieren sich Spannungen, während bei paralleler Kopplung die Kapazität erhöht wird. **Berechnungen:** Für die Szenarien:\n- A: Serielle Batterien und Glühlampen teilen die Spannung, daher erhöht sich jede Lampe wieder um den Faktor halbierter Stromzeit t/2 für zwei Lampen.\n- B: Serielle Batterien verdoppeln Spannung, leistung multiplication parallelheiten Aufteilung daher zeitverkürzt.\n\nAlle Situation analysiert: Option korrekt  B",
-  "antwortoption": "B"
-}

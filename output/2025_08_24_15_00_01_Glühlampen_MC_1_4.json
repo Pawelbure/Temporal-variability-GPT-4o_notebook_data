@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Jede Batterie hat dieselbe Kapazität und Spannung. Die Lampe hat konstanten Widerstand R und zieht daher einen konstanten Strom bei einer gegebenen Spannung. Batterieversorgung ist stabil bis zur Erschöpfung, wobei die Spannung konstant bleibt. 2. Konzepte: Stromversorgung und Energiebereitstellung basieren auf Strom, Spannung und Leistung. Zeit t bezieht sich auf die Energie des Systems: E = U·I·t. 3. Fälle: A) Serie Batterie/Lampen: Spannung verdoppelt, Lampe verdoppelt Strom, Energieverbrauch vervierfacht, Zeit = t/4. B) Serie Batterie, parallel Lampen: Jede Lampe halbierter Stromverbrauch, Gesamtenergie pro Lampe halbiert, Zeit = t/2. C) Parallel Batterie, Serie Lampen: Batterien langlebiger, Spannung konstant, aber Energie verdoppelt, Zeit = 2t. D) Parallel Batterie/Lampen: Konstante Spannung, Energie wie Einzelkonfiguration, Zeit = t.",
-  "antwortoption": "A, B, C, D"
-}

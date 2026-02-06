@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "In dieser Aufgabe betrachten wir Kombinationen von zwei Batterien und zwei Glühlampen, unter der Annahme eines konstanten Widerstands der Lampen und dass die Batterien gleiche Kapazitäten sowie Innenwiderstände besitzen.\n\n- **Voraussetzungen:** Jede Batterie hat eine Kapazität für eine Entladung über die Zeit t bei einem bestimmten konstanten Strom. Die Glühlampen haben jeweils einen festen Widerstand R und leuchten mit konstanter Helligkeit bei gegebener Spannung.\n\n### Fall A: Batterien und Glühlampen in Serie\nIn Serie verdoppelt sich die Spannung der Stromquelle, da beide Batterien summierend zusammenarbeiten. Die beiden Lampen teilen sich die Spannung gleichmäßig, sodass der Strom durch die Lampen konstant bleibt wie bei einer einzelnen Batterie. Stromstärke und Verlust bleiben konstant; die Lampen leuchten also über die gleiche Zeit am Licht wie eine Lampe alleine.",
-  "antwortoption": "D"
-}

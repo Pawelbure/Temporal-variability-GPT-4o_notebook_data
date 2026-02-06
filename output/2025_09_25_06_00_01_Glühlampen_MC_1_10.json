@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachte ich die gegebene Situation in Bezug auf verschiedene Schaltungsanordnungsmöglichkeiten. Annahmen: Jede Batterie hat eine Kapazität von Q Coulomb und eine Spannung V Volt. Die Lampe hat einen Widerstand R und benötigt den Strom I=V/R, was zu ihrer Leistung P=VI=V²/R führt. Gesamtschaltungen: Bei Serie erfolgt eine Spannungsaddition der Batterien, sodass 2V vorliegt, während die Kapazität gleich bleibt (Q). Bei paralleler Anordnung bleibt die Spannung V konstant, aber die effektive Kapazität verdoppelt sich (2Q). Lösung:",
-  "antwortoption": "D"
-}

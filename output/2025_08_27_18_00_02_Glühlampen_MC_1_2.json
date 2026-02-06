@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, tätigen wir zuerst grundlegende Annahmen über die elektrischen Schaltkreise und die Funktion der Batterien und Glühlampen. Wir nehmen an, dass die elektromotorische Kraft (EMK) jeder Batterie konstant ist und dass jede Batterie eine konstante Kapazität hat, die den Energieinhalt bestimmt. Weiterhin gehen wir davon aus, dass die Glühlampen rein ohmsche Widerstände haben und dass ihr Widerstand konstant bleibt. Gegeben die Fälle:1. Zwei Batterien in Serie erhöhen die Spannungen um das Doppelte, was zu einer Verdopplung des Stroms durch in Serie geschaltete Glühlampen führt, wodurch die Leistung pro Lampe vervierfacht wird. Dies führt zur Entleerung der Batterien in einem Viertel der Zeit. Daher ist keine der Behauptungen unmittelbar korrekt, doch die Begründungen der Fälle liefern uns die relevanten Relationen zur Stromaufnahme und Zeitentladung in verschiedenen Kombinationen.",
-  "antwortoption": "A, B, C, D"
-}

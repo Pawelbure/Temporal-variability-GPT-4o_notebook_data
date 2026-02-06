@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen:\\n1. Die Kapazität jeder Batterie sei identisch und die Energieabgabe erfolgt bei konstanter Spannung, bis die Batterie erschöpft ist.\\n2. Die Glühlampen haben denselben konstanten Widerstand.\\n3. Verluste in den Schaltungen werden vernachlässigt.\\n\\nGegebene Antworten analysieren:\\n- (A): Mit Batterien und Glühlampen in Serie ergibt sich durch eine verdoppelte Spannung ein viermal höherer Stromverbrauch.\\n- (B): Batterien in Serie bieten eine doppelte Spannung; bei den parallel geschalteten Lampen bleibt die Stromaufnahme gleich, die Zeit halbiert sich.\\n- (C): Batterien parallel liefern eine Kapazitätserhöhung, jedoch bleibt die Spannung und somit die Zeit t je Lampe gleich.\\n- (D): Batterien parallel verlängern die Betriebszeit derselben Spannung bei parallelen Verbrauchern auf die kapazitätseffiziente Betriebsdauer t.",
-  "antwortoption": "B, D"
-}

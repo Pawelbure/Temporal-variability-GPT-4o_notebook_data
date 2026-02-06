@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, beachten wir die Schaltungskonfigurationen und analysieren ihre Auswirkungen auf die Lebensdauer und Betrieb der Glühlampen bei den verschiedenen Batterieanordnungen. Annahmen sind, dass die Batterien ideale Spannungsquellen sind, die Glühlampen einen festen Widerstand besitzen, und folgen F(anhomogene Entladung). Für den ersten Fall (Serie sowohl Batterien als auch Lampen): Die Spannung verdoppelt sich, der Stromfluss auf Halbe sinkt, wodurch Batterien Viertel der Zeit zu Strom liefern, daher leuchten Lampen t/4. Bei Batterien Serie, Lampen Parallel: Spannung samme Ausgang, Glühlampenvolllast, dahernh ½'=2ivrechenbar;nutzung",
-  "antwortoption": "A"
-}

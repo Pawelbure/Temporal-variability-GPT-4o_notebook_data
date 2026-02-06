@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen**: 1. Jede Batterie liefert eine konstante Spannung V bis sie entladen ist. 2. Die interne Batteriekapazität ist proportional zur Energie, die sie zur Verfügung stellen kann und ist mit Qt angegeben. 3. Der Widerstand einer jeden Glühlampe beträgt R, und die Leistung P, die jede Glühlampe nutzt, wird durch P = V^2 / R bestimmt. **Analyse der Fälle:** A) Batterien in Serie und Glühlampen in Serie: Eff. Gesamtspannung = 2V, Gesamtwiderstand = 2R, Gesamtstrom = V / R. Energieverbrauch ist doppelt so hoch wie bei einer Lampe mit 2R, und Entladezeit = Qt / (2V * I) = Qt / (2Qt / t) = t/4. B) Batterien in Serie und Glühlampen parallel -> Falsche Berechnung bestätigt die Antwort. Auf Grundlage wo falscher Aufwand. Ebenso C) Parallel (berechnet wie analysiert). D)batterien ident fürs Doch d.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Optionen unter Verwendunganalyse der angegebenen Parallelen und Serienschaltungen. Die Annahmen hierbei sind:\n\n1) Die Kapazität jeder Batterie bleibt unabhängig durchs Zusammenschalten konstant.\n2) Der Strom durch jede Lampe beeinflusst deren Betrieb nicht.\n3) Widerstände der Leitungen vernachlässigt.\n\n[1] Bei Serienschaltung der Batterien und Lampen verdoppelt sich die Spannung, der Strom sinkt auf die Hälfte, sodass doppelte Batteriekapazität halbiert wird, also t/Zeit 1/4.[A]\n\nAnalog werden ähnliche Fälle berechnet, indem Spannung und Strom sowie Zeiteinheit beeinflussen.\n\nAntwort: ",
-  "antwortoption": "B, C"
-}

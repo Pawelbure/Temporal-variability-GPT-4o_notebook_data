@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir jede Schaltungsvariante unter der Annahme idealer Bedingungen (keine Verluste durch Drahtwiderstände oder Batteriefunktionen). Die grundlegenden Konzepte sind Batteriespannung und elektrische Energieverteilung in Serienschaltungen und Parallelschaltungen sowie Leistungsberechnung mithilfe des Widerstandsgesetzes und der Spannungs-Strom-Kennlinie. Im Serienfall addieren sich die Spannungen der Batterien, im Parallelfall bleibt die Spannung gleich, aber die Kapazität verdoppelt sich. Die Zeit einer Batterie wird durch die totale Energie der Batterien dividiert durch die Leistungsaufnahme der Glühlampen bestimmt. Basierend auf diesen Annahmen und der Energieverteilung werden die Zeitdauern für die verschiedenen Konfigurationen analysiert. Die Berechnungen zeigen:",
-  "antwortoption": "B, D"
-}

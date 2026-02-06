@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aussage zu analysieren, betrachten wir die elektrische Leistung und Energie. Der Widerstand der Glühlampe sei R, der Batteriestrom liefere Spannung U mit Energie Q=U²t/R. \n\n**Analyse der Szenarien:**\n\n**A)** Batterien in Serie, Lampen in Serie - Die Spannung verdoppelt sich, Gesamtwiderstand: 2R, Gesamtenergie ändert sich nicht, Zeit t/2.\n\n**B)** Batterien in Serie, Lampen parallel - Gesamtspannung: 2U, p.r. fällt halbe Energie, Zeit t/2 korrekt.\n\n**C)** Batterien parallel, Lampen in Serie - Doppelte Kapazität, gleiche Belastung, Zeit 2t. **Richtig**\n\n**D)** Batterien parallel, Lampen parallel - gleiche Spannungs/Strömeffizienz, Zeit t richtig. **Wahr.**.",
-  "antwortoption": "C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst treffen wir die grundlegenden Annahmen: 1) Die Glühlampen haben denselben Widerstand R, und die Batterien sind identisch mit einer Kapazität C sowie einer Spannung U. 2) Die Kapazität der Batterien ist proportional zur Ladungsmenge Q, die geliefert werden kann, und eine Parallelschaltung von Batterien erhöht effektiv die Gesamtkapazität, während die Spannung gleich bleibt. Andererseits erhöht eine Serienschaltung die Gesamtspannung, während die Kapazität derselbe wie bei einer einzelnen Batterie bleibt. 3) Die Leistung P der Glühlampen entspricht dem Verhältnis der Spannung im Stromkreis. Für jede der Optionen: A) Die Batterien in Serie erhöhen die Spannung, was bei gleichem Widerstand den Strom und damit die Stromstärken um mehrheitlicher Faktor reduziert. B) Die Energieverbrauch erhöht sich bei der Nutzung. C) Den Glühlampen-Methode vervielfachen.",
-  "antwortoption": "D"
-}

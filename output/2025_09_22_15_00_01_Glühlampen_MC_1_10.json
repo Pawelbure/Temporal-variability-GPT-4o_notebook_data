@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die Eigenschaften der elektrischen Schaltungen:\n\n1. Jede Batterie hat eine konstante Energie E=UtQ, wobei U die Spannung, t die Zeit und Q die Ladung darstellt. Energieversorgung wird konstant verteilt.\n\n2. Szenarien analysiert:\n   - **A): Batterien und Lampen in Serie**: Spannung addiert, Strom halbiert, Zeit t bleibt gleich, da Energie invariant zur Lampe fließt.\n   - **B): Batterien in Serie, Lampen parallel**: Spannung doppelt, Leistung rechtfertigt Einzelzeiten t pro Lampe, ergibt Konsum in 2t.\n\n3. Kombination Wahrheiten evaluieren Lösungsausweg.\n\nFinal vergleicht korrelierte Ergebnisse, um Korrektheit Maxierung Roundup_w.",
-  "antwortoption": "B, D"
-}

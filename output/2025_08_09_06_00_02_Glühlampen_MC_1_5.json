@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Frage zu analysieren, nehmen wir folgende Annahmen an: Die Batterien sind ideal und haben eine konstante Spannung bis zur vollständigen Entladung. Jede Batterie speichert eine Energiemenge E. Der elektrische Widerstand der Glühlampen ist konstant und unabhängig von der Spannung oder Temperatur. Die physikalischen Konzepte betreffen die Gesetze elektrischer Schaltungen, darunter Ohmsches Gesetz, und die Berechnung ihrer Energieabgabe. Nach detaillierten Berechnungen ergibt sich: Option A ist korrekt, da bei Reihenanordnung der Spannungen und Widerstände die Leistung um den Faktor 4 steigt, was zur Viertelung der Betriebsdauer führt. Option C ist korrekt, da bei Parallelschaltung der Batterien die verfügbare Energie verdoppelt wird, und in Reihenschaltung der Lampen dieselbe Leistung fließt, was die doppelte Zeit ergibt.",
-  "antwortoption": "A, C"
-}

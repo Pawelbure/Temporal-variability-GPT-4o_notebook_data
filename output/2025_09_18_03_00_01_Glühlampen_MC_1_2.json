@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Für die Lösung definieren wir folgende Annahmen: Alle Batterien haben die gleiche Spannung V und die gleiche Kapazität Q, sowie einen konstanten Widerstand R der Glühlampen, und die Spannung jeder Batterie bleibt bis zur vollständigen Entladung konstant.\n\n1. **Option A, Serie Serie:** Die kombinierte Spannung ist 2V, und der kombinierte Widerstand ist 2R, der Strom beträgt I=V/R. Um die gleiche Ladung Q abzugeben, dauert es t=Q/2I, ist daher falsch.\n\n2. **Option B, Serie Parallel:** Spannung 2V, Gesamtstrom I/Q: Glühlampen erhalten Einzelstrom I/2, durch die Batterie also Q/2-> t etwa t/2.\n\n3. **Option C, Parallel Serie:** Parallelspeicherung mit Spannung V. Gesamtladung 2Q und Effekt sinkt Zeit erhöht sich entspricht 2t.\n\n4. **Option D, Parallel Parallel:** genügend Zeit den Ampere Summ.\n",
-  "antwortoption": "B, D"
-}

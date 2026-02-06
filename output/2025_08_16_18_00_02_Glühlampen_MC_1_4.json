@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort für dieses Problem zu bestimmen, analysieren wir die vier Optionen systematisch. Wir nehmen dazu an, dass jede Batterie eine feste Kapazität C an elektrischer Ladung und eine feste Spannung U liefert. Der Widerstand der Glühlampe wird als R konstant betrachtet. Der Strom, der durch die Lampe fließt, wird aus der Spannung der Batterie sowie der angelegten Last abgeleitet. Die gesamte Energie, die von einer Batterie geliefert werden kann, beträgt E = U * C. Die Zeit t, in der eine Lampe leuchtet, hängt von der Leistungspaarung der Batterie und Lampe ab, berücksichtigt die Anordnung von Batterien und Lampen und nutzt P = U^2 / R. Nach diesen Prinzipien bearbeiten wir jede Option.",
-  "antwortoption": "D"
-}

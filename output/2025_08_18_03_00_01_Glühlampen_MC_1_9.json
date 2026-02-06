@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die vier gegebenen Szenarien unter Berücksichtigung der Schaltregeln zur Berechnung von Strom, Spannung und Batterieleistung für Reihenschaltungen und Parallelschaltungen: \\n\\n**Gegeben: Eine Batterie versorgt eine Glühlampe für die Zeit t. Der Widerstand der Glühlampen ist konstant.**\\n\\n### Analysemethode:  \\nWir bestimmen für jede Schaltung die Spannung, den Widerstand, den Strom und die daraus resultierende Entladerate der Batterien.\\n\\n#### A) Batterien und Glühlampen in Serie:\\nGesamtspannung der Batterien = 2V  \\nGesamtwiderstand der Lampen = 2R  \\nGesamtstrom = V / (2R) = I/2, \\ndie Batterien teilen sich die Strombelastung und sind daher doppelt so schnell entladen, sodass sie nur t / 2 leuchten können.",
-  "antwortoption": "B"
-}

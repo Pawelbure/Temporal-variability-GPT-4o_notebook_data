@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, berücksichtigen wir die grundlegenden Prinzipien der elektrischen Schaltungen und die Idealisierungen der Aufgabe: Es wird angenommen, dass die Spannung und Kapazität der Batterien konstant und die Glühbirnen resistiv (mit konstantem Widerstand) sind. Die Kapazität einer Batterie definiert die gesamte elektrische Energie, die sie liefern kann. Diese Energie wird durch Ladung/Spannung definiert. Eine Batterie hat eine Spannung V und liefert Energie über Zeit bis sie leer ist. Wenn Schaltungen in Serie oder Parallel geschaltet werden, ändern sich Gesamtspannung und Stromstärken. Ich analysiere die Schaltungsoptionen und ihre Auswirkungen auf die Zeit der Glühlampenbeleuchtung einzeln. Basierend auf der Datenübersicht:",
-  "antwortoption": "D"
-}

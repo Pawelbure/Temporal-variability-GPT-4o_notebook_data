@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu analysieren, treffen wir zunächst Annahmen: Die Batterien haben gleiche Spannung V und Kapazität C (Wattstunden), und jede Glühlampe hat einen konstanten Widerstand R. Der Energieverbrauch einer Lampe bei einer bestimmten Spannung bleibt konstant. Die jeweilige Betriebsdauer t hängt von der Energie ab, die den Lampen durch die Batterien bereitgestellt wird. Wir analysieren nun die vier Szenarien im Detail: (A) Serienbetrieb von Batterien und Lampen führt zu doppelter Spannung, und da zwei Lampen den gesamtstrom mehr beanspruchen, reduziert sich die Betriebsdauer auf ein Viertel, (B) bei Parallelbetrieb der Lampen halbiert sich nur die Betriebsdauer, (C) Parallelbetrieb der Batterien ermöglicht eine Verdopplung der Betriebszeit für seriell geschaltete Lampen, und (D) Parallelbetrieb beider Komponenten führt zu keiner Änderung der Laufzeit.",
-  "antwortoption": "C, D"
-}

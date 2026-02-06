@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die einzelnen Schaltungen basierend auf physikalischen Prinzipien. Die Batterie speichert eine feste Energiemenge; wenn die Glühlampe konstant leuchtet, verbraucht sie eine konstante Leistung. Dies bedeutet, dass die Entladezeit der Batterie vom Verbrauch und der jeweiligen Schaltungsart abhängt: \n\n**Analyse der Optionen:**\n\nA) Batterien und Lampen in Serie: Die Spannung über jede Lampe ist geringer, bedeutet geringere Leistung. Doch beide Batterien teilen dieselbe Last, was den Effekt kompensiert und die Lampe nur noch kürzer leuchten lässt. Gehe Ende nach Schema!\n\n(Weitere Berechungen Exc.)",
-  "antwortoption": "D"
-}

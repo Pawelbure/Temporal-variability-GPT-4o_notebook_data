@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungen und berücksichtigen, wie sich der Strom und somit die Laufzeit der Batterien bei der jeweiligen Konfiguration ändern. Gegeben ist, dass jede Batterie allein eine Lampe für eine Zeit t betreiben kann und dass sowohl die Batterien als auch die Lampen identisch sind. Der Widerstand der Lampe bleibt konstant. 1. Annahmen: Jede Batterie liefert eine konstante Spannung V und eine konstante Gesamtladung Q, und die Lampe hat einen festen Widerstand R. Der Strom durch die Lampe im Betrieb ist dann I = V / R. Die Energie, die die Batterie liefert, beträgt E = VQ.",
-  "antwortoption": "D"
-}

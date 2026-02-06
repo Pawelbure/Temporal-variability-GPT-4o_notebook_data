@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. **Annahmen und Idealisierungen**: Die Batterie liefert eine konstante Spannung und die Glühlampe hat einen konstanten Widerstand R. Die Kapazität der Batterie wird als Energie E angesehen, die sie liefern kann. Schaltungen erfolgen ideal, ohne weitere Widerstände.\n\n2. **Physikalische Konzepte**: Leistung P=\nU^2/R; die Energieversorgung der Batterie und ihr Entladeverhalten hängen von der Schaltungsart ab.\n\n3. **Analyse der Schaltungen**:\n\n- Schaltung in Serie (Batterien und Lampen): Die Gesamtspannung verdoppelt sich, aber der Gesamtstrom und daher die Energieverteilung verändern sich, was die Leuchtdauer beeinflusst.\n\n- Batterien parallel, Glühlampen in Serie: Die Energie der Batterien wird korrekt auf zwei Lampen verteilt.\n\nAuswertung ergibt:\n\nNur Option D ist zutreffend.",
-  "antwortoption": "D"
-}

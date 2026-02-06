@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die verschiedenen Schaltungsvarianten:\n\n**Annahmen und Idealisierungen:**\n1. Jede Batterie gibt bei Betrieb eine konstante Spannung V ab und hat eine Kapazität Q hinsichtlich gespeicherter Ladung, was bedeutet, dass sie ein Produkt V·Q = E Energie liefern kann.\n2. Jede Glühlampe hat einen Widerstand R, sodass sie bei einer angelegten Spannung eine konstante Stromaufnahme gemäß dem Ohm'schen Gesetz besitzt.\n\n**Analyse der Aussagen:**\n\nA) Batterien in Serie, Glühlampen in Serie:\n- Gesamtspannung: 2V. Gesamtwiderstand: 2R.\n- Strom: I = U/R = 2V/2R = V/R.\n- Leistung pro Glühlampe: P = (V/R)²·R = V²/R.\n- Die Energielieferung erfolgt schneller, ergibt t/4.\n\nB) Batterien in Serie, Glühlampen parallel:\n- Voltage: 2V over each lamp with R. Resulting in higher power per lamp.\n\nC) Mathematisch berücksichtigte Situationen...\n\n__Das Ergebnis führt,##.",
-  "antwortoption": "A"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die grundlegenden Annahmen, die wir bei der Lösung dieses Problems treffen: Batterien und Glühlampen haben konstante Eigenschaften (Spannung und Widerstand) während ihres Betriebs, und Stromversorgung sowie Verbrauch sind idealisiert. Das bedeutet, der Widerstand der Glühlampe bleibt auch bei Veränderung der angelegten Spannung gleich. Wenn die Batterien in Serie geschaltet sind, addieren sich ihre Spannungen, aber die gelieferten Ladungsmengen (und damit die Laufzeit) bleibt gleich. Wenn die Batterien parallel geschaltet sind, bleibt die Spannungszahl dieselbe, aber die verfügbare Ladungsmenge verdoppelt sich, wodurch die Laufzeit entsprechend verlängert wird. Für die Glühlampen ändert sich der Strom durch sie je nach ihrer Schaltung (in Serie oder parallel), was ihre Energieverbrauchsrate beeinflusst.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu bestimmen, analysieren wir die gegebenen Szenarien durch Anwendung der Reihenschaltung- (Serienschaltung-) und Parallelschaltungsgesetz für Batterien und Glühlampen sowie die Kenntnis des Energieflusses. Dabei soll die Stromabgabe einer Batterie als konstant idealisiert werden, sodass die Energie, die eine Batterie liefert, gleichmäßig unabhängig von der Lastverteilung aufgebraucht wird. Schauen wir uns die einzelnen Konfigurationen an: 1. In Serie verdoppelt sich die Spannung, und der Strom bleibt kontinuierlich, sodass die Energie pro Zeiteinheit höher wird und kürzere Zeit reicht. 2. In Parallel verdoppelt sich die Energiekapazität, aber der Strombedarf bleibt gleichmäßig. Durch genaue Berechnungen bezüglich des Energieverbrauchs ergibt sich: Die Anordnung (D) könnte realistisch die beschriebene Funktion t aufrechterhalten, sollte dies zutreffen.",
-  "antwortoption": "D"
-}

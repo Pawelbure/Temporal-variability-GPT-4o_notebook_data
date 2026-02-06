@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahme und Vereinfachung: Die Batterien besitzen jeweils eine festgelegte Kapazität, die unabhängig von der Entladetiefe eine konstante Energie liefert. Glühlampen haben im Betrieb einen konstanten Widerstand, unabhängig vom anliegenden Strom. Relevante physikalische Konzepte: Die Energie, die von einer Batterie bereitgestellt wird, ist proportional zu ihrer gespeicherten Ladungsmenge multipliziert mit der anliegenden Spannungsdifferenz. In Reihenschaltungen addieren sich Spannungsdifferenzen, in Parallelschaltungen bleibt die Spannung gleich, aber die Ladungskapazität addiert sich. Analyse der Fälle:",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lass uns die Szenarien analysieren, basierend auf der Beziehung zwischen bereitgestellter Energie und Energieverbrauch der Glühlampen:\n\n1. **Annahmen:** Die Batterie liefert eine konstante Spannung (U), jede Glühlampe hat einen konstanten Widerstand (R) und funktioniert bei dieser Spannung. Energieinhalt der Batterie bleibt für beide Schaltungen konstant.\n\n2. Analyse jeder Aussage:\n\n    - **A:** In Serie: Der Gesamtwiderstand der Glühlampen wird R'_g = 2R; durch den Gleichstromkreis-Ohmschen Gesetz ist der Strom I_ges = U_ges / R'_g, wobei U_ges = U_1 + U_2. Dies bedeutet eine Reduktion der Energieversorgung pro Lampe - hier nicht plausibel, dass t/4.\n\n    - **B:** Bei dieser Konfiguration wird die Energierate verändert. Der Strom wird nebeneinander geteilt, daher der Effektivspannungs-/Genergyüberlegung stimmt.\n\nWirkliche *B*-Antwortfindet!",
-  "antwortoption": "B"
-}

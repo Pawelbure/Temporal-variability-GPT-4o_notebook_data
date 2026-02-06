@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Vereinfachungen: Batterien sind ideale Spannungsquellen, Glühlampen haben konstanten Widerstand. Die Kapazität der Batterie wird über entnommene Ladung bestimmt. Der Innenwiderstand der Batterie wird vernachlässigt. Analysen: 1. Batterien in Serie und Glühlampen in Serie: Die Gesamtspannung verdoppelt sich, Gesamtwiderstand der Lampen verdoppelt sich. Gesamtstrom bleibt, daher Betriebsdauer t. 2. Batterien in Serie und Glühlampen parallel: Spannung über Lampen bleibt gleich, Strom durch jede Lampe konstant. Da der gleiche Strom insgesamt wie bei einer Batterie benötigt wird, halbe Betriebsdauer t/2. 3. Batterien parallel und Glühlampen in Serie: Spannung bleibt gleich, Strom halbiert sich. Zeitdauer verdoppelt sich zu 2t. 4. Batterien parallel und Glühlampen parallel: Spannung gleich, Strombedarf wieder wie bei einem Fall einer Lampe und Kapazität verdoppelt: Betriebsdauer t.",
-  "antwortoption": "B, C, D"
-}

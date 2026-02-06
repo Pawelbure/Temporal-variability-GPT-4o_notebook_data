@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: 1. Die Kapazität einer Batterie entspricht ihrer gespeicherten elektrischen Energie. 2. Die Glühlampen haben konstanten Widerstand, unabhängig von der zugeführten Spannung und Stromstärke. 3. Die Spannung einer Batterie ist gleichbleibend, bis sie ihre Kapazität vollständig abgegeben hat. Betrachtung jeder Aussage: A) Batterien und Glühlampen in Serie: Verdoppelt die Spannung, der Strom verdoppelt sich, Leistung vervierfacht sich → Betrieb nach Kapazitätsverbrauch auf 1/4 Zeit. Aussage korrekt. B) Batterien in Serie, Glühlampen parallel: Spannung doppelt, beide Glühlampen betreiben, jede erhält half Energie → Gesamtbetrieb 1/2 Zeit. Aussage falsch. C) Batterien parallel, Glühlampen in Serie: Gesamtstrom halbiert, Energieverbrauch pro Lampe halbiert → Gesamtbetrieb 2t. Aussage korrekt. D) Beide parallel: Keine Spannungsveränderung, Glühlampe wie einzeloperate auf t. Aussage korrekt.",
-  "antwortoption": "A, C, D"
-}

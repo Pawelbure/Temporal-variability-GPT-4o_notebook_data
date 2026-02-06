@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "In dieser Aufgabe nehmen wir an, dass a) die Batterien jeweils die gleiche Ladungsmenge liefern können, b) die Glühlampen den gleichen Widerstand haben, und c) die Verluste in den Verbindungen vernachlässigt werden. Diese Annahmen ermöglichen die Analyse des Energieflusses und der Zeitdauer, zu der die Lampe leuchtet. Für Schaltung a) in Serie sowohl für Batterien als auch Glühlampen verdoppelt sich die Spannung, was zu einer vierfachen Leistungsabgabe führt, sodass die Zeit t/4 beträgt; für b) können die Batterien in Serie doppelt so lange betrieben werden mit halber Last, was die Leuchtzeit auf t/2 setzt; für c) die Lampen in Serie mit Batterien in Parallel ermöglicht doppelte Zeit 2t mit gleicher Leistung; für d) gleicht parallel die beiden Energien, und die Zeit bleibt t.",
-  "antwortoption": "B, C, D"
-}

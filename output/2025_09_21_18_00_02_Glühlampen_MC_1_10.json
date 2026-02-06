@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, nehmen wir folgende Vereinfachungen an: Jede Batterie hat eine konstante Klemmenspannung U und eine Kapazität Q, die beschreibt, wie viel Ladung sie bei Entladung liefern kann. Die Glühlampe hat einen festen elektrischen Widerstand R. Unter diesen Annahmen ergibt sich der Strom durch jede Glühlampe aus der Spannung hergeleiteten Widerstand, abhängig von der jeweiligen Schaltungskonfiguration. \n\n1. **In Serie geschaltete Batterien und Glühlampen**\n - Spannung verdoppelt sich: U1 = 2U\n - Widerstände addieren sich: R1 = 2R\n - Strom: I = U1 / R1 = 2U / 2R = U / R\n - Gleich Strom wie eine Lampe und eine Batterie, Entladungsdauer bleibt t. Kombiniert eine Glühlampe mehr Spannung, daher Annahme ungenügend.\n\n2 . Berechnung und Rückkopplung. Final.",
-  "antwortoption": "B, D"
-}

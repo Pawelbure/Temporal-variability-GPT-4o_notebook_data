@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zur Lösung des Problems analysieren wir die vier beschriebenen Schaltungen separat: 1) Batterien in Serie, Glühlampen in Serie: Eine Verdopplung der Spannung führt zu einer vervierfachten Leistung, wodurch die Batterien nur noch ein Viertel der Zeit durchhalten; 2) Batterien in Serie, Glühlampen parallel: Die Leistung bleibt konstant, daher reduziert sich die Zeit auf die Hälfte pro Lampe; 3) Batterien parallel, Glühlampen in Serie: Die Halbierung der Spannung führt zu einem Viertel der Leistung, somit dauert der Betrieb etwa doppelt so lange; 4) Batterien und Glühlampen parallel: Die Leistung pro Lampe bleibt gleich, die Verdopplung der Energie durch parallele Batterien reicht für doppelt so viele Lampen bei gleicher Zeit.",
-  "antwortoption": "A, B, C, D"
-}

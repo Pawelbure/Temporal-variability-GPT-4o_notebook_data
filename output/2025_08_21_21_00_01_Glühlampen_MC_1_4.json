@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebene Aufgabe zu analysieren, nehmen wir folgende Voraussetzungen an: Jede Batterie liefert eine konstante elektromotorische Kraft (EMK) E und kann eine konstante Ladungsmenge Q abgeben. Die Leistung jeder Glühlampe hängt von der angelegten Spannung U und ihrem konstanten Widerstand R ab, und die Energieabgabe der Batterie ist proportional zu Q*E. Die Alternativen lassen sich wie folgt analysieren: Wenn die Batterien und die Lampen in Serie geschaltet sind, ist die Leistungsabgabe gleichmäßig aufgeteilt, wodurch die Laufzeit der Lampen quadratisch abnimmt. Wenn die Batterien parallel sind, jedoch die Lampen in Serie, bleibt die Energie auf beide Batterien verteilt, aber die Lampen teilen den Strom, wodurch die Laufzeit maximal ist. Die Situation parallel-parallel führt zu einer halben Laufzeit. Daher ist Antwort A, C korrekt.",
-  "antwortoption": "C, D"
-}

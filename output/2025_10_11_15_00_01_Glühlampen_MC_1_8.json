@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die vorliegende Aufgabe zu lösen, betrachte ich zunächst die Annahmen und physikalischen Prinzipien: Die Glühlampen haben festen Widerstand, und die Batterien liefern eine konstante Spannung, bis ihre Energie verbraucht ist. Für jede Batterie speichere ich die Energie als Produkt von Spannung, Strom und Betriebszeit (E = V * I * t). Nun prüfe ich jede Antwortoption unter Berücksichtigung der gegebenen Verschaltungen der Glühlampen und Batterien hinsichtlich ihrer Strom- und Spannungsverläufe sowie der resultierenden Energieübertragung. Nach diese Betrachtung ergibt sich: Option B ist korrekt, da in der gegebenen Verschalttung die Batterien in Serie eine erhöhte Spannung liefern, wodurch durch die parallele Anordnung der Glühlampen jeweils die halbe spezifische Energie abrufen können, was zu halbierter Betriebszeiten führt.",
-  "antwortoption": "B"
-}

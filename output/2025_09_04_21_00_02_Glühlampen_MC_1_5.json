@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, berücksichtigen wir die physikalischen Eigenschaften von Batterien und Glühlampen unter den gegebenen Bedingungen. Eine Batterie liefert eine konstante Spannung V und hat eine bestimmte Kapazität Q, wodurch sie eine konstante elektrische Energie bereitstellen kann. Die Glühlampe hat einen festen Widerstand R, daher hängt der Stromfluss durch sie von der anliegenden Spannung ab. Wird die Batterie parallel geschaltet, bleibt die Spannung konstant, während sich die Kapazität verdoppelt. Serienschaltung verdoppelt die Spannung, aber die Kapazität bleibt gleich. Der Stromverbrauch einer Glühlampe hängt vom angelegten Strom ab, der bei paralleler Schaltung höher ist als in Serie aufgrund der Veränderung der anderen Parameter. Eine ausführliche Analyse gibt uns diese Ergebnisse:",
-  "antwortoption": "B, D"
-}

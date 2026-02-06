@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir den Fall für jeden Zwischenschritt getrennt:\\n\\n1. **Analyse: Batterien und Glühlampen in Serie:**\\n\\n- Batterien in Serie verdoppeln die angelegte Spannung. Die Glühlampen in Serie teilen diese Spannung. Der Widerstand ist ein konstanter Wert.\\n- Wenn beide Glühlampen die gleiche Spannung abbekommen und der Strom im Kreis konstant bleibt, wird jede Lampe unabhängig mit ihrer Leistung leuchten. Die Batterieentladung wird hier beschleunigt.\\n- Die Batterien entladen sich gemeinsam doppelt so schnell, da die Leistung P größer ist, und die Zeit wird t/4.\\n\\n2. **Glühlampen in parallel:**\\n\\n- Batterien in Serie mit parallelen Glühlampen: Strom verdoppelt sich proportional. Jede Batterie arbeitet gleichermaßen, die angesetzte Energiemenge halbiert die Zeit.\\n\\n3. Batterien parallel:** Strom ausreichend doppeld.).\\n",
-  "antwortoption": "D"
-}

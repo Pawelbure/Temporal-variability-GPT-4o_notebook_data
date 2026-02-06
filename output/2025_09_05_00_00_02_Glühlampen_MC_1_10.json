@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu ermitteln, prüfen wir jede Option separat: A) Batterien in Serie und Lampen in Serie: Hierdurch verdoppelt sich die Spannung des Systems, aber auch die Effektivspannung an den Lampen wird verdoppelt. Da der Strom quadratisch mit der Spannung steigt, verringert sich die Belaustungszeit auf ein Viertel (t/4), korrekt. B) Batterien in Serie, Lampen parallel: Die Spannung bleibt gleich, und der Gesamtstrom steigt auf das Doppelte, was korrekt t/2 Belastungsdauer ergibt. C) Batterien parallel, Lampen in Serie: Die Spannung an der Serienschaltung der Lampen bleibt gleich, und die Kapazität verdoppelt sich, ergibt 2t Belastungsdauer, korrekt. D) Batterien und Lampen parallel: Die Spannung bleibt gleich, der Stromaufwand ist gleich wie mit einer Batterie-Lampen-Kombination, Belastungszeit bleibt t, korrekt.",
-  "antwortoption": "A, B, C, D"
-}

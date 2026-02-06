@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die gegebene Aufgabenstellung schrittweise, unter Annahme idealisierter Bedingungen: Die Batterien liefern bei konstantem Strom für die Zeit t Energie, die Glühlampe hat einen konstanten Widerstand R, und alle Komponenten sind ideal ohne Verluste. Falls Batterien seriell oder parallel geschaltet sind, ändert sich ihre volle Energie und Spannung laut elektrotechnischen Gesetzen. Durchgehen der Aussagen: (A) Serienschaltung von Batterien und Lampen vervierfacht Spannung und verdreifacht Energieverbrauch, daher Zeit t/4. (B) Serienschaltung Batterien und Lampen parallel halbiert Runtime durch Spannungserhöhung. (C) Parallelschaltung verdoppelt Batterieenergie aber Lampenkombination bleibt t. (D) Parallel-Parallel ergibt gemeinsame Zeitverhalten. Final korrekte Aussagen: A.",
-  "antwortoption": "A"
-}

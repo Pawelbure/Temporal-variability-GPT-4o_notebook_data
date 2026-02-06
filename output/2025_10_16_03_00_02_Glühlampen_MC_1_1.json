@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Betrachten wir die verschiedenen Szenarien für Batterien und Glühlampen: 1) Batterien in Serie und Glühlampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich, der Strom bleibt konstant, die Batterien entladen sich zusammen, die Leuchtdauer bleibt gleich. 2) Batterien in Serie und Glühlampen parallel: Die Spannung steigt, der Strom steigt, Batterien entladen sich schneller, die Leuchtdauer beträgt t/2. 3) Batterien parallel und Glühlampen in Serie: Spannung konstant, Widerstand höher, Strom geringer, Batterien halten länger, Leuchtdauer beträgt 2t. 4) Batterien parallel und Glühlampen parallel: Spannung und Strom konstant, Batterien halten normal, Leuchtdauer bleibt t. Daher wähle die korrekten Optionen.",
-  "antwortoption": "B, C, D"
-}

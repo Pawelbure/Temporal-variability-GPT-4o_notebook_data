@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Im ersten Schritt machen wir die Annahmen und betrachten die Eigenschaften der Batterien und Glühlampen: Batterien liefern eine konstante elektrischen Spannung und haben eine begrenzte Gesamtkapazität an gespeicherter Energie. Die Glühlampen zeigen einen konstanten Widerstand R und zeichnen sich durch eine konstante Helligkeit bei gegebener Spannung aus. 1. Option A: Batterien in Serie verdoppeln die Spannung, sodass die Stromstärke in der Reihenschaltung der Glühlampen verdoppelt wird. Die Energieabgabe jeder Batterie kann daher mit dem quadrierten Stromverhältnis, hier in der Zeit t/4, abgearbeitet werden. 2. Option B: Höhere Spannung bei paralleler Last senkt die Belastungszeit; die Batteriekapazität für jede Last reicht für t/2. 3. Option C und D analysieren die Parallelkonfigurationen, wobei die Energieeffectivität gecheckt wird, 2t z respektive.",
-  "antwortoption": "B, D"
-}

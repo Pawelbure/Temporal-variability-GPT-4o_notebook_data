@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Vereinfachungen: Wir gehen davon aus, dass die Spannungsquelle der Batterie konstant ist und ihre Kapazität C eine gleichbleibende Ladungsmenge liefert. Der Widerstand jeder Lampe sei R, sodass die Leistungskalibrierung durch Transformationsgesetzte erfolgen kann. Für jede Konfiguration:(A) Wenn die Batterien in Serie betrieben werden, resultiert eine doppelte Spannung und eine größere Leistungsaufnahme in der Serienschaltung der Lampen; Betrachtung ergibt eine Verringerung der Betriebszeit.(D) Durch Verbindung paralleler Batterien, stellen wir sicher, dass die Stromkapazität sich addiert, zeitanhebend bei gleichem Verbrauch.(B) Ergebnis einer Analyse zeigt, reduzierte Zeit für Betrieb durch erhöhte Ströme in parallelen Lampenschaltungen.",
-  "antwortoption": "A, B"
-}

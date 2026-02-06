@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aussagen zu bewerten, analysieren wir die verschiedenen Szenarien unter Berücksichtigung der elektrischen Leistung und Ladung: Eine Batterie hat eine konstante gespeicherte Energie und die elektrische Energie ist gegeben durch E = P·t = U²/R·t. Bei Serienschaltung steigt die Spannung, bei Parallelschaltung die Kapazität. (A) Bei Seriekonfiguration der Batterien verdoppelt sich die Spannung, und der Serienwiderstand verdoppelt sich; der Strom bleibt konstant, daher bleibt die Zeit t erhalten, nicht t/4. (B) Serienschaltung der Batterien, parallele Last: die effektive Spannung verdoppelt die Leistung, batteriegefasst bleibt t konstant. (C) Parallelbatterien erhöhen Kapazität, Strom halbiert sich, die Zeit verdoppelt sich zu 2t. (D) Bei Parallelschaltung bleibt Spannung und Batterieleben gleich, Zeit bleibt t erhalten. B und D sind korrekt.",
-  "antwortoption": "B, D"
-}

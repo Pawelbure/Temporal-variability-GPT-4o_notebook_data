@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die gegebene Aufgabe umfasst die Betrachtung von Schaltungen mit Batterien und Glühlampen. Wir treffen die Annahmen, dass die Batterien ideale Spannungsquellen sind, die Lampe durch einen konstanten ohmschen Widerstand modelliert werden kann und Energieverluste in den Leitungen vernachlässigt werden. Zusätzlich liefern wir die Verbindungen der Schaltungen, um die Lebensdauer der Glühlampen basierend auf der Aufteilung von Spannung und Strom in verschiedenen Kombinationen zu analysieren. In Kombinationen mit Batterien in Serie addieren sich die Spannungen der Batterien, was die effektive Spannung verdoppelt und die Leistung in den Lampen vergrößert. Dies reduziert die Lebensdauer. Bei paralleler Verbindung bleibt die Spannung gleich, die Kapazität jedoch dosiert sich. Beide Faktoren beeinflussen die Lebensdauer.",
-  "antwortoption": "A, B, D"
-}

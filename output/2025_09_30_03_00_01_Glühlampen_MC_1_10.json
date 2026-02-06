@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir beantworten die Frage step-by-step: 1. Es wird angenommen, dass die Batterien und Glühlampen identisch sind. 2. Wenn Batterien in Serie geschaltet sind, verdoppelt sich die Spannung, bei Parallelschaltung bleibt sie gleich, während die Kapazität steigt. 3. a) Sind Batterien in Serie und Glühlampen ebenfalls in Serie, verdoppelt sich die Gesamtspannung und der Gesamtstrom bleibt konstant. Die Lebensdauer wird jedoch auf t/2 reduziert. Wenn Glühlampen zudem in Serie sind, wird die Stromaufnahme so reduziert, dass keine Verkürzung erfolgt. Zeit: t. b) Bei parallel geschalteten Lampen bei Batterien in Serie ergibt Halbwert an Lebensdauer: Richtig ist daher Zeit: t/2.",
-  "antwortoption": "B"
-}

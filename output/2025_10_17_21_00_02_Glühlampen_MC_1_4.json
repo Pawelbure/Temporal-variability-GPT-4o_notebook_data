@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Idealisierungen:\n   - Die Kapazität jeder Batterie ist dieselbe und konstant.\n   - Die Glühlampen haben denselben Widerstand.\n   - Die Entladung der Batterien erfolgt ohne Energieverluste, und ihre Innenwiderstände sind vernachlässigbar.\n\n2. Physikalische Konzepte:\n   - Ist der Widerstand der Verbindung gleich, die Gesamtspannung aber multipliziert, dann erhöht sich der Strom.\n   - Batterien in Serie liefern die doppelte Spannung gegenüber einer einzelnen Batterie; in Parallelverbindung bleibt die Spannung gleich, aber die Kapazität verdoppelt sich.\n   - Der Energieverbrauch (Kapazität der Batterien) hängt vom Strom durch die Glühlampen ab. Bei konstanter Helligkeit verbrauchen die Glühlampen im konstanten Strom.",
-  "antwortoption": "D"
-}

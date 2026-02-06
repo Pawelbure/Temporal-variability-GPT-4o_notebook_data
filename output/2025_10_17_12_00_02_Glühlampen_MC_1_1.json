@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Analyse der problematischen Aussagen und Situationsdefinition:\n   - Zwei Glühlampen und zwei identische Batterien stehen zur Verfügung.\n   - Parameter wie Batteriekapazität und Glühlampenwiderstand bleiben konstant.\n\n2. Konzeptverständnis:\n   - Reihenschaltung: Der Strom ist gleich durch alle Komponenten; die Spannung summiert sich.\n   - Parallelschaltung: Die Spannung ist gleich über alle Zweige; die Ströme teilen sich.\n   - Entladung einer Batterie ist proportional zur Leistung.",
-  "antwortoption": "D"
-}

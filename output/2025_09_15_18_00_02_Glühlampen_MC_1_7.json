@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Batterie hat eine Kapazität mit Energie E. Die Glühlampe hat einen Widerstand R. Wenn eine Batterie eine Lampe betreibt, liefert E den Strom über einen konstanten Widerstand, wodurch sie eine Zeit t betrieben wird. \nOption A: Zwei in Serie verursachen eine doppelte Spannung bei doppeltem Widerstand (Glühlampen in Serie). Dies ergibt dieselbe Stromzeit wie eine Batterie allein: 2t. Daher: falsch.\nOption B: In Serie verdoppelt die Spannung, parallele Lampen halbieren den Widerstand. Dies entlädt die Batterien vierfach schneller, betrieben werden Sie nur t/4, daher: falsch.\nOption C: In Parallelbatterien bleibt die Spannung gleich, der doppelte Widerstand (Glühlampen in Serie) verdoppelt die Betriebszeit zu 2t. Daher: richtig.\nOption D: Parallel verdoppelt die Energie bei gleicher Spannung. Beide Lampen parallel operieren wie eine Batterie ein, entladen die Parallelstruktur in t. Daher: falsch.",
-  "antwortoption": "C"
-}

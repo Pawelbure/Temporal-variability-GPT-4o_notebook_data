@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe analysiert die Auswirkungen unterschiedlicher Schaltungen von Batterien und Glühlampen auf die Leuchtdauer der Lampen. Dies geschieht unter der Annahme, dass jede Batterie eine konstante elektrische Leistung für die Dauer t liefert, und der Widerstand der Glühlampen bleibt unverändert. Die Elektronik-Grundlagen enthalten die seriellen und parallelen Schaltungen, wo Spannung und Strom unterschiedlich verteilt werden. 1) Für (A): Serienbetrieb erhöht die Gesamtspannung bei unverändertem Strom durch jede Lampe, und die Energie jeder Batterie wird schneller verbraucht - keine Treffergültigkeit. 2) Für (B): Die Batterien liefern mehr Strom statt Spannung, was die Betriebszeit halbiert. 3) Für (C): Der Betrieb ist ungeeignet, da eine Batterie nicht mehr Energie liefern kann. 4) Für (D): Passt, da der parallele Betrieb Energie ausgeglichen liefert. Schlussfolgerung: Nur D ist korrekt.",
-  "antwortoption": "D"
-}

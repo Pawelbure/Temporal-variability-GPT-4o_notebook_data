@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Fragestellung zu untersuchen, verwenden wir folgende Annahmen: Jede Batterie hat eine konstante Kapazität und Spannung bis zur vollständigen Entladung; die Glühlampen haben einen konstanten Widerstand R. Wir verwenden die grundlegenden Beziehungen der elektrischen Schaltungen. 1) Für Batterien und Glühlampen in Serie verdoppelt sich die Gesamtspannung und damit der Gesamtstrom. 2) Für Glühlampen in Parallelverdrahtung bleibt die Spannung gleich, der Strom teilt sich auf. Um die Betriebszeit zu berechnen, berücksichtigen wir die Stromstärke und Konfiguration.",
-  "antwortoption": "D"
-}

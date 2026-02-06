@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Szenarien und berücksichtigen die Abhängigkeiten zwischen Spannung, Widerstand und Strom. Gegeben ist, dass jede Batterie die Glühlampe für eine Dauer t leuchten lassen kann. I. Batterien in Serie, Glühlampen in Serie: Die doppelte Spannung wirkt, der Strom bleibt gleich. Da die Leistung proportional zum Quadrat der Spannung ist, nimmt die Lastaufnahme zu. Die Betriebsdauer halbiert sich, jedoch wird durch zwei Lampen geteilt, sodass (durch Anpassungen in der ursprünglichen Analyse) eine Zeit von t/4 resultiert. II. Batterien in Serie, Glühlampen parallel: Während Glühlampen parallel geschaltet sind, bleibt die Betriebsspannung nach der Verdopplung durch die Seriekombination Anfang größer; daher wird Energiebedarf pro Lampe halbiert. III. und IV. Da kein weiterer Strom-Benutzer/Ladungsdicht zusätzlich Überprüfung...",
-  "antwortoption": "A, B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Fragestellung und vergleichen die Verbindungen der Komponenten: 1) Batteries verbunden nach Schema in Serie und die Lampen ebenfalls in Serie: Die Spannung ist doppelt so groß, der Strom bleibt konstant, die Energie pro Lampe reduziert sich. 2) Batterien in Serie, Lampen parallel: Gesamtspannung doppelt, jede Lampe erhellt normale Stromaufnahme, Halbtagesleistung. 3) Batterien parallel Lampen in Serie: Halbsenergie geteilt beide Lampe; längere Zeit. 4) Batterien & Lampen parallel, sollten  geben Standardzeit verbracht. ",
-  "antwortoption": "D"
-}

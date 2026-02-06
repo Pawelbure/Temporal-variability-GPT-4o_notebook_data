@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Batterien sind identisch und liefern jeweils eine konstante Spannung V und Kapazität Q (also eine Ladungsmenge). Die Glühlampen haben einen konstanten Widerstand R und verbrauchen Strom entsprechend V/R. Die Verbrauchsdauer, t, ist proportional zur gespeicherten Energie der Batterie dividiert durch die Energieabgabe pro Zeit der Glühlampe. Physikalische Konzepte: Das Zusammenschalten von Batterien erhöht entweder die Spannung (bei seriellem Anschluß) oder die Kapazität (bei parallelem Anschluß). Serielle Glühlampen schalten addiert ihre Widerstände, parallele Schaltung teilt die Gesamtstromaufnahme auf. Lösung:",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zu Lösung des Problems analysieren wir die verschiedenen Konfigurationen der Batterien und Glühlampen unter Berücksichtigung der Grundgesetze der Elektrotechnik:\\n1. Zur Vereinfachung nehmen wir an, dass jede Batterie eine konstante Kapazität an Elektroenergie E besitzt und die interne und externe Widerstände konstant sind.\\n2. Im ersten Szenario (A): Bei der Reihenschaltung von Batterien und Lampen addieren sich die Spannungen der Batterien, aber die Gesamtenergie wird gleichmäßig auf beide Lampen verteilt; etwaige Ausnahme wäre in Strombewertung zu berücksichtigen.\\n3. Überprüfen aller Szenarien wird zeigen, dass keine der vorgegebenen Antworten korrekt resultieren entsprechend Detailspezifik insbesondere Unüblicherverteilung Irrationale Ergebnisse.",
-  "antwortoption": "A, B"
-}

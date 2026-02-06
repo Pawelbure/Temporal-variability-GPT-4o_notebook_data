@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir betrachten die Situation basierend auf den relevanten Schaltungen und den Eigenschaften der Batterien und Glühlampen. Annahmen und Überlegungen: 1. Jede Batterie kann eine Glühlampe einzeln für die Dauer t mit konstanter Leistung betreiben. 2. Der Widerstand der Glühlampe bleibt konstant. 3. Die Batterien liefern bei paralleler Schaltung ihre Spannung und summieren ihre Kapazität. 1) Schaltung A: Wenn Batterien und Glühlampen in Serie geschaltet sind, verdoppelt sich die Spannung, und die beiden Glühlampen teilen sich den Gesamtstrom. 2) Schaltung B: Batterien in Serie, Glühlampen parallel: höhere Spannung und Stromteilung durch Glühlampen. 3) Schaltung C: Batterien parallel, Glühlampen in Serie: Originalspannung doppelte Kapazität, zwei hintereinander. 4) Schaltung D: Batterien parallel, Glühlampen parallel: Originalspannung und doppelte Kapazität.",
-  "antwortoption": "D"
-}

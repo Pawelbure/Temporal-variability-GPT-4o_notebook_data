@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Zeit t, die eine einzelne Batterie eine Glühlampe betreiben kann, entspricht der gesamt verfügbaren elektrischen Energie geteilt durch die Leistung P der Glühlampe, wobei P = U²/R gilt. Wenn zwei solcher Batterien und Glühlampen eingesetzt werden, müssen die Schaltungen analysiert werden: Schalten in Serie erhöht die Gesamtspannung und somit die Leistung, während ein Parallelbetrieb die Spannung konstant hält. Bei Betrachtung der vier Situationen wird festgestellt: In Serie (A) halbiert sich der Stromfluss, was die Zeit t bei gleichem Widerstand ebenfalls halbiert; die Leistung jeder Lampe ist proportional zu 1/2 von P, daher halbiert sich die Leuchtzeit auf t/4. Parallel betrieben ermöglicht paralleles Verdoppeln elektrischer Kapazität ohne Spannungserhöhung beim Lampeneinsatz paralleles Betreiben mit Effizienz für genau geplante Zeit, t; dies macht B korrekt.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Lebensdauer der Batterien in verschiedenen Konfigurationen zu analysieren, müssen wir uns die elektrischen und energetischen Eigenschaften der Schaltungen ansehen. Wir nehmen vereinfachend an, dass jede Batterie eine konstante Spannung V liefert und eine konstante Energie E bereitstellt. Weiterhin ist der Widerstand der Glühlampen R konstant. Die Lebensdauer der Batterien hängt dann von der Stromstärke ab, die sie liefern müssen.",
-  "antwortoption": "A, B, D"
-}

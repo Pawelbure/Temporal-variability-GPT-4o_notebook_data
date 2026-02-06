@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Analyse der Situationen und Berechnung der Zeit:\n\n#### Gegebene Annahmen und Konzepte:\n1. Eine Glühlampe leuchtet für Zeit t, wenn sie mit einer einzelnen Batterie betrieben wird;\n2. Der Widerstand der Glühlampe ist konstant, und die Leistung P hängt quadratisch von der Spannung U ab: \\[P = \\frac{U^2}{R}\\].\n\n##### Betrachten der Fälle:\n\n**Fall A:**\n- Die Batterien in Serie verdoppeln die Spannung (U).\n- Die Lampen in Serie verdoppeln den Widerstand (R).\n  \\[U_\\text{eff} = 2U.\\]\n  \\[R_\\text{eff} = 2R.\\]\n  - Strom: \\[I = \\frac{U_\\text{eff}}{R_\\text{eff}} = \\frac{2U}{2R} = \\frac{U}{R} = I_1.\\]\n  - Leistung pro Lampe: \\[P = U_\\text{Lampe} \\cdot I = \\frac{U}{2} \\cdot \\frac{U}{R} = \\frac{1}{2}P_1.\\]\n- Die Lampen leuchten gleichmäßig, was die Zeit T unverändert lässt, jedoch geteilt wird, ebenso der Strom pro Batterie.\n\n##### **Antwortmöglichkeiten:** D richtig.",
-  "antwortoption": "D"
-}

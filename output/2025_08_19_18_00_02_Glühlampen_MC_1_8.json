@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annäherungen und Idealisierungen: Batterien sind ideale Spannungsquellen mit endlicher Kapazität; die Glühlampen sind reine Widerstände und zeigen keine nichtlinearen Effekte; keine Energieverluste außerhalb der Glühlampen. Relevante Konzepte: Elektrische Leistung und Widerstandsgesetz (P=U^2/R); Kapazität ergibt Energie (Q*V), die proportional zur Entladungsgeschwindigkeit (Strom) abnimmt. Die Betrachtung der Schaltungen ergibt: A) Unwahrscheinlich, da Kapazitätsreduktion eher t/2 ergibt. B) Bei U erhöht sich Strom durch Parallelschaltung von Lampen, Zeit halbiert sich. C) Energiefluss in Serienschaltung stabilisiert Verbrauch; Zeit konstant t. D) Kapazitäten verdoppeln sich.",
-  "antwortoption": "D"
-}

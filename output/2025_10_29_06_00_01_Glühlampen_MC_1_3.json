@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Batterien sind ideal, mit jeweils gleicher Kapazität (Q) und Spannung (V). Die Glühlampen haben gleichen konstanten Widerstand (R). Die Entladung der Batterie ist gleichförmig. Gegebene Szenarien: \n\nA) Batterien in Serie (2V), Lampen in Serie; Gesamtwiderstand 2R, Strom V/2R; Betrieb 1/4 Zeit t. \n\nB) Batterien in Serie, Lampen parallel; Gesamtwiderstand 1R/2, Strom 2V/R; Betrieb 1/2 Zeit t. \n\nC) Batterien parallel (1V), Lampen in Serie; Gesamtwiderstand 2R, Strom 1/2R; Betrieb 2t. \n\nD) Batterien parallel, Lampen parallel; Gesamtstrom n [n=2] I_0 möglich für die Zeit t. \n\nDie analysierten physikalischen Gesetze stimmen mit den Ergebnissen überein.",
-  "antwortoption": "B, C"
-}

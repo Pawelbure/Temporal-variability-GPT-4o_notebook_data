@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die oben genannten Optionen zu prüfen, analysieren wir die verschiedenen Schaltungsvarianten:\n\n1) **Reihe von Batterien und Lampen:** Die Spannung addiert sich, und der Strom bleibt gleich. Die Leuchtzeit wird kürzer, da der Gesamtwiderstand erhöht ist. Die Batterieladung aber halbiert sich pro Lampe, weshalb t/4 stimmt.\n\n2) **Reihe von Batterien, Parallelschaltung bei Lampen:** Spannung erhöht sich; beide Lampen teilen den Strom entsprechend ihrem Widerstand. Die Energie aus den Batterien wird schneller aufgebraucht, führt zu einer Zeit von t/2.\n\n3) **Parallel bei Batterien und in Serie bei Lampen:** Spannung bleibt konstant; Strom halbiert sich durch reduzierten Stromverbrauch einer Lampe. Zeit verdoppelt sich zu 2t.\n\n4) **Parallel für Batterien und Lampen:** Spannung bleibt und beide Lampen teilen sich Strom auf. Kapazität der Erzeugung reicht für Gesamtlaufzeit t.",
-  "antwortoption": "B, C"
-}

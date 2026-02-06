@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrische Leistungsaufnahme und Ladungserhaltung in den verschiedenen Schaltungen. Annahmen: 1) Die Spannung jeder Batterie beträgt V und liefert eine konstante Ladung Q. 2) Die Glühlampe hat einen konstanten Widerstand R. 3) Der Stromfluss ist ideal und keine Verluste entstehen. Für jede Schaltungsart analysieren wir die beteiligten Ströme, Spannungen und Zeiten: A) In Serie schalten sich Spannungen und Widerstände auf. Zeit zu Berechnung ergibt t/4. Antwort A ist korrekt. B) In Parallel der Glühlampen und Serie der Batterien erhöht sich der Strom durch eine Batterie, Reduktion der Zeit auf t/2. Antwort B ist korrekt. C) In Serie der Glühlampen reduziert den Strom, verdoppelt jedoch die Zeit bei Parallel-Batterie. Antwort C ist korrekt. D) Parallelitäten über Spannungs und Ladung führen zur Zeit t. Antwort D ist ebenfalls korrekt.",
-  "antwortoption": "A, B, C, D"
-}

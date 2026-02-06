@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um den Betrieb der Batterien und Lampen zu analysieren, nehme ich an, dass jede Batterie bei konstanter Spannung eine feste Ladung (Q) speichert. Der Widerstand der Lampe bleibt konstant, wodurch der Strom durch die Lampe für eine gegebene Spannung konstant ist. Analysieren wir einzelne Szenarien:\n\nA) Bei einer Serienschaltung der Batterien verdoppelt sich die Spannung, und bei einer Serienschaltung der Lampen halbiert sich der Strom durch jede Lampe (da der Gesamtnennwiderstand 2R beträgt). Dies führt zu einer Verschiebung der Energieverteilung, aber nicht zu einer so kurzen Betriebszeit wie t/4. Diese Aussage ist falsch.",
-  "antwortoption": "B"
-}

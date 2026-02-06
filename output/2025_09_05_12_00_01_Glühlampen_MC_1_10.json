@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Konzepte: Die Batterie wird als ideale Spannungsquelle mit einer begrenzten Ladungsmenge angenommen. Der Widerstand der Glühlampe bleibt unabhängig von der Spannung und Temperatur konstant. Um eine Batterie als Energiespeicher zu charakterisieren, nehmen wir an, dass sie eine Energie Q liefern kann, die zu einem konstanten Strom I über eine Zeit t führt. Wir analysieren nacheinander die vier gegebenen Schaltungsarten:\n\nA) Batterien und Lampen in Serie: Die Gesamtspannung verdoppelt sich, wodurch der Strom, den die Lampen ziehen, verdoppelt wird. Da durch Erhöhung des Stroms die Energie schneller verbraucht wird, halbiert sich die Zeit. Da es sich um eine kombinierte massenweise Erhöhung handelt, erneuern wir t/4.\n\nB) Batterien in Serie, Lampen parallel: Verdopplung der Spannung führt zu ausreichender Energie für die einzelnen Blütenzeiten der Knutweiße.",
-  "antwortoption": "B, D"
-}

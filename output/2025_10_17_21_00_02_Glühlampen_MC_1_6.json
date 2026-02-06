@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Bedingungen: Jede Batterie liefert die gleiche Spannung U und speichert eine konstante Energiemenge E. Jede Glühlampe hat einen konstanten Widerstand R. Die Stromkreisschaltungen folgen den Grundgesetzen der Elektronik (Ohmsches Gesetz und Zusammenschaltung von Widerständen). Analysemethode: Berechnung der effektiven Spannung und des Gesamtwiderstands pro Schaltvariante und dann Ermittlung der Energieabgabe pro Zeit, um t_eff zu bestimmen. Ergebnisse: A) Falsch - Verbindung senkt Strom, aber Energieverbrauch bleibt gleich, nicht t/4. B) Falsch - paralleles Leuchten verstärkt Verbrauch, Dauer ist t/2. C) Falsch - Energieausnutzung schlechter, nicht 2t. D) Wahr - Gesamtwiderstand und Lastausgleich konstant bei voller Effizienz ungefähr gleich zu Einzelbatteriedauer t.",
-  "antwortoption": "D"
-}

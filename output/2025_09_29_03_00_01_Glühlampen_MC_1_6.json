@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Annahmen und Vorüberlegungen:** Um die Aufgabe zu analysieren, gehen wir von idealisierten Bedingungen aus.  Jede Batterie hat eine konstante Gesamtkapazität für gespeicherte Energie, die Glühlampen haben identische Widerstände, und der Stromverbrauch durch eine Glühlampe ist für eine konstante Spannung idealisiert. **Analyse der Schaltungen:**\n\n1. **Schaltung A:** Die Batterien in Serie verdoppeln die Spannung. Die Glühlampen in Serie erleben jedoch eine aufgeteilte Spannung (jeweils die Hälfte pro Lampe). Da die Gesamtleistung proportional zu Square von Spannung geteilt durch Gesamtwiderstand ist, beträgt die Leuchtdauer t/2.\n\n2. **Schaltung B**: Serienbatteriespannung und beide Lampen parallel. Jede Lampe empfangt Batteriespannung. Die Laufzeit ist abhängig. \n\n\nDaher lautet die korrekte Antwort: .",
-  "antwortoption": "B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekten Aussagen zu bestimmen, betrachten wir die verschiedenen Schaltungen notwendigerweise im Detail: 1) Batterien in Serie erhöhen die Gesamtspannung, und Glühlampen in Serie teilen die Spannung, wodurch die Stromstärke reduziert wird; das kann die Betriebszeit ändern. 2) Batterien in parallel halten die Spannung bei und verdoppeln die verfügbare Kapazität (Strommenge). - Option A: Dies ergibt t/2, maßgeblicher Irrtum: falsch. - Option B: Spannung verdoppelt, Betriebszeit bleibt t. - Option C: Spannung reduziert, Verbrauch reduziert, führt zu 2t: richtig. - Option D: Batterien parallel, Strom teilt. Wird t ergeben.",
-  "antwortoption": "C, D"
-}

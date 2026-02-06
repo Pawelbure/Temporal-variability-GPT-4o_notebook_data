@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysiere ich die vier angegebenen Szenarien basierend auf Schaltungen und Prinzipien der Batterie- und Glühlampenphysik. Annahmen: Konstante Spannung und Kapazität der Batterien. Konstanter Widerstand der Glühlampen. Schaltung 1: Zwei Batterien in Serie und zwei Glühlampen in Serie. Die Spannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich ebenfalls, der Strom bleibt konstant, die Betriebszeit bleibt t. Schaltung 2: Zwei Batterien in Serie und Glühlampen parallel. Spannung verdoppelt, Widerstand halbiert, Strom vervierfacht, Zeit viertelt sich auf t/4. Schaltung 3: Batterien parallel, Glühlampen seriell: Spannung konstant, Strom halbiert, Betriebszeit verdoppelt sich zu 2t. Schaltung 4: Batterien parallel, Glühlampen ebenfalls parallel: Spannung konstant, Strom doppelt, Betriebszeit halbiert auf t/2. Somit ist die richtige Option C korrekt.",
-  "antwortoption": "C"
-}

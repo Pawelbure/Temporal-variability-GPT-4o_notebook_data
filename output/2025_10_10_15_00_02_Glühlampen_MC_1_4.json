@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, betrachten wir die elektrischen Eigenschaften in verschiedenen Konfigurationen. Annahmen: Jede Batterie liefert eine konstante Spannung U und hat eine Kapazität, die einer bestimmten Ladung Q oder Zeit t entspricht. Jede Glühlampe hat Widerstand R. Physikalische Grundlage: Die Leistungtransformierung hängt von der Spannung U und dem elektrischen Strom ab, gemäß dem Ohmschen Gesetz und der elektrischen Leistung P = U²/R. 1. Batterien und Lampen in Serie: Spannung verdoppelt, Strom halbiert. Daher: Zeit halbiert. 2. Batterien in Serie, Lampen parallel: Verdoppelte Spannung führt zu verdoppelterm Strom, pro Batterie effektiver gleich wie für Einheitsspannung. 3. Batterien parallel, Lampen in Serie: Halbe Spnnung, verringerte Leistung führt zu verlängertem Betrieb. 4. Batterien und Lampen parallel: Gleiche Spannung, keine Veränderung. Zählen Verläufe wird Zeit evaluiert.",
-  "antwortoption": "B, D"
-}

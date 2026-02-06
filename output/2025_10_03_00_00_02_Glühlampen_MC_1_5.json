@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Wir betrachten ideale Batterien, die konstante Spannung liefern, bis sie sich vollständig entladen (was in der Realität nicht exakt der Fall ist), und vernachlässigen den Innenwiderstand der Batterien. Zudem haben alle Glühlampen denselben konstanten Widerstand R. Die Kapazität jeder Batterie ist gegeben als C in Joule bzw. ihre Energieinhalt beträgt C * U, wo U die Spannung ist. Situation A: Serielle Batterien (Spannung summiert sich zu 2U) und serielle Glühlampen (Gesamtwiderstand 2R): Der Strom beträgt I = (2U)/(2R) = U/R, und die Leistung ist P = I^2 * 2R = (U/R)^2 * 2R = 2U^2/R. In t/4 ist die Batterie-gesamtenergie verbraucht. Situation B: Serielle Batterien und parallele Lampen (R/2): die Lampen brennen für etwa t/2. C: Parallele Batterien: Verdopplung der Gesamtkapazität bei Serien; Zeit 2t. D: Parallele Batterien und Lampen ebenfalls parallel ergeben t ≥.",
-  "antwortoption": "B, D"
-}

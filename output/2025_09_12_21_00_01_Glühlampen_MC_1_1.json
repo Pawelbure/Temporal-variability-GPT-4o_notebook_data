@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Schaltungen unter der Annahme eines idealen Zustands, in dem die Batterie eine konstante Energie bereitstellt, die Glühlampe eine konstante Leistung aufnimmt und beide durch widerstandsbasiertes Verhalten beschrieben werden.\\n1. Eine einzelne Batterie kann eine bestimmte Energie verfügbar machen, was durch T=t charakterisiert wird. Die Leistung einer Glühlampe entspricht P=U^2/R, wobei U die Spannung und R der Widerstand ist.\\n2. Für die Schaltung aller Optionen: Berechnung der Energetik und der Betriebsdauern:\\n- Option A: Zweibatterien in Serie verdoppeln die Spannung U auf 2U. Die Leistung pro Lampe steigt um 4 auf P_R=4*U^2/R. Die beiden Lampen betreiben sich gegenseitig seriell. Die Gesamtbetriebsdauer verkürzt um 1/4 zur Einzel-Lampe, t.\\n- option Etc DTSTART ... Summarisiert Argument Ensemble Konzepte Form mathem Top... GENERATED",
-  "antwortoption": "D"
-}

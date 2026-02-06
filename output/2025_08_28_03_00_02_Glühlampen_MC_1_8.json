@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu analysieren, nehmen wir idealisierte Bedingungen an: die Batterien und Glühlampen sind perfekt identisch und die interne Widerstände der Batterien werden vernachlässigt. Hier die Analyse jeder Option:\n\nA) Batterien und Lampen in Serie:\n - Spannung über die Lampen verdoppelt sich.\n - Strom ist kleiner aufgrund doppelter Gesamtlampenresistanz.\n - Die Leistung halbiert sich für jede Lampe.\n - Zeit beträgt t/4 für beide Lampen zusammen (jeder nur t/8 etwa).\n\nB) Batterien in Serie und Lampen parallel:\n - Spannung verdoppelt, Leistung in jeder Lampe wie bei einer Lampe allein.\n - Gesamtlaufzeit ist t/2 für jede Lampe.\n\nC) Batterien parallel und Lampen in Serie:\n - Spannung halbiert sich, Strom ist halber mit vierfache Zeit (2t).\n\nD) Batterien und Lampen parallel:\n - Spannung bleibt gleich, Lampezeit normal — t.",
-  "antwortoption": "B, C"
-}

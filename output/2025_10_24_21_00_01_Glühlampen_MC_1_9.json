@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir zunächst relevante Annahmen und physikalische Konzepte: 1) Wir nehmen an, dass jede Batterie eine konstante Spannung U hat und eine identische Energiemenge zur Verfügung stellt, bevor sie entladen ist. 2) Der Widerstand jeder Glühlampe sei konstant und habe den Wert R. 3) Die Leitungen und sonstigen Komponenten werden als ideal ohne zusätzlichen Widerstand angenommen. \\nFür jeden Fall analysieren wir die jeweilige Verschaltung: \\nA) Beide Batterien und beide Lampen werden in Serie geschaltet. Die Gesamtspannung ist 2U, der kombinierte Widerstand ist 2R. Der Strom ist halber Nennstrom jeder Batterie, wodurch die Batterien schneller entladen und die Zeit t/4 erreicht wird.",
-  "antwortoption": "A"
-}

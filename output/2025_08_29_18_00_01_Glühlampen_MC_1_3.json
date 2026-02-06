@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Problemstellung zu lösen, analysieren wir die verschiedenen Szenarien unter der Annahme, dass jede Batterie dieselbe Kapazität (Energiegehalt) hat und die Glühlampen einen konstanten Widerstand und damit konstante Leistungsaufnahme besitzen, unabhängig von der anliegenden Spannung. Weiterhin nehmen wir an, dass der Energieverbrauch durch die Glühlampen der einzige Verbrauch ist. Bei Serienschaltungen summieren sich dabei die Spannungen der Batterien, während die Kapazität konstant bleibt. Andersherum ändert sich bei Parallelverbindungen die Gesamtspannung nicht, jedoch verdoppelt sich die Kapazität. Nach der Analyse jeder Konfiguration finden wir:",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, machen wir folgende Annahmen: 1) Die Spannung jeder Batterie ist konstant, solange sie Energie liefern kann, und die Energie einer Batterie ist proportional zur Zeit t, die sie eine Glühlampe speisen kann. 2) Der Widerstand der Glühlampen bleibt konstant. Wir arbeiten nacheinander die Optionen durch: A) Batterien in Serie und Lampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand der Lampen verdoppelt sich ebenfalls, also fließt derselbe Strom, die Energie pro Batterie wird daher viermal schneller verbraucht, Zeit ist t/4. B) Batterien in Serie und Lampen parallel: Spannung konstant, Strom verdoppelt, Batterieverbrauchszeit halbiert, Zeit ist t/2. C) Batterien parallel und Lampen in Serie: Spannung konstant, Strom halbiert, Batterien teilen Last, Zeit ist 2t. D) Batterien parallel und Lampen parallel: Spannung konstant, Gesamtlast unverändert, Batterien teilen Last, Zeit ist t.",
-  "antwortoption": "C"
-}

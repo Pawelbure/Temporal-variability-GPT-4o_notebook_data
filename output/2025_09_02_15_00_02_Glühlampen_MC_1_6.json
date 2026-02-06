@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu analysieren, führen wir folgende Annahmen ein:\n1. Die Quelle und Lasten (Batterien und Glühlampen) folgen den Gesetzmäßigkeiten der idealen Elektrik.\n2. Der Energieinhalt der Batterien ist konstant und gegeben, ebenso die Leistungsaufnahme der Glühlampen.\n\nWir analysieren die einzelnen Schaltungen. Die Ergebnisse basieren auf Energie und Spannungsberechnungen.\n\nA) Batterien und Lampen in Serie:\n- Verdopplung der Gesamtspannung halbiert den Strom jeder Lampe.\n- Zeitunterschied bezieht sich auf Energieverteilung. Falsch, keine t/4-Zeit.\n\nB) Batterien in Serie, Lampen parallel:\n- Hohe Spannung teilt den Strom, aber individuelles Batterieintegration bleibt Linientreiber. Zeitreduktion erwartet, aber fehlerhaft angegeben.\n\nC) Parallelisierten Batterien/Lampen vergleiche.\n\nD) Korrektere Erkenntnisse energetisch modellieren Kombinationsmodelles schneller vergleicht.",
-  "antwortoption": "D"
-}

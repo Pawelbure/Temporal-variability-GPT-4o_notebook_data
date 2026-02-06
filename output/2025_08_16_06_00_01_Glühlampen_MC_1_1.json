@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen\n1. Der interne Widerstand der Batterien ist vernachlässigbar.\n2. Glühlampen haben einen konstanten Widerstand und dieselbe elektrische Leistungsaufnahme.\n3. Die Batterien sind ideal und liefern eine konstante Spannung des Wertes U, bis sie vollständig entladen sind, wobei ihre Kapazität C gleich ist.\n\n### Physikalische Überlegungen und Konzepte\nEin Batteriekapazität C entspricht einer gesamten gespeicherten Ladungsmenge in Coulomb, die sie bei ihrer Nennspannung U liefern kann. Die Leistungskomponente P ergibt sich durch:\n\nP = U^2 / R\n\n### Berücksichtigung der Schaltvariationen\n**A) Batterien und Glühlampen in Serie:**\n  - Spannung insgesamt: 2U\n  - Widerstand insgesamt: 2R\n  - Leistung: (2U)^2 / (2R) = 2U^2 / 2R = U^2 / R (wie bei einer Batterie)\n  - Entladezeit t_eff = t (wie eine Batterie versorgt).\n=> Aussage ist **falsch**.\n...",
-  "antwortoption": "D"
-}

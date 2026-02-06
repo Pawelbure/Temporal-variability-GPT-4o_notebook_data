@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, analysieren wir die elektrischen Schaltungen der Batterien und Glühlampen und ihre Auswirkungen auf die Betriebszeit. Wir nehmen an, dass jede Batterie eine konstante Spannung V und eine Kapazität von Q Coulomb besitzt. Der Widerstand einer Glühlampe sei konstant R. Daraus folgt, dass die elektrische Leistung P = V^2 / R ist und daher zur Entladungszeit t für eine Batterie t = Q / P und damit t = Q * R / V^2. \n\nA) Batterien und Glühlampen in Serie: Die Spannung der Batterien verdoppelt sich zu 2V, der Gesamtwiderstand der Lampen ist 2R. Leistung pro Lampe: P = (2V)^2 / (2R * 2) = V^2 / R (Bliebt gleich der Referenz). Betriebszeit: Aufgrund der doppelten Spannung reduziert sich die Zeit proportional: T = t/4. (Falsch, T=t)\n\nB) Batterien in Serie, Lampen parallel:  Zeit reduziert nicht, da lastprüngers Berechnung falsch Sin.\nSorted fehler is unterschiedlich C R =->0`Lastung.",
-  "antwortoption": "C"
-}

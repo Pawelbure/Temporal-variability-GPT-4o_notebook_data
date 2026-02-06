@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die gegebenen Szenarien mit einem verständlichen physikalischen Modell. Annahmen: Batterien liefern konstante Spannung; die Glühlampe hat festen Widerstand R; die Kapazität jeder Batterie ist konstant. Insgesamt betrachten wir die Energieumsetzung und Zeitkonstanten zur Lösung: \n\n- (A) Batterien und Lampen in Serie: Strom wird halbiert, Energieverbrauch steigt linear zum Quadrat des Ichstrich, [falsch].\n\n- (B) Batterien in Serie, Lampen in parallel: Spannung über alle Lampen ändert, jede entnimmt weniger Leistung je Helligkeitsdauer gesteigert, halbierte Leistungtrage in Zeit. \n\n-....",
-  "antwortoption": "B"
-}

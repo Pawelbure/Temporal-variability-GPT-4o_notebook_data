@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Im Rahmen der Aufgabe treffen wir einige Annahmen und wenden physikalische Konzepte an: Die Spannung und Kapazität einer Batterie sind konstant, und der elektrische Widerstand der Glühlampen bleibt unabhängig von Spannung oder Strom konstant. Dies ermöglicht eine einfachere Modellierung der Ströme und Spannungen sowie der Energieverbräuche im System: \n\n1. Wenn die Batterien in Serie und die Glühlampen in Serie geschaltet sind: Der aufgenommene elektrischen Strom verringert sich, während die Spannung an der Reihenschaltung steigt. Die Zeitspanne t wird dadurch beeinflusst. \n\n2. Bei Parallelverkettung der Glühlampen und Zusammenschaltung der Batterien hängt die Wirkung auf die Betriebszeit davon ab.. \n\nUnter Berücksichtigung der vorgenannten Konzepte lautet die korrekte Antwort:",
-  "antwortoption": "D"
-}

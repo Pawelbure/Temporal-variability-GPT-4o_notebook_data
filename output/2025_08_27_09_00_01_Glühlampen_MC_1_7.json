@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren das Problem gemäß gegebenen Szenarien unter den Annahmen: Die Kapazität jeder Batterie bleibt konstant, und sowohl Glühlampe als auch Batterie verhalten sich ideal. Analyse: (A) Batterien und Glühlampen in Serie: Es fließt der gleiche Strom, aber er wird durch die doppelte Last geteilt, was zu einem viermal niedrigeren Energieverbrauch führt. Falsch. (B) Batterien in Serie, Lampen parallel: Die Serienbatterien verdoppeln die Spannung, jede Lampe erhält die Nennleistung, und die Lebensdauer ist halbiert. (C) Batterien parallel, Lampen in Serie: Parallel erhöht den Stromproviant, keine Änderung gegenüber Einzelbetrieb. (D) Batterien und Lampen parallel: Strom bleibt konstant, Lebensdauer entsprechend t. Nur D ist korrekt.",
-  "antwortoption": "D"
-}

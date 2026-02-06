@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir den Energieverbrauch der Glühlampen und die Ladungsabgabe der Batterien in verschiedenen Konfigurationen. Wir nehmen an, dass jede Batterie eine konstante Spannung V und eine Kapazität von Q Coulomb hat, was ihr eine Gesamtenergie von E = V Q verleiht. Der Widerstand jeder Glühlampe sei R und wird als konstant angenommen. Die relevanten physikalischen Prinzipien sind Ohmsches Gesetz (V = I R), Joulesche Energieumsetzung (P = I^2 R), und die Regeln für Serien- und Parallelschaltungen. Nach Analyse der genannten Schaltungen ergibt sich:\\nA) Serie: Die Gesamtlaufzeit ist t/4.\\nB) Serie-Batterien, Parallel-Lampen: Die Gesamtlaufzeit beträgt t/2.\\nC) Parallele Batterien, Serien-Lampen: Dies liefert eine Laufzeit von 2t.\\nD) Parallele Batterien und parallele Lampen: Dies hält für t Dauer.\\nDaher sind die Aussagen B), C) und D) korrekt.",
-  "antwortoption": "B, C, D"
-}

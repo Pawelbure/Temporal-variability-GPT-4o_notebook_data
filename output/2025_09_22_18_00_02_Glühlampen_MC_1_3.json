@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, berücksichtigen wir die Eigenschaften der Schaltkreise und Annahmen: 1. Jede Batterie stellt eine konstante Energiequelle mit bekannter, limitierter Kapazität dar. 2. Die Lampen haben einen konstanten Widerstand, unabhängig von Spannung und Stromstärke. 3. Stromverbrauch ist proportional zur Spannung quadratisch durch den Widerstand. \n\n--- Analyse der Szenarien ---\n\n### (A) Batterien und Lampen in Serie\nDie Spannung addiert sich (2U), Widerstand addiert sich (2R). Der Strom durch jede Lampe hängt linear von der Spannung ab und ist entsprechend U/2R. Die Leistung, die durch Wärme in den Lampen verbraucht wird, ist (U/2R)^2 * 2R = U^2/R, also gleich der Einzelbatterieschaltung. Somit bleibt die Zeit der Beleuchtung gleich t.\n### (B) Batterien in Serie, Lampen parallel\nSpannung addiert sich (2U), der widerstandsbedingte Strom verdoppelt sich (2 wie üblich mit R+2.  ### Antwort: D",
-  "antwortoption": "D"
-}

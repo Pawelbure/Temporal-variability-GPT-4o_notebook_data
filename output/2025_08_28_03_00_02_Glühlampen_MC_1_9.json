@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Lösung basiert auf dem Prinzip, dass die Batterien und Glühlampen ideale Bauteile sind. Batteriespannung und Kapazitäten sind ideal, und die Glühlampen haben feste Widerstände. Wenn Batterien in Serie geschaltet werden, verdoppelt sich die Spannung, aber die Leistungsaufnahme verdoppelt sich ebenfalls, was die Betriebszeit halbiert. Befinden sie sich paralleler, bleibt die Spannung gleich, aber die Kapazität verdoppelt sich, was die Betriebszeit verdoppelt. Für die Glühlampen gilt, dass serielle Schaltung durch die Spannungsverteilung die Leistung reduziert, während parallele Schaltung eine konstante Spannung je Lampe erhält. Daraus ergeben sich die Betriebszeiten: A) t/4, B) t/2, C) 2t, D) t.",
-  "antwortoption": "B, D"
-}

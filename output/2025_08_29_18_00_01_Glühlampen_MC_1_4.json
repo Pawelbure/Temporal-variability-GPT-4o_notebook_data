@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir den Stromverbrauch einer Glühlampe und die Energielieferung einer Batterie in verschiedenen Verschaltungsarten. Annahmen: Es wird ein idealer Betrieb berücksichtigt, bei dem der interne Widerstand der Batterien sowie Induktivitäten und Kapazitäten im Schaltkreis vernachlässigt werden. Die Batterien haben gleiche Kapazitäten und Spannungen. Zuerst bestimmen wir die Stromverteilung und Spannung in den angegebenen Schaltungen und prüfen, wie sich diese auf die Betriebsdauer der Glühlampen auswirken. Dies wird durch Berechnungen und qualitative Überlegungen verifiziert. Durch die zugrunde liegenden Rechnungen wird gezeigt, dass die korrekte Beschreibung entsprechend der Energieverteilung unter der gegebenen Verschaltung entspricht.",
-  "antwortoption": "D"
-}

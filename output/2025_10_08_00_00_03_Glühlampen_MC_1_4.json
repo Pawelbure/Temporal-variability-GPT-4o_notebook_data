@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Konzepte: 1) Jede Batterie hat eine endliche Kapazität in Coulomb und liefert konstante Spannung, 2) Glühlampen haben einen konstanten Widerstand. Lösung: A) Bei Batterieserienanordnung verdoppelt sich Spannung, Gesamtwiderstand verdoppelt sich bei Lampenserie. Leistung konstant, Zeit = t. B) Spannung verdoppelt, Partialströme führen zu Gesamtzeit t/2. C) Spannung konstant, Zeit 2t durch verdoppelte Kapazität. D) Paralleler Stromverbrauch, Zeit bleibt t.",
-  "antwortoption": "C, D"
-}

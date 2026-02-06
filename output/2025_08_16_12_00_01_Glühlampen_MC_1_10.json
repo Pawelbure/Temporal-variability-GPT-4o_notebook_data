@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir beginnen die Analyse mit der Betrachtung der grundlegenden Eigenschaften des Stromkreises. Die Spannung und Kapazität einer Batterie bestimmen die Leistung, die sie liefern kann. Bei konstanter Helligkeit und Widerstand der Glühlampe bleibt die elektrische Leistung konstant. Die ursprüngliche Zeit t entspricht der Entladezeit einer Batterie bei dieser Energiestromdichte über einen einzelnen Widerstand. Wenn die Batterien in Serie oder parallel geschaltet werden, verdoppelt sich die insgesamt gespeicherte Energie (entweder als erhöhte Spannung oder als größere Entladespeicherkapazität), was die Beleuchtungszeit beeinflusst. Für parallele oder serielle Glühlampenschaltungen ändert sich die Stromaufnahme und Spannung für jede Lampe gemäß Ohms und Kirchhoffs Regeln, was den Energieverbrauchsrate definiert. Unter Betrachtung jeder Schaltungskonfiguration berechnen wir die Beleuchtungsdauer:",
-  "antwortoption": "B, D"
-}

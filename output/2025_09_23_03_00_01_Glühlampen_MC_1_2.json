@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Wir analysieren die Schaltungen hinsichtlich Stromverbrauch und Batteriespannung. \n\n   - **Schaltung A (Batterien in Serie, Glühlampen in Serie):** Die Batteriespannung verdoppelt sich, der Widerstand der Glühlampen addiert sich. Der resultierende Strom I' beträgt I/2, da der Vervielfachter der Spannung durch den neuen Gesamtwert des Widerstands div.) Der Energieverbrauch reicht für t hinaus.  \n   \n   - **Schaltung A:** Batterieansatz insbesondere halbiert Energie bei D  ",
-  "antwortoption": "B, C"
-}

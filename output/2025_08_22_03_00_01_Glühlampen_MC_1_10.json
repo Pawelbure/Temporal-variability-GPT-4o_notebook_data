@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Verhalten im gegebenen Szenario zu analysieren, nehmen wir an, dass die Batterien ideale Spannungsquellen mit gleicher Kapazität sind und die Glühlampen ohmsche Verbraucher mit identischem Widerstand darstellen. Die Leistung einer Lampe ergibt sich aus P = U^2 / R, und die von einer Batterie bereitgestellte Energie ist deren Kapazität multipliziert mit der Spannung, E = Q * U. Im weiteren Verlauf berechnen wir die tatsächliche reale Betriebszeit jeder Schaltung der angegebenen Konfigurationen und überprüfen die Aussagen.",
-  "antwortoption": "D"
-}

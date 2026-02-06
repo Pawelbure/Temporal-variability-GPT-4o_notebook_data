@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu analysieren, berücksichtigen wir folgende Idealisierungen und physikalische Prinzipien: Die Spannungsquelle der Batterien bleibt konstant, bis die Batterien vollständig entladen sind; der Widerstand der Glühlampen bleibt ebenfalls konstant. Der Gesamtstrom resultiert aus der Netzwerkkombinationen der Schaltungen und beeinflusst sowohl die Helligkeit als auch die Entladungsdauer der Batterien. \n\n1. Szenario A: Die Batterien sind in Serie geschaltet, wodurch sich die Spannung verdoppelt. Die zwei Glühlampen in Serie sorgen für eine Verdopplung des Widerstandes. Folglich ändert sich der Gesamtstrom nicht, und die Betriebszeit entspricht t, keine Reduktion auf t/4 tritt ein. Diese Angabe ist falsch.",
-  "antwortoption": "A"
-}

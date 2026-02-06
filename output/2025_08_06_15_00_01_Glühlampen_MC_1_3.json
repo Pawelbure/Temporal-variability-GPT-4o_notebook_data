@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe behandelt grundlegende elektrische Schaltungen. Wir definieren zuerst die verwendeten Notationen und analysieren die Energieverteilung in verschiedenen Schaltungsarten. Sei die Batteriespannung V und deren Kapazität Q. Der Widerstand der Glühlampe sei R. Es gilt I = V/R für den Strom durch die Lampe und die gespeicherte Energie der Batterie ist E = V·Q. Für die analysierten Schaltungsarten: \\nC1. Serie von Batterien verdoppelt die Betriebsspannung; Energie T = E1 + E2 verdoppelt. Der Strom durch eine Serie der Lampen reduziert sich entsprechend I'. Dies reduziert die Energieabgabe pro Zeit. \\nC2. Parallelbatterien: Energiezeitpunkt wechseln ja neuverteilbar Parallelwiderstand addiert.\\nBeispielszenarieren abgeschlossen analysiert ergeben sparsame Rechnungen implsiziert.",
-  "antwortoption": "B, D"
-}

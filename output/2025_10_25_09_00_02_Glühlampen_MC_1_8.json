@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um dieses Problem zu lösen, untersuchen wir die verschiedenen Konfigurationsmöglichkeiten von Batterien und Glühlampen unter den gegebenen Annahmen und bestimmen die Verweildauer der angeschlossenen Glühlampen unter Berücksichtigung der grundlegenden elektrische Energiegesetze. Wir gehen davon aus: Die Spannung jeder Batterie ist konstant und beträgt E, die Glühlampen haben einen festen Widerstand R, und die Kapazität jeder Batterie ist dieselbe.\\n\\n1. **Fall A: Batterien in Serie, Glühlampen in Serie**\\n   - In Serie verdoppelt sich die Spannung (2E), der Widerstand der Glühlampen addiert sich (2R). Daher beträgt der Strom I = (2E) / (2R) = E / R.\\n   - Der Energieverbrauch ist somit identisch wie bei einer Einzelbatterie und Einzelglühlampe, was bedeutet, dass die Glühlampen eine Dauer t leuchten würden, nicht t / 4.",
-  "antwortoption": "D"
-}

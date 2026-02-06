@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Es wird angenommen, dass die Glühlampen und Batterien idealisiert sind, d.h., die Glühlampen zeigen einen konstanten Widerstand und die Batterien haben eine konstante Anfangskapazität. Für jede Schaltungsmodifikation werden Strom, Spannung und Energie berücksichtigt, um die Betriebsdauer abzuschätzen: Bei Serienschaltung von Batterien wird die Spannung addiert, bei Parallelschaltung bleibt diese konstant. Bei Serienschaltung von Lampen wird der Gesamtwiderstand verdoppelt, und bei Parallelschaltung wird der Widerstand halbiert. Daraus folgt die folgende Analyse: Für A entsteht 4x Widerstand, daher 1/4 Strom und entsprechend 1/4 Energie; Betriebsdauer t/4. Für B ergibt sich doppelter Strom und t/2. Bei C halbierte Stromaufnahme; doppelte Laufzeit (2t). Bei D bleibt Stromaufnahme gleich; t.",
-  "antwortoption": "C"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, betrachten wir die Details der jeweiligen Verschaltungen. Eine Batterie liefert eine Spannung U und eine Ladung Q, daraus ergibt sich ihre Energie als U*Q. Die Glühlampen besitzen Widerstand R und eine konstante Betriebsleistung P. Wichtig ist, dass bei In-Serie-Schaltung der Batterien die Spannung sich summiert und bei Parallel-Schaltung der Glühlampen die Stromverteilung gleichmäßig erfolgt, wobei bei parallel geschalteten Batterien die Kapazität der Batterien addiert wird.",
-  "antwortoption": "D"
-}

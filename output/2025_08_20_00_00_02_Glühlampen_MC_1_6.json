@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Analyse der Schaltsituationen: Es wird angenommen, dass jede Batterie bei konstanter Stromabnahme über exakt die gleiche Zeit t Energie liefern kann. \\n1. In Serie geschaltete Batterien verdoppeln die Spannung. Zwei in Serie geschaltete Glühlampen erhalten bei zweifacher Spannung vierfach so hohe Leistung (P = U^2/R). Daher beträgt die Betriebszeit t/4.\\n2. In Serie geschaltete Batterien mit parallel geschalteten Lampen verdoppeln die Stromaufnahme, jedoch wird jede Glühlampe mit der halben Kapazität betrieben, und die Zeit ist infolgedessen t/2.\\n3. Bei parallel geschalteten Batterien wird die Kapazität verdoppelt. Bei zwei in Serie geschalteten Lampen wird die Effektivspannung halbvert, was eine verlängerte Laufzeit von insgesamt 2t ergibt.\\n4. Batterien und Lampen parallel geschaltet führen zu einer gleichen Leistung bei doppelter Kapazität, was wieder eine Laufzeit von t ergibt.",
-  "antwortoption": "A, B, C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Fragestellung zu beantworten, betrachten wir den Energiefluss und die Schaltungseigenschaften. Annahmen: Die Batterien besitzen identische Kapazitäten und Spannungen; der Widerstand der Glühlampe bleibt konstant. Relevante physikalische Konzepte sind die Spannungsteilung in seriellen und parallelen Schaltkreisen sowie das Verhältnis zwischen Leistung, Spannung und elektrischem Widerstand (P = V^2 / R). Für jede der Schaltungen analysieren wir, wie lange die Batterien Energie liefern können und welche Spannung über den Glühlampen anliegt. Die Antwort ergibt sich nach Berechnung aus der Leistung, die jede Schaltung benötigt, und der verfügbaren Energie der Batterien.",
-  "antwortoption": "D"
-}

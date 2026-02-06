@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die vorliegenden Aussagen detailliert zu analysieren, betrachten wir folgende Aspekte der Schaltung, kombiniert mit der Annahme, dass jede Batterie bei konstanter Spannung (potenzialbedingter Leistung) die Lampe betreibt: 1. Wenn zwei Batterien in Serie geschaltet sind, verdoppelt sich die Spannung, während die Gesamtkapazität (in Ah) unverändert bleibt, was bedeutet, dass die Batterien Energie länger bei niedrigerem, aber höherer Spannung liefern. 2. Ein Widerstand (Glühlampe) in Serie mit einem zweiten bedeutet, dass die Batterien die Leistung teilen.",
-  "antwortoption": "A, B, D"
-}

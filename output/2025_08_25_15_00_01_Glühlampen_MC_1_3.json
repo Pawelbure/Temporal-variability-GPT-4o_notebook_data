@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Analyse der Schaltungskombinationen\n1. **Batterien in Serie und Glühlampen in Serie:** \n    - Die Spannung verdoppelt sich, aber die resultierende Stromstärke durch die Glühlampe wird durch den erhöhten Gesamtwiderstand (Verdopplung) kompensiert.\n    - Die Energie pro Batterie wird in der halben Zeit verbraucht, und daher leuchten die Glühlampen insgesamt so, als ob eine einzelne Batterie zwei Glühlampen für eine Zeit t zum Leuchten bringt (jedes eine Zeit t/2).\n2. **Batterien in Serie und Glühlampen parallel:** Die zwei Batterien in Serie liefern erhöhte Spannung, die parallelen Glühlampen teilen sich diese Energie gleichmäßig in gleichem Zeitraum, also Verdopplung der Energieverbrauch:\n\n### Finalentscheid auf richtige Aussagen:\n- A. Falsch\n- B. Richtig\nErgibt diese richtige Schrittkann.",
-  "antwortoption": "B"
-}

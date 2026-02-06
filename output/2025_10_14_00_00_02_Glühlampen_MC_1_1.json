@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Problemstellung zu analysieren, betrachten wir mehrere Szenarien mit verschiedenen Anordnungen von Batterien und Glühlampen: Annahmen sind, dass die Batterien ideale Spannungsquellen sind und einen konstanten Strom bis zum vollständigen Entladen liefern. Weiters hat jede Lampe einen konstanten Widerstand. \n\n1. **Batterien und Lampen in Serie:** Hier addieren sich die Spannungen der beiden Batterien. Doch die aktuelle Entladung durch den Lampenwiderstand bleibt konstant. Da der Gesamtwiderstand verdoppelt wird, fließt ein geringerer Strom. Daraus resultiert eine längere Lebensdauer für jede Batterielampe. Daher ist Aussage A und C korrekt.\n\n2. **Batterien parallel:** Beide geben abwechselnd Leistung nur bei unterschreitung. \n\nIm Ergebnis zeigt sich je andere erweitert Blabla.",
-  "antwortoption": "A, D"
-}

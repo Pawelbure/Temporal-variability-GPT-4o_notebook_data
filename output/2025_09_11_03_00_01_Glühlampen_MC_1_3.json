@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Eine Batterie ist eine Spannungsquelle und verfügt über eine bestimmte Kapazität, die in Batteriestromstunden oder Joule angegeben wird. Für diese Aufgabe nehmen wir an, dass die genutzten Glühlampen rein ohmsche Widerstände sind, was bedeutet, dass der Strom durch die Glühbirne proportional zur angelegten Spannung ist. Erklären wir die Szenarien der Schaltungen im Detail: \n\n1. Serie von Batterien und Glühlampen: Der Gesamtwiderstand verdoppelt sich und die Spannung ebenfalls, sodass der Strom auf einen konstanten Wert reduziert ist und die Energie proportional verbraucht wird. Die Zeit bleibt unverändert.\n\n2. Parallelbetrieb: Beide Spannungsquellen verfalten sich, und die Kapazität ist erhöht, der Betrieb ist proportional zur Batteriekapazität.\n\nAbschließend durch Betrachtung schließen wir:\n- Entsprechende Reduktionen in Timing gelten proportional zu Last und Verteilung. Final:",
-  "antwortoption": "D"
-}

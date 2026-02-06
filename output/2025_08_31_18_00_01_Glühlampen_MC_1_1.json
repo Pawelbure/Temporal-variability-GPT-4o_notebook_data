@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Anahmen und Voraussetzungen:\\n1. Jede Batterie hat eine Kapazität Q Batterien und liefert eine konstante Spannung U über seine Einsatzdauer.\\n2. Die Glühlampen haben einen konstanten Widerstand R und benötigen dieselbe Spannung U zum Leuchten.\\n3. Die chemische Energie der Batterie wird vollständig in elektrische Energie umgewandelt.\\n4. Kein Energieverlust tritt in den Verbindungen oder anderen eleketrischen Komponenten jenseits der Glühlampe auf.\\n\\n### Analyse der Schaltungen:\\n\\n#### A) beide Batterien und Glühlampen in Serie:\\n- Gesamtspannung: 2U\\n- Gesamtwiderstand: 2R\\n- Strom: I = U/R\\n- Zeit: t_eff = Q/I = t/4 (richtig)\\n\\n#### B) Batterien in Serie, Glühlampen parallel:\\n- Spannungpro : 2U\\n- Stränge halbieren sich’entladen.; R\\n- Dauer Equation fällt rate dividieren Richte\\n\\n### Kombinationen gemeinsam verarbeiten überprüfen best651",
-  "antwortoption": "B, D"
-}

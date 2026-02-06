@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Problemstellung zu beantworten, gehen wir von den folgenden Annahmen aus: Die Batterien haben eine konstante Kapazität an elektrischer Energie. Die Glühlampen haben einen konstanten Widerstand und leuchten mit konstanter Leistung während ihrer Betriebszeit.\n\n1. **Fall A:** Batterien und Glühlampen in Serie:\n   In dieser Konfiguration wird die Gesamtspannung der Batterien verdoppelt, die Glühlampen teilen diese Spannung jedoch proportional zu ihrem Widerstand auf. Der Strom durch die Lampen modulo R steigt ebenfalls, was eine quadratische Erhöhungsabsorption pro Lampe ergibt.\n\n2.  **Schlussendlich:** Jedes Szenario ergibt andere Ergebnisse.\n",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Gegebene Annahmen und Idealisierungen:\\nDie Batterien und Glühlampen werden als ideal modelliert: Batterien haben eine konstante Spannung, solange sie Energie liefern, und Glühlampen haben einen konstanten Widerstand.\\n2. Betrachtung der angegebenen Schaltungen:\\n- Serie: Die Spannungen zweier Batterien summieren sich, der Strom bleibt konstant.\\n- Parallel: Die Kapazität der Batterien addiert sich, während die Spannung konstant bleibt.\\n3. Analyse:\\n- A: Zwei Batterien und Lampen in Serie verdoppeln die Spannung, aber der Strom reduziert sich ebenfalls wegen des Gesamtwiderstands, sodass Zeiten analog kompatibel sind.\\n- B: Eine Serie von Batterien treibt parallel Lampen an, sodass jede Batterie ihre Kapazität hält und die Zeit kürzer wäre.\\n- C: Parallele Batterien bei seriellen Lampen setzen die Kapazität klatschmäßig.\\n- D ist plausible.",
-  "antwortoption": "D"
-}

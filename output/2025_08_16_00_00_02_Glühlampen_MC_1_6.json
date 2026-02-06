@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu lösen, sind einige Idealannahmen nötig: Als idealisiert betrachten wir Batterien mit konstanter Spannung, aber begrenzter Ladung (Kapazität) und Glühlampen mit konstantem Widerstand unabhängig ihres Stroms oder ihrer Spannung. Nun analysieren wir die Aussagen: 1. Batterien und Lampen in Serie: Insgesamt läuft der Strom durch beide Lampen und bietet die doppelte Spannung, dies halbiert die Betriebszeit aufgrund höherem Energieverbrauchs (P = U^2/R). 2. Batterien in Serie, Lampen parallel: Hier leuchtet jede Lampe mit der Spannung einer Batterie, die zweimal schneller entladen aufgrund doppeltem Stromfluss. 3. Batterien parallel, Lampen parallel: Die Spannung ist unverändert, die Kapazität verdoppelt sich, und die Lampen leuchten wie bei Einzelbetrieb, aber doppelt so lange. Berechnungen bestätigen, dass Option D korrekt ist.",
-  "antwortoption": "D"
-}

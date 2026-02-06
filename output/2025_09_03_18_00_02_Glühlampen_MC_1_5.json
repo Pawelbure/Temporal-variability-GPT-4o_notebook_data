@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Wir nehmen an, dass die Batteriekapazität die Energie ist, die sie bei einer konstanten Spannung liefern kann, und jede Glühlampe hat während der Leuchtdauer einen konstanten Widerstand. Die Glühlampen benötigen bei der zulässigen Spannung der Batterie ihre volle Leistung, wobei Strom quasi konstant ist. Um das Problem zu lösen, betrachten wir für jede Anordnung die elektrische Leistung und die Energieverteilung: A) Serienbetrieb von Batterien verdoppelt die Gesamtspannung, jedoch erhöht sich bei Serienbetrieb der Lampen ihr kombinierter Widerstand und somit verringert sich Ihr Gesamtsromverbrauch. B) Die kombinierte Leistung der parallelen Lampe belässt den Betrieb wie für jeweils einen. Individuelle Rechnung ergibt passende Zeit Relationstests.",
-  "antwortoption": "D"
-}

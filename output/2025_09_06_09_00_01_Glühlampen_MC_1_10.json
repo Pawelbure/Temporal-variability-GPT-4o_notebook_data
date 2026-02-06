@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu analysieren, berücksichtigen wir folgende Annahmen: Jede Batterie besitzt die gleiche elektromotorische Kraft (EMK) E und Innenwiderstand r. Jede Glühlampe kann mit Widerstand R als ein ohmscher Verbraucher modelliert werden. Alle Schaltungen sind ideal.\n\nIm Fall A, bei Serienanordnung der Batterien erhält man eine Gesamtspannung von 2E und für den Strom im Kreislauf I = (2E) / (2R). Für die Energiedauer leere ich erneut den gleichen Gesamtstromgedanken, dass bei dieser Konstellation maximal die halbe Energiemenge aufweichenkombinierte Glühdauern ergehen wird.\n\nEine schlüssige Betrachtung ergibt, dass sowohl für passende Antworten die Ermittelung final auch gefunden => A",
-  "antwortoption": "B"
-}

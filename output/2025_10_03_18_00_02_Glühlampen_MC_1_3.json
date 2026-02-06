@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die Stromfluss- und Energieverhältnisse in den angeführten Schaltungen unter folgenden Annahmen: 1) Die Kapazität und Spannung der Batterien sind gleich. 2) Die Glühlampen besitzen einen festen Widerstand. 3) Der Energieverbrauch der Glühlampen ist konstant bei Betrieb. \n1) Serie-zu-Serie: Spannung verdoppelt, daher Strom verdoppelt, Verbrauch pro Zeit vervierfacht (P = V²/R). Gesamtenergie bleibt konstant, Dauer viertelt sich, daher t/4. \n2) Serie-zu-Parallel: Verdoppelte Spannung, gleiche Dauer für parallele Glühlampen als bei Einzelglühlampe, also t/2. \n3) Parallel-zu-Serie: Gleiche Spannung, verdoppelte Batterie-Kapazität, halber Energieverbrauch, daher 2t. \n4) Parallel-zu-Parallel: Gleiche Spannung und Glühlampentreiber, keine Veränderung Dauer, t.",
-  "antwortoption": "A, B, D"
-}

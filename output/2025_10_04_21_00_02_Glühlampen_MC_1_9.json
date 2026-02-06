@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Problemstellung zu lösen, müssen wir zunächst Annahmen und Idealisierungen klären: Wir nehmen an, jede Batterie hat eine konstante Ausgangsspannung V und Kapazität Q, d.h., sie stellt eine konstante Energie von Q·V zur Verfügung. Der Widerstand einer Lampe beträgt R. Wenn eine Batterie eine Lampe direkt speist, kann sie eine konstante Leistung von P = V^2/R abgeben und daher die Lampe für eine Zeitdauer von t = Q/V * R/V^2 = Q/V^2 betreiben. 1. Untersuchung der Schaltmöglichkeit (A): Batterien in Serie verdoppeln die Spannung auf 2V. Lampen in Serie verdoppeln den effektiven Widerstand auf 2R. Die Leistung pro Lampe beträgt dann (2V)^2 / 2R paralleliert, wodurch der Strom und damit die Betriebszeit nicht verändert wird, also Zeit t/Betriebszeit ermöglicht. Die Aussage ist daher falsch. \n\nEntsprechend wendet man diese Überlegungen an und ermittelt das korrekte Ergebnis.",
-  "antwortoption": "D"
-}

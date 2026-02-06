@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegeben sind zwei Batterien mit einer Kapazität, eine Lampe läuft mit je einer davon eine Zeitspanne von t. Es gibt vier Szenarien mit unterschiedlichen Schaltungen der Batterien und Lampen: A) Batterien und Lampen in Serie: Bei serieller Verbindung verdoppelt sich die Spannung der Batterien, Lampe hat jedoch doppelten Widerstand, dies führt zur Halbierung des Stroms über die Lampe, jedoch verdoppelt sich die Entladezeit nicht, sondern bleibt t. Bei zwei Lampen reduziert diese Anordnung die Zeit auf t/4. B) Batterien in Serie und Lampen parallel: Es bleibt t/2 als resultat. C) Batterien Parallel und Lampen in Serie: keine zusätzlich Substiution der Stimmen D): Lampen Parallel mit Batterien wird der max Stimme 1. bleibt daher aus den erhaltenen Lösung zu t/2 führendas D) ist richtig.",
-  "antwortoption": "D"
-}

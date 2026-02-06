@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekten Antworten für das Problem zu ermitteln, analysieren wir erst die Eigenschaften jeder der vier Konfigurationen: *Annahmen und Grundlagen:* In einem idealisierten Szenario haben Batterien einen konstanten Spannungsausgang, bis sie entladen sind. Die Energie in einer Batterie ist gegeben durch die gespeicherte Ladungsmethode. Der Widerstand der Glühlampen bleibt konstant, daher ist der Energieverbrauch direkt proportional zum Quadrat der durch sie fließenden Stroms multipliziert mit ihrer Betriebszeit.",
-  "antwortoption": "D"
-}

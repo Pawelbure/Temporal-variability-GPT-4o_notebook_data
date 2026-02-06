@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die elektrischen Verbindungen sowohl der Batterien als auch der Glühlampen und deren Auswirkungen auf Strom und Spannung entsprechend den angegebenen Schaltungskonfigurationen. Wir machen die Annahme, dass jede Batterie eine ideale Spannungsquelle darstellt und jede Glühlampe durch einen konstanten Widerstand beschrieben wird. Die Gesamtlaufzeit der Lampen hängt direkt von der Energielieferung der Batterien und der Leistungsaufnahme der Lampen ab. Für jede Konfiguration berechnen wir den Strom, die Spannungsverhältnisse und die Gesamtenergieabgabe, um die Betriebszeit zu bestimmen.",
-  "antwortoption": "B, D"
-}

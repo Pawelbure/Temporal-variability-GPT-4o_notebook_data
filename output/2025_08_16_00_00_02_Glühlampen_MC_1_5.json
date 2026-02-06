@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die elektrische Schaltung für jede beschriebene Konfiguration unter Berücksichtigung von Annahmen: Der Widerstand der Glühlampe beträgt R und bleibt konstant; die Batterien liefern eine konstante Spannung und Energie. Jede Batterie speichert eine Energie E. 1. Konfiguration: Batterien und Lampen in Serie. Der Gesamtwiderstand beträgt 2R; der kreisende Strom ist I=U/(2R). Damit beträgt die Betriebszeit jede Lampe t/2. 2. Batterien in Serie, Lampen parallel. Die Gesamtspannung ist 2U; pro Lampe fließt Strom 2I, wodurch die Entladung ebenfalls t/2 dauert. 3. Batterien parallel, Lampen in Serie. Die Gesamtspannung ist U; Gesamtwiderstand 2R, sodass die Operation 2t andauert. 4. Batterien parallel, Lampen parallel. Strom pro Lampe bleibt I, sodass die Lebensdauer t beträgt.",
-  "antwortoption": "D"
-}

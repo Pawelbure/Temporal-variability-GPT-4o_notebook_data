@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Angenommen sei, dass die Batterien ideal sind, also keinen Innenwiderstand haben, und dass sie unabhängig unabhängig von der Schaltungsanordnung die gleiche elektrische Energie liefern können, um mit einer Glühlampe zu leuchten. Zudem ziehen die Glühlampen einen konstanten Strom, der mit dem ebenfalls konstanten Widerstand der Lampe bestimmt wird. Unter diesen Annahmen analysieren wir jede Schaltungsanordnung: Für A) verdoppelt die Serienschaltung sowohl die Batteriespannung als auch den Glühlampensatzwiderstand, wodurch die Leistung gleich bleibt und die Leuchtdauer gleich t ist. Für B) verdoppelt die Serienschaltung der Batterien die Spannung, wodurch jede parallel geschaltete Lampe eine höhere Leistung aufnimmt und somit ihre Lebensdauer t/4 beträgt. Etc.",
-  "antwortoption": "D"
-}

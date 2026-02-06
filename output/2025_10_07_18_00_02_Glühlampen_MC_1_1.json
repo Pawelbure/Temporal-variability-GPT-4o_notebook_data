@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellungen korrekt zu analysieren, nehmen wir an, dass der interne Widerstand der Batterien vernachlässigbar ist, und die Batterien eine konstante Spannung liefern, bis sie entladen sind. Ebenso wird von einem konstanten Widerstand der Glühlampen ausgegangen, was bedeutet, dass deren Leistungsaufnahme konstant bleibt. Wenn die Batterien parallel geschaltet sind, teilen sie ihren Gesamtenergievorrat. In Reihenschaltung addieren sich die Spannungen, jedoch nicht die Kapazitäten, wodurch die Gesamtenergie unverändert bleibt. Je nach Schaltung der Glühlampen variiert der Stromverbrauch und somit die Entladezeit der Batterien. Mithilfe dieser Prinzipien können wir die Beleuchtungszeiten analysieren:",
-  "antwortoption": "D"
-}

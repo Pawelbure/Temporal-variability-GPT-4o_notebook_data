@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die gesetzten Anordnungen unter Berücksichtigung der grundlegenden elektrischen Prinzipien: 1) Im Serienschaltungsfall (Batterien und Lampen): Die Gesamtspannung der Spannungsquelle verdoppelt sich (2V), die äquivalente Lastverdoppelung sorgt für halbe Stromeinheit und die abgegebene Energie ist geteilt unter 4. 2) Im Fall von Serienschaltung Batterien mit paralleler Lampe: Spannung erhöht, jede Lampe erhält identische Energie pro gemeinsamer Spannungsquelle, führt zu t/2 Laufdauer. 3) Parallelfall Batterien zur verstärkten Kapazität mit Lampen Serie zeigt Halbverbrauch beider Stromquellen doppelte Versorgungsdauer. 4) Batterie- und Lampe-Parallelen: Gleiche Funktion wie Einzelkonfiguration.",
-  "antwortoption": "B, D"
-}

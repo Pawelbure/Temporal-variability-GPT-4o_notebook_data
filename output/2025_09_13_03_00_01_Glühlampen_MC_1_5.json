@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Ausgangsbedingungen: Jede Batterie kann eine Lampe für die Zeit t betreiben; der Widerstand der Lampen bleibt konstant.\n2. Annahmen und Überlegungen: Bei serieller Verbindung addieren sich Spannungen; bei paralleler Verbindung teilen sich Ströme. Die elektrische Leistung (P=U^2/R) der Glühlampen bestimmt die Entladungsrate der Batterien.\n3. Analyse der Verbindungen:\n   a) Batterien und Lampen in Serie: Gesamtspannung verdoppelt sich, Strom durch Lampen halbiert sich. Zeit = 2t, jede Lampe t. Es galt: t/2 falsch.\n   b) Batterien Serie und Lampen Parallel: Gesamtspannung verdoppelt sich, Strom verteilt. Zeit = t/2. Richtig.\n   c) Batterien Parallel Lampen Serien. Spannung bleibt U. Zeit unverändert. Richtig.\n   d) Beides parallel: Zeit unverändert. Richtig.\n4. Fazit: Richtige Antworten B, C und D.",
-  "antwortoption": "B, C, D"
-}

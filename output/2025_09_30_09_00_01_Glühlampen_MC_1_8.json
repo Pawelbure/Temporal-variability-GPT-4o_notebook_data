@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Frage zu beantworten, betrachten wir die Kombinationen aus Batterien und Glühlampen unter Berücksichtigung von Spannung, Strom und Leistung.\\n1. Eine einzelne Batterie betreibt eine Lampe für Zeit t, was auf eine bestimmte Energiemenge, die pro Zeit verbraucht wird, und die verfügbare Energiemenge in der Batterie hinweist.\\n2. Bei den verschiedenen Kombinationen ändern sich Spannung und Leistung entsprechend.\\n- A: Batterien und Lampen in Serie erhöhen die Spannung, verringern aber die Stromstärke; die Betriebszeit bleibt etwa gleich.\\n- B: Batterien in Serie und Lampen parallel teilen die Energie auf; die Zeit ist kürzer.\\n- C: Batterien parallel kombiniert, Lampen in Serie; die Zeit verdoppelt sich.\\n- D: Batterien und Lampen parallel teilen die Energie gleichmäßig.",
-  "antwortoption": "C, D"
-}

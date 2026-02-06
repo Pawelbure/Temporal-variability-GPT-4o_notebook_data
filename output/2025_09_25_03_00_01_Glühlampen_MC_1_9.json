@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Der Lösungsweg basiert auf dem Grundverständnis von Batterien und Stromkreisen: Batterien in Serie erhöhen die Gesamtspannung, Batterien parallel erhöhen die verfügbare Kapazität; Lampen-Serie verdoppelt den Gesamtwiderstand; Lampen-Parallel teilt den Gesamtstromverbrauch auf die Kapazität der Batterien. Berechnung der Lampenbetriebszeiten erfolgte gemäß diesem Modell unter Berücksichtigung der angegebenen Szenarien für Schaltungen.",
-  "antwortoption": "D"
-}

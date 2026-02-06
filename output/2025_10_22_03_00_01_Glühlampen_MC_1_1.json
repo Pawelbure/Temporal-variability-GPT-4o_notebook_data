@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, beachten wir folgende Annahmen: Jede Batterie hat die gleiche Kapazität und Spannung, und die Glühlampen haben denselben Widerstand. Die Kapazität einer Batterie wird durch gemessene Energie definiert, die sie in einem Glühlampenstromkreis aufrecht erhalten kann. Beim Reihenschalten von Batterien addiert sich die Spannung, während die Kapazität gleich bleibt. Beim Parallelschalten bleibt die Spannung unverändert, die Kapazität jedoch verdoppelt sich. Zusammenfassend ergeben sich folgende Szenarien:",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "**Analyse des Problems und Details zur Lösung:** Wir analysieren das elektrische Verhalten in verschiedenen Konfigurationen von Batterien und Glühlampen. Die Batterien sind identisch, und wir betrachten keine Verluste oder nicht-ideale Effekte. Die Glühlampen haben ebenfalls gleiche, festgelegte Widerstandswerte. *Fall A*: Glühlampen und Batterien in Serie. Der Strom, der durch die Belastung fließt, ist geringer, da sich der Widerstand der gesamte Schaltung bei Serienschaltung erhöht. Dies führt zur längeren Leuchtdauer t\\*4. *Fall B*: Bei Parallelschaltung der Glühlampen reduziert sich der Widerstand, was den Strom erhöht, dabei verbrauchen die Batterien zusammengesetzt eine Energie für t. Fazit, Gründe B und D sind erfüllt.",
-  "antwortoption": "B, D"
-}

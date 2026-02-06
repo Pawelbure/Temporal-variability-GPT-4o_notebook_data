@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die vorgeschlagenen Schaltungen jeweils basierend auf den geltenden physikalischen Prinzipien zur Spannungs-, Strom- und Leistungsregel in elektrischen Netzwerken. Annahmen: Die Kapazität jeder Batterie ist gleich, der Widerstand jedes Glühlampens ist konstant, und Batterien liefern bis zur vollständigen Entladung eine konstante Spannung. Eine einzelne Batterie mit einer Glühlampe beträgt die Betriebszeit t bei konstanter Energieabgabe. Wir betrachten: Batterien in Serie summieren ihre Spannungen, während parallele Anordnung für erhöhten Entnahmezeitraum sorgt, die Verbrauchsleistung einer Glühlampe ist von der über sie liegenden Spannung abhängig.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Vereinfachungen: Wir nehmen an, dass die Batterien identisch sind und eine konstante Spannung liefern können, bis sie vollständig entladen sind. Die Glühlampen haben einen konstanten Widerstand, unabhängig von Spannung und Temperatur, und der Energieverbrauch beider Glühlampen ist konstant, solange diese leuchten. Relevante physikalische Konzepte umfassen elektrische Leistung (P=U^2/R), die Beziehung zwischen Strom, Spannung und Leistung sowie die Kapazitätsdefinition einer Batterie (Kapazität als Energiereserve). Sobald die Batterien wandernen: Möglichkeit A betrachtet eine vollständige Pfadanalyse eines Serienschaltungsbatterie- (doppelte Spannung) und Lampensequenz, was zu einer quadrierten Effizienzverkürzung der Lebensdauer führt. B lässt sich über Energieanalysen klären und ergibt ebenfalls kürzere Betriebszeit für beide Glühlampen, was weniger effizient als Seminreiungsdrosschen.",
-  "antwortoption": "A"
-}

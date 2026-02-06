@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Problemstellung zu lösen, betrachten wir die grundlegenden elektrischen Eigenschaften und die Energetik von Batterien und Glühlampen. Annahmen sind: Batterien haben jeweils dieselbe Spannung V und Kapazität C (in Ah, welche die Lagerung elektrischer Energie beschreibt), und jede Batterie liefert eine konstante Ausgangsspannung bis ihre Kapazität aufgebraucht ist. Glühlampen haben einen konstanten ohmschen Widerstand R. Wenn die Batterien in Serie geschaltet sind, addieren sich die Spannungen, die Kapazität bleibt unberührt. Bei Parallelschaltung bleibt die Spannung wie die einer Einzelbatterie, aber die Kapazität verdoppelt sich. Glühlampen in Serie teilen die Spannung gleichmäßig; der effektive Widerstand ist die Summe der Einzelwiderstände. Bei Parallelschaltung ergibt sich eine Gesamtleitfähigkeit als Summe der Einzelleitfähigkeiten. Zur Berechnung:",
-  "antwortoption": "B, D"
-}

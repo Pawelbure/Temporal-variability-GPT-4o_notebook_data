@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die gegebenen Szenarien zu analysieren, betrachte ich zunächst die jeweiligen Stromkreisschaltungen und die beteiligten physikalischen Konzepte. Wenn zwei Batterien (jede mit Energie 𝑉·𝐶, wobei 𝑉 die Spannung und 𝐶 die Kapazität ist) verwendet werden, bestimmen ihre Anordnung (parallel oder seriell) sowie die Anordnung der Glühlampen den Energieverbrauch und damit die Brenndauer. In den Fällen:\\n\\n1. **Batterien seriell, Glühlampen seriell**: Die Spannung verdoppelt sich, der Strom durch die beiden in Serie geschalteten Glühlampen bleibt aufgrund eines insgesamt doppelt so hohen Widerstands jedoch halbiert. Diese Konfiguration führt dazu, dass jede Lampe mit reduzierter Leistung betrieben wird und insgesamt eine längere Zeit 2𝑡 brennen könnte. Differierende Einflussfaktoren auf die Gesamtlaufzeit könnten diese einfache Annahme jedoch verändern.",
-  "antwortoption": "A, B"
-}

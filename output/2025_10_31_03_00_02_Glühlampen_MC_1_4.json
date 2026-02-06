@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jede der genannten Konfigurationen. Annahmen: Die Voltzahl jeder Batterie ist V, die Kapazität ist C, sodass jede Energie E=CV liefert. Der Widerstand der Glühlampe ist R. Der Strom durch jede Lampe ist I=V/R in Einzelbetrieb, wobei die Betriebszeit q/I ergibt. Serie verdoppelt die Spannung: Batterien seriell wirken wie eine Einheit mit 2V, bei gleicher Kapazität. Parallel verdoppelt die Kapazität: Eine Einheit von V mit 2C. Für Glühlampen parallel teilen sie die Spannung und in Serie teilen sie den Strom gleich auf. Schlussfolgerungen: A) Beide Lampen haben gemeinsam eine reduzierte Leistung; sie betragen ca. Ein viertel t, B) Batteriespannung stark erhöht dennoch führt zu einem Viertel Betriebszeit, C) Gesamtkapazitäten haben direkten Einfluss und verdoppeln t Zeit D) Parallele Resultat ein gleichbleibender Strom mit kein Vorteil.",
-  "antwortoption": "D"
-}

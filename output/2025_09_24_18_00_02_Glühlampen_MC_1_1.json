@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu analysieren, berücksichtigen wir folgende Punkte: Darstellung der Batterie als Spannungsquelle mit einer festen Energie E, der Widerstand der Glühlampe ist konstant (R), und die Leistungsentnahme folgt P = U^2 / R. In jeder Schaltung fließt Strom aus den Batterien, und dieser Strom bestimmt die Entladezeit durch den Energieverbrauch der Glühlampen. Jede Schaltungskonfiguration benötigt individuelle Untersuchung der resultierenden Betriebsspannung über und des Stromes durch die Glühlampen. Abschließend wird verglichen, wie sich die Energie der Batterien auf die Glühlampen aufteilt.",
-  "antwortoption": "B, D"
-}

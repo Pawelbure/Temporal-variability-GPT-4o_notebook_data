@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Funktionsweise des beschriebenen Systems zu erörtern, analysieren wir die verschiedenen Konfigurationen der Batterien und Glühlampen und deren Einfluss auf die Lebensdauer der Batterien: 1) In der seriellen Anordnung von Batterien und Lampen addieren sich die Spannungen der Batterien, während der Strom bleibt wie bei einer einzelnen Lampe; dies verdoppelt die Belastung der Lampen, führt jedoch zu einer schnelleren Abnahme der Batterieenergie, da der Doppelverhalt in der Lampe besteht. 2) In der parallelen Anordnung von Batterien und Lampen bleibt die Spannung dieselbe, aber der Strom teilt sich zwischen den Lampen, was die Laufzeit verlängert. Die Antworten sind somit A) t/4, B) t/2, C) nicht möglich, D) t.",
-  "antwortoption": "A, B, D"
-}

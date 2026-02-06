@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe erfordert die Analyse von Schaltungen, um die Betriebsdauer der Glühlampen bei verschiedenen Batterien- und Lampenschaltungen zu ermitteln. Grundannahmen sind, dass die Gesamtenergie der Batterie sich proportional zur gespeicherten Ladung verhält, der Widerstand der Lampen konstant bleibt, und der Energieverbrauch in Form elektrischer Leistung (P=U^2/R) gegeben ist. Zur Lösung werten wir die Kombinationsmöglichkeiten aus: Für (A) Serie/Serie erzeugt doppeltes Totalpotential vierfache Leistung und die Zeit wird durch vier geteilt (t/4). Für (B) Serie/Parallel bleibt die Leistung verdoppelt (halbe Zeit t/2). Für (C) Parallel/Serie bleibt die Spannung pro Lampe halbiert, die Leistung reduziert auf ein Viertel, und die Gesamtzeit wird verdoppelt (leicht fehlerhaft in der Angabe beschrieben). Für (D) Parallel/Parallel bleibt die Zeit identisch (t). Daher ist nur Antwort D korrekt.",
-  "antwortoption": "D"
-}

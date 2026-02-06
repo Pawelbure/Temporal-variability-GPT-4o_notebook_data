@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die Schaltungsvarianten:\n\n1. In Serie: Eine Batterie mit einer Spannung von U und Kapazität Q betreibt eine Lampe mit Widerstand R für t Zeit. Die elektrische Energie (Q·U) wird gleichmäßig entnommen. Schaltet man zwei Batterien in Serie, verdoppelt sich die Spannung auf 2U bei gleicher Kapazität Q. Schalten wir zwei Lampen in Serie, beträgt ihre Gesamtwiderstand 2R. Die Gesamtstromstärke halbiert sich, und die Zeit t bleibt gleich.\n\n2. In Serie/Parallel: Bei parallel geschalteten Lampen teilt sich die Stromstärke auf diese auf, doch aufgrund des höheren Workpotentials entladen sich die Batterien schneller.\n\n3. In Parallel: Batterien teilen die Stromlast, wodurch die Entladungsgeschwindigkeit reduziert wird. Zwei in Serie Königliches Lampe ermöglichen 2t.",
-  "antwortoption": "D"
-}

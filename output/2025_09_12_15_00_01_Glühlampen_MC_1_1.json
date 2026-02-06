@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Es wird eine ideale Batterie mit konstanter Spannung angenommen, wobei der Innenwiderstand der Batterie und die Temperaturabhängigkeit des Lampenwiderstands vernachlässigt werden. Physikalische Grundlagen: Bei Reihenschaltung summieren sich Spannungen, während bei Parallelschaltung die Spannung konstant bleibt. Die Gesamtenergie einer einzelnen Batterie ist ∝ Kapazität × Spannung, während sich parallele Batterien in ihrer Kapazität addieren. \nLösungen: \nA) Beide Lampen und Batterien in Serie: Die Gesamtspannung verdoppelt sich, der Strom verdoppelt sich, wodurch sich der Energieverbrauch vervierfacht. A ist richtig.\nB) Batterien in Serie, Lampen parallel: Spannung gleich, 2 Ströme: Kapazität halbiert sich in t/2. B ist falsch. \nC) Batterien parallel, Lampen in Serie: Gleicher Strom, doppelte Zeit. C ist korrekt.\nD) Parallel: wie normalbetrieb: Einfach per t leuchtend, D korrekt.",
-  "antwortoption": "A, C, D"
-}

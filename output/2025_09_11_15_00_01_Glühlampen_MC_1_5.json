@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Batterien sind identisch und haben jeweils eine konstante Spannung von U und Kapazität Q. Die Widerstände der Glühlampen sind R und sie benötigen einen konstanten Strom I = U/R bei Spannung U. \n\nAnalyse der Szenarien: \n- **A)** In Serie: Spannung verdoppelt sich, Strom pro Lampe bleibt gleich, Energie schneller verbraucht. Zeit: ca. t/4. Korrekt. \n- **B)** Batterien in Serie: Spannung verdoppelt sich, Lampen parallel: Strom verdoppelt sich. Energie schneller verbraucht. Zeit: t/2. Korrekt. \n- **C)** Batterien parallel, Lampen in Serie: Spannung bleibt konstant, Strom halbiert. Zeit: 2t. Korrekt. \n- **D)** Batterien und Lampen parallel: Spannung und Strom bleiben konstant. Zeit: t. Korrekt.",
-  "antwortoption": "A, B, C, D"
-}

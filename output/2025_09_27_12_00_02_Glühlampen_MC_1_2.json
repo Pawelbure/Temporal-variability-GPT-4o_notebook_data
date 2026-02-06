@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die Wirkungsweise von Batterien und Glühlampen in verschiedenen Schaltungen. Dabei nehmen wir an:\n- Die Batterie hat eine konstante Spannung, bis sie vollständig entladen ist.\n- Der Widerstand der Glühlampe bleibt konstant.\n\nI) Serie von Batterien und Glühlampen: Bei Serienverbindung der Batterien verdoppelt sich die Spannung. Dies erzeugt bei einer einzelnen Lampe einen quadratisch höheren Strom und somit einen vierfach schnelleren Verbrauch von Energie. Somit leuchtet die Lampe t'/4 mit zwei Lampen mit halbem Strom, dies ergibt t'/2. Somit A unplausibel, nicht t''. Parallel stimmt mit t.\n\nII) Parallel ergeben Resultat t metros.",
-  "antwortoption": "D"
-}

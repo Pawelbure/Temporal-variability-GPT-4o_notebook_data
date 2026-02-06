@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zuerst betrachten wir die gegebenen Konfigurationen und die relevanten physikalischen Prinzipien. Batterien in Serie bieten eine addierte Spannung, während Batterien parallel die Kapazität (und somit die Gesamtlaufzeit) erhöhen. Auch Glühlampen in Serie teilen sich die Spannung, während Glühlampen in Parallel die Spannung der Speisung komplett erhalten, aber den Strom unter sich aufteilen. **A) Batterien in Serie und Glühlampen in Serie:** Eine höhere Spannung liegt an, aber der Strom durch die Lampen ist geringer. Wahrnehmende Laufzeit bleibt t. **B) Batterien in Serie und Glühlampen parallel:** Voltage bleibt konstant; der Stromverbrauch bleibt exakt geteilt. Die Lebensdauer daher t bleibt unberührt. Auf ähnliche Weise wurden andere analysiert.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabenteilchen zu beantworten, analysieren wir die elektrische Leistung, Energieübertragung und Zeitabhängigkeit basierend auf den Charakteristika von Reihen- und Parallelschaltungen: A - Zwei Batterien in Serie verdoppeln die Spannung, Lampe in Serie verdoppelt den Widerstand, sodass Strom = Spannung/R = konstant bleibt. Leistung konstant, Energie halbiert, da doppelte Spannung, Viertel der Zeit. B - Parallelschaltung der Lampen, jede verdoppelte Stromfolge - Batteriestrom, Kapazität halbiert - halbe Zeit, da zwei Lampen Parallelenergie. C - Batterien parallelen, Spannung stabilisiert, verdoppelte Kapazität. Zwei Lampen in Serie addieren Widerstände und halbieren Strom = verlängerte Zeitdauer respektiv D - Batterien parallel, Spannung konstant, doppelter Energie Vorrat je individuelle Lampe parallel arbeiten, Zeit für ursprünglicher überschneidet. Endresultat verifiziert mit Fall Spezifikationen.",
-  "antwortoption": "B, D"
-}

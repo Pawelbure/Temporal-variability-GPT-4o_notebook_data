@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, betrachten wir die Schaltungen der Batterien (in Serie oder parallel) und der Glühlampen sowohl in Serie als auch in Parallel. Relevant sind die Gesetzmäßigkeiten zur elektrischen Leistung, sowie der Batterieverbrauch. Angenommen, jede Batterie hat eine Kapazität Q und emittiert Energie mit einer konstanter Spannung U. Bei den Kombinationen wirken sich verschiedene Spannungen (bei Reihenschaltung) oder Kapazitätserhöhungen (bei Parallelschaltung) ein. Unter Berücksichtigung der Leistungsformel P = U²/R scheint die Analyse für die Zeit t direkt durch den Energieverbrauch.\"",
-  "antwortoption": "B, D"
-}

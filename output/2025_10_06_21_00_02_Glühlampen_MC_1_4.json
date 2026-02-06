@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren jede Konfiguration unter der Voraussetzung idealer Batterien und Glühlampen und einer konstanten Helligkeit: A) Bei Serienschaltung verdoppelt sich die Spannung, jedoch bei zweimaligem Widerstand wird der Strom halbiert, die Energie pro Lampe ist reduziert, dies führt zu etwa der beschriebenen Zeit. B) Bei doppelt erhöhter Spannung an parallelen Widerständen bleibt die Leistung pro Lampe gleich erhöht. C) Parallele Batterien bei seriellen Lampen verdoppeln die Zeit durch erhöhte Energiezufuhr. D) Parallele Batterien führen zu konstanter Energieabgabe; pro Lampe bleibt hierbei die Leistung konstant, aber die Gesamtzeit bleibt wie bei einer Batterie.",
-  "antwortoption": "D"
-}

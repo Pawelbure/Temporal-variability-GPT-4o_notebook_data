@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Relevantes: \n1. Die beiden Batterien besitzen den gleichen Spannungswert U und die gleiche maximale Kapazität Q.\n2. Die Glühlampen haben den gleichen, konstanten Widerstand R.\n3. Die Batterien liefern konstanten Strom bis sie vollständig entladen sind.\n4. Die Schaltungen sind idealisiert ohne Verluste.\n\nAnalyse und Berechnung: \nA) Batterien in Serie, Glühlampen in Serie. Gesamtspannung = 2U, Gesamtwiderstand = 2R. Gesamtstrom I = U/R, Stromflusszeit T = Q/(U/R) = t.\nB) Batterien in Serie, Glühlampen parallel. Spannung = 2U. Einzelstrom = (2U)/R. Gesamtspeicherladung = Q entspricht I = 2IU/2 -> R = Q/2 I/2*... Zeit t/2.\nC) und D): Zusatzszenarien berechnung basiert auf paralleler Stromaufteilung und daraus.\n\nResultate: Aufgrund Idealisierungen wie Konstrukterklärung kann für Szenario die finale Nutzung die Lösung bestimmt.\n",
-  "antwortoption": "C, D"
-}

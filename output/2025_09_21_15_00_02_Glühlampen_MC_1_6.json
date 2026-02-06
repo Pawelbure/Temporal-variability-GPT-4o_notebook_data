@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegeben sei eine Glühlampe mit konstanter Widerstandszahl R und Energieverbrauch, sowie identische Batterien mit einer Spannung U und Energie QA (geladenen Kapazität). Der Strom I durch die Lampe verursacht Energieverlust P = U * I. Lassen uns die gegebenen Anschlussoptionen untersuchen:1) Serie von zwei Batterien (U gesamt verdoppelt) und Serie von Lampen: Der Gesamtdurchgangsstrom ist derselbe, also halbierte Zeit.2) Batterien in Serie mit parallel geschaltenen Lampen: Spannung bleibt, t bleibt konstant.3) Batterien parallel mit Lampen in Serie: Verdoppelt Resistance vermindert Stromverbrauch und Iontfrasisiert Zeit; Ergebnis bleibt daher ungefähr.4) Parallelbetrieb von Batterien/Lampen in analog.",
-  "antwortoption": "B, D"
-}

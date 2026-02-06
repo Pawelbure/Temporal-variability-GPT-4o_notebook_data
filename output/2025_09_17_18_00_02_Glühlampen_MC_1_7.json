@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu ermitteln, betrachten wir das Problem folgendermaßen: In idealisierten elektronischen Schaltungen wird angenommen, dass die Spannung der Batterien konstant bleibt, bis ihre Energiereserven erschöpft sind. Parallel- und Serienschaltungen von Batterien und Verbrauchern beeinflussen sowohl die Spannung als auch die Stromverteilung der Gesamtschaltung. Bei Annahme von konstantem Widerstand wird der Energieverbrauch nach dem Jouleschen Gesetz bestimmt. Die vier gegebenen Szenarien werden hinsichtlich der kombinatorisch verfügbaren Spannungen und Ströme untersucht.",
-  "antwortoption": "D"
-}

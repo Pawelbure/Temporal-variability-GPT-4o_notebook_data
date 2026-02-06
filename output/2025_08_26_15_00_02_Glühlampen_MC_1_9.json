@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: \\n1. Die Batterien und Glühlampen sind idealisiert, d.h. jede Batterie hat eine konstante Spannung, bis sie erschöpft ist, und jede Glühlampe hat einen konstanten Widerstand. \\n2. Jede Batterie besitzt die gleiche Kapazität und Spannung, und die Glühlampen sind identisch (gleiche Leistung und Widerstand, wenn sie mit einer bestimmten Spannung betrieben werden).\\n\\nPhysikalische Konzepte: \\n- In einer Serienschaltung addiert sich die Spannung der Batterien, und der Gesamtwiderstand erhöht sich bei in Serie geschalteten Glühlampen. \\n- In einer Parallelschaltung bleibt die Spannung konstant über die Elemente, und die Gesamtstromaufnahme verteilt sich auf die parallel geschalteten Elemente.\\n- Die Energie, die eine Batterie liefert, ist proportional zu ihrer Kapazität und Spannung.",
-  "antwortoption": "D"
-}

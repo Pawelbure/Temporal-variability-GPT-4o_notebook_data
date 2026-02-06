@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Betrachten wir die Veränderungen in der Schaltung, um die Auswirkungen auf die Betriebszeit zu analysieren: Jede Glühlampe hat dieselbe Betriebsspannung und der Widerstand bleibt konstant. Die Energieinhalt einer Batterie ist ebenfalls unverändert. Ausgangsannahme ist, dass eine Batterie alleine eine Glühlampe für Zeit t leuchten lässt. Aussagenanalyse: A) In Serie verdoppeln Batterien die Spannung; mit doppelter Spannung benötigt die Glühlampe aufgrund des konstanten Widerstands die vierfache Leistung, daher t/4. B) In Serie verdoppeln Batterien die Spannung, beide Lampen parallel erhöht den Stromfluss, jede erhält halbe Energie, daher t/2. C) Batterien parallel addiert Kapazität, Spannung konstant; Serienlampen verdoppeln Widerstand, Energiebedarf halbiert; Gesamtzeit 2t. D) Batterien parallel verdoppelt Kapazität, Lampen parallel benötigt gleichen Gesamtstrom, keine Zeitänderung, bleibt t.",
-  "antwortoption": "C"
-}

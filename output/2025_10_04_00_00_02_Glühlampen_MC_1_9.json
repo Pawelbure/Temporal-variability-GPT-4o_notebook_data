@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe beinhaltet die Analyse von Stromkreisen mit je zwei Batterien und zwei Glühbirnen unter verschiedenen Schaltungsanordnungen. Gegeben die Annahmen, dass jede Batterie die gleiche Kapazität hat und jede Glühbirne eine konstante Leistung aufweist, wurde folgendermaßen vorgegangen: Bei Verbindung der Batterien in Serie wird die Gesamtspannung zur Summe der Einzelspannungen, und die Batterien entladen sich durch die Reihenschaltung der Glühbirnen schneller, wodurch eine Betriebszeit von t/4 entsteht. Im parallelen Fall bleibt die Spannung gleich, die Batterien teilen die Last gleichmäßig, und die Betriebszeiten unterscheiden sich entsprechend der Stromverteilung auf die Glühbirnen. Die Analysen haben ergeben, dass die korrekten Antworten die Verhaltensweisen der Schaltungen wie beschrieben widergeben.",
-  "antwortoption": "A, B"
-}

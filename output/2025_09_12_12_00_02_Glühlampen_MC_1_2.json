@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgaben zu beantworten, werden folgende Annahmen und Konzepte herangezogen: Jede Batterie hat eine gleichbleibende Spannung V und eine konstante Ladungsmenge Q, die sie liefern kann. Der Widerstand jeder Glühlampe sei R. In der Serie addieren sich Spannungen und in Parallelschaltungen teilen sich die Ströme entsprechend den Zweigen.1) Für (A), Serienschaltung von beiden Batterien und Lampen: Die Gesamtspannung wird 2V, die Effektivspannung jeder Lampe ist V, der Gesamtstrom halbiert sich und die Betriebszeit der Gesamtladung multipliziert sich entsprechend. Resultat ≠ t/4.2) Für (B), Serienschaltung der Batterien, parallele Glühlampen: Gesamtspannung liefert V pro Lampe parallel Haltenumfang √t.3) (C) Parallel Batterien/Gleiche Logik Serie symmetr per Redux alles bleibt in Konsum 2t Ladungsersatz etwa Zeit maximierend. Einfach.",
-  "antwortoption": "A"
-}

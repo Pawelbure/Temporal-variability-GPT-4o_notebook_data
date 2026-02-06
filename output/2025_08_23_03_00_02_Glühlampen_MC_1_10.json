@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Die Spannungen der Batterien (U), Widerstände der Lampen (R) und Energie (E) der Batterien sind konstant. Der Widerstand der Lampe beeinflusst maßgeblich den Strom und damit die Energieentnahme aus der Batterie.\n\n2. Untersuchung der Schaltungen:\n\n   a) Schaltung A: Batterien und Lampen in Serie:\n\n      - Gesamtspannung: 2U. Gesamtwiderstand: 2R. Strom: I = Gesamtspannung/Gesamtwiderstand = 2U/2R = U/R.\n\n      - Zeitpunkt bis zur Entleerung der Batterie: Energieverbrauch steigt mit I², t = Zeit wird somit geringer verglichen zur einzelnen Batterie-Lampe-Kombination.\n\n   b) Schaltung B: Batterien in Serie, Lampen parallel:\n\n      - Spannung über jeder Lampe bleibt U. Betriebszeit halbiert, da Strom durch beide Lampen den Energieverbrauch erhöht.\n\n   - Alle weiteren Kombinationen untersuchen und ausrechnen, wie in den spezifischen Annahmen genannt.",
-  "antwortoption": "A, B, C"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die verschiedenen Konfigurationen von Batterie und Glühlampe jeweils einzeln mit den dazugehörigen physikalischen Grundlagen. Wir nehmen an, dass jede Batterie eine konstante Energie von E bereitstellt und dass der Widerstand R der Glühlampe sowie deren Leistungsaufnahme konstant sind. In Serie geschaltete Batterien verdoppeln die Spannung, wodurch bei gleichem Widerstand die Stromstärke und somit die Leistung erhöht wird. Batterien in Parallelschaltung hingegen teilen die Stromstärke untereinander auf, wodurch sie gemeinsam länger Strom liefern können. Gleichermaßen beeinflusst die Schaltung der Glühlampen, ob sich die Gesamtstromstärke oder die benötigte Spannung des Systems verändert. Resultierend aus diesen Überlegungen sind die Schaltkonfigurationen zu analysieren. Basierend auf diesen Prinzipien wird gezeigt, dass die Antworten A und D korrekt sind.",
-  "antwortoption": "A, D"
-}

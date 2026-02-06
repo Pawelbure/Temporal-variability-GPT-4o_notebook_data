@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zuerst nehmen wir an, dass jede Batterie identisch ist und eine konstante Spannung \\(V\\) liefert sowie eine Ladung \\(Q\\) enthält, bevor sie entladen ist. Wir betrachten auch, dass die Glühlampen idealerweise einen konstanten Widerstand \\(R\\) und somit den gleichen Energieverbrauch pro ZE haben. Die Batterien in Serie summieren ihre Spannungen, während Batterien in Parallel ihre Kapazitäten und damit die zur Verfügung stehende Gesamtladung addieren. Für jede Schaltung: Bei Batterien und Lasten in Serie fließt der gleiche Strom, während bei Parallelschaltungen der Gesamtstrom sich aufteilt. So:",
-  "antwortoption": "D"
-}

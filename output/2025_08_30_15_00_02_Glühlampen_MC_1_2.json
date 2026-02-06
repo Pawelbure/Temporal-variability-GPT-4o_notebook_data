@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, betrachten wir folgende Annahmen: Batterien besitzen identische Spannungen U und Energiekapazitäten (E), und die Glühlampen haben denselben konstanten Widerstand R. Die Energiemenge, die jede Lampe benötigt, ist proportional zur elektrischen Leistung, die mit P=U²/R berechnet wird, und der Betriebszeit, T. Bei der Untersuchung verschiedener Schaltungen berechnen wir die gefahrenen Ströme I, Spannung V und die entsprechende Änderung im Energieverbrauch. Nach diesen Überlegungen ergeben sich die korrekten Einschätzungen.",
-  "antwortoption": "B, D"
-}

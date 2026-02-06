@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungen und deren Auswirkungen auf die Betriebszeit der Glühlampen. Wir betrachten dabei die Zusammenhänge zwischen Spannung, Stromstärke und Energieverbrauch, basierend auf den idealisierten Annahmen: Alle Batterien liefern eine konstante Spannung, ihre Kapazität ist begrenzt und jede Glühlampe hat einen festen Widerstand.\\n\\n\\n### Option A: Serienschaltung der Batterien und der Glühlampen\\nDie Gesamtspannung verdoppelt sich, während der Gesamtwiderstand Vervierfachung bewirkt. Der Strom durch die Lampen sinkt auf ein Viertel, sodass die Energie pro Zeiteinheit auf ein Sechzehntel reduziert wird. Infolgedessen leuchten die Lampen etwa 4t lang.",
-  "antwortoption": "B"
-}

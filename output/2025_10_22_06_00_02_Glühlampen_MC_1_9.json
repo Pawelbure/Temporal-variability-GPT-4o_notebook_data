@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die verschiedenen Konfigurationen:\n\nA) Batterien und Glühlampen in Serie bedeuten, dass der Strom durch beide identisch ist. Die aufgebrachte Spannung ist doppelt so groß, was zu einer Vervierfachung der Leistung führt (P=U²/R). Folglich wird die Entladung auf t/4 beschleunigt.\n\nB) Batterien in Serie verdoppeln die Spannung. Da die Lampen parallel sind, bleibt jede Spannung gleich der Einzelspannung. Die Leistung verdoppelt sich (eine infolge Spannungsverdopplung, verteilt auf Lampen), was die Zeit halbiert: t/2.\n\nC) Batterien parallel ergeben gleiche Spannung wie eine. Glühlampen in Serie haben doppelten Widerstand. Leistung viermal kleiner, Zeit 4t.\n\nD) Parallelbetrieb von Batterien und Lampen: gleiche Spannung, gemeinsamer Strom wird verdoppelt. Resultiert in der Betriebsdauer t.\n\nFinal Bewertung: Korrekt C, D",
-  "antwortoption": "C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Modelle: Batterien werden als ideale Spannungsquellen betrachtet, und jede besitzt eine Kapazität C. Glühlampen werden als ohmsche Lasten mit konstantem Widerstand betrachtet. Vereinfacht gehen wir davon aus, dass Strom verlustfrei fließt. \n\n2. Analyse der Schaltungen: \n   a) Serie: Zwei Widerstände jeweils R ergeben in Serie einen Gesamtwiderstand 2R. Zwei Batterien in Serie ergeben die doppelte Spannung 2U. Der Strom durch jede Lampe beträgt I = U/2R. Die Energie E, die durch jede Batterie geliefert wird, verteilt sich gleichmäßig, daher läuft jede Lampe für Zeitdauer t/4. \n   b) Parallel: Zwei Widerstände parallel ergeben Widerstand R/2, aber zwei Batterien in Serie verdoppeln die Spannung, sodass der Strom verdoppelt wird. Jede Lampe leuchtet halb so lange wie vorher, t/2.\n\nFinale Bestimmung: Zuordnung der Feststellung unten zu den beschriebenen Schaltungen resultiert in Auswahl 'A'.",
-  "antwortoption": "A"
-}

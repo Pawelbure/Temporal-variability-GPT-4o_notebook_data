@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die richtige Antwort zu bestimmen, analysieren wir jede Option einzeln unter der Annahme idealer Batterien (konstant bleibt deren Spannung bis zur vollständigen Entladung) und idealer Lampen (konstanter Widerstand).\\n\\n- Serie: Die Gesamtspannung der Batterien verdoppelt sich. Der Widerstand der Lampen verdoppelt sich, der Strom halbiert sich, also bleibt die Leistung konstant. Die Energieverfügbarkeit bleibt gleich, Betrieb wäre für Zeit t möglich.\\n- Parallel: Spannung bleibt gleich, Kapazität (Energie) verdoppelt sich. Leistung der Lampen bleibt konstant, Verdopplung der Laufzeit.\\nDaher:\\n- A ist falsch.\\n- B ist teilweise korrekt aber unlogisch da in Serie länger betreiben.\\n- C ist korrekt.\\n- D ist falsch.",
-  "antwortoption": "C"
-}

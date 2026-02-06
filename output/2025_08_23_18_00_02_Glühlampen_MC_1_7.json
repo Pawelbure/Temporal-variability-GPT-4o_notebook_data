@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, nehmen wir die folgende idealisierte Situation an: Jede Batterie liefert eine konstante Spannung über die Zeit, bis sie vollständig entladen ist, und sie hat eine konstante Energiekapazität. Die Glühlampen stellen einen konstanten Widerstand dar. Der Stromfluss und die Leistungsaufnahme werden über die Schaltungen berechnet. Beispielweise: \n\nFür Option A: In Serie addieren sich die Spannungen der Batterien, wodurch der Strom durch die Glühlampen erhöht wird. Zudem stellt sich heraus, dass die Leistung viertelt wird, wodurch die Zeit auf etwa t/4 hinuntergeht.\n\nFür Option B: In Serie addieren sich die Spannungen, jedoch haben zwei parallele Glühlampen denselben Effekt wie eine halbe des ursprünglichen Widerstandes, daher berechnet sich die Betriebsdauer etwa zu t/2.\n\nUnter Berücksichtigung dieser Prinzipien ergibt sich, dass Option D korrekt ist.",
-  "antwortoption": "D"
-}

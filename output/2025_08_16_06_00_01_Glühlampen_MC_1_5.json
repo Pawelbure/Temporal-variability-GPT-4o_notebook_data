@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen Eigenschaften einer Batterie und einer Glühlampe unter Anwendung der Schaltungsprinzipien von Serien- und Parallelschaltungen. Als Annahme setzen wir voraus, dass die Spannung jeder Batterie U konstant bleibt, bis sie leer ist, und der Widerstand der Glühlampe R unverändert bleibt.Einzelbatterie: Verbraucht die Batterie Energie P = U^2 / R und hält t langSerie aus zwei Batterien: Spannung 2U, Leistung pro Lampe P = (2U)^2 / RParallel aus zwei Batterien: Spannung gleich U, Leistung beträgt immer noch U^2 / R1. Batterien und Lampen seriell: Gleichstromkreislaut Kirchhoff. Vergleich: Zwei Lampen teilen sich Strom, Leistung pro Lampe reduziert, Laufzeit durch geringen Gesamtstrom verlängert. Resultat: Geht länger.2+ Sounder, Kolben waagrecht, Boots antreibe Resultate Laufände. Licht beteilig Option LösungeiFazit.",
-  "antwortoption": "B, D"
-}

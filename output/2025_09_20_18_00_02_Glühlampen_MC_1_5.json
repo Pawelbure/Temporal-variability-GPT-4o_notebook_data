@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir zunächst die beschriebenen Szenarien. Zunächst nehmen wir an, dass der Widerstand der Glühlampen konstant ist und die Batterien ideale Spannungsquellen mit konstanter Ladungskapazität darstellen. 1. Szenario: Batterien und Lampen in Serie: Der Gesamtwiderstand verdoppelt sich, was bei derselben Stromstärke zu einer halbierten Stromstärke führt, also leuchten die Lampen 4 mal länger aufgrund der verwendeten 2 Batterien. 2. Batterien in Serie und Lampen parallel: Hier bleibt die Spannung gleich, und der Gesamtstrom verdoppelt sich. Dies führt zu einer Ladungsverlustzeit von (t/2). Die Bewertungen anderer Szenarien führen zu entsprechenden Anpassungen der Leuchtzeiten.",
-  "antwortoption": "A, D"
-}

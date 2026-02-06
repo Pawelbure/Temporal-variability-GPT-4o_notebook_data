@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe verlangt eine Analyse von verschiedenen Schaltungen mit Batterien und Glühlampen. Nehmen wir folgende idealisierende Vereinbarungen an: Jede Batterie hat eine konstante Betriebsspannung V und kann bei einem konstanten Strom I eine Betriebszeit t liefern. Der elektrische Widerstand jeder Lampe sei konstant und gleich R. Die Stromaufnahme einer Lampe in Abhängigkeit von Spannung und Widerstand lautet I = V / R.",
-  "antwortoption": "B"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Es gibt mehrere Aspekte zu analysieren:\n\n1. Reihe und Parallel: Batterien parallel geschaltet verdoppeln die gespeicherte Ladung bei gleicher Spannung. In Serie erhöhen sie die Spannung, aber nicht die Ladung.\n2. Lampen parallel reduzieren den Widerstand (im Vergleich zur Lampe einzeln), nur durch Erhöhung des Stroms wird dieselbe Leistung verbraucht. Lampen in Serie erhöhen den Gesamtwiderstand, daher weniger Strom aus dem Netz.\n3. Antwortanalyse:\n\n- **A. Serie:** Totalspannung der Reihenbatterien teilt sich auf Lampen und bringt kürzere Brenndauer; Widerstandserhöhung führt zur Annahme teilweise nahe t/4.\n- **B. Batterien Serie, Lampe Parallel:** Verdoppelte Spannung macht schneller Konsum.\n- **C. Batterie Parallel, Serie Lampe:** Vereinfachung (Strom)-> richtige aspect t Wichtig.\n- **D. Parallel-Auffüllung Spannung dementsprechend steckt gleich.",
-  "antwortoption": "C"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen Schaltungen und berechnen die Laufzeit basierend darauf. Annahmen sind: Batterien liefern konstant Strom, Glühlampen haben konstanten Widerstand. Der Energieverbrauch hängt von Spannung, Strom, Zeit und Widerstand ab. Deklarationen: zwei Batterien mit Spannung U und Kapazität q; LX ist die Betriebsdauer einer Lampe mit Strom I. Berechnungen für jede Schaltungsoption: A) Serie (Batterien und Lampen): 4R Exist.; Strom I/2 ergibt Zeit t/4. B) Serie (Batterien) und parallel (Lampen): gleiche Spannung U; Laufzeit t/2. C) Parallel (Batterien) und seriell (Lampen): doppelte Kapazität 2q; Endzeit t. D) Alle parallel; Kapazität verteilt resultiert ebenfalls Laufzeit t.",
-  "antwortoption": "B, D"
-}

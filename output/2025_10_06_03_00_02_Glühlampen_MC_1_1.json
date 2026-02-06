@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, machen wir folgende Annahmen: 1) Die Spannung einer Batterie und der Widerstand der Glühlampe bleiben konstant während der Entladung. 2) Die Glühlampen ziehen Strom proportional zu der Gesamtspannung ihrer Zusammenschaltung. 3) Die Batterien liefern eine definierte Energiemenge bis ihre Spannung auf einen Punkt absinkt, der die Lampe nicht mehr mit Energie versorgt. Mitsamt dieser Annahmen leiten wir die korrekten Antworten her, überprüfen jede der gegebenen Aussagen und vergleichen sie mit den physikalischen Gesetzmäßigkeiten der Elektrizität, insbesondere Reihen- und Parallelschaltungen sowie Energieumsätze.",
-  "antwortoption": "A"
-}

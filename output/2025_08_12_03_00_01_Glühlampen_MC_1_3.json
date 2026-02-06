@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Zunächst betrachten wir die grundlegenden Annahmen und idealisierten Bedingungen: Die Stromquelle liefert konstanten Strom während ihrer Lebensdauer. Der Widerstand der Glühlampe bleibt stets unverändert. Jede Schaltungskombination wird soweit wie möglich vereinfacht analysiert: Spannung, Stromkreislauf und Energieverbrauch werden erklärt. Je nach Konfiguration verändern sich Batterieleistung und Stromfluss durch die Lampen. Die einzelnen Szenarien sind nun detailliert analysiert: 1. Bei Glühlampen und Batterien in Serie wird der doppelte Output jedoch durch beide Glühlampen geteilt, Laufzeit x/4. 2. Bei Batterien seriell, aber Glühlampen Parallel, x/2. 3. Parallel Batterie/serie Lampe gibt theoretischen doppelten Faktor der Stromquelle. und 4. beide parallel bleiben zusammen Betrieb unverändert.",
-  "antwortoption": "B, C, D"
-}

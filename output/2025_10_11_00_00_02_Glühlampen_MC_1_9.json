@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, gehen wir von den idealisierten Bedingungen aus, dass die Batterien identisch und ideal sind, d. h. keine internen Widerstände besitzen und immer ihre angegebene Spannung liefern. Die Glühlampen haben einen konstanten Widerstand, wobei Leistung P=U²/R genutzt wird. Die Energie, die jede Batterie liefert, beträgt E=P*t, mit P=U²/R für eine Glühlampe. Nun analysieren wir die verschiedenen Anordnungen:\n\n(A) Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich, daher P=(2U)²/R mit 4-mal längerem Energieverbrauch. t ist dann T/4.\n(B) Batterien in Serie und Glühlampen parallel: Spannung ist doppelt -> Gesamt-Strom verdoppelt, Zeit halbiert.\n(C) Batterien parallel, Glühlampen Serie: Keine Wirkung auf Spannung, doppelte Energie; damit ist die Laufzeit 2t.\n(D) Batterien und Lampen parallel: Effekte heben sich auf - Zeit bleibt t.",
-  "antwortoption": "C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen:\n- Jede Batterie hat eine konstante Spannung und speichert eine feste Energiemenge.\n- Jede Glühlampe hat einen konstanten Widerstand und verbraucht (ohmsches Gesetz) Energie gemessen an P = U² / R.\n- Serienschaltung verdoppelt die Spannung und Parallelverbindungen halten die Spannung konstant, erhöhen aber die verfügbare Stromstärke und somit die nutzbare Energie.\n\nPhysikalische Analyse:\n- Eine einzelne Batterie liefert die gespeicherte Energie über t.\n- Der Strom durch die Glühlampe hängt von der Spannung über ihr und ihrem Widerstand ab, siehe I = U / R.\n- Kombinationen:\n  - A: Zwei Batterien und Lampen in Serie: U gesamt = 2U_B, R gesamt = 2R_L ⇒ Energieverbrauch pro Zeit: P = U²/R = 4P_L, Zeit = t/4.\n  - B: Batterien in Serie, Lampen parallel: U gesamt = 2U_B, Effektive Last = R/2, P = 4P_L, Zeit = t/4.\n\nResultat:\nOption A ist korrekt.",
-  "antwortoption": "A"
-}

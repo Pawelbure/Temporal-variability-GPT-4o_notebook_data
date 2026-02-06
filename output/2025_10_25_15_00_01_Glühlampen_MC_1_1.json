@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu lösen, analysieren wir die vier gegebenen Schaltungen hinsichtlich ihrer Auswirkungen auf die Betriebsdauer der Glühlampen. Gegeben sind zwei Batterien und zwei identische Glühlampen, die jeweils mit konstantem Widerstand betrieben werden. Annahmen: Jede Batterie hat die gleiche Emissionsdauer, und der Energiegehalt sowie die elektrische Kapazität der Batterien sind identisch. Wir beachten die jeweiligen Anordnungen von Batterien und Lampen. Konstante Stromstärken, Spannungen und Energieaufnahmen werden unter der Rahmenannahme eines ohmschen Gesetzes betrachtet.",
-  "antwortoption": "B, D"
-}

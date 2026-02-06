@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen möglichen Konfigurationen von Batterien und Lampen. Wir machen folgende Annahmen: Die Batterien haben identische Kapazität und Spannung und verhalten sich ideal. Der Widerstand der Glühlampe ist konstant, obwohl er in der Realität von der Temperatur abhängen kann. Die Batterien werden bei ungefährem konstanter Leistungsentnahme gleichmäßig entladen.",
-  "antwortoption": "B"
-}

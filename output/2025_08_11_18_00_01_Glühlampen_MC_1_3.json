@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Die Batterien sind identisch, jede liefert ihre Ladung vollständig ab, interne Widerstände der Batterien und Verluste sind vernachlässigt. Glühlampen haben konstanten Widerstand. Batterie in Serie bedeutet, dass sich die Spannung addiert, in Parallel bleibt die Spannung gleich, aber der Strom erhöht sich. Schaltung nutzen Leistung, die quadratisch zur Spannung bei konstantem Widerstand geht. Berechnung der Energie und Entladung je nach Schaltung: Bei zwei Batterien in Serie ist die Spannung doppelt, Energie des Gesamtsystems jedoch gleich, daher Entladungszeit kürzer; bei paralleler Verbindung bleibt Spannung gleich, aber Kapazität doppelt, Entladungszeit länger. Ermittlung korrekt Optionen: D ist korrekt, da parallel verbundene Batterien mit parallelen Lampen Leistung und Spannung gleich halten.",
-  "antwortoption": "D"
-}

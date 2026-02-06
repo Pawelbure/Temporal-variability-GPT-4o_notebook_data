@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Idealisierungen:\\n1. Jede Batterie hat die gleiche gespeicherte Energie E.\\n2. Der Widerstand der Glühlampen bleibt konstant während des Betriebs.\\n3. Beim Betrieb in Parallelschaltung teilen sich die Ströme entsprechend und die Spannung bleibt gleich.\\n4. Beim Betrieb in Serienschaltung addieren sich die Spannungen der Batterien und die Ströme sind für alle Bestandteile gleich.\\n\\n### Analyse:\\n**Serie (A):** Zwei Batterien und zwei Lampen; der Gesamtwiderstand verdoppelt sich. Die doppelte Spannung führt zu doppelt so viel Strom und vierfacher Leistung pro Lampe, somit t/4. **Parallel (B):** Zwei zusätzliche Batterien stellen mehr Strom zur Verfügung, die Spannung bleibt gleich und Batterieentladung halbiert sich: 2-mal längere Zuverlässigkeit pro Lampe, also t/2. **Parallel Parallel (D):** LED-Schaltung halbiert sich ebenfalls direkt getroffen.",
-  "antwortoption": "B"
-}

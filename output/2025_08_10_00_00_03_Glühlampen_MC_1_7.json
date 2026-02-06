@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, sind die folgenden Annahmen und physikalischen Konzepte zu berücksichtigen: 1. Idealisierte Batterien und Widerstände: Die Spannungen der Batterien sowie die Widerstände der Glühlampen sind konstant. 2. Unveränderliche chemische Energien: Jede Batterie kann eine feste maximale Energie bereitstellen. Batterien in Serie verdoppeln die Spannung, Batterien in Parallelanordnung halten die gleiche Spannung, verdoppeln jedoch den maximalen Strom, den sie liefern können. Glühlampen in Serie verdoppeln den Widerstand bei doppelter Spannung, was denselben Stromfluss ergibt, und somit gleich bleibt die Leistungsabgabe pro Lampe. Glühlampen parallel bewirken gesamtes Strom durch Lampe-Aufteilung, also Speisung von beiden Batterien bis gleichem Punkt.",
-  "antwortoption": "D"
-}

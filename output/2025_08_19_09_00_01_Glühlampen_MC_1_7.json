@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Die Batterien haben die gleiche Kapazität und Spannung. Der Energieverbrauch der Glühlampen ist proportional zur elektrischen Leistung (U^2/R). \n\n2. Analyse der Schaltungen:\n   - A) Serienbetrieb der Batterien und Lampen: Die Spannung verdoppelt sich, der Strom pro Glühlampe halbiert sich; Betrieb bei doppelter Spannung und doppeltem Widerstand reduziert im Vergleich Einzellampe Strom um Faktor 2, Energieverbrauch bleibt gleich; Betriebszeit für Lampe daher T=t.\n   - B) Wenn Batterien Serie, Lampen parallel: Gesamtstrom verteilt sich, jede Lampe Förderung während gleichem Zeitraum unabhängig, 30 wie normale Batterie paßt perfekt,\n\nSODUCTION bestätigt alle gelten Regeln doppelsloh...",
-  "antwortoption": "D"
-}

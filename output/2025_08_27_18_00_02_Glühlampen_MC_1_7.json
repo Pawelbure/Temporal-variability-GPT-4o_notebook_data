@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die unterschiedlichen Szenarien systematisch:  1. Die gegebenen Annahmen lauten: Jede Batterie hat eine konstante Kapazität von Q Coulomb bei einer Spannung V, und die Stromaufnahme der Glühlampe ist konstant. Der Widerstand der Glühlampen beträgt R. Bei Parallelschaltung teilen sich die Ströme, während bei Serienschaltung der Strom durch alle Elemente gleich bleibt.  2. Durch die Gleichungen für Leiter (Ohm'sches Gesetz U = IR und Elektrotechnik Watt = IV) analysieren wir die Energiemenge und die Dauer des Betriebs in den Situationen.  a) Für Serie von Batterien verdoppelt sich die Spannung zu 2V (0,5 I); b) für Parallelschaltung verdoppelt die Batteriechargedichte und Versorgungszeit bei Existenz homogener Lampen.",
-  "antwortoption": "B"
-}

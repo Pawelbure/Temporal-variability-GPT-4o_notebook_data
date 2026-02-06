@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Die Batterien liefern eine konstante Spannung bis zu ihrem Ende, die Glühlampen haben konstanten Widerstand und die Energieentnahme verhält sich proportional zur Zeit.2. Bei den angegebenen Schaltungen können Ergebnisse bezüglich Zeitberechnung und Spannung wie folgt ermittelt werden:- Option A: Serielle Batterien verdoppeln die Spannung, serielle Glühlampen verursachen Verdoppelung des Gesamtwiderstands, sodass der Strom gleich bleibt und nur eine Batterie entleert werden würde.- Option C: Denkfehler bezüglich Spannungsausgleitung durch parallele Batterien, da diese identische Spannung besitzen und sich jeweilige Ströme zusammenfügen.",
-  "antwortoption": "D"
-}

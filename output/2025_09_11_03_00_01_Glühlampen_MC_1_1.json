@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Problemstellung zu lösen, müssen wir den Einfluss der Schaltungsart auf die Gesamtdauer des Betriebs einer Glühlampe betrachten. Annahmen sind: 1) Elektrische Leistung ist proportional zur Potentialdifferenz, 2) Batterien verfügen über dieselbe Kapazität und Spannung, 3) Eigenschaften der Glühlampen bleiben konstant. Die Konzepte sind: a) Bei serieller Verbindung addieren sich Spannungen, b) bei paralleler Verbindung bleibt die Spannung, aber die Kapazität summiert sich. Für die Szenarien: 1) Bei serieller Batterie- und Lampenschaltung erhöht sich die Spannung, der Strom durch eine Lampe bleibt gleich, und die Batteriekapazität teilt sich effektiv auf. 2) Bei paralleler Lampen- und Batterieschaltung teilt sich der Strom effizient, und jede Lampe verbraucht dieselbe Energie wie im Einzelbetrieb. Für die anderen Kombinationen ergeben sich entsprechend angepasste Ergebnisse.",
-  "antwortoption": "D"
-}

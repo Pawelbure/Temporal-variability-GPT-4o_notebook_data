@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungsoptionen und deren Auswirkungen auf Stromaufnahme und Laufzeit. Wir gehen hierbei von idealen Bauelementen aus, d. h., die Batterien haben eine konstante Ausgangsspannung, bis sie leer sind, und die Glühlampen verhalten sich wie ohmsche Widerstände. \n\n1) Batterien in Serie und Glühlampen in Serie: Die Spannung über den Lampen verdoppelt sich (2U), der Strom bleibt der gleiche (I), jedoch plant sich der Stromverbrauch durch die Lampen hoch (P=U^2/R, nun 4* den vorherigen). Dies würde für beide Verbraucherelemente jedoch eine um 1/4 reduziete funktionologische Zeit zur Folge haben.\n\n2.-4",
-  "antwortoption": "A"
-}

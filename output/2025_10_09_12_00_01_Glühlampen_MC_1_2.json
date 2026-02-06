@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen: Batterien haben eine konstante Kapazität und gleichen inneren Widerstand, Glühlampen haben einen konstanten Widerstand. Relevante Konzepte: Stromkreis-Regeln, Leistung in Widerständen (P = U^2 / R), Kapazität von Batterien. Fallunterscheidungen: 1. Batterien seriell und Lampen seriell: Gesamtspannung 2U, Gesamtwiderstand 2R -> Halbierter Gesamtstrom -> Entladung in t/2. 2. Batterien seriell und Lampen parallel: Gesamtspannung 2U, effektiver Widerstand R/2 -> Gesamter Verbrauch 4P -> Entladung in t/4. 3. Batterien parallel und Lampen seriell: Gesamtspannung U, Gesamtwiderstand 2R -> Gesamtstrom wie eine Lampe -> 2t Laufzeit. 4. Batterien parallel und Lampen parallel: Spannung U, Widerstand R/2 -> Verbrauch 2P -> Einfache Laufzeit, wie t. Somit sind korrekt: C und D.",
-  "antwortoption": "C, D"
-}

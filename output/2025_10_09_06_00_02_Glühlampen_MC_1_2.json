@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, untersuchen wir jede Konfiguration basierend auf den angegebenen Annahmen: Die Batterien liefern eine konstante Spannung und die Glühlampen besitzen einen konstanten Widerstand. Die Energieinhalt jeder Batterie wird während des Betriebs allmählich verbraucht.1. Wenn Batterien und Glühlampen in Serie geschaltet sind, wird die Gesamtspannung verdoppelt, der Gesamtstrom bleibt gering, und die Gesamtenergie wird schneller verbraucht. 2. Bei einem parallelen Zusammenschluss teilen sich Ströme auf, und jede Komponente beeinflusst die Gesamtlaufzeit.",
-  "antwortoption": "D"
-}

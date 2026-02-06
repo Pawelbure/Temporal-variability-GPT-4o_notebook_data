@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Aufgabe bezieht sich auf Kombinationen von Batterien und Glühbirnen und deren Auswirkungen auf die Leuchtzeit. Annahmen: Konstant bleibende Widerstände und ideale Batterien, deren Energieinhalt unabhängig von der Last bleibt. Der Effekt aus angewandter elektrischer Spannungsnormierung (Serienschaltung der Batterien erhöht Voltage) und Stromaufteilung (parallele Verbraucher) wurde berücksichtigt. Für jeden Fall wird die Spannungs- und Stromeigenschaft sowie die Energieverteilung berücksichtigt.",
-  "antwortoption": "B, D"
-}

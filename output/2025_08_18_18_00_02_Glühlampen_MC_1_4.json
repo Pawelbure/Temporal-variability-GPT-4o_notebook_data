@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, sprechen wir zunächst über die relevanten Annahmen und physikalischen Konzepte. Die Energie, die jede Batterie liefert, ist begrenzt, und die Lampe verbraucht Energie in Abhängigkeit von Spannung und Strom. Für eine konstante Helligkeit und Widerstand hat die Leistung jeder Glühlampe die Formel P = V²/R, wobei V die angelegte Spannung und R der Widerstand ist. Die Zeit, für die die Lampe leuchtet, entspricht der verfügbaren Batterieenergie geteilt durch die Leistungsaufnahme. In den angegebenen Verbindungen ergeben sich:\n\nA) In Serie (Batterien und Lampen): Spannung verdoppelt, Stromviertel. Zeit t. -> Unmöglich.\nB) Serie Batterien, Parallel Lampen: Spannung verdoppelt, -> Zeit t/2\nC) Parallel Batt, Serie Lamp: Spannung konstant, Zeit t PASST NICHT laut ERwartung flasch.\n\nENDE Test",
-  "antwortoption": "B, D"
-}

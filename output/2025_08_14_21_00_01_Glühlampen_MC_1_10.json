@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen und Konzepte\n1. **Energie der Batterie:** Die Energie E, die jede Batterie speichern kann, ist proportional zur Ladung, die sie liefern kann, multipliziert mit der Batteriespannung (E = QV).\n2. **Reihenschaltung:** Bei Reihenschaltung von Batterien addieren sich die Spannungen, die Gesamtenergie verdoppelt sich nicht.\n3. **Parallelschaltung:** Bei Parallelschaltung der Batterien erhöht sich die Ladungskapazität, die Spannung bleibt jedoch konstant.\n4. **Glühlampen**: Die Leistung einer Glühlampe wird durch P = V² / R berechnet (R konstant).\n\n### Analyse der Aussagen\nA) Falsch. Bei Gesamtspannungsverdoppelung in Reihe verdoppelt sich der Strom durch die Glühlampen. Die Energie sinkt quadratisch.\nB) Falsch. Die Parallellampen werden eher sofort zerstört.\nC) Richtig. Die Betriebspannung ist gleich, aber die Energiespeicherung verdoppelt sich.\nD) Falsch angenommen der Energieverbrauch verdoppelt.\n\n",
-  "antwortoption": "C"
-}

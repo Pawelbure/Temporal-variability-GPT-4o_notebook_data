@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu ermitteln, analysieren wir jede Option unter Berücksichtigung der Eigenschaften idealer Batterien und der Stromkreise. Eine Batterie speichert eine feste Energiemenge und liefert eine konstante Spannung; der Widerstand der Glühbirne ist konstant. Daraus ergibt sich, dass bei konstantem Widerstand die Leistung durch jeden Widerstand proportional zum Quadrat der angelegten Spannung ist (P=V^2/R). Nun zur Analyse der Fälle:",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Konfigurationen basierend auf den gegebenen Bedingungen und physikalischen Gesetzen: 1) Der Energieinhalt einer Batterie bleibt konstant. Wird der Strom verdoppelt, so halbiert sich die Betriebszeit. 2) In Serienanordnung verdoppelt sich die Spannung, während die Kapazität konstant bleibt. In Parallelanordnung verdoppelt sich die Kapazität, während die Spannung konstant bleibt. Die durchgeführten Berechnungen führen zu folgender Analyse: Bei A ist die Energie entsprechend der doppelten Spannung schneller verbraucht, ≈t/4 Betriebszeit. Bei B führen doppelte Spannung und paralleler Widerstandsaufteilung ≈t/2. Bei C erhöht sich die Betriebszeit durch verdoppelte Kapazität ohne Stromwertänderung auf 2t, und D bleibt bei t durch ideale Parallelanordnung. Zusammenfassend sind Aussagen C und D korrekt.",
-  "antwortoption": "C, D"
-}

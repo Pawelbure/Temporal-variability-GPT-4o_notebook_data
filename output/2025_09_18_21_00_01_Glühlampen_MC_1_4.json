@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe korrekt zu lösen, analysieren wir jede Option einzeln unter Annahme idealisierter Bedingungen: gleiche Batterien, gleichem Widerstand der Glühlampen und Vernachlässigung von Leitungsverlusten. Die Zeit, t, ist proportional zur gespeicherten Energie in der Batterie und umgekehrt proportional zur Leistungsabgabe an die Last. 1) Im Fall von Batterien und Lampen in Serie verdoppelt sich die Spannung, wobei der Strom durch die Lampenschaltung für jede Lampe halbiert wird, was die Energie doppelt teilt, so dass jede Lampe eine Zeit t/2 erhält. 2) Für Batterien in Serie und Lampen parallel bleibt der Gesamtstrom proportional zur Spannung, wird aber auf zwei Lampen aufgeteilt, sodass jede Hälfte der gespeicherten Energie und daher t/2 erhält. 3) Für Batterien und Lampen parallel ist der Stromverlauf der gleiche, sodass jede Lampe für eine Zeit von t arbeitet.",
-  "antwortoption": "D"
-}

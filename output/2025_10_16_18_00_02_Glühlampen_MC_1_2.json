@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir jede Verbindung der Batterien und Glühlampen: \n1. Batterien in Serie, Lampen in Serie: Die Spannung verdoppelt sich, aber der Strom halbiert sich. Die Leistung jeder Lampe bleibt gleich, sodass die Betriebdauer halbiere, daher wäre korrekt etwa t/2 und nicht t/4. Aussage A ist falsch.\n2. Batterien in Serie, Lampen parallel: Spannung erhöht, Stromaufteilung gleich. Verdoppelt die Spannung führt zu mehr Leistung für jede Lampe - Aussage Teilweise korrekt.\n3. Parallelschaltung Batterien in Serie: Verdoppelte Kapazität, Lampe Leistungsreiz erhöht.\n4. Parallelschaltung Lampe Batterie gewährleistet Reiz Normkontrolle.",
-  "antwortoption": "D"
-}

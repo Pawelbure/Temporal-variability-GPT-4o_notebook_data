@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier Szenarien quantitativ unter der Annahme idealer Bedingung wie verlustfreier Leitungen, gleichbleibender Batteriespannung bei Entladung und konstantem Glühlampenwiderstand. Wir stellen die beiden Batterien mit Kapazität C dann in Parallelschaltung (resultierende Kapazität = 2C, Spannung = U) oder in Serieschaltung (resultierende Kapazität = C, Spannung = 2U) dar, und ebenso die Lampen, deren Widerstand wir konstant R setzen, in Parallelschaltung (resultierender Widerstand = R/2) oder in Serieschaltung (resultierender Widerstand = 2R). Durch Berechnungen der im Kreislauf fließenden Ströme und der Entladezeit der Batterien unter diesen Bedingungen können wir die entsprechenden Aussagen evaluieren und die korrekten Schlussfolgerungen treffen.",
-  "antwortoption": "B, D"
-}

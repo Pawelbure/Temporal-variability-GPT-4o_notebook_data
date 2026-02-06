@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Frage zu lösen, betrachten wir mehrfach die elektrischen Eigenschaften von Batterien und Glühbirnen sowie die unterschiedlichen Schaltungen (parallel oder seriell), die deren Verhalten beeinflussen: Eine Batterie liefert eine bestimmte Kapazität C in Ah und hat eine Spannung V. Eine Glühbirne mit konstantem Widerstand R zieht bei dieser Spannung einen festen Strom I=V/R. Bei konstanter Belastung entladen sich Batterien gleichförmig. Wenn die Batterien in Serie geschaltet werden, verdoppelt sich bei identischen Batterien die Gesamtspannung (2V), aber die Kapazität bleibt C. Wenn sie parallel geschaltet werden, bleibt die Spannung V konstant, jedoch verdoppelt sich die Kapazität auf 2C. 1.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, nehmen wir an, dass die Kapazität jeder Batterie C, die Spannung V, und der Widerstand jeder Glühlampe R konstant ist. Die Energie jeder Batterie ist C·V²; die Leistung jeder Lampe ist V²/R, wenn Spannung V angelegt wird.\n\nEine Serie- oder Parallelschaltung von Batterien und Glühlampen beeinflusst, wie Spannung und Strom verteilt werden:\n\n- **Fall A:** Batterien und Lampen in Serie verdoppeln Spannung an Lampen; resultierender Strom wird reduziert, daher kürzere Laufzeit.\n- **Fall B:** Batterien in Serie führen höhere Spannung, parallele Lampen teilen Spannung gleichermaßen; Batterieverbrauch entspricht halber Zeit (t/2).\n- **Fall C:** Batterien parallel liefern gleiche Spannung, Glühlampen in Serie teilen Spannung, Laufzeit bleibt.\n- **Fall D:** Batterien und Lampen parallel versorgen für gleiche Zeit.",
-  "antwortoption": "B"
-}

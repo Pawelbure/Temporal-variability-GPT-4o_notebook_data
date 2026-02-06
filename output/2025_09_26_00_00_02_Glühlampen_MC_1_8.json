@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Frage zu analysieren, gehen wir wie folgt vor: Die Batterie gibt Energie ab, bis ihre gespeicherte Ladung verbraucht ist. Gegeben, dass die Leistung einer Lampe konstant bleibt, unterliegt die Dauer des Leuchtens den Gesetzen des fortwährenden Stromflusses im Stromkreis. Annahmen: Die internen Widerstände der Batterien und der Glühlampen werden vernachlässigt, und die Batterien sind ideal. Anhand der bereitgestellten Szenarien berechne ich im Detail die resultierenden Zeitspannen unter Nutzung der seriellen und parallelen Schaltungen sowie des Ohm'schen Gesetzes und des Energiekonservationsprinzips. Die korrekten Aussagen sind A und D, da die andere Schaltungsanordnung entweder unrealistisch ist oder nicht zu der angegebenen Zeit passt.",
-  "antwortoption": "A, D"
-}

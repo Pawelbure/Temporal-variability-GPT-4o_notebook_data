@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, orientieren wir uns an folgenden Annahmen und Konzepten: 1. Die Spannung einer Batterie ist V, und sie liefert einen konstanten Strom I bis zur vollständigen Entladung nach Zeit t. 2. Der Widerstand einer Glühlampe ist R. 3. Wenn Glühlampen in Serie geschaltet sind, steigt der Gesamtwiderstand, während bei Parallelschaltung der Gesamtwiderstand sinkt. 4. Die Schaltungsart der Batterien beeinflusst die Gesamtspannung oder Kapazität. Durch Analyse der Schaltungsarten: (A) Batterien und Glühlampen in Serie: doppelter Widerstand, doppelter Strom, Entladezeit t/4. (B) Batterien in Serie, Glühlampen parallel: halber Widerstand, doppelter Strom, Entladezeit t/2. (C) Batterien parallel, Glühlampen in Serie: doppelter Widerstand, halber Strom, doppelte Zeit 2t. (D) Batterien und Glühlampen parallel: Originalverhältnisse, Zeit t.",
-  "antwortoption": "C, D"
-}

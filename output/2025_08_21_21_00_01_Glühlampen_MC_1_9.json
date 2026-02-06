@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Laufzeit der Glühlampen für verschiedene Schaltungsanordnungen zu analysieren, sind folgende Annahmen und Konzepte relevant: Jede Batterie liefert eine konstante Spannung und Kapazität, und die Glühlampe hat einen festen Widerstand. Eine Batterie hat eine Lebenskraft von Energie E = t * P_Lampe, wobei P_Lampe die Leistung der Glühlampe ist. Wenn die Batterien und Lampen in unterschiedlichen Anordnungen geschaltet werden, ändert sich die Spannung (bei Serienschaltung) und der Gesamtstrom (bei Parallelschaltung), was die Laufzeit der Glühlampen beeinflusst. Die Lösung wird so identifiziert: A) Schaltungen der Batterien und der Gesamtspannung, B), C), und Schließlich D) die kombinierte Analyse für den Parallelanwendungsfall.",
-  "antwortoption": "B"
-}

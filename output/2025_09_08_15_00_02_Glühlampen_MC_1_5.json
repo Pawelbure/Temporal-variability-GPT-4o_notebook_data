@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen: Unterstellen wir Ideale Batterien (konstante Spannung bis zur vollständigen Entladung) und konstante elektrische Werte der Glühlampen. Physikalische Basis: Enthalten sind Ohmsches Gesetz und die Energie- bzw. Leistungsgesetze elektrischer Systeme sowie die Eigenschaften serieller und paralleler Schaltungen für derartige Elemente. Durch Berechnung der adäquaten Laufzeiten der Lampe für die angegebenen Konfigurationen und Vergleiche erhalten wir: (A) falsch, die Lampe würde bedeutend weniger als t/4 leuchten; (B) korrekt, die Laufzeit beträgt zirka t/2; (C) falsch, die Lampe würde weniger als 2t leuchten; (D) korrekt, die Traditionelle Laufzeit von t ohne verdoppeltem Current durch Parallellachtung der Batterien ist möglich.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese problematische Konfiguration zu analysieren, betrachten wir die Annahmen und relevanten Konzepte: Jede Batterie liefert eine konstante Energie, die das Produkt der Spannung (V) und der Ladung darstellt, die sie bereitstellen kann. Die Glühlampe hat einen festen Widerstand (R) und verbraucht folglich eine konstante Leistung in Abhängigkeit von der anliegenden Spannung. Bei seriellen und parallelen Schaltungen von Batterien und Lampen ändern sich die Ströme und Spannungen aber nicht proportional, wodurch die Energiemenge, die jede Lampe erhält, variiert. Für die verschiedenen Schaltungen analysieren wir die Konstellationen jeweils im Detail, wobei wir die Verlustmechanismen in den Anschlusselementen vernachlässigen. Mit diesen Prinzipien erhalten wir die korrekten Vorhersagen für die Leuchtzeit von zwei Glühlampen unter den gegebenen Schaltungsbedingungen.",
-  "antwortoption": "B, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir mehrere Szenarien mithilfe elektrischer Schaltkreisanalysen und der Energieerhaltung. Hierbei sind folgende Annahmen und Bedingungen gegeben: 1. Jede Batterie liefert unter konstanter Spannung V eine Zeit t lang konstante Energie. 2. Die Glühlampen haben einen konstanten Widerstand R. 3. Die Kapazität jeder Batterie sei Q = I*t, wobei I der Strom ist. \n\n1. **Szenario A**: Wenn die Batterien und Glühlampen in Serie geschaltet sind, beträgt die Gesamtspannung 2V, während der Gesamtwiderstand 2R ist. Der Strom im Schaltkreis ist I = V/R, und da die Stromversorgungsdauer durch die geringste Kapazität dominiert wird, beträgt die Funktionszeit t.\n\n2. Analyse der anderen Szenarien:\n- **B)** Bei Batterien in Serie und Glühlampen parallel wird...\n- **...\n\n...\n\nNach ausführlicher Analyse aller vier genannten Konstellationen ergibt sich die richtig Wahlen:",
-  "antwortoption": "B, D"
-}

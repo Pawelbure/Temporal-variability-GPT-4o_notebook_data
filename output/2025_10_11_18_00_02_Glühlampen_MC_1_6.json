@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Zeitdauer der Beleuchtung der Glühlampen zu berechnen, analysieren wir die gegebene Schaltung und Bedingungen. Annahmen: Batterien besitzen eine konstante Spannung, Glühlampen haben einen konstanten Widerstand, Batterien liefern Energie proportional zu ihrer Kapazität und Energieverbrauch entspricht P=I²R oder P=V²/R in Abhängigkeit von der Verbindung. Berechnungen für die vier Szenarien...\n\nA) Wenn beide Batterien in Serie und Glühlampen ebenfalls in Serie sind, verdoppelt sich die Spannung, Widerstand vervierfacht sich daher, und der Strom ist halbiert. Jede Batterie entladet sich somit um t/4 Zeit schneller.\n\nB) Batterien in Serie erhöhen Spannung, parallele Glühlampen erhalten jede Spannung der Batterien durch dann individuellen Strom pro Lampe halbiert; effektive Belastungszeit wird t/2 betrieben.\n\nDaher korrekte Antwort: A, B.",
-  "antwortoption": "A, B"
-}

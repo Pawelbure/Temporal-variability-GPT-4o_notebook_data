@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu finden, betrachten wir die Szenarien: Gegeben ist, dass jede Batterie eine Lampe für eine Zeit t bei konstanter Spannung und gleichbleibendem Widerstand betreiben kann, was eine konstante Stromaufnahme impliziert. Damit verwendet eine Batterie eine feste Energiemenge. 1. Batterien in Serie (doppelte Spannung): a) Glühlampen in Serie erhalten denselben Strom wie eine einzelne Lampe und ziehen somit denselben Strom über beide Lampen. Ergebnis: Beide Lampen leuchten t. b) Glühlampen parallel zieht jeden Strom wie bei einer und entlädt beide Batterien zusammen, Zeit reduziert halbes t. 2. Batterien parallel (verdoppelte Kapazität) a) Zwei Glühlampen in Serie, halbierter Strom und doppelte Spannung: Gleiche wie einfach. Leuchtzeit: 2t. b) Zwei parallel: Abzugeben reduziert: Entleeren-Kreis verbreitet t. Übertragen Auswahl B hier richtig.",
-  "antwortoption": "C"
-}

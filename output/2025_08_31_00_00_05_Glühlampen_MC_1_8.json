@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahme: Die Batterien und Glühlampen sind identisch. Jede Batterie liefert eine konstante elektrische Leistung P über ihre Entladungszeit t, und jede Glühlampe besitzt einen konstanten Widerstand R. \n 1. Berechnen wir zuerst die power relationships für die Schaltungen. Es sei V die Spannung der Batterie, dann lautet der Strom I_1 durch eine Lampe bei individueller Ansteuerung: I_1 = V/R. Die Entladungszeit ist durch die gespeicherte Energie in der Batterie begrenzt, welches proportional zu t ist und P=Lichtleistung entspricht: W/P = t.\n a) In Serie summiert die Spannungen und beide Lampen teilen den Strom; sie könnten schneller abnehmen.\n b) Relevanz des Wertes beeinflusst Endzeit unterschiedlich.\n c) Parallelisierung führt zu spezifischen Effekten.",
-  "antwortoption": "C, D"
-}

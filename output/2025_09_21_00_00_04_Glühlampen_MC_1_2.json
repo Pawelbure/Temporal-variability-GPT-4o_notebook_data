@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahme: Jede Batterie hat eine konstante Kapazität und Ansatz, bei gegebenem Widerstand den Fluss konstanter Ströme zu analysieren. Für jede Kombination der Schaltungen, betrachten wir Energiefluss und Zeitverteilung. Wir berücksichtigen, wie variable Konfigurationen von Batterien und Lampen die Zeit der Versorgung beeinflussen und ermitteln, durch mathematische Ableitung, Resultatzeit.\n\n- A: Batterien und Glühlampen in Serie: Jede Batterie hat doppelte Spannung, Strom reduziert sich entsprechend, Gesamtverbrauch proportional zu Stärke \\[I^2 R \\].\\n--> Energie proportioniert mit t/4.\n\n- B: Batterien in Serie parallel: Akkumulation von 2U, beide Lampen die gleiche \\[V \\] Versorgung, Unterschied Einzelselbstlaufzeit reduziert Halbeverbrauch.\n\n- C: Beide Parallelschaltungen, GlühlampenImmer unempfelnter Form als 2-bounded.",
-  "antwortoption": "A, C, D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Die Fragestellung behandelt die Nutzung von zwei Batterien und zwei Glühlampen und fordert dazu auf, vier verschiedene Verschaltungsvarianten zu betrachten und deren Auswirkungen auf die Betriebsdauer der Lampen zu analysieren. Annahmen: 1) Die Batteriekapazität und ihre Spannungsabgabe bleiben konstant. 2) Glühlampen besitzen einen konstanten Widerstand R. 3) Der Stromverbrauch der Lampen ist ebenfalls konstant.\\n\\n**A) Batterien und Glühlampen in Serie:**\\n\\n- Die Reihenfolge der Spannung addiert die Gesamtspannung: Vges = 2V. \\n- Der gesamte Widerstand verdoppelt sich: Rges = 2R. \\n- Der Gesammtstrom I = Vges/Rges = 2V/2R = V/R zeigt keinen Unterschied. \\n- Energieverbrauch pro Glühlampe bleibt gleich, daher ist die Lebensdauer gleich t.\\n\\n**B) Batterien in Serie, Lampen parallel:** Gleichspannung wirkt über beide parallelen Lampenwiderstände. Lebensdauer etwa t.\\nC)... etc.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problemstellung zu lösen, analysieren wir die verschiedenen Schaltungsoptionen durch Anwendung des Ohm'schen Gesetzes und der Energiebetrachtung in elektrischen Schaltungen. Wir verwenden die Annahme, dass die Batteriekapazität konstant und elektrisch ideale Lampen vorhanden sind:\\n\\n1. **In Serie geschaltete Batterien und Glühlampen in Serie (Option A):**\\n   Die Spannung der Batteriepaare verdoppelt sich, aber die Gesamtspannung erzeugt durch die Kombination verdoppelt den Strom durch die Lampe (da zwei Lampen in Serie sind, bleibt die Gesamtkapazität gleich). Daher halbiert sich die Zeit nicht sonderlich als erwartet. Aber sie erhöht sich durch mehrfachen durchgedämpft.\\n\\n2. **.....",
-  "antwortoption": "B"
-}

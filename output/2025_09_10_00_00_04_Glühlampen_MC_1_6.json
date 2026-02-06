@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Problematik zu klären, analysieren wir jede der angegebenen Konfigurationen gründlich, unter der Annahme, dass die Glühlampen und Batterien ideale Bauelemente sind. 1) Bei Schaltungen in Serie addieren sich die Spannungen der Batterien, während der Strom sich nicht ändert. Wenn zwei Lampen seriell betrieben werden, teilt sich die Spannung über die Lampen hinweg, was ihren Strom gegenüber einer einzelnen Batterie-Lampe-Konfiguration reduziert. 2) Bei Parallelschaltungen addieren sich die Ströme der Batterien für den Betrieb paralleler Lampen, während die Spannung konstant bleibt, was die Verfügbarkeit der Energie je Lampe verlängert und in Summe die Leuchtzeit gleicht. 3) Energieverbrauch ist proportional zur Stromaufnahme, die von Spannung und Widerstand abhängt.",
-  "antwortoption": "D"
-}

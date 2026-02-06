@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Annahmen und Idealisierungen:\\n- Die Batteriespannung beträgt V, der Widerstand jeder Glühlampe beträgt R. Die Batteriekapazität und der Widerstand der Glühlampen bleiben konstant.\\n\\nRelevante Konzepte:\\n- Ohmsches Gesetz: V=IR\\n- Leistung: P=V*I\\n- Energie: Energie=Leistung*Zeit = UIt\\n  \\nAnalyse:\\n- A) Batterien und Glühlampen in Serie: Der Gesamtwiderstand verdoppelt sich, der Strom wird halbiert. Die Zeit verringert sich proportional zu I^2R, also keine Änderung: t.\\n- B) Batterien in Serie, Glühlampen in parallel: Spannung verdoppelt, Leistung pro Glühlampe wird größer, Lebensdauer verringert sich\\n...\\nDetails unten:",
-  "antwortoption": "B, D"
-}

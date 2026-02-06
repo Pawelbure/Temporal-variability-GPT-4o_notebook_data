@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen: Die Batterien haben dieselbe Spannung V und Kapazität Q. Die Lampen sind identisch mit einem konstanten Widerstand R. Die Verbindungen und Batterien sind ideal und ohne Verlust.\n\n2. Physikalische Betrachtungen:\n  - Leistung einer Lampe P = V^2 / R\n  - Energie einer Batterie = Q * V\n  - Gesamtenergie multipliziert sich nicht durch Parallelschaltung der Batterien.\n\n3. Fallkonstellationen analysieren:\n  - A) Serie Batterie-Lampe: Zusätzliche Batterien und Lampen verdoppeln Spannung für Lampen. Energieverbrauch steigt, somit kürzere Betriebszeit.\n  - B) Serielle Batterien, parallele Lampen: Verdopplung der Spannung, zwei parallele Lampen halbieren Kapazität je Lampe. Laufzeit etwa halbiert.\n  - C) Parallele Batterien, serielle Lampen: Kapazität verdoppelt sich, Spannung für Lampen sinkt: Lampen lang laufend modus.\n  - D) Volle Parallelschaltung: Laufzeit entspricht Einzelkonstrukt.",
-  "antwortoption": "D"
-}

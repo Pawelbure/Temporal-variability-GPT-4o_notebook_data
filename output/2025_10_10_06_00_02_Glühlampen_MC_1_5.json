@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "### Annahmen:\n- Jede Batterie hat eine Kapazität von Q Ah und eine Spannung von V Volt.\n- Jede Glühlampe hat einen Ohmschen Widerstand R und zieht bei Spannung V einen Strom I (I = V/R).\n- Für die Glühlampen ist die Leistung P konstant: P = V² / R.\n- Die Gesamtlaufzeit ergibt sich durch die verfügbare Energie geteilt durch den verbrauchten Strom.\n\n### Analyse:\n\n**a) Batterien und Lampen in Serie:**\n- Gesamspannung: 2V.\n- Gesamtwiderstand: 2R (Glühlampen in Serie).\n- Gesamtstrom: I₁ = V/(2R).\n- Verfügbare Energie ist die Gesamtladung der einzeln belasteten Batterien, Gesamtstrom proportional zu Einzelstrom. Ergebnis: kürzere Laufzeit im Vergleich zu Einzelbetrieb, Laufzeit: t.\n\n**b) Batterien in Serie, Lampen parallel:**\n- Gesamspannung : 2V.\n- Einzelstrom: \n**c,d): käme..",
-  "antwortoption": "D"
-}

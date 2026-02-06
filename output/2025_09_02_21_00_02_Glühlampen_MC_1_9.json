@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir analysieren die Vorschläge einzeln: Wenn Batterien und Lampen in Serie sind (A), wird sich die Spannung addieren, aber der Gesamtwiderstand verdoppelt sich, wodurch der Strom gleich bleibt; die Batterien entleeren sich entsprechend schneller. Wenn Batterien in Serie und Lampen parallel (B) geschaltet sind, fließt doppelter Strom, die Entladung verläuft doppelt so schnell. Wenn Batterien parallel und Lampen in Serie (C) geschaltet sind, bleibt die Spannung gleich, aber der Widerstand steigt, der Strom reduziert sich; hierbei bleibt der Antrieb durch doppelte Kapazität stabiler. Bei Batterien und Lampen parallel (D) verminderter Strom pro Batterie, identisch zu einer Lampe bei t Verfügbarkeit von Kapazität. Fazit: Nur Option D ist korrekt.",
-  "antwortoption": "D"
-}

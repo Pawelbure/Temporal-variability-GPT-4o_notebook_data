@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe korrekt lösen zu können, nehmen wir an, dass die Batterien über eine konstante Spannung V und eine Kapazität C verfügen. Der Widerstand der einzelnen Glühlampe beträgt R, und sie verbraucht eine konstante Leistung. Des Weiteren gehen wir davon aus, dass jede Batterie unabhängig Energie liefert und keinen internen Widerstand aufweist. Die angelegte Spannung bestimmt den durch die Schaltung fließenden Strom, wodurch die Verluste und die Zeit berechnet werden können. Wir analysieren jede der vier Aussageoptionen: Bei serieller Batterieverbindung addiert sich die Spannung, während parallele Verbindungen die Kapazität addieren. Wenn die Lichter ebenfalls seriell geschaltet werden, addieren sich die Widerstände, wodurch der Strom reduziert wird.",
-  "antwortoption": "D"
-}

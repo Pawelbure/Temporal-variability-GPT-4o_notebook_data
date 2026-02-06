@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Dieses Problem erfordert eine Analyse der elektrischen Schaltungen und der Energieverteilung in den Batterien und Lampen. Wir nehmen an, dass jede Batterie eine konstante Spannung V und Kapazität Q hat und dass der Innenwiderstand der Batterien vernachlässigbar ist. Weiterhin nehmen wir an, dass der Widerstand jeder Glühlampe R konstant bleibt. Gegeben diese Annahmen können wir für die verschiedenen Szenarien folgende Zeitdauern ermitteln: Bei A wird der Gesamtwiderstand der Serienschaltung erhöht, was die Betriebdauer stark verkürzt; bei B sind die Lampen parallel und ziehen daher den doppelten Strom der Serie, was den Nutzen verringert; bei C erhöht die Parallelisierung der Batterien die Kapazität, was die Lauflänge verdoppelt; schließlich teilen sich bei D die parallelisierten Lampen die Kapazität der Batterien, was eine umfassende Zeitdauer von t ermöglicht. Schlussfolgernd ist nur Option D korrekt.",
-  "antwortoption": "D"
-}

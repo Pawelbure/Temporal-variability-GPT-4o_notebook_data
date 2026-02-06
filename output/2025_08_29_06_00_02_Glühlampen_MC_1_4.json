@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Wir untersuchen jede der benannten Konfigurationen entsprechend der Angaben und nutzen Ohmsches Gesetz sowie Energiebetrachtungen, um die Dauer der Stromversorgung der Glühlampen durch die Batterien zu berechnen. Annahmen beinhalten gleitende ideale Batteriecharakteristik (konstante Spannung und Kapazität) sowie einen idealen Widerstand der Glühlampen. Bei paralleler Schaltung der Batterien bleibt die Spannung gleich, der Stromfluss teilt sich jedoch, was effektiv die Kapazität der Batterie verdoppelt. Bei Reihenschaltung der Batterien addieren sich die Spannungen, während die Kapazität unverändert bleibt. Für parallele Glühlampenschaltung halbiert sich der Widerstand, was zu erhöhtem Stromfluss führt, und bei Serienschaltung verdoppelt sich der Widerstand, was den Strombedarf reduziert. Nach Verifikation der einzelnen Szenarien ist folgende Lösung konsistent.",
-  "antwortoption": "B, D"
-}

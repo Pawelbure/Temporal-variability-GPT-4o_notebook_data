@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um das Problem zu analysieren, werden die folgenden Annahmen getroffen: 1) Jede Batterie hat dieselbe Kapazität und Spannung; 2) Die Glühlampen haben identische Widerstände; 3) Der Spannungsabfall bei entladener Batterie ist abrupt und als Idealmodell angesehen. Es ist weiterhin bekannt, dass der Gesamtstrom durch die Lampen das Entladen der Batterien bestimmt. Wir überprüfen die Aussagen systematisch: Für A, die doppelte Spannung und erhöhter Widerstand führen zu reduziertem Strom, der Zeitraum beträgt t/2, nicht t/4. Für B, die Glühlampen bleiben parallel und die Spannungserhöhung hält den Strom konstant, da sich der Widerstand halbiert, somit kein Halbieren des Zeitraums, daher falsch. Für C und D, parallele Batterien verdoppeln den Zeitraum, richtig ist der Betrieb für D mit t.",
-  "antwortoption": "D"
-}

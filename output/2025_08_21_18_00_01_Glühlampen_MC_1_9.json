@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Annahmen und Vereinfachungen: Gehen wir von idealisierten Batterien und Glühlampen aus, ohne Innenwiderstand und Temperaturabhängigkeit des Widerstandes. Jede Batterie liefert Energie E, die konstante Leistung (P) der Lampe ergibt sich durch P = U² / R mit konstantem R. 2. Analyse der Schaltungen und Zeitberechnungen: (A) Batterien und Lampen in Serie: Gesamtspannung verdoppelt, Strom halbiert, Energiebedarf pro Lampe sinkt auf T/2. Echter Wirkungszeit t ist somit t/2. Entwurf fehlerhaft. (B, C) und (D): Je nach Fall parallelisieren Versorgungs- und Geräte-Einheiten. Die Berechnungen ergeben: B = T/2, C = T 2 und D = T.",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jede Schaltungsart einzeln. Wir nehmen folgende Annahmen und vorgaben an: Jede Batterie hat dieselbe Kapazität und liefert einen konstanten Strom. Gegebenenfalls wirken die durch die Batterien gelieferten Spannungen additiv bei Reihenschaltung und bleiben identisch bei Parallelschaltung. Die Glühlampen haben denselben Widerstand, und die Energiemenge, die sie benötigen, hängt proportional zu ihrer Nutzungsdauer und der elektrischen Leistung ab. Anhand dieser Annahmen kann man die Wechselwirkung innerhalb der Schaltungen ermitteln. Beispielweise erhöht die Reihenschaltung von Batterien die angelegte Spannung, während dies auch den Stromfluss beeinflusst. Wenn jedoch zwei Glühlampen in Serie geschaltet werden, erlaubt dies eine niedrigere Leistungsaufnahme pro Einheit, wodurch ihre Lebensdauer steigt. Entsprechend überprüfen, vergleichen und berechnen wir die Szenarien.",
-  "antwortoption": "B"
-}

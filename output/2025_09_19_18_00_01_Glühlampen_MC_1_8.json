@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um diese Aufgabe zu analysieren, nehmen wir an, dass alle Batterien identisch und ideal sowie die Glühlampen ebenfalls ideal sind. Batterien haben eine feste Spannung U und eine gespeicherte Energiemenge W proportional zu ihrer Kapazität. Die Glühlampen haben einen festen elektrischen Widerstand R, und ihre Leistungsaufnahme P ist gegeben durch P = U²/R, wobei U die anliegenden Spannung ist. Über vier Szenarien hinweg untersuchen wir die Betriebszeit t der Lampen in Bezug auf verschiedene Schaltungsarten der Batterien und Glühlampen.",
-  "antwortoption": "D"
-}

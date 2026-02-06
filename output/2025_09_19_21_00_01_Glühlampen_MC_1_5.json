@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Um die korrekte Antwort zu finden, legen wir die elektrischen Prinzipien der Parallelschaltung, Serienschaltung und Energieabgabe zugrunde. Grundannahme: Die Kapazität der Batterie (gesamt verfügbare Energiemenge) wird nicht von der Spannung beeinflusst, sondern ausschließlich von ihrer Gesamtlaufzeit. 1) Im Fall der Serienschaltung wird die Spannung verdoppelt, während der Strom durch das System erhalten bleibt, aber die Energieübertragung an den Verbraucher erhöht sich quadratisch. 2) Bei der Parallelschaltung bleibt die Spannung unverändert, aber die verfügbare Energie verdoppelt sich, was zu einer Verdopplung der Betriebszeit führt.",
-  "antwortoption": "D"
-}

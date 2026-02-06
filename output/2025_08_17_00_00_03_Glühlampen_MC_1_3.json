@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Gegegeben ist, dass eine Batterie eine Glühlampe für die Zeit t bei konstanter Helligkeit (Leistung) betreiben kann. Daraus folgt, dass die gespeicherte Energie in der Batterie unabhängig vom Betriebszustand der Lampe konstant ist. Diese Energie ergibt sich als losgelöster Energieinhalt pro Zeiteinheit multipliziert mit der Zeit t. Wenn zwei Batterien für zwei Lampen verwendet werden, ergeben sich unterschiedliche Szenarien je nach Schaltungsaufbau: \n\nBetrachten wir zuerst die Optionen:\n\nA) Batterien in Serie erhöhen die Spannungs- und Lampe ebenfalls in Serie - hier bewirkt der doppelte Widerstand eine Vervierfachung des Gesamtverbrauchs, daher t/4.\n\nB) Bei Serienbatterien und parallel geschalteten Lampen bleibt die ursprüngliche Zeit t/2.\n\nC) In Parallelbetrieb Batterien Teil entladungkreis verdoppelt Ladedauer...\n\nSo final korrekt war:\n\nOption: D",
-  "antwortoption": "D"
-}

@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "1. Zur Beantwortung der Aufgabe nehmen wir ideale Batterien an, die eine konstante Spannung liefern, und Glühlampen mit einem festgelegten Widerstand, unabhängig von der angelegten Spannung und Betriebsdauer. Batteriespeicher wird durch die Kapazität charakterisiert, die proportional zur maximal entnehmbaren Ladungsmenge ist. Elektrische Leistung wird durch P=U^2/R für konstante Spannung quantifiziert, während die entladene Gesamtenergie als Produkt von Leistung und Zeit betrachtet wird.2. Schaltungen analysieren wir auf Energiegrundlage: (A) Serienschaltung erhöht Spannung, was für den Strombedarf durch die Lampenschaltung berücksichtigt wird; Batterien teilen die Energieäquivalenz proportional. (B) und (C) umfassen Kombinationen paraller/sereille Anpassung, welches Details um Erhaltungskapitel durch Komponenteneverlinkungen demonstrieren",
-  "antwortoption": "D"
-}

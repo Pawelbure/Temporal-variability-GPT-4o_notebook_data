@@ -1,4 +1,0 @@
-{
-  "loesungsweg": "Lösungsschritte:\n1. Es wird angenommen, dass die Batterien jeweils eine Konstante Spannung und Kapazität (Ah) besitzen und die Glühlampen einen konstanten Widerstand aufweisen.\n2. Analyse der Situation für jede Schaltungsvariante:\n\t- A) Batterien und Lampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich, der Strom bleibt konstant, daher bleibt die Betriebszeit unverändert auf t.\n\t- B) Batterien in Serie, Lampen parallel: Der Strom verdoppelt sich wegen der parallelen Last, die Spannung verdoppelt sich, Energie wird doppelt so schnell verbraucht, Laufzeit: t/2.\n\t- C) Batterien parallel, Lampen in Serie: Spannung bleibt konstant, Laufzeit doppelt wegen verdoppelter Kapazität, Gesamtspannung ist unverändert, Laufzeit 2t.\n\t- D) Batterien und Lampen parallel: Der Strom teilt sich, die Kapazität auch, Laufzeit ist wie bei Einzelbetrieb, daher t.",
-  "antwortoption": "C, D"
-}
