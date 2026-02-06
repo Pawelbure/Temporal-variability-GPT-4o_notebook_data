@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Vor der Analyse ist es wichtig, anzunehmen, dass die Batterien ideal identisch geladen und die Glühlampen mit identischen Widerständen ausgestattet sind. Unter diesen Annahmen berechne ich:\n1. Falls die Batterien und Glühlampen in Serie geschaltet sind, verdoppelt sich sowohl die Spannung als auch die benötigte Stromstärke. Da die Batteriekapazität konstant bleibt, ist die Betriebszeit t/4.\n2. Bei Batterien in Serie und Lampen parallel bleibt der Gesamtstrom pro Batterie gleich, verteilt sich aber je Lampe. Die Laufzeit ist daher t/2.\n3. Batterien parallel und Lampen in Serie lässt das doppelte der Kapazität mit halber Stromlast pro Lampe zu, sodass sich die Leuchtdauer auf 2t erhöht.\n4. Bei Batterien und Lampen parallel bleibt beides wie ursprünglich, also leuchten die Lampen für eine Zeitdauer t.",
+  "antwortoption": "B, C, D"
+}

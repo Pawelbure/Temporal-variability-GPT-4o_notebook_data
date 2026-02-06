@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. **Annahmen und Vereinfachungen:** Die Batterien liefern konstante Spannung im Betrieb, bis sie leer sind; die Glühlampen haben konstanten Widerstand; die Effizienzverluste sowie andere Einflüsse wie Temperaturänderungen werden ignoriert. Die geschalteten Elemente beeinflussen sich nicht gegenseitig. \n\n2. **Physikalische Konzepte und Berechnungen:** a) Wenn Batterien in Serie geschaltet sind, addieren sich ihre Spannungen. Die Laufzeit der Lichter reduziert sich gemäß der erhöhten Spannung, weil mehr Strom zieht. b) Bei Parallelschaltung bleibt die Spannung gleich wie bei einer Batterie, aber die Kapazität verdoppelt sich, was zu einer Verdoppelung der Laufzeit bei konstanter Leistungsaufnahme pro Lampe führt.",
+  "antwortoption": "B"
+}

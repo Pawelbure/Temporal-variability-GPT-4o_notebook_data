@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Spannung der Batterie bleibt konstant, Leistung der Glühlampe ebenfalls. Serien- oder Parallelschaltung können Verhalten der gesamten Schaltung beeinflussen. \n\nLösungen: \n\n- **A)** In der beschriebenen Konfiguration erhöht sich der Widerstand (2R), wodurch der Strom für beide Lampen gemeinsam sich halbiert. Genutzte Energie halbiert sich aufgrund länger laufender Zeit und viertelt sich nicht. [Unrichtig]\n\n- **B)** Spannungsverdopplung verdoppelt den Einzelstrom, was zu 4-facher Leistung pro Lampe führt und folglich deren Betriebszeit viertelt. [Richtig]\n\n- **C)** Spannung bleibt durch parallele Batterien konstant, was den Betrieb verlängern durch gleichen Strom (Verdopplung Energie). [Richtig]\n\n- **D)** Strom halbiert sich durch parallele Lampenvorschaltung. Betriebszeit bleibt gleich (einfache pro k).\n\nAntwortmöglichkeiten anschauen und Text korrekt interpretieren.",
+  "antwortoption": "C"
+}

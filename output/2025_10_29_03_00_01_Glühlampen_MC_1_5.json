@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: 1. Die Batterien haben einen konstanten Innenwiderstand und eine konstante Kapazität. 2. Die Glühlampen haben einen konstanten Widerstand. 3. Wir berücksichtigen den Energieverbrauch und Batteriespannung rechnerisch idealisiert. Grundwissen: Die Energie jeder Batterie ist konstant und wird in Verbindung mit der Ladung durch die Formel U·I·t beschrieben. Lösungen: Für Szenarien mit Batterien und Glühlampen in serieller oder paralleler Schaltung wird die Strom- und Spannungsverteilung analysiert. Schließlich ermitteln wir, dass Aussage A korrekt ist.",
+  "antwortoption": "A"
+}

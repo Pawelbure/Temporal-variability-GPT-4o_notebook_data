@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Zeit, die eine Batterie eine Glühlampe mit konstanter Helligkeit antreibt, ist proportional zur gespeicherten Energie in der Batterie und dem Stromverbrauch der Lampe. Hier werden verschiedene Schaltungen betrachtet: Serielle und parallele Konfigurationen von Batterien und Lampen, wobei die Widerstandswerte und Energieverteilungen berücksichtigt werden. In einer seriellen Anordnung addieren sich die Spannungen der Batterien, der Strom bleibt jedoch gleich. Bei parallelen Anordnungen erhöht sich die Kapazität der Energiequellen, wobei die Spannung konstant bleibt. Durch Verhältnisse der Stromflüsse zu den Batterien ergeben sich unterschiedliche Zeiten, die anhand der Energiegestaltungen berechnet werden können.",
+  "antwortoption": "B"
+}

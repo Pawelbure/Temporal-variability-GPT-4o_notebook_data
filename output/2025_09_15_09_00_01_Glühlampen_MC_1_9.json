@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Ich werde zunächst die gegebenen Annahmen und physikalischen Konzepte einführen. Wir betrachten ideale Batterien und Glühlampen. Der Energieinhalt jeder Batterie bleibt konstant und der Widerstand der Glühlampe ändert sich nicht. Die von einer Batterie bereitgestellte elektrische Leistung entspricht ihrer Spannung multipliziert mit dem Strom. Betrachten wir die verschiedenen Schaltungen: 1) Wenn die Batterien und Glühlampen seriell geschaltet sind, fließt derselbe Strom durch beide Lampen, wobei die Batteriespannungen addiert werden. Die Lampe leuchtet in dieser Konfiguration über kürzere Zeit. 2) Bei Reihenschaltung der Lampen mit parallelen Batterien ist der Stromfluss reduziert, was zu einer längeren Leuchtdauer führt. Nach berechneter Analyse zeigen sich die Laufzeiten verschiedener Konfigurationen. Insbesondere ergeben sich durch Energiematching und Leistungsverhältnisse detaillierte Ergebnisse wie folgt:",
+  "antwortoption": "B, D"
+}

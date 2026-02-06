@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier Konfigurationen der Schaltungen unter Berücksichtigung der Strom- und Leistungsbeziehungen, die die Laufzeit beeinflussen. Wir nehmen an, dass die Kapazität der Batterien gleich ist und die Spannung jeder Batterie unverändert bleibt, solange sie nicht vollständig entladen ist. Für jede Aussage ermitteln wir die Laufzeit der Glühlampen anhand des durch die Schaltung fließenden Stroms, wobei die Batterieenergie konstant ist. Nach detaillierter Berechnung stellen wir fest:",
+  "antwortoption": "B, D"
+}

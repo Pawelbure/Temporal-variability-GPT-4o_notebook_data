@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und relevante Konzepte:\\n- Einzelne Batterie hat eine konstante Anzahl an elektrischen Ladungen, die sie liefern kann, bis sie entladen ist.\\n- Der Widerstand der Glühlampen bleibt über die Zeit konstant.\\n- Die Leuchtkraft hängt direkt von der durch die Lampe fließenden Leistung ab (P = U²/R).\\n\\nFall A: Batterien in Serie, Glühlampen in Serie:\\n- Spannung verdoppelt sich (2U), der Gesamtwiderstand der Lampen beträgt 2R.\\n- Der Gesamtstrom I durch die Schaltung beträgt I = V_ges/R_ges = (2U)/(2R) = U/R.\\n- Die Leistung entspricht P_Lampe = (U/R)² × R = U²/R; und die Betriebszeit bleibt t/2 aufgrund gleicher Ladungsbereitstellung durch beide Batterien in Serie. \\n\\nDetaillierte Berechnungen begründen die Schlussfolgerung, dass diese Einschätzung insgesamt zutrifft und daher ist die richtige Antwort: D",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die problematische Situation zu analysieren, identifizieren wir zunächst die grundlegenden Gesetze der Elektrotechnik, die angewendet werden müssen. Aussagen werden schrittweise analysiert und überprüft: Wenn zwei gleiche Glühlampen und zwei gleiche Batterien mit Spannungen V und Kapazitäten C in verschiedenen Schaltkonfigurationen verbunden sind, ändern sich Spannungen und Ströme anders, basierend auf den elektrischen Regeln für Serien- und Parallelschaltungen. Der Energieverbrauch einer Lampe wird angegeben durch P = U²/R, wobei U die angelegte Spannung und R den Widerstand ist. Die Dauer des Betriebs kann berechnet werden durch die Energie, die von der Batterie bereitgestellt wird.",
+  "antwortoption": "D"
+}

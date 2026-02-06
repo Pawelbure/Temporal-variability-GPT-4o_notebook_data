@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, betrachten wir die Energiemengen und Stromverteilungen in den verschiedenen Konfigurationen. Wir machen dabei folgende Annahmen: (1) Jede Batterie hat eine elektromotorische Kraft (EMK) E und eine Kapazität Q. Die gespeicherte Energie in einer Batterie beträgt somit E*Q. (2) Eine Glühlampe hat einen konstanten Widerstand R_L. (3) Der Strom I durch die Glühlampe ist bestimmt durch das Gesetz Ohm’s, I = U/R_L, wobei U die Spannung über der Lampe ist. Die Leistung der Glühlampe ist P = I²*R_L = U*I. Der Batterieabfluss ist proportional zur gelieferten Leistung. Prüfung der Optionen:",
+  "antwortoption": "B"
+}

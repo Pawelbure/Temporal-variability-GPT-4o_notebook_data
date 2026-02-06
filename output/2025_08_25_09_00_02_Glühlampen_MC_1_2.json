@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lass uns die Szenarien analysieren:\n\n1. Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand (Doppelter Lampenwiderstand R_L) ergibt durch Ohm'sches Gesetz und die Leistung (P = V² / R) eine Vervierfachung der Leistung. Somit entleert sich der Akku schneller, und die Zeit beträgt etwa t/4.\n\n2. Batterien in Serie, Glühlampen parallel: Spannung doppelt, Gesamtwiderstand (R/2). Leistung P proportional zu V²/R => Verdopplung. Entladungszeit t/2.\n\n3. Batterien parallel, Glühlampen in Serie: Spannung unverändert, Batteriekapazität verdoppelt, Reihe erhöht R. Energieverbrauch konstant -> Zeit 2t.\n\n4. Batterien und Glühlampen parallel: Strom teilt sich gleichmäßig, unveränderte Spannung. Aufladezeit bleibt t.\n\nAntwort: B.",
+  "antwortoption": "B"
+}

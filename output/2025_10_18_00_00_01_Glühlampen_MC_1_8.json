@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung korrekt zu beantworten, analysieren wir die geschilderten Szenarien unter Anwendung der Gesetze der Elektrotechnik, insbesondere Ohmsches Gesetz und Kirchhoffsche Regeln. Hier sind die Verhältnisse in den jeweils angeführten Schaltungsarten synoptisch dargestellt: \\n\\n1. Annahmen: Jede Batterie hat eine konstante Kapazität. Die Batterien haben identische Spannung V. Die Glühlampen haben einen konstanten Widerstand R.\\n\\n2. Szenarioanalyse: \\n**A)** Batterien in Serie (V_in = 2V), Glühlampen in Serie (R_total = 2R): Der Strom I = V_in/R_total, bei gegebener Energie Q bleibt t_eff = Ct/(2R) erhalten, was 1/2 * t beträgt, klare Messung widersprüchlich, unplausibel\\n**B)** Versagt unter doppelter Spannung\\n**C)** 2t versorgt sicher plausible Simulation Klararbeit Richtig\\n**D)** Erwartet Entsprechung Korrekt aufgrund s.o.",
+  "antwortoption": "C, D"
+}

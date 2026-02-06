@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekte Antwort zu finden, betrachten wir die Elektronikgrundlagen für verschiedene Konfigurationen: Das Verbrauchen eines gleichmäßigen Stroms durch batteriebetriebene Glühbirnen. Die Kapazität der Batterie sei Q = I t, wobei I der Entladestrom ist. Wenn Batterien in Serie geschaltet werden, addieren sich die Spannungen, aber die Kapazität bleibt dieselbe. Wenn Batterien parallel geschaltet werden, bleibt die Spannung gleich, aber die Kapazität verdoppelt sich. Ebenso, wenn Glühlampen in Serie verwendet werden, verdoppelt sich der Gesamtwiderstand, und der Strom wird halbiert. Bei parallelem Betrieb bleibt der Widerstand gleich. Durch Anwendung dieser Konzepte auf die angegebenen Szenarien ergibt sich, dass Option D korrekt ist: Wenn Batterien parallel und die Glühlampen ebenfalls parallel geschaltet sind, können die Glühlampen etwa eine Zeit t betrieben werden.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Wir betrachten ein vereinfachtes Modell.\n- Jede Batterie hat eine konstante Kapazität von gespeicherter Energie E.\n- Jede Glühlampe hat einen konstanten Widerstand R.\n- Die Stromstärke wird durch die Spannung und den Widerstand gemäß Ohmschem Gesetz bestimmt.\n\n2. Analyse der Szenarien:\n\nA) Batterien und Glühlampen in Serie\n- Gesamtspannung= 2U; Gesamtwiderstand = 2R\n- Leistung pro Lampe: P=\\[U^2/(2R)\\]\n- Energieverbrauch pro Lampe= \\[[E/(4)]\\]. Daher, t/4 korrekt.\n\nB) Batterien in Serie, Lampen parallel\n- Ladung jeder Branch U, je 2P=U/R.\n\nC). Mit parallelen Batterien cape statt R-System.",
+  "antwortoption": "A, B"
+}

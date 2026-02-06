@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wenn wir das gegebene Problem analysieren, lassen sich die vier Fälle der Schaltungen präzise bewerten. Allgemeine Annahmen umfassen eine ideale Batteriespannung, keinen Innenwiderstand und konstante elektrische Eigenschaften der Komponenten. Grob umrissen sind nach den Gesetzen der Elektrizitätslehre und Kapazitätsregeln wie folgt zu erwartet: \n- Der Stromverbrauch hängt primär von der angelegten Spannung und den Schaltungen ab. \n- Die Kapazität der Batterien hängt bei Serien- und Parallelschaltungen unterschiedlich zusammen, beeinflusst so die Laufzeit der Lampen unterschiedlich.\nA) fälschlich auf t/4 geschlossen; B) richtig abgeschätzt für etwa t/2; C) ebenfalls zutreffende Aussage bei Linearannahmen; D) endlich falsch bewertet anhand Bedingungen.",
+  "antwortoption": "B, C"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Idealisierungen:**\nWir nehmen an, dass die Kapazität jeder Batterie eine konstante Energie von E liefert, und dass jede Glühlampe einen konstanten Widerstand R hat, wobei jede Lampe ihre Betriebsspannung benötigt. Weiter nehmen wir an, dass keine elektrischen Verluste auftreten. \n\n**Analyse der Situationen:**\n\n- **A)** Batterien und Glühlampen in Serie:\n    Serienverschaltung erhöht die Spannung der beiden Batterien auf 2U_B an den Lampen. Aufgrund Ohmsches Gesetz beträgt der Gesamtstrom I = (2U_B) / (2R) = U_B/R, und die Energieentladung der Batterien ist schneller bei doppelt so hohem Spannung, sodass Batterien leer in t/2 sind. Daher ist die Zeit t nicht falsch.\n    [Diese Option ist nur sinngemäß überprüft.]\n\n- **Fazit B** Parallel Zahlt n uranderer Mischung kann dauern weil\n\n**Ergebnisse n **",
+  "antwortoption": "A, B, D"
+}

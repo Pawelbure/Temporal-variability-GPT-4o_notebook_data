@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die ideale Stromquelle liefert eine konstante Spannung bis zu ihrem vollständigen Verbrauch. Jede Batterie wird hier als solche angenommen mit konstanter Kapazität und Spannung. Der Widerstand der Glühlampen wird als konstant betrachtet, daher ist auch ihr Stromverbrauch fest. Bei der Verwendung von zwei Batterien und zwei Glühlampen in verschiedenen Schaltungen ändern sich die Spannung und der Stromfluss. 1) In Serie wird die Gesamtspannung verdoppelt, während der Strom durch die Serie reduziert wird, der Gesamtenergieverbrauch bleibt die gleichen. 2) In Parallel bleibt die Spannung gleich, jedoch verdoppelt sich die Kapazität, wodurch die WS um doppelte viele Energie enthält.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahme: Alle Batterien stellen eine konstante Spannung bis zur vollständigen Entleerung bereit, und die Glühlampen haben einen festen Widerstand. Wichtig ist der Zusammenhang zwischen der Leistung, die eine Lampe benötigt, P = U^2/R, und der verbleibenden Energie in den Batterien. Ausgangssituation: Mit einer Glühlampe pro Batterie beträgt die Betriebsdauer t.   Lösung der Optionen: Option A: In Serie geschaltet verdoppelt sich die Versorgungsspannung, wodurch jede Lampe doppelte Leistung aufnimmt, gleichzeitig wird in Serie der Strom halbiert. Die gesamte Energie wird durch vier Lampen geteilt, Betriebszeit t bleibt gleich. Option B: In Serie verdoppelte Spannung bei parallelen Lampen jede Lampe erhält halbe Spannung, weniger Betriebszeit. Option C: Parallelgeschaltete Batterien Verdopplung der Kapazität - Lichtverdoppelung Zeit verdoppelt. Option D: Spannung bleibt konstant, Runterteilung R t gleich. Richtig D.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Herleitung der Lösung\n\n- Ausgangspunkt ist die Annahme, dass jede Glühlampe ihren Widerstand konstant behält und jede Batterie eine konstante Spannung V bereitstellt.\n- Die Kapazität der Batterie sei Q, also kann sie eine bestimmte Ladungsmenge bereitstellen. Die Energie der Batterie ergibt sich über W = Q·V.\n- Szenarien:\n  1. Batterien und Glühlampen in Serie:\n     - Gesamtspannung verdoppelt sich (2V), und der Gesamtwiderstand ist 2R. Der Strom ist I = U/R = V/R.\n     - Die Leistung jeder Lampe bleibt gleich (P = VI), daher bleibt die Zeit t erhalten, da jede Batterie allein eine Lampe mit Strom versorgt.\n  2. Batterien in Serie, Lampen parallel:\n     - Spannung 2V erhöht Strom und bewirkt schnelleren Verbrauch der Kapazität (Zeit wird kürzer).\n  3. Gegenteilige Schaltungen führen zu ähnlichen Abhängigkeiten des Verbrauchs von Energie über die Ströme.",
+  "antwortoption": "D"
+}

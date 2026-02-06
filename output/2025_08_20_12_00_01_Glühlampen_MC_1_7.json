@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren jede der vier Optionen basierend auf elektrischem Widerstand, Spannung und Energieversorgungsdauer.Eine Batterie hat eine konstante Spannung U und Kapazität Q. Lampe mit Widerstand R benötigt P=U^2/R. In [A], Spannung 2U bedeutet Leistung 4P für jede Lampe. Daher Zeitverhältnis t/4. In [B], 2U führt zu P_Lampe = P*1/2, aber Energiebedarf gleich, Zeit t/2. In [C und D], Parallelschaltung ergibt U konstant aber doppelte Kapazität Q_vorgabe, sodass Zeit 2t und t für jeweilige Belastung.",
+  "antwortoption": "A, B, D"
+}

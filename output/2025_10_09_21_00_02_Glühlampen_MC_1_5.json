@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Schaltungen der Batterien und Glühlampen basierend auf der gegebenen Annahme eines konstanten Widerstands der Glühlampen und vereinfachen den elektrischen Einfluss der Batterien. Wir gehen davon aus, dass sich die entnehmbare Energie einer Batterie auf die Gesamtkapazität der Batterie bezieht und durch ihre Spannung und die Stromflussdauer bestimmt wird. Basierend darauf berechnen wir, wie sich die Kombination der Batterien (in Serie oder parallel) und die Kombination der Glühlampen (in Serie oder parallel) auf die Betriebszeit auswirkt, während die Leistung, die jede Lampe benötigt, konstant bleibt. Nach einer detaillierten mathematischen Analyse stellen wir fest, welche der genannten Aussagen korrekt sind.",
+  "antwortoption": "B, D"
+}

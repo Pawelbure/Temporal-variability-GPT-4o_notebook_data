@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir gehen davon aus, dass jede Batterie mit einer Spannung U eine konstante Kapazität Q an Ladung liefert und jede Glühlampe einen konstanten Widerstand R hat. Desweiteren nehmen wir Realitätsnähe und idealisierte elektrische Elemente an.\n\nA) Batterien und Lampen in Serie: Der Gesamtwiderstand ist 2R, der Strom halbiert sich (I = U/(2R)), und der Energieverbrauch sinkt um den Faktor 1/2. Die Batterien entladen daher doppelt so lange. Falsch.\n\nB) Batterien in Serie, Lampen parallel: Batteriespannung verdoppelt sich, der Strom durch jede Lampe bleibt gleich. Batteriespeicher entleert sich schneller. = t. Richtig.\n\nC) Batterien parallel, Lampen Serie: Bestätigung komm später.\n\nD) paralleles Schaltung. KHing.\n\nPassend entschlüssen:",
+  "antwortoption": "B"
+}

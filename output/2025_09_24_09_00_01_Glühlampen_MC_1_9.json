@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Idealisierungen:\n1. Die Batterien haben identischer Spannung V und anfangs gleiche Ladung Q.\n2. Die Glühlampen haben identischen Widerstand R.\n3. Der Energieverbrauch ist direkt proportional zur Leistung P = V²/R für konstante R.\n\n### Lösung:\n\n#### Fall A: Batterien und Lampen in Serie\n- Spannung: 2V, Kombinierte Lampe-Widerstand: 2R -> Strom: I = V / 2R\n- Energieverbrauch einer Lampe: P_lampe = I² R = (V / 2R)² R = V² / 4R.\n- Die gesamte Energie in den Batterien reicht für t Sekunden bei einer Lampe. Bei zweimal kleiner Leistung ist die Zeit 4t, geteilt durch die Anzahl der Lampen (2). Ergeben: t; Falsch.\n\n#### Fall B: Batterien in Serie, Lampen parallel\n- Spannung: 2V unverändert V, Anforderung Verdoppelt Leistung, Schnell. Batterie. Falsch.\n\n#### Fall C Batter Parallel, Lamp Ser 1 Hoch.",
+  "antwortoption": "A, Test."
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir jede der Schaltungsvarianten und verwenden die Annahme, dass jede Batterie Energie für die Zeit t bei Standardbetrieb liefern kann, wobei der Widerstand der Lampe und der Batterie idealisiert konstant bleibt. Betrachten wir die Konfigurationen: A) Batterien und Lampen in Serie: Verdopplung der Spannung verdoppelt den Strom; daher viertelt sich die Betriebszeit (t/4). B) Batterien in Serie, Lampen parallel: Spannung verdoppelt, Widerstand durch die Parallelisierung halbiert; führt zur halben Betriebszeit (t/2). C) Batterien parallel, Lampen in Serie: Gleiche Spannung, Verdopplung des Widerstands und Strom halbiert, somit Verdopplung der Laufzeit (2t). D) Batterien und Lampen parallel: Gleiche Spannung und Widerstand wie Standard, Betriebszeit bleibt t. Die korrekten Antworten sind daher A, B, C, D entsprechend der jeweils beschriebenen Änderungen.",
+  "antwortoption": "A, B, C, D"
+}

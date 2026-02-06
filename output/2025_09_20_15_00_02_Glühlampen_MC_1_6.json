@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Fragestellung zu analysieren, betrachten wir die Schaltung der gegebenen Batterien und Glühlampen in verschiedenen Konfigurationen. Wir beginnen mit vereinfachenden Annahmen:\\n\\n*H1:* Jedes Batterie hat eine konstante Spannung V und eine Kapazität Q. Die Energie E = Q·V, die sie bereitstellt, bleibt konstant.\\n*H2:* Glühlampen haben einen konstanten Widerstand R, unabhängig von der durch sie fließenden Stromstärke.\\n\\n1. **Analysieren der Schaltungseffekte:**\\n   a) \"Serienbatterien, Serienschaltung der Glühlampen\":\\n      - Der Strom in der Schaltung ist: I=V/(2R).\\n      - Der Energieverbrauch pro Zeiteinheit ist: P=2R·(I)² = 2(V²/(2R²)) = V²/R.\\n      - Die Glühlampen leuchten also für Q/I = (Q/(V/(2R))) = 2t.\\n      - Diese Lösung ergibt eine Falschannahme. da bei Serien**-bereits gestellt. Während dies weiterführt.\"\\n\\n\\n",
+  "antwortoption": "D"
+}

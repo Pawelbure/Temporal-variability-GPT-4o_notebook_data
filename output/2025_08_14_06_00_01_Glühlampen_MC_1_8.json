@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lass uns die Aufgabenstellung analysieren. Für das unterstellte Szenario gelten die Annahmen: Die Batterien besitzen gleiche Spannung, das elektrische Potenzial ändert sich ideal ohne Verluste und die Lampen verhalten sich als ohmsche Widerstände. Hieraus ergibt sich Folgendes:1. Wenn Batterien und Lampen seriell geschaltet sind wie in Option A, bleibt die Leistungsaufnahme der Lampen konstant, was zu einer Betriebszeit t führt. 2. Bei einer Serienschaltung von Batterien erhöht sich die Gesamtspannung, additive Leistungsabgabe kürzt aber die Betriebszeit identischer Lampen auf t/4. 3. Für parallel geschaltete Batterien und Lampen ergibt sich bei unkomplexen Übergangswiderständen eine Betriebszeitverlängerung zu 2t bei regulierter Stromaufteilung.",
+  "antwortoption": "D"
+}

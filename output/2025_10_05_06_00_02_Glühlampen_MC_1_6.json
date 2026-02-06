@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Analyse basiert auf den Annahmen, dass jede Batterie eine konstante Spannung liefert und dass der Widerstand jeder Glühlampe unabhängig von der angelegten Spannung ist. Die Energie der Batterien ist proportional zu ihrer gespeicherten Ladung. Da die Leistung von der Spannung abhängt, wird der Strom und damit die Entleerungsrate der Batterien durch die Schaltungsanordnung verändert. Alle Fälle wurden durch Vergleich der resultierenden elektrischen Leistung und der nutzbaren Energie der Batterien analysiert.",
+  "antwortoption": "D"
+}

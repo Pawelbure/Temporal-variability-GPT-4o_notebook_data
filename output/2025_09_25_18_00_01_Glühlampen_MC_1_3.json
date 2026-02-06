@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, müssen wir die Auswirkungen der verschiedenen Schaltungen analysieren:\n\n1. Annahmen:\n    - Die Energie einer Batterie ist konstant.\n    - Der Widerstand der Glühlampen und die Spannung der Batterien sind konstant.\n    - Verbrauchscharakteristik der Batterien bezieht keine chemischen Effekte ein.\n\n2. Verwendung der Physik zu Reihenschaltung:\n    - Bei Reihenschaltung der Batterien addiert sich die Spannung, während der Strom konstant bleibt.\n    - Bei Reihenschaltung der Glühlampen addiert sich der Widerstand, und der Strom reduziert sich.\n\n3. Verwendung der Physik zur Parallelschaltung:\n    - Bei Parallelschaltung der Batterien bleibt die Spannung gleich, während der maximal verfügbare Strom multipliziert wird.\n    - Bei Parallelschaltung der Glühlampen bleibt der Widerstand des Aufbaus konstant, und die Stromverteilung teilt sich gleichmäßig auf.",
+  "antwortoption": "B, D"
+}

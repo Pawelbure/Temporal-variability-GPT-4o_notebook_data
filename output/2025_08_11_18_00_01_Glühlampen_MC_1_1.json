@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Szenarien abhängig von der Anordnung der Batterien und Glühlampen. Zunächst: jede Batterie besitzt eine Kapazität (in Bezug auf Ladung) und eine konstante Spannung. Der Widerstand der Glühlampen bleibt konstant, wodurch die Leitungsleistung determiniert werden kann. Bei zwei Batterien in Serie addiert sich die Spannung der Batterien, jedoch bleibt die verfügbare Gesamtladung dieselbe. Hingegen bei Parallelschaltung der Batterien bleibt die Spannung gleich, aber die verfügbare Ladung verdoppelt sich. Die Anordnung der Glühlampen, ob parallel oder in Serie, bestimmt durch den äquivalenten Widerstand den Stromfluss im Kreiswie folgt für verschiedene Szenarien: (A) Serie: Vierfacher Gesamtwiderstand, wodurch die Batterieladung nur viermal weniger schnell entleert wird, daher Zeit t/4. (B) Parallellampen: Ähnliche Reihenresultate, Halbierung der Dauer auf t/2 etc.",
+  "antwortoption": "A, B, D"
+}

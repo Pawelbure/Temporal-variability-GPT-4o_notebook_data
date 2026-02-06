@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die eingesetzten Modelle beinhalten einen konstanten Widerstand der Lampen und eine Ausgangsspannung der Batterien. In Serie erhöht sich die Spannung der Quellen, in Parallel betragt die Ausgangsspannung einer Einzelbatterie, jedoch bei erhöhtem maximalen Gesamtstrom. Der Energieverbrauch proportional zur Helligkeit durch den Widerstand ergibt die Lebensdauer und Energieflussverteilung. Durch Kalkulationen aus relevanten Daten (Spannungsumschaltung, Stromfluss und Widerstandsgesetze) erhalten wir die Zeitteildauer.",
+  "antwortoption": "D"
+}

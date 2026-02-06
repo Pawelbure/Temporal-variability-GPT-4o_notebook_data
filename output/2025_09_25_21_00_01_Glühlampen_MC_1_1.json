@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jeweils die gegebenen Schaltungen und wie sie sich auf die Entladung der Batterien auswirken: \\n1. Batterien in Serie, Lampen in Serie:\\n   - Spannung wird addiert, Gesamtstrom reduziert. Entladungsgeschwindigkeit steigt, Betriebsdauer der Lampen reduziert.\\n   - Dauer ca. t/4.\\n2. Batterien in Serie, Lampen in Parallel:\\n   - Addierte Spannung führt zu kürzerer Betriebsdauer der beiden Lampen.\\n3. Batterien parallel, Lampen in Serie:\\n   - Gesamtspannung bleibt dieselbe, entnommene Kapazität erhöht.\\n   - Lampen können deutlich länger leuchten.\\n4. Batterien parallel, Lampen parallel:\\n   - Spannungen bleiben gleich. Glühlampen entladen gleichmäßig.\\n\\nDaraufhin bewerten wir die Korrektheitsangaben der Aussagen und stellen die richtige Kombination fest.",
+  "antwortoption": "C, D"
+}

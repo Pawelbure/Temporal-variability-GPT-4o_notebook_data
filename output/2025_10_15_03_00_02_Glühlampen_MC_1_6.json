@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahme und Idealisierung:** Die Batterie hat eine konstante Kapazität C an elektrischer Ladung, und jede Glühlampe hat einen festen Widerstand R. Auch nehmen wir eine ideale Batteriespannung, ohne Spannungseinbrüche, an. **Analyse der Variationen:**\\n1. **Serienschaltung von Batterien und Glühlampen:** Die Spannung verdoppelt sich, aber die Stromstärke halbiert sich aufgrund der verdoppelten Widerstandes R + R; jedoch fließt dieser Strom nur bis zur Hälfte der üblichen Zeit (verringerte zeitliche Lebensdauer t/4). **2)** Batterieserien, Parallelresistoren teilen Strom, dieselben Berechnungen führen zu t/4. \n 3 Parallelbetrieben verlängert sich t um x 2 , Letzteres gilt für.. Glühlampen auch in Par.Ser",
+  "antwortoption": "D"
+}

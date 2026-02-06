@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lösungsweg: Betrachten wir die verschiedenen Konfigurationen:1. Bei der Serienschaltung der Batterien summiert sich die Spannung, daher beträgt die Spannung der Serienschaltung 2U. Da auch die Glühlampen in Serie geschaltet sind, fließt der gleiche Strom wie bei einer einzelnen Lampe, solange die Summe ihrer Spannungen die Betriebsspannung entspricht. 2. Bei paralleler Schaltung der Batterien bleibt die Spannung gleich (U), jedoch öffnen sich Parallelschaltungen für mehr Strom. Bei paralleler Schaltung zweier Batterien bleibt die Entladedauer gleich, so dass jede Batterie die gleiche Ladung bereitstellt. 3. Die Belastung pro Batterie hängt von der Art der Schaltung mit Glühlampen ab. Analysiere alle Szenarien entsprechend diesen Überlegungen. Ergibt; korrekt ist Option D.",
+  "antwortoption": "D"
+}

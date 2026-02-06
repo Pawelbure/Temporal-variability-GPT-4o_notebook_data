@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Das Problem untersucht die Leuchtdauer zweier Glühlampen, angetrieben von Batterien, unter verschiedenen Schaltungsanordnungen. Wir nehmen an, dass die Batterien gleiche Kapazitäten besitzen und eine konstante Spannung liefern, während die Glühlampen gleich sind und ihren Widerstand R bei allen Schaltungen konstant halten. Weiterhin gelte, dass keine Energieverluste in den Batterien oder Leitungen auftreten. Die Batterien können in Serie (Erhöhung der Spannung) oder parallel (Erhöhung der Kapazität) verschaltet werden; dasselbe gilt für die Lampen. Jeder der Fälle analysiert die Auswirkungen der Verschaltungsmodi auf Strom und Spannung an den Lampen und verknüpft dies mit den Batterieladungen:",
+  "antwortoption": "B"
+}

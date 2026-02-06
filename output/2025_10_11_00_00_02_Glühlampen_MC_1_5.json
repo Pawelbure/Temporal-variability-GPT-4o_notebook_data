@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Eine Batterie liefert eine konstante Energie, definiert durch ihre Kapazität. Annahmen: Batterien und Glühlampen sind ideal, haben keinen Innenwiderstand. Entscheiden wir:\\n\\n- A) Batterien und Glühlampen in Serie: Insgesamt fließt geringer der Strom, da der Gesamtwiderstand verdoppelt wird. Daher steigt die Zeit auf das Doppelte t. Falsch, da Zeitangabe t/4 nicht plausibel ist. \\n- B) Batterien in Serie, Glühlampen parallel: Jede Glühlampe erhält halben Strom, jedoch Betrieb doppelt lang, sodass Gesamtzeit unverändert t bleibt. Falsch. \\n- C) Batterien parallel, Glühlampen in Serie: Strom halbiert sich bei einfacher Spannung, sodass Betrieb doppelt so lange dauert 2t. Richtig\\n- D) Batterien und Glühlampen parallel: Leistung unverändert, Zeit bleibt t. Richtig.\\n\\nAntwort:",
+  "antwortoption": "C, D"
+}

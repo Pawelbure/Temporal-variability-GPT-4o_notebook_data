@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gegebene Situation zu analysieren, betrachten wir die Annahmen und physikalischen Zusammenhänge: 1) Jede Batterie hat die gleiche Spannung V und die gleiche Kapazität Q, wodurch sie die Energie E = Q * V speichern kann. 2) Wenn Batterien parallel geschaltet werden, bleibt die Spannung gleich, aber die Kapazität verdoppelt sich. Schaltet man sie dagegen in Reihe, verdoppelt sich die Spannung, aber die Kapazität bleibt gleich. 3) Der Widerstand R der Lampe ist konstant, wodurch der Stromfluss I durch die Lampe der Beziehung I = V/R folgt. 4) Die Energieabgabe (oder Arbeit) über die Zeit entspricht P = I² * R = V²/R.",
+  "antwortoption": "D"
+}

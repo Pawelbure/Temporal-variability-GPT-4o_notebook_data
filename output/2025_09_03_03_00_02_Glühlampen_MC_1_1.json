@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren Schritt für Schritt jede der gegebenen Schaltungsvarianten, um die Lichtdauer der Glühlampen zu berechnen.1. Serie-Schaltung von Batterien und Glühlampen: Die Spannung der Serie-Batterien verdoppelt sich, der Gesamtwiderstand der Glühlampen vervierfacht sich jedoch, was den Strom auf 1/4 reduziert. Da der Strom proportional zur Energieabnahme der Batterien ist, halten sie 4 mal länger als einzeln, aber entgegengesetzt läuft 4 Lampen durch, was zusammen exponentiell diese Zahl minimiert. Aktuale Zeit t/4 erreicht.2. Analyse der parare alle parahaupt neurophysical Propert;",
+  "antwortoption": "A"
+}

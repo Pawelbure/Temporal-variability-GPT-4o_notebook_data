@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Indem wir die Aussagen analysieren, bedenken wir vereinfachend: Jede Batterie hat die gleiche Spannung (U), der Widerstand jeder Glühlampe ist R und die Batterien haben die gleiche Ladung, welche die Energiekapazität repräsentiert (Q). Bei seriellem Anschluss addieren sich Spannungen, bei parallelem Anschluss bleibt die Spannung gleich, jedoch addieren sich die Ströme im System. 1. Bei zwei in Reihe geschalteten Batterien ist die doppelte Spannung vorhanden. Zwei Lampen in Serie erhalten denselben Strom wie eine einzelne Lampe, jedoch ändert sich die Gesamtspannung des Systems SIGNIFIKANT, sodass die Gesamtenergie pro Lampe anders verteilt wird, und der Verbrauch (des Systems) erfolgt bei angepasstem Energie-Lade-Raus-Rate. 2. Ähnlich für parallelisiert gestellten Systeme. Und das insgesamt bedeutet durch Ampere Counter gewisse Trennungsmuster korrekt anzuführen.",
+  "antwortoption": "B"
+}

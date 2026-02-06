@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Idealisierungen:\n- Die Spannungen der Batterien verdoppeln sich bei serieller Verbindung.\n- Der Strom teilt sich proportional bei parallelem Widerstand.\n- Batteriekapazitäten addieren sich bei parallelem Anschluss.\n\n### Physikalische Konzepte:\n- Ohmsches Gesetz (U = R * I).\n- Energieverbrauch P = U² / R.\n\n### Überprüfung der Antworten:\n- **A):** Spannung verdoppelt, Widerstand verdoppelt => Energie pro Stunde = I2 = (0.5) => 25% Kapazitätsverhältniss\n Dies passt mit 1/4.\n- **D)** Kombination addiert.",
+  "antwortoption": "B"
+}

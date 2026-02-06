@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Lösung erfolgt unter der Annahme idealer Batterien und Glühlampen und ohne Verlustleistung. A) In Serie geschaltete Batterien und Lampen bedeuten eine Verdopplung der Spannung und des Stromes, wodurch die Leistung vervierfacht wird. Daher leuchten die Lampen t/4. B) Batterien in Serie und Lampen parallel bewahren den Stromfluß für jede Lampe, die doppelte Leistung bewirkt eine Halbierung der Brenndauer, also t/2. C) Batterien parallel und Lampen in Serie führt zu halber LED-Spannung, Leistung ist entsprechend asymmetrisch verteilt, gänzlich auszuschließen. D) Bei  parallel bleibt Verzehrkapazität durch Probe Batterien ergänzt.",
+  "antwortoption": "A, B, D"
+}

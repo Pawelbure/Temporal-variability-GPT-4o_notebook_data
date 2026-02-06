@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, berücksichtigen wir die grundlegenden physikalischen Eigenschaften von Spannung, Strom, Kapazität und Widerstand, sowie wie sich die Kombination von Batterien und Verbrauchern (Glühlampen) auswirkt. Nehmen wir folgendes an: Jede Batterie hat eine gespeicherte Energie in Form von Kapazität C und eine Spannung U. Das Ohmsche Gesetz (I = U/R) gibt an, wie der Strom durch die Lampen von der Spannung und deren Widerstand R beeinflusst wird. Die Leistung der Lampe (P = U²/R) bestimmt ihre Helligkeit und die Energierate, die sie aus der Batterie verbraucht. Für die Analyse der vier Konfigurationen berechnen wir die resultierende Energieentnahme.",
+  "antwortoption": "B, D"
+}

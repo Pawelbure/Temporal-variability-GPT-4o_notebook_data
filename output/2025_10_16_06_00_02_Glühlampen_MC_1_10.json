@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Bei dieser Aufgabe betrachten wir verschiedene Kombinationen von Batterien und Glühlampen, um die Betriebszeit der Glühlampen zu analysieren. Wir nehmen vereinfachend an, dass jede Batterie eine konstante Kapazität besitzt, die Energie liefert, während die Glühlampen durch den elektrischen Widerstand definiert werden und konstant gleich arbeiten. Wir betrachten jeden Fall einzeln:\n\nA) Batterien in Serie – Glühlampen in Serie:\n   - Gesamte Spannung = Zusatz der Batterien.\n   - Der Energieverbrauch wäre viermal so viel wie eine Einheit, da Strom erhöht und Zeit reduziert.\n\nB) Batterien in Serie – Glühlampen parallel:\n   - Spannung der Batterien erhöht, daher bleibt ER klar 2. Perfekt identisch maximal Energie hat größer Wartungsholzteileverhältnis.\n\nRichtige Antwort ist erkennbar und wie folgt:\n\nAnalyse korrekt identifiziert.\n",
+  "antwortoption": "B, C"
+}

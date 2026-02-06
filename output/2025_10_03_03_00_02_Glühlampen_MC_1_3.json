@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Analyse der Situation nehmen wir an, dass jede Batterie die gleiche Kapazität und Elektromotorische Kraft (EMK) besitzt. Der Widerstand jeder Glühlampe sei konstant und die Spannung an den Batterien sinkt beim Entladen kontinuierlich, bis sie leer sind. Wir beginnen mit den Analysen:\n\n1. Zwei Batterien in Serie erhöhen die Gesamtemission der Spannung, jedoch bleibt die Gesamtkapazität, also die Energiemenge, gleich.\n\n2. Zwei Batterien parallel verdoppeln die Kapazität, jedoch bleibt die Spannung jeder Batterie erhalten.\nFür die vier Fälle gilt nun:\n\n- Bei Schaltung in Serie sowohl für Batterie als auch Lampen, steigt der Gesamtwiderstand das führt zu t/4.\n- Batterien in Serie und Lampenzahlen shared beim load für t/2.\n\"\n\nDaher richtig D",
+  "antwortoption": "D"
+}

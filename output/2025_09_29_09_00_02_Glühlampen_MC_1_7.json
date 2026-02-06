@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "---\n## Problematischen und Annahmen:\n1. Jede Batterie besitzt eine konstante Kapazität L (geladen in Coulomb).\n2. Jede Glühlampe hat einen konstanten Widerstand R.\n3. Die Kapazität der Batterien und deren Ausgangsspannung ändern sich nicht beim Ladevorgang.\n4. Die Batterien entladen sich gleichmäßig.\n\n## Lösungsanalyse:\n### Fall A:\n- Batterien und Lampen in Serie.\n   1. Gesamtspannung = 2U und Gesamtwiderstand = 2R.\n   2. I = U/R, Energieverbrauch ∝ I^2 Rt.\n   3. Entladungseffizienzzeiten nach Integration ergibt t/4.\n### Fall B:\n- Batterien in Serie und Lampen parallel aus Sicht von Einzeln gezählt. \n... Zusammen ergibt \"B\"",
+  "antwortoption": "B"
+}

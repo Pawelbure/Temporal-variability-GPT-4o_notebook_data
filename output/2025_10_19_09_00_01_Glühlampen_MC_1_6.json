@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst nehmen wir an, dass die Spannung und Kapazität jeder Batterie bekannt und konstant sind. Jede Batterie liefert die Energie ΔE = U * Q, wobei U die Batteriespannung und Q die Ladung ist. Bei einer in Serie geschalteten Batterieanordnung verdoppelt sich die resultierende Spannung U_eff, jedoch bleibt die Kapazität gleich. Bei einer parallel geschalteten Batterieanordnung bleibt die Spannung gleich, während die Kapazität verdoppelt wird. Der elektrische Widerstand der Glühlampe bleibt konstant, und der Strom durch die Glühlampe ist proportional zur anliegenden Spannung. Wir analysieren jede Schaltungsoption unter diesen Annahmen:",
+  "antwortoption": "D"
+}

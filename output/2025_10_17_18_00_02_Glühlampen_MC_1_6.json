@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Relevanz: Die Batterien sind ideal und konstant in ihrer Spannung und Kapazität; Batteriestrom hängt von der Schaltungskonfiguration ab. Die konstante Leistung der Lampe erfordert eine konstante Spannung und Stromstärke an ihr. Analyse der Optionen: (A) Der Strom durch Glühlampen in Serie ist gleich, aber die Spannung wird aufgeteilt, weshalb die Zeit annähernd t bleibt; daher falsch. (B) Parallelschaltung der Lampen bei Batterieserie lässt Strom doppeln, Halbierung der Zeit auf t/2; korrekt. (C) Batterien parallel, Glühlampen in Serie, bedeutet reduzierte Stromstärke und entsprechend längerer Betrieb, aber ohne doppelte Zeit; falsch. (D) Parallelschaltung von Batterien und Glühlampen bietet Originalzeit; korrekt.",
+  "antwortoption": "B, D"
+}

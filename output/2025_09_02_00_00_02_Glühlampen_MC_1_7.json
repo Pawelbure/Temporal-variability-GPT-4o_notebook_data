@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Achtung, stimmen die Ergebnisse unten mit den physikalischen Grundprinzipien nicht überein?. Beginnen wir mit den relevanten Annahmen: Jede Batterie hat eine konstante Kapazität mit einem bestimmten Energieinhalt E und Spannung V0. Die Lampe besitzt einen konstanten Widerstand R, wodurch die abgegebene Leistung über eine bestimmte Zeiteinheit als P = V²/R berechnet wird. Die Zeit t repräsentiert, wie lange jede Batterie unter diesen Voraussetzungen die Lampe betreiben kann. Die Schaltungen weisen unterschiedliche Eigenschaften auf: A) Batterien und Lampen (je zwei in Serie): Spannung verdoppelt, Widerstand der Lampen addiert sich. B) Batterien und Lampen (parallel/serie). Berechnungen erfolgen unter Berücksichtigung der Energiebereitstellung und Spannungsverhältnisse.",
+  "antwortoption": "B, D"
+}

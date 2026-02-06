@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe systematisch anzugehen, nehmen wir an, dass die Batterien ideal sind, d. h. sie haben keine internen Verluste und liefern konstanten Strom bis zur Entladung. Weiterhin hat jede Glühlampe einen konstanten Widerstand R. Wir analysieren nun jede der Aussagen separat: \\n\\n**A: Batterien in Serie und Lampen in Serie**:\\n  - Die Spannungen der beiden Batterien addieren sich, wodurch sich die Gesamtspannung verdoppelt. Durch die Serienschaltung der Lampen verdoppelt sich der Gesamtwiderstand. Dadurch bleibt der Strom gleich dem einer einzelnen Batterie mit einer Lampe. Somit liefern die Batterien gemeinsam dieselbe Energie wie eine einzelne Batterie, die auf zwei Lampen verteilt wird. Die Betriebszeit wäre daher t/2. Aussage A ist **falsch**.",
+  "antwortoption": "A"
+}

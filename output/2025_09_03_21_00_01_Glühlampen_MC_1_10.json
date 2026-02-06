@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Schritt 1: Annahmen. Wir nehmen an, dass: jede Batterie eine konstante Spannung U liefern kann, sobald sie in Gebrauch ist; jede Glühlampe einen konstanten Widerstand R besitzt; und der Energieinhalt der Batterie im Zustand getrennter Entladung gleichmäßig verwendbar ist. Zudem ist die Batteriekapazität proportional zur energetischen Entladedauer. Schritt 2: Analyse der Optionen. A) Batterien und Lampen in Serie bedeutet eine Gesamtspannung von 2U und einen Widerstand von 2R. B) Verschiedene Schaltungen verändern die Leistung je nach Strompfad und Spannungsausnutzung durch jeden Zweig. C) Parallele Verteilung von Batterien und Lampen gibt weiterhin die effektive Zeit chemischer Entladung. Nach Rekapitulation rechnerischer Lösungen erhalten wir die Antwort.",
+  "antwortoption": "D"
+}

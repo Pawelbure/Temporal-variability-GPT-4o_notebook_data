@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Bedingungen: Die Batterie besitzt eine konstante Elektrische Kapazität (Ladung Q) und Spannung V während ihrer Entladung. Der Widerstand der Glühlampen bleibt konstant unabhängig von der Schaltungsart und durchflossenen Leistung. In Serie addiert sich die Spannung der Batterien, in Parallelschaltung bleibt diese konstant, aber die Kapazität verdoppelt sich. Ebenso verhalten sich die Lampe in Serie additiv im Widerstand, während in Parallel die Spannung gleich bleibt. --- Analyse: A) Batterien und Lampen in Reihen: Die effektive Spannung wird 2V, die Lampe zeigen 4 fache Spannungsenladung, daher Zeit reduziert auf Q/4. B) Batterien Reihen, Lampe Parallel: erhöte Leistung ~V führen t/2 an Entladungsdauer. C) Parallel doppelte Batteriekapasität führen zur möglichen Versorgung 2t. D) identische Spannung Parallelen beibehalten *: Kapazität unverändert.",
+  "antwortoption": "C, D"
+}

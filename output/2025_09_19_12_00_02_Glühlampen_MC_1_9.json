@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. **Annahmen und Idealisierungen:** Die Glühlampen weisen konstante Widerstände auf, und jede Batterie liefert eine konstante Gesamtenergie. Für die Batterien gelten keine Verluste oder Spannungsschwankungen während ihrer Entladung.  2. **Betrachtung der Szenarien:**  - Serie, Serie: Die kombinierte Spannung ist doppelt so groß, aber die Glühlampen teilen diese aus. Der Gesamtstrom bleibt unverändert, die Laufzeit reduziert sich auf t/4.  - Serie, Parallel: Die Lampenleuchten parallel bei doppelter Spannung der Batterien, Gesamtstrom verdoppelt sich, Laufzeit ist t/2.  - Parallel, Serie: Batterien liefern doppelte Kapazität bei konstanter Spannung. Leuchtdauer für Lampen in Serie daher 2t.  - Parallel, Parallel: Batteriespannung bleibt gleich, Kapazität verdoppelt, Gesamtzeit ist t.  3. **Schlussfolgerung:** Nur die Ergebnisse A und B sind korrekt.",
+  "antwortoption": "A, B"
+}

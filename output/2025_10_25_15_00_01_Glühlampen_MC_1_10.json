@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "--- **Annahmen und Vereinfachungen:** --- \\n- Die konstanter Widerstand der Glühlampen wird angenommen. \\n- Die Batterien und Glühlampen werden als ideale Quellen und Verbraucher betrachtet. \\n- Die Kapazität der Batterie und ihr Entladeverhältnis bleiben konstant.\\n\\n--- **Erklärung der Zusammenhänge:** --- \\n- **Energie- und Leistungskonzept:** Die Leistung der Lampen hängt ab von der angelegten Spannung und ihrem Widerstand und somit der Energieausgabequelle.\\n\\n- **Schaltungsanalyse:** Der Betrachtung der Batterie und Lampenkombination in Serie und parallel, bestimmt das Energieentnahmeverhalten und Einflussfaktoren.\\n\\n--- AOPTIONS ---: Berechnung mit Angaben und Beziehungen - - - Abundant Conclusion",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir untersuchen die gegebenen Szenarien unter idealisierten Bedingungen:\n\n1. Annahmen:\n   - Die Batterien besitzen identische Spannung und Kapazität.\n   - Die Glühlampen haben denselben Widerstand.\n   - Es gibt keine Verluste durch Innenwiderstände oder Leitungen.\n\n2. Berechnungen für die Szenarien:\n\nA) Batterien in Serie, Glühlampen in Serie: \n   - Serielle Schaltung verdoppelt die Spannung, der Gesamtwiderstand der Glühlampen verdoppelt sich, der Strom bleibt gleich.\n   - Die Energieabgabe der Batterien erfolgt gleich schnell wie bei einer Batterie mit einer Lampe (Zeit t).\n   - Lampen trennen gemeinsam (t).\n\nB) Batterien in Serie, Glühlampen parallel:\n   - Batteriespannung verdoppelt, Stirnkampf bleibt konstant. Batterien schnellen Energieabgabe = hälftige Zeitabstand (zeit — t). Falsch.\n\nC) Batterien parallel / Glühlampe-Serie:\n   -...",
+  "antwortoption": "D"
+}

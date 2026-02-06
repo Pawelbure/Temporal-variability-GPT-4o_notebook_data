@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Die Kapazität der Batterien ist gleich und konstant, der Widerstand der Glühlampen ist ebenfalls konstant und Batterien haben identische Ausgangsspannungen. Physikalische Konzepte: Batterien in Serie addieren ihre Spannungen, Batterien in Parallel teilen Ladungsflüsse ohne Spannungsänderung. Der Energieverbrauch von Glühlampen hängt von der über sie fließenden Stromstärke und der entsprechenden Spannung ab. \\n\\nA) Batteriespannung in Serie ist 2U, Widerstand verdoppelt sich, somit wird die Leistung klein und Zeit viertelt sich: Trifft nicht zu. B) Höhere Spannung erzeugt mehr Leistung, die Zeit halbiert sich: Dies ist korrekt. C) Parallelbaterien sind nutzlos, da Gespanndung zu gering für Serienlampen: Nicht korrekt. \\nD) Leistung bleibt wie ursprüngliche Situation von einer Batterie bei einer Lampe: Dies bleibt konsistent.",
+  "antwortoption": "B, D"
+}

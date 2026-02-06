@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Angenommen wird, dass die Batterien eine konstante elektrische Energie sowohl in Serie als auch parallel liefern und die elektrische Leistung der Lampen konstant ist. Der Widerstand der Lampen bleibt konstant, unabhängig von den Betriebsbedingungen. Schaltungen beeinflussen den Energieverbrauch sowie die Laufzeit wie folgt: (1) Serie: Erhöht die Spannung, aber verliert keine Energie, (2) Parallel: Erhöht Kapazität der Batterie, sichert das es gleiche Energie liefern wie einzelne Batterie. Lösung der gegebenen Szenarien: A) Bei Serie/Serie werden Strom geteilt durch Lampen und Laufenzeit stark redzierte. (falsch); B) Serie/Parallel werden Spannungangehoben, Lampen erhalten Energie bis jeweilg lehr; (halbierte Laufzeit); (falsch); C) Parallel/Serie verlägt Lebensdauer, daher Antwort (richtig): D) Parall/Lammlung teilt Energie bei Lampe, daher korrekt multiple Laufzeit",
+  "antwortoption": "D"
+}

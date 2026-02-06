@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Jede Batterie liefert konstant die gleiche Energie, bis sie entladen ist. Der Widerstand der Lampen bleibt gleich, unabhängig von der Stromversorgung. Die Spannung der Batterien beträgt V, und die gespeicherte Energie jeder Batterie ist proportional zu ihrem Stromvermögen. 2. Betrachtung der unterschiedlichen Schaltungen: a) Serie (Batterien und Lampen): Bei seriellem Anschluss der Batterien addieren sich die Spannungen, während der Strom durch die Lampen gleich bleibt. Der Gesamtwiderstand ist die Summe der Einzelwiderstände. b) Parallel: Batterien erzeugen die gleiche Spannung, ihr Ladungsvermögen addiert sich. Lampen in Parallelanschluss teilen sich den Gesamtstrom.",
+  "antwortoption": "B"
+}

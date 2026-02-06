@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe korrekt zu lösen, berücksichtigen wir folgende Aspekte: Jede Batterie hat eine bestimmte Kapazität und Spannung. Jede Glühlampe stellt einen konstanten Widerstand dar, wobei die Leistungsaufnahme P=V²/R mit der angelegten Spannung V bestimmt wird. Berechnen wir die Szenarien: (A) Batterien in Serie verdoppeln die Spannung, deren kombinierte Kapazität bleibt gleich. Die Glühlampen in Serie verdoppeln den Gesamtwiderstand, wodurch sich die Leistung halbiert. Die Betriebsspannung pro Batterie bleibt gleich, daher entlädt sich die Batterie doppelt so langsam; die Zeit ist etwa 2t. (B) Bei parallelen Glühlampen erhält jede dieselbe Spannung wie bei einer einzigen, Batterieentladung erfolgt gleich schnell; Zeit bleibt etwa t. Bei parallelen Batterien ist die Gesamtkapazität doppelt so hoch, Serie führt zu t/4.& D: paralleles führt zu doppelte.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir die verschiedenen Schaltungsarten und die Wirkungen auf die Stromversorgung und Durchlauflaufzeit durch die Batterien und Glühlampen basierend auf den gegebenen Bedingungen. Annahmen: Die Spanung jeder Batterie ist konstant bis entladen, und der Widerstand jeder Lampe bleibt unverändert. 1. Serie Batterie und Serie Lamp: Die Verdoppelung der Spannung übersteigt die Spannung bei identischer Reihung beider Lampen. Jede Lampe erhält den doppelten Nennstrom, und die Zeit verringert 1/4 (P∝I²R). 2. Serie Batterie und Parallele Lampen: Erhöhung Spannung proportional zum Betrag entspricht Kapazität individuell; so halbiert sich Zeit. 3. beide Parallekserielen vereint idealmpliziert Sequntiälle Serie Doppel. Lampe Ausgang.",
+  "antwortoption": "A"
+}

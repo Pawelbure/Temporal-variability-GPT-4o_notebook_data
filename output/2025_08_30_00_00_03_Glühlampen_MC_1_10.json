@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, betrachten wir die Anordnungen der Batterien und Glühlampen sowie die elektrisch relevanten Parameter: Spannung, Strom und Widerstand. Annahmen: Jede Batterie besitzt die gleiche Spannung V und Kapazität C, und jede Lampe hat den konstanten Widerstand R. Die Energie einer Batterie  beträgt dann E = C \\cdot V. Die Gesamthelligkeit richtet sich nach der Leistung P = V^2/R. Bei Betrachtung der Zeit hängt die Entladedauer von der Belastung und dem Energieverbrauch ab. In den gegebenen Szenarien errechnen sich jeweils die Gesamtspannung, der Strom, und infolgedessen die Entladezeit jeder Batterie anhand dieser physikalischen Prinzipien. Nach Berechnung ergibt sich:",
+  "antwortoption": "B"
+}

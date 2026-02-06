@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekte Antwort zu ermitteln, analysieren wir die verschiedenen Schaltmöglichkeiten von Batterien und Glühlampen unter Annahme idealisierter Bedingungen. Annahmen: Batterien liefern konstante Spannung bis zur vollständigen Entladung; der Widerstand der Glühlampen ist konstant; Energienutzung ist proportional zum Produkt aus Spannung, Strom und Zeit. Bei seriellem Anschluss von Batterien addieren sich die Spannungen, wobei die Kapazität gleich bleibt. Bei paralleler Schaltung teilt sich der Strom auf, wodurch die Laufzeit steigt. Bei seriellem Anschluss von Glühlampen teilt sich die Spannung auf, wohingegen bei parallelem Anschluss jede Lampe die volle Batteriespannung erhält. Daraus folgen:",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Erklärung: Betrachten wir die verschiedenen Schaltungen hinsichtlich des Stromflusses, der Leistung und der Batterieverbrauchszeit. Angenommen, jede Batterie liefert Energie mit einer Kapazität E, und die Glühlampen benötigen eine Leistung P zum Leuchten.\\n\\nA) Schalten die Batterien und Lampen in Serie, wird der Widerstand der Schaltung größer, und die Energieabgabe gleicht sich aus. \\nB) Bei Batterien in Serie und parallelen Lampen beträgt die Energieflusszeit t/n, wobei n die Anzahl der Lampen ist. \\nC) Parallelschaltung der Batterien und Lampen in Serie kann die doppelte Laufzeit ermöglichen. \\nD) Parallel geschaltete Batterien und Lampen liefern Bedingungen ähnlich einer Einzelkonfiguration.\\n\\nErgebnis: Nach der Analyse sind D zutreffend.",
+  "antwortoption": "D"
+}

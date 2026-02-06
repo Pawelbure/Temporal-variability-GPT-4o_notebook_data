@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, treffen wir zunächst Annahmen: Jede Batterie hat die gleiche Spannung **U** und Kapazität **Q**. Die Glühlampen haben denselben Konstantwiderstand **R**. Ich werde die vier Optionen wie folgt untersuchen: Bei der Seriensprache (Optionen A und B) addieren sich Spannungen, während die Ladung unverändert bleibt. Bei der Parallelsprache (Optionen C und D) bleibt die Spannung unverändert, während sich die Kapazität (bzw. Ladung) addiert. Für Stromflüsse und Leistungsverarbeitung gelten weiterhin die Grundsätze: P = U^2/R für Leistung und I = Q/t für entladene Strommenge. Durch Berechnungen ergibt sich:\n- A) Falsch, t verdoppelt sich für jede Lampe (insgesamt 2).\n- B) Falsch, Stromabfluss verringert Betriebszeit.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Beim Betrachten dieses Problems sind folgende Annahmen entscheidend: Die Batterien sind identisch, haben identische Kapazität C, und jede stellt eine konstante Spannung V bereit. Die Glühlampen haben gleichen Widerstand R. Gesamtvorgehen: 1) Untersuche jede Konstellation, analysiere die elektrische Verbraucher und Berechnungen der Zeit basieren auf Kapazität, Strom und Widerstand. Nach Berechnungen ergeben sich folgende Resultate. A) Wenn die Batterien und Glühlampen in Serie geschaltet sind, bleibt der Strom konstant und entspricht etwa t bei vereinfachter Betrachtung falsch. B) Bei Batterien in Serie erhöht sich das Potential aber bei paralleler Belastung bleibt Zeit relativ gleich. Diese Option ist Korrekt jedoch quantitativer Analyset.",
+  "antwortoption": "D"
+}

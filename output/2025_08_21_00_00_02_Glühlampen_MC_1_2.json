@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Vorüberlegungen:** * Die Batterie hat eine konstante Kapazität Q mit einer festen Spannung U0 und liefert konstanten Strom, solange sie Energie liefert. * Die Glühlampe hat einen konstanten Widerstand R und verbraucht eine kontinuierliche Leistung bis zum Erschöpfen der Batterie. * In jedem Schaltungskonfigurazion wird die Betriebdauer t durch die verfügbare elektrische Energie und den Stromverbrauch bestimmt. **Lösungen der Szenarien:** \n1. **A)** In Serie verdoppelt sich Spannung, daher vierfache Leistung pro Lampe; Gesamtzeit t/4. **B)** In Serie Batteriespannung verdoppelt, parallel reduzierte Last per Batterie—Resultat in Halblicht und Betriebsdauer t/2 **C)** Batterien parallel, mittlere Strang ergibt größere Survivalleistung (R außen Reaktion sym.). Benutzer Effectiv Zwei Message weiter Füur Dutzzeit Antwort. Sparzeitig.",
+  "antwortoption": "B, D"
+}

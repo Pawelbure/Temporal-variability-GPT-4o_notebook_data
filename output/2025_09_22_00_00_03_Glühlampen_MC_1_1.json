@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zum Verständnis der Aufgabenstellung: Die Batterien haben in Serie geschaltet eine doppelte Spannung und in parallel geschaltet die gleiche Spannung, aber mit doppelter Kapazität. Die Glühlampen behalten einen konstanten Widerstand und ziehen somit bei angelegter Spannung x eine vorherbestimmte Stromstärke. Die Laufzeit t bezieht sich auf die Dauer der Batterie bei Stromfluss, welcher konstant angenommen wird. Jede Teilaufgabe wird unter diesen Annahmen individuell analysiert.",
+  "antwortoption": "B, D"
+}

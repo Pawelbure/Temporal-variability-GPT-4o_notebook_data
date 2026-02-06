@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, gehen wir von den Annahmen aus, dass jede Batterie eine konstante elektrische Ladungsmenge bereitstellen kann und jede Lampe konstant mit dem gleichen Widerstand arbeitet. Die Stromkreisschaltungen ändern die Strom- und Spannungswerte je nach Konfiguration, und die Leistung P = U²/R oder P = I²R der Lampen bestimmt den Energieverbrauch. Die Batterie liefert die Energie in Form von Spannung multipliziert mit Strom und Zeit (Energie = Spannung x Ladung). Nun analysieren wir jede Aussage einzeln hinsichtlich dieser Prinzipien.",
+  "antwortoption": "D"
+}

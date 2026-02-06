@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst nehmen wir an, dass jede Batterie eine konstante Spannung liefert, bis ihre Energie erschöpft ist, und dass die Glühlampen ideal betrieben werden. Der Energiegehalt einer Batterie (W_batt) bestimmt die mögliche Betriebszeit der Lampe (t_Lampe). Weiterhin bleibt der Widerstand jeder Lampe konstant. Es zählt die Energie pro Batterie und wie diese zwischen den Glühlampen verteilt wird. Für Opciónen der seriellen und parallelen Kombination von Batterien und Glühlampen sind die Betriebszeiten wie folgt: Bei Serie Batterie/Serie Lampe sinkt die Stromstärke pro Lampe auf ein Viertel, Betriebszeit t/4. Im Parallel Batterie/Parallel Lampe Fall bleibt die Energieverteilung wie für Einzelbetrieb, Betriebszeit t. Dadurch tritt Option D als korrekte Lösung hervor.",
+  "antwortoption": "D"
+}

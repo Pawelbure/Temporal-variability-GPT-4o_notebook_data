@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die gegebenen Schaltungsvarianten unter der Annahme idealer Bedingungen: konstante Batteriespannung und Kapazität sowie ein konstanter Widerstand der Glühlampen. Die Batterieladung (kapazitiv betrachtet) arbeitet mit der gleichen Leistung auf die Lampe, unabhängig von den Schaltungsanordnungen. Wir entwickeln die Gesamteffizienz der Batterie über die gegebenen Konfigurationen: 1) In Serie-Anordnung liefert eine entsprechend höhere Spannungsabgabe, belastet je Lampe die Ladung proportional geringer Laufzeit. 2) Parallelschaltungen maximieren die Parallelnutzung der Energie über gleiche Strompfade ohne Verlust potentieller Speicherverluste.",
+  "antwortoption": "D"
+}

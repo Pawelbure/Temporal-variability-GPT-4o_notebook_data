@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung zu analysieren, nutzen wir folgende Annahmen und Modelle: 1. Jede Batterie liefert eine feste Spannung V und eine konstante Energie E bis zur Entladung. 2. Der Widerstand der Glühlampe, R, bleibt gleich. 3. Die Stromstärke im Stromkreis und Energieverbrauch der Lampe folgen den Prinzipien der Elektrotechnik. Jetzt analysieren wir die verschiedenen Szenarien: A) Serie-Verkettung von Batterien und Lampen: Der Stromkreis weist doppelten Widerstand und doppelte Spannung auf, wodurch die Stromstärke (durch die Formel I=V/(2R)) konstant bleibt, und die Batterien schneller entleert werden. B) Batterien-Serie mit Sulamp, deren Ströme unterschiedlich stark ausgeprägt sein sollten.",
+  "antwortoption": "D"
+}

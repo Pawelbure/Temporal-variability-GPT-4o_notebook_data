@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Batterien haben identische Spannung V und Kapazität q, Glühlampen haben identischen Widerstand R. Die Leuchtzeit hängt davon ab, wie lange die elektrische Energie der Batterien reicht. Physikalische Konzepte: Bei Serie addieren sich Spannungen, aber die Kapazität bleibt gleich. Bei Parallelschaltung bleibt die Spannung gleich, aber die Kapazität addiert sich. Glühlampenverhalten analysiert man durch Stromfluss und entnommene Energie. Lösung: Schaltung analysieren, um die resultierende Leuchtzeit abzuleiten, wobei serielles Speisen den Stromfluss ändert und Parallelspeisung die Kapazität der Batterien beeinflusst. Ergebnisse (korrekte Aussagen):",
+  "antwortoption": "B, D"
+}

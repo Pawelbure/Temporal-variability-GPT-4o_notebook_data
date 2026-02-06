@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe korrekt zu analysieren, befolgen wir die physikalischen Prinzipien. Die Batterie wird als Spannungsquelle mit einer spezifischen Kapazität betrachtet, die die Energieversorgung möglich macht. Jede Batterie hat eine gegebene Kapazität, die gleichbleibend bleibt. Die Glühlampen haben einen konstanten Widerstand, was bedeutet, dass der Stromfluss gemäß Ohmschem Gesetz durch die Quellenspannung und den Widerstand bestimmt wird. Nun analysieren wir die Aussageoptionen. Für Option A, im seriellen Betrieb erhöhen sich sowohl Spannung als auch Widerstand, was die Leistungsverteilung modifiziert. Option B berücksichtigt parallelen Glühlampenschaltung mit Stromteilung. In Option C mit parallelen Batterien verdoppelt sich die Kapazität. Option D kombiniert parallelgeschaltete Lampen und Batterien. Nach Überprüfung ergibt die korrekte Antwort D.",
+  "antwortoption": "D"
+}

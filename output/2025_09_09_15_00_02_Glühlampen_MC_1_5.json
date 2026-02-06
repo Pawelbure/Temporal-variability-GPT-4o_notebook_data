@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Analyse und Erklärungen\n\n**Gegebene Annahmen:**\n- Die Lampe hat konstanten Widerstand R.\n- Die Batterie stellt eine konstante Ladung Q zur Verfügung, hat eine konstant bleibende elektrische Spannung V, bis sie vollständig entladen ist.\n\n**Allgemein:**\nDer Energieverbrauch der Lampe ist P = V² / R. Bei einer Leitung mit konstantem Strom beträgt die Laufzeit t = Q / I, wobei I der Strom durch die Lampe ist. In spezifischen Schaltungen wie Reihen- und Parallelschaltungen ändern sich sowohl der Gesamtstrom als auch die Spannung an einzelnen Elementen.\n\n**Berechnungen:**\n- A) Serie: Batterien liefern 2V, Lampen haben 2R: I = V/R = 2V/2R = V/R und Laufzeit t/4.\n- B) Serie-Parallelschaltung: I pro Lampe verdoppelt, Gesamte Verlustzeit ist t/2.\n- C) Parallel und Serie Lampe: I gesamt halbiert, Laufzeit 2T.\n- D) Parallel gesagt ergibt Zeit normal Funktionen Flow.",
+  "antwortoption": "C, D"
+}

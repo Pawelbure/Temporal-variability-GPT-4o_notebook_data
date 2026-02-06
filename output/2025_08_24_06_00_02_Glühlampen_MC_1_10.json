@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekte Antwort zu ermitteln, betrachten wir die angegebenen Schaltungen und verwenden grundlegende elektrische Konzepte wie Gesetz von Ohm und Energieerhaltung. Annahmen: Die interne Widerstände der Batterien sind vernachlässigbar, die Glühlampen haben einen konstanten Widerstand R und eine konstante Spannung führt zu gleichbleibender Leistungsaufnahme P der Glühlampen. Berechnung der Betriebsdauer durch Energiebilanz: Jede Batterie versorgt eine Lampe mit Energie W = P × t über die Zeit t, wobei P = V²/R. Im Falle serieller Batterien wird die Spannung verdoppelt, jedoch reduziert sich der gesamte Widerstand auch je nach Konfiguration, wodurch die Leistungsaufnahme beeinflusst wird. Parallel geschaltete Batterien verlängern die Gesamtbetriebzeit durch additive Kapazität.",
+  "antwortoption": "D"
+}

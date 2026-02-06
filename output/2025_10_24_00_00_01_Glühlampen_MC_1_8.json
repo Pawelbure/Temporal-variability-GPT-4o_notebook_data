@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe analysiert verschiedene Schaltungsvarianten von Batterien und Glühlampen. Hier sind die grundlegenden Annahmen: Jede Batterie besitzt die gleiche Kapazität und Spannung. Der Widerstand jeder Glühlampe ist konstant. Die Berechnungen basieren auf dem Energieerhaltungsprinzip und den Kirchhoff'schen Gesetzen. In Serie geschaltete Batterien verdoppeln die Gesamtspannung bei unveränderter Kapazität. Parallel geschaltete Batterien erhöhen die Kapazität proportional zur Anzahl, die Spannung bleibt jedoch gleich. Die Leistungsaufnahme einer Lampe ist P = V²/R. Laufzeiten basieren auf der gespeicherten Energie E = QV und Verbrauchsleistung P. Für jede Konfiguration wird die Energieaufteilung und deren Konsequenz auf die Laufzeit analysiert, woraus resultiert, dass Option B korrekt ist: Wenn die Batteriespannung in Serie steigt, erleiden die parallelen Lampen die gleiche Verringerung der Betriebszeit.",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Grundannahmen:\n- Jede Batterie liefert eine konstante Spannung V und eine konstante Ladungsmenge Q.\n- Die Glühlampen haben einen konstanten Widerstand R.\n- Der Stromverbrauch jeder Glühlampe bleibt konstant, solange die Spannung gegeben ist.\n\nBetrachtung der Fälle:\n\nA) Batterien und Glühlampen in Serie:\n   • Gesamtspannung ist V+V=2V.\n   • Effektiver Widerstand der Lampen: R_eff = R+R=2R.\n   • Strom durch die Lampen: I = V/R_eff = 2V/2R = V/R.\n   Das ist der gleiche Strom wie bei einer Einzelbatterie, aber die Batterien teilen sich die Arbeit.\n   Dies entspricht keiner korrekten Lösung da die Zeitfehler gefordert war.\n\nB) Batterien in Serie ohne parallele Lampen: Glühwirkung abhängig von Spannungssumme.",
+  "antwortoption": "B, C, D"
+}

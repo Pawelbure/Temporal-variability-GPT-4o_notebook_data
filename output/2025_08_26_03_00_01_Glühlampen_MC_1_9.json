@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier sind die notwendigen Annahmen und Schritte, um die Aufgabe zu lösen: 1\\) Die Spannung und Kapazität der Batterien, bezeichnet mit V und C, sind konstant. 2\\) Die Glühlampen haben einen konstanten Widerstand R, wodurch sie bei konstanter Spannung V einen gleichbleibenden Strom I=V/R und Leistung P=V^2/R liefern. Fall A: Zwei Batterien in Serie liefern eine Spannung von 2V, während Glühlampen in Serie einen Widerstand von 2R darstellen. Der Strom beträgt I=2V/(2R)=V/R, wobei die Leistung verdoppelt wird und die Entladezeit halbiert wird. Da aber zwei Batterien verwendet werden, bleibt die Kapazität pro Lampe gleich, wodurch die ursprüngliche Leuchtdauer t bleibt. Die Angabe t/4 ist daher nicht korrekt. Vergleiche Ähnliches für B, C, und D und beachte, dass totale Kapazität und Leuchtleistung konsistent sein sollen.",
+  "antwortoption": "Keine zutreffend"
+}

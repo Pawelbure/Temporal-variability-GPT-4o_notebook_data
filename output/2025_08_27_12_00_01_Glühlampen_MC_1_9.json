@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir prüfen die 4 angegebenen Aussagen hinsichtlich der elektrischen Eigenschaften der jeweiligen Schaltungen. 1. Annahmen: Jede Batterie liefert eine konstante Spannung V und bleibt ideal, d.h., keine Verluste treten auf. Die Glühlampen haben alle den gleichen Widerstand R, und Batterien wie Lampen sind identisch. - Aussage A: Batterien und Lampen in Serie. Gesamtspannung: 2V, Gesamtwiderstand: 2R. Strom: I=V/R insgesamt. Jede Lampe erhält dadurch gleiche Leistung unabhängig der Versorgung. Laufzeit ist t, nicht t/4. Daher falsch. - Aussage B: 2 Batterien in Serie, Lampen parallel: Jede Lampe erhält V Spannung. Aber die Leistungsverzweigung führt zur Halbierung des Batterie-Stromkalibers. Daher Laufzeit = t/2. Daraus richtig. - Aussage C: Erfordert Laufzeit 2t Laufzeit. Da Parallelstrommengenkalibrierung mustn’t bewährtechnik positiv/=Falsch. Anhand Gesamtlogik ist D weitere Ausgangsprinzmt Verifiierlpe.",
+  "antwortoption": "B"
+}

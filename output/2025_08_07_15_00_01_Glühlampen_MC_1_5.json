@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Konzepte:\\n1. Jede Batterie stellt dieselbe konstante Spannung V und Kapazität (Energiezuführung) zur Verfügung.\\n2. Der Widerstand jeder Glühlampe ist konstant, unabhängig von der Spannung oder Stromstärke.\\n3. Die Gesamtenergie einer Batterie bleibt fix, unabhängig von der Schaltungsart. Analyse der Aussagen:\\nA) Wenn die Batterien und Glühlampen in Serie geschaltet sind, beträgt die Gesamtlaufzeit t/4, da der Gesamtstrom sich entsprechend verändert.\\nB) Bei dieser Konfiguration verringert sich die Laufzeit proportional zu Parallelschaltung der Lampen bei Serienbatterien. Sie beträgt t/2.\\nC) Diese Situation ergibt nicht die angegebene Zeit. Die Berechnungen bestätigen diese Annahme nicht.\\nD) Diese Konfiguration ermöglicht t Laufzeit, da parallel verbundene Batterien die Energie gleichmäßig teilen.",
+  "antwortoption": "A, B, D"
+}

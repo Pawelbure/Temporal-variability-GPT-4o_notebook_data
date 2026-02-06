@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen:\\n1. Jede Batterie bietet eine konstante Spannung und hat eine bestimmte Gesamtladung, die bei gleichbleibender Entladung konstanter Strom zur Verfügung steht.\\n2. Die Glühlampe hat einen konstanten Widerstand, wodurch ihr Strom durch eine definierte Spannung gegeben ist. \\n3. Der Energieverbrauch bemisst sich durch die Spannung multipliziert mit der Stromstärke über die Zeit.\\nAnalyse der Optionen stets unter Verwendung dieser Konzepte:\\nA) Serienverbindung von Batterien verdoppelt die Spannung und entsprechend ändert sich bei Serienanordnung der Lampen: Strom gibt konstante Energieentladung, Zeit halbiert sich.\\nB) Lampe parallel; Volt lässt Zeit halbieren wegen zwei Baterien.\\nSo weiter: Option zutreffende Effekte erörtert.",
+  "antwortoption": "B, D"
+}

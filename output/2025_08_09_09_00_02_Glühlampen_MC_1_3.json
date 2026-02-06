@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Analyse und Lösung: Die Energie der Batterien wird gleich verteilt auf die angeschlossenen Glühlampen angewendet, abhängig von ihrer seriellen oder parallelen Verbindung. Für Serienanbindung addieren sich die Spannungen, während bei Parallelanbindung die Spannung gleich bleibt und sich der Strom aufteilt. Die Betrachtung wird wie folgt durchgeführt: Für Serie geteilt sich die Zeitdauer quadratisch, und bei Parallelanbindungen in simpler Division, womit bei Kombinationen individuell entsprechend verfahren wird.",
+  "antwortoption": "A, D"
+}

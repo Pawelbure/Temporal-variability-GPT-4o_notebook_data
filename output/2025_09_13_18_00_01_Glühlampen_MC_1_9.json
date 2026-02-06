@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, analysieren wir jede Aussage im Kontext:\nA) Batterien in Serie erhöhen die Gesamtsapannung, aber der Gesamtwiderstand in Serie verdoppelt sich, sodass der Strom durch die Kette halbiert wird und somit der Energieverbrauch gleich bleibt, jedoch die Spannung über den Lampen nicht ausreicht.\nB) Hier erreichen die Lampen höhere Leistung, jedoch ist die Batterielebensdauer anteilig geringer durch den Stromverbrauch.\nC) Batterien in Parallel geben dieselbe Spannung aus, aber die Lebensdauer wird bei reduziertem Gesamtstrom durch die Serie verdoppelt.\nD) Batterien und Lampen parallel, ergibt dieselbe Laufdauer wie eine einzelne Lampe pro Batterie.\nDaher ist C korrekt.",
+  "antwortoption": "C"
+}

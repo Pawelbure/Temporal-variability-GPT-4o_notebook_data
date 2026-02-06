@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Konzepte:\n1. Die Spannung jeder Batterie ist konstant und wird mit U bezeichnet.\n2. Jede Glühlampe hat den Widerstand R.\n3. Der Energieinhalt jeder Batterie erlaubt eine konstante Energieabgabe bis zur Zeit t.\n4. Strom- oder Spannungsänderungen aufgrund der Konfiguration werden durch die Schaltung berücksichtigt.\n\n### Analyse:\n#### A) Batterien und Glühlampen in Serie:\n- Spannung: 2U, Widerstand: 2R.\n- Strom: I = V/R = 2U/2R = U/R.\n- Leistung: P = I²R = (U/R)²⋅2R = U²/R.\n- Gesamtenergie: E=U²/R⋅t.\n- Zeit bis Entladung: t/2.\n#### B) Batterien in Serie, Glühlampen parallel:\n- Spannung 2U, je Lampe R, Gesamt 1/(1/R+1/R)=R/2.\n- Strom: I=2U/(R/2)=4U/R, jede Lampe 2U/R.\n- Leistung je Lampe: 4U²/R.\n- Zeit: t/2.\n#### C, D: Batterien parallel...\n\n### Antwort: D.",
+  "antwortoption": "D"
+}

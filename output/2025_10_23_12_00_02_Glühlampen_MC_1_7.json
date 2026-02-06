@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Konfigurationen der Batterien und Glühlampen entsprechend den gegebenen Aussagen, wobei wir davon ausgehen, dass jede Batterie eine konstante Spannung U und eine Kapazität von Q Coulomb hat sowie dass der Widerstand der Glühlampen konstant bleibt. Die nutzbare Energie einer jeden Batterie beträgt W = Q * U, und die Leistung an jeder Glühlampe ist P = U²/R, wobei R der Widerstand der Glühlampe ist.",
+  "antwortoption": "A, B, D"
+}

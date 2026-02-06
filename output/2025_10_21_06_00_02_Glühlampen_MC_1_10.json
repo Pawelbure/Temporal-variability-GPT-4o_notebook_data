@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für diese Aufgabe nehmen wir an, dass die Glühlampen einen konstanten Widerstand haben und jede Batterie eine konstante Energie bis zur vollständigen Entladung abgibt. Wir analysieren jede Konfiguration, indem wir die Stromverbrauchsrate und die Energieverteilung berücksichtigen: A) In Serie fließt der gleiche Strom durch beide Lampen, und die Gesamtspannung ist verdoppelt, sodass der Energieverbrauch pro Zeiteinheit steigt und die Betriebszeit auf t/4 beträgt. B) In dieser Schaltung wird jede Lampe schneller entladen wegen einer erhöhten Leistung, etwa auf t/2. C) Parallel zur Spannungsquelle bekommen beide Lampen die volle Energie zweier Batterien nacheinander, was zu einer erhöhten Gesamtlaufzeit führt. D) Parallel bedeutet, dass Energie gleichmäßig verteilt wird, so dass t erreicht wird.",
+  "antwortoption": "D"
+}

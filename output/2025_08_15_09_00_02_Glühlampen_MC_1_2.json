@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Konfigurationen. Nehmen wir an, jede Batterie liefert eine konstante Leistung und jede Glühlampe hat einen festen Widerstand. Durch Knoten- und Maschensatz sowie die Leistungsgleichungen lässt sich zeigen: Beide Batterien in Serie verdoppeln die Spannung, wodurch bei zwei in Serie geschalteten Glühlampen der gleiche Knotenstrom wie bei einer Lampe und einer Batterie fließt, aber die Glühlampen halb so lange leuchten. Bei parallelen Batterien bleibt die Spannung gleich, und bei parallel geschalteten Lampen teilt sich der Strom, die Batterien entleeren sich wie bei einer Einzelkonfiguration; daher gleiche Leuchtdauer. Details für jede Aussage sind A falsch, B wahr, C falsch, D wahr.",
+  "antwortoption": "B, D"
+}

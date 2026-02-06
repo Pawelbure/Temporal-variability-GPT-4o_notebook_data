@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Schrittweise Lösung des Problems:**\\n\\n1. **Annahmen und Idealisierungen:**\\n- Jede Batterie liefert eine konstante Spannung und hat die gleiche Kapazität Q.\\n- Der Widerstand der Glühlampe bleibt konstant, unabhängig von der Spannung.\\n- Die Glühlampe benötigt eine feste Leistung P, gerechneten Widerstandswerte sind ebenso konstant.\\n\\n2. **Physikalische Vorgehensweise und Szenarienanalyse:**\\n   - Jeder Widerstand R hat die Formel P = U^2 / R. Daraus folgt: R = U^2 / P.   - Kapazität einer Batterie bestimmt sich durch Energie Q = U * P * t, U deren Spannung.\\n\\n  **Analyse der Optionen:**\\n\\n**A)** Batterien in Serie, Lampen in Serie with Strome Halbs, therefore at Energie Halbbereich. Genaue Rechnung ergibt = t/4 besteht mit Richtig Value Tendenz.\\n***\\n\\n**Option: Nur die Ergebnissereiche Zahl ist Effizient oder Abundante: B Mehr Best Results.",
+  "antwortoption": "C"
+}

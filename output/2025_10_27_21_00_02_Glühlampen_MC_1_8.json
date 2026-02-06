@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zur Lösung dieser Aufgabe analysieren wir die beschriebenen Konfigurationen und berücksichtigen die Energieflussbedingungen: *Annahmen und Grundlagen:* Die Batterien sind identisch und liefern eine konstante Spannung U. Ihre Kapazität ist Q, wodurch die gespeicherte Energie E = U * Q beträgt. Die Lampen haben einen Widerstand R, und die elektrische Leistung ergibt sich durch den Ausdruck P = U^2 / R. Die Glühlampen sollen mit konstanter Leistung arbeiten, bis die Batterien entladen sind. *Betrachtung der Szenarien:*A) Batterien und Glühlampen in Serie: Die Gesamtspannung verdoppelt sich, und der Gesamtwiderstand verdoppelt sich ebenfalls. Der Strom i bleibt unverändert. Die Leistung einer Lampe bleibt gleich, die Energie beider Batterien erschöpft sich jedoch doppelt so schnell. Somit heißt die Brenndauer t/2.",
+  "antwortoption": "B"
+}

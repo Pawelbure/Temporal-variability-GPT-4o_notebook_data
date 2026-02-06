@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen: Wir setzen voraus, dass jede Batterie eine konstante Spannung V und eine bestimmte elektrische Energie bereitstellt, die aus der gespeicherten Ladung und Spannung resultiert. Auch nehmen wir an, dass die Glühlampen mit konstantem Widerstand R arbeiten. Nun analysieren wir jede beschriebene Schaltung. Für A: Batterien und Glühlampen in Serie bedeutet eine doppelte Spannung an zwei Lichtern im Gesamtwiderstand 2R, die Stromstärke bei halber Stromaufnahme, jedoch die Stromquelle schneller entleert, was zu einer Betriebszeit von t/2 führt. Daher ist die Aussage falsch. Für B: Die doppelte Spannung in zwei parallelen Lampen führt zu gleicher Energieverteilung und somit halber Betriebszeit t/2. Daher ist dies nicht korrekt. Für C und D: parallele Batterien verdoppeln die Kapazität, der Wert C ist nicht realisiert, lediglich D bleibt korrekt mit einer Zeitdauer von t.",
+  "antwortoption": "D"
+}

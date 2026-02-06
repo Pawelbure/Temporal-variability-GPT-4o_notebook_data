@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen:\\n- Jede Batterie liefert eine konstante Spannung V und hat eine identische Kapazität Q (Ladung).\\n- Eine Glühlampe verhält sich wie ein idealer Widerstand R, unabhängig von der angelegten Spannung.\\n\\nAnalyse der Schaltungsoptionen:\\nA) Batterien und Lampen in Serie:\\n- Die Gesamtsumme der Spannungen der Batterien ist 2V. Der Gesamtwiderstand der Lampen in Serie ist 2R. Daher bleibt der Strom I = (2V)/(2R) gleich V/R. Die Entladungszeit der Batterien bleibt aufgrund der unveränderten Stromstärke gleich t. Diese Option ist daher inkohärent.\\n\\nB)\\nC)\\nD)\\n\\nBestimmung der korrekten Optionen gemäß den oben skizzierten Prinzipien. Verifikation der übereinstimmenden Werte.",
+  "antwortoption": "A"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zuerst sollte man annehmen, dass beide Batterien identisch und ideal sind, ebenso wie die beiden Glühlampen. Positiv betrachten wir die Gesamtkapazität der Batterien und legen die Energiebilanz zugrunde: Eine Batterie liefert eine Energiemenge U_q. Weiterhin bestimmen sich die Betriebseigenschaften durch die Gesamtstromstärke I und den Widerstand, wie R_eff. In serieller Konfiguration erhöhen sich Spannungen additiv und in paralleler bleibt sie konstant, wobei sich dabei Ströme entsprechen aufteilen. Unter Anwendung dieser Prinzipien resultiert:\\n\\\n- A) In serieller Verbindung beläuft sich die Energieabgabe (doppelte Spannung) auf identischen Serienschlusswiderstand und halber Durchflussrate – Erg_T = t×q/4.\\n- B) Im Parallellfall zeigt Energiehalbinhalte hierbei halbiert auf t/2.\\n- Vergleichbare Behandlugen liefern Resultäate für C).\\n\\\nDie richtige Antworten lauten daher exakt: A, B, D.",
+  "antwortoption": "A, B, D"
+}

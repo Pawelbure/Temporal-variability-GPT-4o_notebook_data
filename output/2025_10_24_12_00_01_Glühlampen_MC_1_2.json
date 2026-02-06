@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problematik zu lösen, berücksichtigen wir die Grundlagen der Elektrizitätslehre, insbesondere den Zusammenhang zwischen Strom, Spannung und Widerstand sowie die Schaltungsarten für Batterien und Verbraucher. Eine Batterie liefert eine bestimmte Energiemenge, abhängig von ihrer Kapazität. Wenn zwei Batterien parallel geschaltet werden, bleibt die Spannung gleich, die Kapazität (in Ah) verdoppelt sich jedoch. Werden sie in Reihe geschaltet, bleibt die Kapazität gleich, aber die Spannung verdoppelt sich. Bei zwei identischen Glühlampen mit Widerstand R gilt, dass ihr Verhalten durch das Ohmsche Gesetz (U=IR) und die Leistungsgleichung (P=UI) beschrieben wird. Mit diesen Prinzipien gehen wir die Aufgaben konkret durch.",
+  "antwortoption": "B"
+}

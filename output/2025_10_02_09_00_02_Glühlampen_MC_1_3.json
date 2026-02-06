@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren das Problem basierend auf den elektrischen Eigenschaften der Schaltungskomponenten. Jede Batterie hat eine vorgegebene elektrische Ladekapazität und Energie, die unter Annahme eines konstanten Widerstands der Glühlampe gleichmäßig aufgebraucht wird. Wenn zwei Batterien und Glühlampen kombiniert werden, ändern sich die Stromstärken und Spannung auf verschiedene Weisen, abhängig von der Schaltungsanordnung. Halbieren oder Verdoppeln der Lebensdauer der Batterien hängt von der Anpassung des Stroms und der Spannung ab. Durch Berechnung ist die Situation für jede Variante analysiert worden.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung zu analysieren, sind folgende Grundlagen wichtig: 1. Batterien in Serie addieren ihre Spannungen, während Batterien parallel verbunden die Kapazitätsreserve erhöhen. 2. Die Glühlampen haben gemäß Problemstellung konstante Widerstände. 3. Die Lebensdauer der Batterien hängt direkt von ihrer Gesamtkapazität in Bezug auf die geforderte elektrische Leistung ab. Wesentlicher Punkt ist die Veränderung von Spannung und Strom durch die verschiedenen Schaltungsarten - Auswirkungen auf die Leistung und folglich auf die Lebensdauer. Zu den gegebenen Optionen: A) Serie von Batterien und Lampen, B) Serie von Batterien, parallele Lampen, C) Parallele Batterien, serielle Lampen, D) Parallele Konfiguration für beides. Die spezifische Änderung der Leistungsabnahme und deren Einfluss auf die Laufzeit wird angeführt, wobei die korrekten Schlussfolgerungen B und D sind.",
+  "antwortoption": "B, D"
+}

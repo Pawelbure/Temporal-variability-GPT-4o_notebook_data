@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die grundlegenden Konzepte der elektrischen Schaltungen und Batterien: Wenn Batterien in Serie geschaltet werden, addieren sich ihre Spannungen, während ihre Kapazität konstant bleibt. Wenn Batterien parallel geschaltet werden, bleibt die Spannung identisch, aber die Kapazität verdoppelt sich (wenn die Batterien identisch sind). Der Widerstand beeinflusst den Stromfluss abhängig von seiner Konfiguration in Serie oder Parallel. In Serie fließt ein gleicher Strom durch die Komponenten, in Parallel teilt sich der Strom auf. Die Energieabgabe der Batterien wird durch das Produkt aus der Spannung und der Entladezeit bestimmt. Für jede der gegebenen Schaltungen analysieren wir nun die Stromverläufe und Spannungsverteilungen: A) Serie mit Serie, B) Serie mit Parallel, C) Parallel mit Serie, D) Parallel mit Parallel.",
+  "antwortoption": "D"
+}

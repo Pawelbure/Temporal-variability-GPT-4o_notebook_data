@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lass uns die gegebenen Szenarien systematisch analysieren. Die Kapazität einer Batterie liefert eine festgelegte Gesamtladung bei einer spezifizierten Spannung. Die Leistung einer Lampe ist gegeben durch P=V²/R, wobei die Helligkeit proportional zur Leistung ist. In den Szenarien: A) Batterien und Lampen in Serie: Verdoppelung der Spannung verdoppelt P zu jeder Zeit, aber die Ladung halbiert sich durch den doppelten Strom. Zeit t/2 mal 1/2 wegen doppelter Leistung, ergibt t/4. B) Batterien in Serie, Lampen parallel: Spannung bleibt konstant an jeder Lampe, Gesamtstrom verdoppelt, halbe Zeit, t/2. C) Batterien parallel, Lampen in Serie: Spannung halbiert sich, Konsequenz ist halbierte Leistung insgesamt, doppelte Zeit, 2t. D) Batterien und Lampen parallel: Spannung bleibt konstant, Ladung jeder Batterie wird hälftig genutzt, keine Änderung, Zeit t.",
+  "antwortoption": "A, B, C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Konzepte: Annahmen: 1. Die Spannung einer Batterie beträgt U (konstant bis zur vollständigen Entladung). 2. Der Widerstand einer Glühlampe bleibt während des Betriebs konstant und beträgt R. 3. Die Kapazität einer Batterie ist C (liegt zeitlich konstant an). 4. Der Stromverbrauch einer Glühlampe ergibt sich durch I = U/R. **Analyse jeder Option:** **Option A:** Wenn die Batterien in Serie und die Glühlampen in Serie geschaltet sind: Spannung entspricht 2U, gesamter Widerstand entspricht 2R => Gesamtstrom I = U/R = U/2R, Betriebszeit wird durch Batterie mit Gesamtkapazität bestimmt, da beide gleichzeitig entladen werden => t_A ~ C/I= t=1/4. (Korrekt) **Option B:** Batterie's Spannung beträgt 2U. Die parallelen Lampen teilen den Strom, was den selben Widerstand multipliziert. T ~ c *(0,1/k.) __Correct",
+  "antwortoption": "A, C"
+}

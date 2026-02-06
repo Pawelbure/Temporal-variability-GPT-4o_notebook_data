@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Eine Batterie hat eine bekannte Kapazität und Spannung, sagen wir U und Q, und kann daher eine bestimmte Energie E = UQ bereitstellen. Der Widerstand einer Lampe ist R, und wenn eine Lampe mit einer Batterie verbunden wird, fließt ein Strom I = U/R durch die Lampe, was bedeutet, dass die Leistung, die Verbrauch wird, P = U²/R ist. Diese Leistung verbleibt konstant, und die Batterie entleert sich vollständig in einer Zeit t = Q/(U/R). Wenn zwei Batterien und Lampen betrachtet werden, hängt die Zeit und Klarheit von der spezifischen Konfiguration ab. Wir analysieren jede Konfiguration separat:",
+  "antwortoption": "B, D"
+}

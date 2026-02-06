@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problematik zu analysieren, nehmen wir an, dass jede Batterie eine konstante Spannung V liefert und bis zur vollständigen Entladung eine konstante Ladungsmenge Q bereitstellen kann. Für jede Glühlampe unterstellen wir resistiven Stromverbrauch mit einem festen Widerstand R. Daraus folgt der Strom bei Betrieb aus einer Batterie I = V/R. Die Betriebszeit t ergibt sich durch die geladene Ladung Q und diesen Strom: t=Q/I. \\n\\n1. Batterien in Serie und Glühlampen in Serie:  \\n- Die Gesamtspannung ist auf 2V erhöht, der Gesamtstrom für zwei in Reihe geschaltete Lampen bleibt konstant. Aber die Betriebsspannung pro Glühlampe ist unzureichend, die Einheit ergibt 1/4 der Betriebszeit jeder Batterie. --> Zeit wird deutlich reduziert\\n2. Batterien in Serie und Glühlampen parallel:\\n- Parallel Elektronenkomponenten wie vorher Terminalg...\\nmevoid powerful sequence..",
+  "antwortoption": "A"
+}

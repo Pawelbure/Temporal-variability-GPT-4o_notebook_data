@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst analysieren wir die gegebenen Aussagen: Eine Batterie hat eine konstante Kapazität und liefert elektrische Energie, welche durch die Glühlampe als Wärme und Licht umgesetzt wird. Wir analysieren die vier Schaltungsoptionen:\n\n**A) Batterien und Glühlampen in Serie:**\n- Spannung über die Lampe halbiert; Strom halbiert; Energieverbrauch der Lampe reduziert (Stromquadrat-Regel)\n- Insgesamt: Zeit t maximiert (volle Energie der Batterien).\nFalsch.\n\n**B) Batterien in Serie, Glühlampen parallel:**\n- Spannung verdoppelt; Strom pro Lampe gleich; doppelter Spannungsverbrauch, Lampe=Konstante Leistung.  Zeit=Hälfte.\nKorrekt.\n\n**C) Batterien parallel, Lampen in Serie:**\n- Maximale Gesamtladung im Schafffeld gerichtet. Leucht-Dauer verdoppelt.\nKorrekt Erdkommando.\n\n**D) Parallel Konfiguration:** Gleichzeitige Spannungleistung-Gewährleistung: Max Energie Standzeit:T verwenden.\n\n",
+  "antwortoption": "B, D"
+}

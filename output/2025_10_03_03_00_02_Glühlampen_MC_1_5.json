@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, gehen wir von idealisierten Annahmen aus: jede Batterie hat dieselbe konstante elektrische Energie (Kapazität), und jede Glühlampe hat denselben konstanten Widerstand. Wir wenden Ohmsches Gesetz (V=IR) und die Prinzipien der Serienschaltung (additive Widerstände, gleiche Strömung) sowie der Parallelschaltung (gleichen Spannungsabfall, additive Stromstärken) an. Folgendes ergibt sich für jede Aussage: A) Bei zwei Batterien in Serie verdoppelt sich die Spannung, was, kombiniert mit der doppelten Widerstands-Reihenschaltung, t/4 Verzerrung bewirkt. B) Die höhere Serienspannung verteilt die Batterielebensdauer nur auf halbe Stromstärken je Lampe in Parallelanordnung -> t/2 Standzeit. C) Parallele Batterien verdoppeln die Kapazität relativ Serienkombos, weshalb Glühlampen wirkend dazu den doppelten Standby mit idealisierter Gültigkeit bedürfen. ",
+  "antwortoption": "D"
+}

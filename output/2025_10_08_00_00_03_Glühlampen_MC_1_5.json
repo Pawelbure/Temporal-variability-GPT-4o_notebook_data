@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1) Annahmen: Die Spannung jeder Batterie bleibt konstant bis zur vollständigen Entladung. Der Widerstand der Glühlampen bleibt konstant unabhängig von der Spannung und Stromstärke. 2) Physikalische Konzepte: Ohmsches Gesetz (U = R * I), Energiegesetz (E = U * I * t). 3) Analyse der Schaltungen: a) Serie Batterie/Lampe: Spannung insgesamt verdoppelt; Resultierende Energie verteilt sich asymmetrisch. b) Parallel Batterie/Lampe: Gleiche Spannung wie eine einzelne Batterie; vollständige Energieaufteilung. Dauer analysiert.",
+  "antwortoption": "D"
+}

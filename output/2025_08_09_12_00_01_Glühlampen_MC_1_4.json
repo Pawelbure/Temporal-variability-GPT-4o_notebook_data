@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Die Batterien haben gleiche Kapazitäten und Spannungen. Die Glühlampen haben identische Widerstände, und die Batterien entladen sich vollständig unabhängig von ihrer Verschaltung. Der Widerstand der Glühlampen bleibt konstant. Relevante physikalische Konzepte: Die Reihenschaltung von Batterien erhöht die Spannung, die Parallelschaltung erhält die Spannung bei erhöhter Kapazität. Die Reihenschaltung von Widerständen erhöht den Gesamtwiderstand, die Parallelschaltung hingegen senkt ihn. Analyse der Optionen: A) In Serie beträgt der Gesamtwiderstand beider Glühlampen R_ges=2R. Die Spannung der Batterien addiert sich zu 2U. Die Energieabgabe erfolgt schneller, sie reichen nur für t/4. B) Hier ergeben sich gemischte Ströme, wobei nur t/2 Energie reicht. C) Gleichheit wird nicht erreicht, falsch. D) Hier erhält jede Lampe gleiche Energie, dadurch ist die Laufzeit t entschlossen.",
+  "antwortoption": "A, B, D"
+}

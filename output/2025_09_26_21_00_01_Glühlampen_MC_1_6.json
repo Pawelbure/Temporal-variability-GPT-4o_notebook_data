@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die angegebenen Situationen unter Berücksichtigung der Annahme idealer Batterien und gleichmäßiger Eigenschaften der Lampen. Die Batterie hat eine über die Zeit konstante Energieabgabe till Entladung, und der Widerstand einer Lampe bleibt gleich. Je nach Serienschaltung wird die Gesamtspannung addiert, während die Stromstärke durch die Widerstände geteilt wird. Bei einer Parallelschaltung bleibt die Spannung gleich, die Stromstärke verteilt sich jedoch über die Zweige.",
+  "antwortoption": "D"
+}

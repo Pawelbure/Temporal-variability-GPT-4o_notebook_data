@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Das Problem basiert auf der Anwendung der Gesetze des elektrischen Stroms und Kirchhoffscher Regeln. Es wird angenommen, dass jede Batterie eine bestimmte Ladung Q enthält, die sie konstant bei einer Spannung V abgibt, bis die Kapazität erschöpft ist. Ebenso wird angenommen, dass jede Glühlampe als reiner, ohmscher Widerstand fungiert, wodurch sie während des Betriebs für jede gegebene Spannung einen konstanten Strom aufnimmt. Jede Konstellation der Schaltung erfordert eine Analyse, wie Spannung und Strom sich auf die Batterien und die Glühlampen verteilen, um zu bestimmen, wie lange die Energieversorgung der Lampen hält. Hier sind die detaillierten Analysen jeder Option:",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen und Konzepte: Batterien stellen Energie bereit, die durch Spannung und gespeicherte Ladung bzw. Stromkapazität bestimmt wird. Widerstände der Glühlampen sind konstant, und elektrische Leistung hängt von Spannung und Strom ab. Der Energieverbrauch der Glühlampen bestimmt die Betriebsdauer. Es gelten das Ohmsche Gesetz und die Reihenschaltung- und Parallel-Analogien.\n2. Einzelfallanalysen:\n   - A) Serie – entspricht doppelter Spannungsstärke, daher höhere Leistungsaufnahme der Serienschaltung, Entladung erfolgt schnell: t/4.\n   - B) Serie Batterie, Parallel Glühlampen: identische Spannungsversorgung für beide Lampen, ungefähr halbe Zeit (t/2).\n   - C) Parallel Batterien Serie Lampen: gleichbleibende Spannung, langsame Entladung durch beide Batterien komplementär (längere Zeit).\n   - D) Parallel für beides: Spannungs- und Verbrauchsaufteilung, Gesamtdauer entspricht Basiswert (t).",
+  "antwortoption": "A, B, D"
+}

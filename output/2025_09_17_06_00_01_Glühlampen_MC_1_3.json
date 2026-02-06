@@ -1,0 +1,3 @@
+{
+  "loesungsweg": "1. Annahmen: Die Batterien haben die gleiche Spannung und Kapazität. Die Glühlampen besitzen identische Widerstände. Verluste durch Leitungen oder Geräte werden vernachlässigt.\n\n2. Gegebenheiten untersuchen: Eine einzelne Batterie betreibt eine Glühlampe für die Dauer t. Damit ergibt sich eine absolute Energiekapazität der Batterie.\n\n3. Fall a: Batterien und Lampen in Serie: Der Strom durch die Serie ergibt sich aus der doppelten Spannung, wodurch der Widerstand der Serie den Strom halbiert, also ist die Kapazität um den Faktor 1/2 reduziert, die Zeit verdoppelt sich, also bleiben die Lampen t jeweils.\n\nFall b Analog sowie die anderen Szenarien: Finden und testen die gleichen simplifizierten Strom-Spannungs-Gesätze mit."
+}

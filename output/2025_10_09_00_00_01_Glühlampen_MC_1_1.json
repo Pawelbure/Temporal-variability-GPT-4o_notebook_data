@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu analysieren, müssen die Angaben zur Schaltung und die Eigenschaften der Elemente berücksichtigt werden. Unter der Annahme idealer Bedingungen ohne interne Widerstände der Batterien, betrachten wir die Strom- und Spannungsverteilungen.\n\n1. Die Batteriespannung ist konstant; in Serie addieren sich die Spannungen, in Parallel bleiben Spannung und Kapazität gleich.\n2. Der Widerstand determineiert, wie die Glühlampen Strom aufnehmen: In Serie addieren sich die Widerstände (weniger Gesamtstrom), in Parallel teilen sie denselben Potenzialgerundetet (unkritischer Lastwiderstand).\n\n### Untersuchung der Szenarien:\nA) Zwei Batterien und Glühlampen in Serie: Spannungsverdopplung erhöht Energieverbrauch drastisch. Zeit halbiert.\nB.)2.V Parallel mehr Stromaufnahme resultiert zu Langsam, Lesen Körper.. GA;\n.",
+  "antwortoption": "A,B,C,D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Lösung des Problems erfolgt durch das Untersuchen verschiedener Schaltmöglichkeiten der Batterien und Glühlampen. Annahmen: Die Glühlampen haben gleiche Spezifikationen, und die ideale Batterie liefert eine konstante Spannung bis sie erschöpft ist. \n\n1) Im Fall von A werden die Batterien und Lampen in Serie geschaltet: Bei Verdoppelung des Gesamtwiderstands durch zwei Lampen in Serie strömt der halbe Strom. Da jedoch die Zeit bis zur Erschöpfung der Energie bei diesem Strom durch die doppelte Spannung reduziert ist, leuchten die Lampen nur für t/2, nicht t/4. A ist falsch.\n\n2) Im Fall von B werden Batterien in Serie, Lampen parallel verschaltet: Die Batteriespannung wird verdoppelt, der Strom erhöht. Für jede parallele Lampe reicht die Ladung einer Zelle für jeweils t, und die Entladung erfolgt proportional. B ist…",
+  "antwortoption": "A, D"
+}

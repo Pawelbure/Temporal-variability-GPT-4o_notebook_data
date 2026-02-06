@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe beruht auf den Eigenschaften von Reihen- bzw. Parallelschaltung von Batterien und Glühlampen. Die ideale Batterie liefert eine konstante Spannung bis zur Erschöpfung ihrer Kapazität, während die Glühlampen einen konstanten elektrischen Widerstand haben. Drei Szenarien werden betrachtet: Schaltung von Batterien parallel oder in Serie und die Glühlampen parallel oder in Serie geschaltet. Die relevante physikalische Größe ist die elektrische Leistung, die definiert ist als Strom mal Spannung. Durch Analyse der Strom- und Spannungsverhältnisse in den verschiedenen Konfigurationen lässt sich bestimmen, wie lange die Glühlampen leuchten.",
+  "antwortoption": "B, D"
+}

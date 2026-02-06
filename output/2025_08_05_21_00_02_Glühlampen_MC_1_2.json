@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Angenommen, jede Batterie stellt eine konstante Spannung V bereit und hat eine Kapazität von Q_A (Ladung). Die Glühlampe hat einen Widerstand R und verbraucht eine konstante Leistung. Der Strom durch eine Lampe beträgt I = V/R unter Serienbetrieb bzw. I = 2V/R bei Parallelbetrieb zweier Batterien. Um die Aussagen zu bewerten, analysiere ich die Auswirkungen unterschiedlicher Schaltungen auf potentialgetriebene Stromleistung und die Zeit, die eine Lampe leuchtet. - A: Ungültig, die Zeit wäre mindestens t. - B: Auch dieser Fall liefert t. - C: Falsch, gleiche Logik wie vorher. - D: In einer parallelen Batterie- und Lampenschaltung bleibt die Zeit t. Final bleibt nur B korrekt.",
+  "antwortoption": "B"
+}

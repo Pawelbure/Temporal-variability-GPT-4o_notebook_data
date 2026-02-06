@@ -1,0 +1,3 @@
+{
+  "loesungsweg": "### Annahmen und Idealisierungen\n1. Die Spannung jeder Batterie ist konstant, solange sie Energie liefert.\n2. Die Kapazität der Batterien ist identisch und definiert die Wechselwirkung der Energie mit der Zeit.\n3. Glühlampen verhalten sich als ohmsche Widerstände mit konstantem Widerstand R.\n4. Energieentnahme und Stromverlauf folgen den einfachen Gesetzmäßigkeiten des elektrischen Stromkreises.### Physikalische Konzepte\n- Ohmsches Gesetz: I = U / R\n- Kapazität der Batterie in Ah, die zu zahl auf Produkt Spannung * Strom ergibt bis Leerschaltung bei Energiehaltung### Szenario-Analyse\n#### A Serie Batterien & Lampes\nErklären Stromartikel Mischzeichen Effekte letzter."
+}

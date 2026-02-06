@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die einzelnen Szenarien: \\n1. Batterien in Serie, Lampen in Serie: Der Widerstand verdoppelt sich, die Spannung der Battieren addiert sich, der Strom halbiert sich. Entladedauer bleibt gleich, daher keine Änderung der Laufzeit bezogen auf t.\\n\\n2. Batterien in Serie, Lampen parallel: Da die Gesamtspannung erhöht wird, fließt mehr Strom. Laufzeit wird halbiert: Etwa Zeit t/2. \\n\\n3. Batterien parallel, Lampen in Serie: Keine Änderung während Strom derselben Spannung, Entladungsdauer verdoppelt. Laufzeit ist etwa 2t. \\n\\n4. Batterien parallel, Lampen parallel: Strom zusammen geteilt wird, keine Veränderung generelle in Entladedauer, Laufzeit gleich t ohne Reduktionen\\n\\nFolgende Resultat führen Vertedigung Optione B,D.",
+  "antwortoption": "B, D"
+}

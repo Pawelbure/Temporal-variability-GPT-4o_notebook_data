@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekten Aussagen zu bestimmen, analysieren wir die gegebene Schaltungskonfiguration:\n\nAnnahmen und gegeben: Jede Batterie liefert für eine Lampe über die Zeit t eine konstante Leistung, und jede Lampe hat einen festen Widerstand R.\n\n1. Schaltung A:\n   - Batterien in Serie -> Spannung verdoppelt sich, Leistung in den Lampen verachtfacht sich (P ∝ V²).\n   - Lampen in Serie -> Gesamtwiderstand 2R, Strom I wird halbiert (I = V / (2R)), Leistung P wird reduziert zum Viertel.\n   - Daher leuchten die Lampen für t/4.\n\n2. Schaltung B:\n   - Batterien in Serie erhöhen Spannung, Lampen parallel -> Spannung V an jeder Lampe, daher <t>. Zeit t/2.\n\n3. Schaltung D:\n   - Batterien parallel liefern dieselben Spannung. Batterien verstärken zwar die Gesamtkapazität und damit Energiepotential.\n\n4. Andere ",
+  "antwortoption": "A, D"
+}

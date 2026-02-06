@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Beginnen wir mit der Analyse des Systems: Es wird angenommen, dass die Batterien gleiche Spannung V und Kapazität Q haben, und jede Glühlampe als Widerstand R betrachtet wird. Weiterhin wird angenommen, dass der Energieverbrauch der Glühlampen durch den Stromfluss I gemäß der elektrischen Leistung P = I^2R beschrieben wird. Berechnen wir die Zeiten t für die verschiedenen Konfigurationen von Batterien und Glühlampen im System.",
+  "antwortoption": "B"
+}

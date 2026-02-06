@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und physikalische Grundlagen: Gegeben ist eine ideale Batterie und Glühlampe mit konstantem Widerstand. Die Batterie entleert sich mit konstanter Leistung über die Glühlampe. Die Kapazität der Batterie wird durch gespeicherte elektrische Energie charakterisiert. Die einfach kombinierte Widerstandbildung bei Reihen- und Parallelschaltung folgt den Regeln: Für Serienwiderstände addieren sich die Widerstände zum Gesamtwiderstand, während sie bei Parallelschaltung nach der Formel rückgerechnet werden: 1/R_G = 1/R_1 + 1/R_2. Basierend auf diesen Regeln: \n\n(Serie-Serien): Spannung verdoppelt, Strom halbiert -> Leistung bleibt konstant pro Element -> Zeit bis zur Hälfte entleerbar.\n\n(Serie-Parallel): Gesamtwiderstand halbiert -> Stromverdopplung -> Batteriekapazit.: halbe Tätigkeiten.\n\n\nParallel-Ser.: Energiegleichung erneut Studient.*20*.~",
+  "antwortoption": "D"
+}

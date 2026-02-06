@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu analysieren, beginnen wir mit den Anahmen: Jede Batterie besitzt eine konstante Kapazität Q und eine konstante Spannung V, und die Glühlampe hat einen festen Widerstand R. Es werden vier Szenarien betrachtet: Die Schaltung von zwei Batterien und zwei Lampen in Serie und parallel. Betrachten wir die relativen Änderungen der Spannung, des Widerstands und der Leistungsverhältnisse in den verschiedenen Schaltungsarten. Berechnen wir dies genauer.\\n\\n**A) Batterien in Serie, Lampen in Serie** \\n- Gesamtspannung: 2V.\\n- Gesamtwiderstand: 2R.\\n- Gesamtstrom: I = U/R = 2V/2R = V/R.\\n- Leistung: P = V * I = 2V * V/(2R) = V²/R.\\nDamit hat jeder Widerstandskapazität: t_eff = t/4.\\n\\n**B) Batterien in Serie, Lampen parallel** \\n- Gesamtspannung: 2V.\\n- Gesamtwiderstand der Parallelkombination: R/2.\\n- Gesamtstrom: I = U/R = V/R. Daher Strom sowie \\n- Leistung ebenfalls aus R/3.",
+  "antwortoption": "D"
+}

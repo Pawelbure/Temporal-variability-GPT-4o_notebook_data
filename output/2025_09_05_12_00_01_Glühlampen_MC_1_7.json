@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Verwendete Annahmen: *Die Glühlampe hat konstanten Widerstand R. *Batterie liefert konstante Spannung V. *Die Kapazität der Batterie, gemessen in Ah (Ampere-Stunden), verändert sich nicht durch Parallel- oder Serienschaltung. 2. Betrachtung der Schaltungsarten: *In Serie addieren sich Spannungen, Strom bleibt konstant. *In Parallel vermindert sich Strom, Spannung bleibt gleich. 3. Falluntersuchungen: A: Batterien und Lampen seriell: Energiebedarf einer Lampe: V*I*t. Serie erhöht Spannung, Lampe verbraucht höhere Energie, da I=V/R:Anzahl an Batterien verdoppelt, Querstrom auch. Daher verringert sich die Zeit. Erneute Energieverbrauch ergibt: für 2 Lampen Zeitabfall auf t/4.",
+  "antwortoption": "A"
+}

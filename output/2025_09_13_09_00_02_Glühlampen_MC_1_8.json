@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, nehmen wir an, dass der Widerstand der Glühlampen konstant bleibt, unabhängig von der angelegten Spannung. Außerdem gehen wir davon aus, dass jede Batterie eine konstante Kapazität besitzt, die als produktiv verfügbar betrachtet wird. Die elektrische Leistung kann als P = U²/R beschrieben werden, wobei U die Spannung an der Glühlampe und R deren Widerstand ist. Abhängig von der Konfiguration der Batterien und Glühlampen ändern sich sowohl die Spannungen als auch die Belastungen und damit die Betriebsdauer. Durch Anwendung dieser Prinzipien auf jede der vorgeschlagenen Konfigurationen können Beispiele zur Klarheit beurteilt werden. Nach Berechnung folgt:\n\nA) Unrichtig. Die Glühlampen würden länger betrieben werden.\nB) Richtig, da die Spannung und Entladungszeit gleich bleibt.\nC) Unrichtig. Es würde kürzer dauern als t.\nD) Unrichtig. Beide laufen je t/2.",
+  "antwortoption": "B"
+}

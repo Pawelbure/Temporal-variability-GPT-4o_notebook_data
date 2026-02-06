@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Damit die Auswirkungen auf die Zeit, in der die Lampen betrieben werden können, analysiert werden können, betrachten wir die folgende Situation: Jede Batterie hat eine definierte interne Energie, die als ihre Kapazität bezeichnet wird. Jede Batterie hat eine Spannung von U, und die Glühlampen haben einen konstanten Widerstand R. Wenn Batterien in Serie geschaltet werden, addieren sich ihre Spannungen zu 2U. Wenn sie parallel geschaltet werden, bleibt die Spannung jedoch U und die Kapazität verdoppelt sich. Ähnlich ändert die Schaltungsart der Lampen die Gesamtlast im Stromkreis: Lampen in Serie ergeben einen effektiven Widerstand von 2R, während sie parallel einen effektiven Widerstand von R/2 erzeugen. Die Betrachtung folgt den Grundsätzen des Energieerhaltungssatzes.",
+  "antwortoption": "D"
+}

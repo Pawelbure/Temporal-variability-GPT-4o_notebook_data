@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Situation zu analysieren, gehen wir davon aus, dass beide Batterien identisch sind, die Glühlampen gleich hohe Widerstände aufweisen und der Innenwiderstand der Batterien vernachlässigbar ist. Da die Batterien eine endliche Energiegesellschaft besitzen, ist die Energiemenge pro Batterie gleich der Produkt der Spannung und der Ladung, die durch die Batterie geliefert werden kann. Bei seriellem Verbinden zweier Batterien addieren sich die Spannungen, während die Kapazität unverändert bleibt. Bei paralleler Verschaltung der Batterien bleiben die Spannungen gleich, aber die Gesamtkapazität verdoppelt sich. Daher hängt die Zeit, über die die Lampen betrieben werden, von der Verschaltung ab:",
+  "antwortoption": "D"
+}

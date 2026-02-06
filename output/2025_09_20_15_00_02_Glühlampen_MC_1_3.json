@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zur Lösung des Problems betrachten wir die verschiedenen Schaltungsarten einzeln und analysieren die resultierende Strom- und Spannungsverteilung sowie die Laufzeit der Glühlampen. Hierbei basieren unsere Überlegungen auf dem Ohmschen Gesetz und der Energiekapazität der Batterien. Wir nehmen an, dass jede Batterie eine konstante Kapazität von Q besitzt und jede Lampe einen konstanten Widerstand R sowie eine konstante Betriebsspannung U benötigt.",
+  "antwortoption": "A, B, D"
+}

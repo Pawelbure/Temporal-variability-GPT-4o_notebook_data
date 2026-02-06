@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Grundlagen\n\nUm diese Aufgabe zu lösen, führen wir folgende Annahmen und Unterscheidungen ein:\n\n1. Jede Batterie liefert im Betrieb eine konstante Spannung \\( U \\) und hat eine bestimmte Energie \\( E \\), die sie liefern kann, bevor sie entladen ist, wobei \\( E = U \\cdot I \\cdot t \\).\n2. Der Widerstand der Glühlampe ist idealerweise konstant und sei \\( R \\).\n\n### Betrachtung der einzelnen Szenarien:\n\n#### A) Batterien in Serie, Glühlampen in Serie:\n- Spannung verdoppelt, daher Gesamtspannung \\( 2U \\)\n- Gesamtwiderstand \\( 2R \\), Strom \\( I = \\frac{U}{2R} \\)\n- Power \\( P = I^2 \\cdot R \\), Zeit \\( t/4 \\), da Energiezuwachs und -verbrauch steigen.\n\n#### B) Batterien in Serie, Glühlampen parallel:\n- Glühlampen beide \\(R/2\\), Strom schneller. t/n Energie/Leistung verdoppelt.\n\n#### Komplette Berechnung\n Finalisierung Physikalischer Formeln.\n",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu analysieren, nehmen wir an: Jede Batterie hat dieselbe Kapazität, Spannung und Innenwiderstand. Die Glühlampen sind identisch hinsichtlich ihres Widerstands und Verhaltens unter Last. Weiterhin betrachtet die Aufgabe ideale Batterien und vernachlässigt reale Wirkungen wie Spannungsschwankungen oder Temperaturänderungen. Nun zu den Optionen:1) Bei Serienverbindungen von Batterien und Glühlampen summieren sich die Spannungen der Batterien, während der Strom durch alle Komponenten identisch bleibt. Die aufgenommene Energie einer Glühlampe steigt, was die Batterien schneller entlädt. 2) Bei Parallelschalten bleibt die Spannung konstant, jedoch teilt sich der Strom auf. Die Betriebszeit bleibt länger durch die steigende Gesamtkapazität. Mittels Rechnungen über Widerstandsberechnungen sowie Energiebetrachtungen ergibt: nur Aussage D) korrekt.",
+  "antwortoption": "D"
+}

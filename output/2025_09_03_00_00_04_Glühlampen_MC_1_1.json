@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu lösen, betrachten wir die Auswirkungen verschiedener Schaltungen von zwei Batterien und zwei Glühlampen auf die Betriebszeit der Lampen. Die Annahmen sind:\n\n1. Jede Batterie hat eine bestimmte Energie und kann eine einzelne Lampe für eine Zeit t betreiben.\n2. Die Glühlampen haben konstante Widerstandswerte, und die Energie wird gleichmäßig verbraucht.\n3. Betrachtet wird ein ideales Szenario ohne Energieverluste.\n\nA).. Glühlampen- und Batterie-Serie.. Bei zwei in Serie geschalteten Batterien verdoppelt sich die Spannung, während der Strom durch die Serie unverändert bleibt, d.h. die Energie verteilt sich auf beiden Batterien. Da die Glühlampen ebenfalls in Serie geschaltet sind, wird der gleiche Strom fließen, aber pro Batterie die Hälfte der Zeit t erreicht, weswegen hier keine Auswirkung auf die Doppeldauer ist. t bleicht..\n\nDaher 0heute ..=>",
+  "antwortoption": "D"
+}

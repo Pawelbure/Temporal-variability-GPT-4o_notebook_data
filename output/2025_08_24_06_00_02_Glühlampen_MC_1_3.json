@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe hängt von der Schaltungsart zweier Batterien und Glühlampen ab. Hier die Lösungen zu den Optionen: Angenommen jede Batterie hat eine Spannung V und Kapazität Q, und die Lampe hat einen konstanten Widerstand R. 1. Serie: Batterien addieren Spannungen, behalten Kapazität: 2V, Q. Lampen addieren Widerstände, verdoppeln Leistung: 2V/R ergibt I, Zeit t/4 (doppelte Leistung). 2. Serie Batterien, parallele Lampen: Spannung 2V, jede Lampe R, dennoch geteilter Strom, Laufzeit t/2. 3. Parallel Batterien, Serie Lampen: Spannung V, Kapazität 2Q, Lampe gesamt R*2, ergibt Laufzeit 2t. 4. Parallelsetup: Spannung V, Kapazität 2Q, Lampen zusammen geteilte Leistung, Zeit t.",
+  "antwortoption": "B, C"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier ist die Lösung zur gestellten Aufgabe unter den gegebenen Annahmen:\n\n1. Annahmen und Konzepte:\n   - Die Batteriespannung bleibt bis zur vollständigen Entladung konstant.\n   - Die Kapazität der Batterie ist proportional zur Energiemenge, die sie liefern kann.\n   - Der Widerstand der Glühlampen bleibt konstant.\n\n2. Analyse der Aussagen:\n   - (A) In Serie erhöhter Gesamtwiderstand, reduzierte Stromstärke, Zeit t bleibt.\n   - (B) In Serie erhöhter Strom führt zu reduzierte Lebensdauer auf t/2.\n   - (C) Mit paralleler Batterie Konservierung und Leistung reduzierte Lebensdauer.\n   - (D) Beide parallel teilen Energie gleichmäßig erhalten t Dauer.\n\n.",
+  "antwortoption": "D"
+}

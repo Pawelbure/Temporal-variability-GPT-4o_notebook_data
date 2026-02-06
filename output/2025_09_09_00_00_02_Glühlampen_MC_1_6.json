@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die gegebene Situation unter Berücksichtigung der elektrischen Schaltungen und Energieflüsse: 1. Eine einzelne Batterie liefert eine konstante Spannung und hat eine bestimmte Energiemenge zur Verfügung. 2. Die Glühlampen haben einen konstanten Widerstand gemäß der Annahme. 3. Untersuchungen für die gegebenen Konfigurationen: A) Batterien in Serie verdoppeln die Spannung, und Glühlampen in Serie erhöhen den Widerstand entsprechend. Dadurch bleibt der Strom unverändert, und die Zeit bleibt t. B) Batterien in Serie verdoppeln die Spannung, parallele Glühlampen halbieren den Widerstand, der Strom verdoppelt sich, und die Betriebszeit wird t/2. C) Bei Batterien in Parallel werden Ströme und Energien verteilt, daher bleibt die Nutzungsdauer t. D) Parallele Batterien und Glühlampen erhalten gleiche Spannung, und die Betriebszeit bleibt t. Aus diesen Analysen ergeben sich die korrekten Aussagen.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu lösen, analysieren wir nacheinander die möglichen Konfigurationen der Batterie- und Lampeanschlüsse, ausgehend von den angegebenen Vereinfachungen: Gegeben ist, dass jede Batterie einzeln eine Glühlampe über die Zeit t betreibt. 1. Reihe: Zwei Batterien in Serie verdoppeln die Gesamtspannung. Sind die Lampen ebenfalls in Serie, teilt sich die Spannung gleichmäßig. Dadurch arbeitet jede Lampe wie mit einer Batterie und die Gesamtstromaufnahme bleibt gleich. Zeitdauer für Betrieb ist t. 2. Reihe/Parallel: Parallel anschließen bei doppelter Lampe teilt den Strom gleichmäßig, die Gesamtenergie bleibt gleich. Keine Änderung in Zeitdauer. 3. Parallel/Serie: Batterien parallel liefern dieselbe Spannung wie zuvor für eine Einzelbatterie. Gesamtstromaufnahme distribuiert auch gleich nur Zeit streck ...",
+  "antwortoption": "D"
+}

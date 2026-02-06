@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "ANNAHMEN UND VEREINFACHUNGEN: 1. Idealisierte Batterien: Es wird angenommen, dass jede Batterie eine konstante Spannung U liefert und ihre Kapazität Q Einheiten von Ladung liefert, bevor sie leer ist. 2. Konstante Glühlampenwiderstände: Der Widerstand R jeder Glühlampe bleibt während des Betriebs konstant. 3. Es wird keine Energieverlust durch Widerstände in den Verbindungen zusammen genommen. LÖSUNG: - SERIE: Die Spannung addiert sich. Die beiden in Serie geschalteten Batterien erzeugen eine Gesamtspannung von 2U, was bei den in Serie geschalteten Glühlampen mit 2R einen Strom von I1 = 2U/(2R) ergibt. Bei konstantem Stromverbrauch wird jede Batterie doppelt so schnell entladen, also Verfügung von t/4 Zeit. - PARALLELLE BATTERIEN: Der Widerstand sinkt auf R/2, was zu einem Gesamtstrom von zweimal I führt. Ergebnisse zeigen die Batterien insgesamt Zeit x2 als Ursprung.",
+  "antwortoption": "A, D"
+}

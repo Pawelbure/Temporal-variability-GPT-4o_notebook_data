@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Schaltungen und berechnen, wie lange die Glühlampen mit der gegebenen Konfiguration leuchten können, unter der Voraussetzung eines konstanten Widerstandes (egal ob seriell oder parallel):1) **Annahme 1**: Jede Batterie hat Kapazität E und liefert Energie. Jede Glühlampe hat Widerstand R.2) **Fall A:** Bei seriellem Anschluss von Batterien verdoppelt sich die Spannung, und bei seriellem Widerstand fügt sich zusammen, die haltbarktte von =(t*x3) Fälle Wahrscheinlichkeit",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Analyse der Schaltungen und Details:\n\n1. Eine Batterie versorgt die Lampe mit Wettbewerb t. Daraus folgt für die bereitgestellte Ladung Q = It.\n2. Serielle Batterie erhöhen Ausgangsspannung, Ladung bleibt Q.\n3. Paralleschaltung erhöht Kapazität, Gesamtladung Q1+Q2 verdoppelt weiterhin auf Leistung I beiden.\n\nA) Laufzeit wird 4th Sprung parallel leitet due Belastung (Lampe, Halbsystem), t/4 endlos.\nB) In Serienschaltung kürzt Versorgung Motivation beider stationären explizit, Beleuchtungzeitfolge bleibt denken t/2 rigoros divergent.\nC) Parallel-\nid- ing applying reversible manner double-time-limitation.\nD) ${result}\"\" Balanziert.Light continlow,",
+  "antwortoption": "C"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Gegeben ist die Aufgabe zu bestimmen, wie lange zwei Batterien zusammen zwei Glühlampen betreiben können, unter vier verschiedenen Anschlussmodellen. Annahme ist, dass die Spannung und Kapazität der Batterien sowie der Widerstand der Glühlampen konstant bleiben. Falls Batterien seriell verbunden sind, addieren sich die Spannungen, die Kapazität bleibt gleich. Bei paralleler Verbindung bleibt die Spannung konstant, die Gesamtkapazität verdoppelt sich. Analog ändern sich bei den Glühlampen die Ströme und Spannungen je nach Anschlusskonfiguration, was letztlich die Energieabgabe beeinflusst. Unter Betrachtung der genannten Aspekte ist Letzteres die korrekte Antwort: bei Parallelschaltung von Batterien und Glühlampen bleibt die Betriebsdauer gleich.",
+  "antwortoption": "D"
+}

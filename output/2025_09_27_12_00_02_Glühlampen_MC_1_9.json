@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Wir nehmen an, dass die Spannung einer einzelnen Batterie konstant ist, bis die gesamte gespeicherte Energie entnommen wurde, und dass der Innenwiderstand der Batterien sowie alle Verluste vernachlässigt werden können. Die Glühlampen haben einen festen Widerstand R.  2. Szenarien analysieren:  - Reihenfolge: a) Serie: Zwei Batterien ergeben eine Gesamtspannung von 2V. Zwei Glühlampen in Serie: Gesamtwiderstand 2R. Die Stromstärke halbiert sich. Gesamtzeit ergibt sich aus der halben Stromaufnahme, daher wesentlich kürzer als t. b) Parallel: Bedenken Energieabgabe der Batterien solange parallel genutzt. Analysen der Formeln erlauben.  ...6 kombinierter Zustand als Resultabt",
+  "antwortoption": "B"
+}

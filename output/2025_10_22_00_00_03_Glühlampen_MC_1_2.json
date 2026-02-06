@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für das Problem nehmen wir an, dass die Batterien ideal sind, mit konstanter Spannung und kapazität, und dass der Widerstand der Glühbirnen ebenfalls konstant bleibt. Wir analysieren die vier Fälle:  \n\n**A) Batterien und Glühlampen in Serie:** Falls Batterien in Serie geschaltet werden, verdoppelt sich die Gesamtspannung auf 2V (wenn jede Batterie Spannung V hat). Für zwei Glühlampen in Serie addiert sich deren Widerstand, sodass der Gesamtwiderstand 2R beträgt. Da der Strom I = U/R, bleib der Strom gleich wie für eine Einzelbatterie mit einer Lampe. Die Gesamtenergie der Batterien verdoppelt sich (E=2E). Entsprechend halbiert sich die Zeit durch zwei: t.",
+  "antwortoption": "B"
+}

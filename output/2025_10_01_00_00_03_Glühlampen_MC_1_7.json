@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zuerst machen wir klare Annahmen über die Natur der verwendeten Batterien und Glühlampen: Die Spannung und Kapazität der Batterien sind konstant, ebenso wie der Widerstand der Glühlampen. Die Ladung und elektrische Kapazität der Batterien bestimmen die verfügbare Energie pro Batterie. Im ersten Szenario (Option A): Wenn beide Batterien und Lampen in Reihe geschaltet sind, verdoppelt sich die Gesamtspannung, was den Strom durch die Lampen entsprechend erhöht. Der Energieverbrauch der Lampen ist nun höher. Die Betriebsdauer für beide Lampen beträgt dann dunkel t/4. In Option B: Batterien in Serie erhöhen die Spannung, aber Lampen parallel teilen die Spannung, und die Dauer ist t/2. Optionen C und D können analog erklärt werden.",
+  "antwortoption": "A, B"
+}

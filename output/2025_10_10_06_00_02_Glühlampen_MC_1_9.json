@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, beginnnen wir mit den Annahmen: Jede Batterie hat eine bestimmte Energiekapazität E und liefert bei der angegebenen Spannung eine bestimmte Strommenge. Der elektrische Widerstand jeder Glühlampe wird als ideal konstante Größe betrachtet. Jetzt analysieren wir die Szenarien: (a) Batterien und Lampen in Serie: Der Gesamtwiderstand verdoppelt sich, die Stromstärke halbiert sich, und die Energiedauer bleibt konstant, also leuchtet ähnlich der einzelnen Batterie. (b) Batterien in Serie, Lampen parallel: Die Parallelschaltung verhindert Verdopplung der Widerstände, doppelt Spannung beeinflusst jedoch die Stromflusszeit entsprechend der Konfiguration. (c) Batterien parallel, Lampen in Serie: Redundante Batterie erhöht Laufzeit so proportional. (d) Beide parallel: Zeit identisch zu einem Einzelhandling. Daher beachten wir Realitäten für Verständlichkeit der Antwortoptionen.",
+  "antwortoption": "D"
+}

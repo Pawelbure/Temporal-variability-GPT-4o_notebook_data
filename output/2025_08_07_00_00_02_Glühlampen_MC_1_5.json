@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Konzepte:** Wir nehmen idealisierte Batterien mit konstanter Spannung und elektrischen Energieinhalt an, ebenso wie Glühlampen mit konstantem Widerstand. Die Energieabgabe einer Batterie entspricht ihrer Spannung multipliziert mit der Zeitintegral der Stromstärke. Die Schaltungskonfigurationen beeinflussen, wie sich Strom und Spannung in den Kreisen verteilen und welche Ströme jeder Lampe zufließen. **Betrachtung der Konfigurationen:** (A) Zwei Batterien in Serie und Glühlampen in Serie: Der Gesamtwiderstand der Lampen verdoppelt sich, aber auch die Batteriespannung; der Strom bleibt wie für eine Batterie und Lampe, wieder Takt t möglich. (B) Batterien in Serie und Lampen parallel: Jede Lampe erhält halbe Spannung. EBR bleibt wie ré: Antwort B korrekt.",
+  "antwortoption": "B"
+}

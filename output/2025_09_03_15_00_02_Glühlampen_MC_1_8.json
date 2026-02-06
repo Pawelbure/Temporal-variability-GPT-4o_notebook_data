@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Analyse nehmen wir an, dass die Batterien eine konstante Spannung liefern, bis sie vollständig entladen sind, und dass der Widerstand der Glühlampen konstant ist. Die Batteriekapazität wird in Energieterms gemessen. Die mittlere Leistung P durch eine Lampe ergibt sich aus der Spannung U und dem Widerstand R über P = U² / R. Unter Berücksichtigung der Gesamtschaltungen in den jeweiligen Varianten analysieren wir die Energieverteilung und die Entladezeit. Durch diese Betrachtung kommen wir zu den Schlussfolgerungen:",
+  "antwortoption": "B, D"
+}

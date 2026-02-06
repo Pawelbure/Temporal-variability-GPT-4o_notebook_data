@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Lösung des Problems nehmen wir vereinfachend an, dass die Batterien ideale Spannungsquellen mit konstanter Spannung V und der gleichen Kapazität C (Ladung, die sie liefern können) sind. Der Widerstand der Glühlampen beträgt R.\n\nZunächst analysieren wir jede Aussage:\n\n**A)** Serienschaltung von Batterien und Glühlampen:\n   - Die Spannung verdoppelt sich auf 2V, der Strom halbiert sich bei 2R. Die Batterien teilen sich die Ladung pro Lampe, wodurch sich die Zeitverkürzung ergibt. Ergebnis: t/4 = Falsch.\n\n**B)** Serienschaltung von Batterien und Parallelschaltung der Glühlampen:\n   - Hier fließt der doppelte Strom durch die Batterien bei sonst gleichen Bedingungen. Zeit t bleibt gleiche der Energie pro Leuchte -> Tabelle Lösung hier nicht richtig.\n\nDurch Berechnungstest und Quellen sind korrekte \n Berechnungen Update ermöglicher.",
+  "antwortoption": "A, C"
+}

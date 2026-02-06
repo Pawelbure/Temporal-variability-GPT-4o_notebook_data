@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Lampenwiderstand ist konstant, Batterien sind ideal mit konstanter Kapazität und Spannung. 2. Physikalische Grundlagen: Energieverbrauch E=P*t, P=V²/R für elektrische Leistung. Analyse der Schaltungen: A) In Serie fließt derselbe Strom durch Lampen; Batterienserie verdoppelt Spannung, Energie geteilt. Zeit t/4. B) Batterienserie verdoppelt Leistung, parallele Lampen teilen effektiv Verbrauch. Zeit t/2. C) Parallelbatterien verdoppeln Kapazität, Serienlampen gleichen Strom. Zeit 2t. D) Parallelbatterien mit parallelen Lampen teilen gleichmäßig Kapazität. Zeit t. Ergebnisanalyse.",
+  "antwortoption": "A, B"
+}

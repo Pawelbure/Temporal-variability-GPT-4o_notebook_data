@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu analysieren, klären wir zuerst die relevanten Annahmen und Grundlagen. Es wird angenommen, dass die Kapazität jeder Batterie konstant ist und eine Energie zur Verfügung stellt, die proportional zur Entladezeit bei konstantem Strom ist. Die Glühlampen haben einen festen Widerstand und leuchten mit konstanter Helligkeit, solange der Strom durch sie hindurch konstant bleibt.* (1) **Option A**: Im Serienfall beträgt die Gesamtspannung doppelte Ausgangsspannung der Einzelbatterie. Daraus folgt jedoch auch eine Erhöhung der Spannung am Gesamtwiderstand der in Serie geschalteten Lampen, was zu einer Halbierung der Batterielebensdauer führt. (2) **Option B**: Im Parallel-Schaltungsfall liegt die doppelte Batteriespannung an jedem parallelen Zweig, was die Stromverbraucherladung halbiert und die Lebensdauer entsprechend beeinflusst.",
+  "antwortoption": "D"
+}

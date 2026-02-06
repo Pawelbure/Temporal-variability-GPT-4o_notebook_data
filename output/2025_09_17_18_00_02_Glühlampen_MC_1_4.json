@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Das System analysieren wir unter der Annahme konstanter Batteriekapazität und identischen elektrischen Parameter der Lampen. Jede Batterie kann durch ihre Kapazität Q und Spannung U modelliert werden. Schaltungen, die die Möglichkeit der Verteilung von Strom und Spannung beeinflussen, ändern die Abgabeeigenschaften. Im Fall (A), in Serie, verdoppelt sich die Spannung, halbiert den Strom (Gesamtwiderstand ist höher), was die Lampen mit 4-fach kleinerer Energie pro Lampe beeinflusst. Im Fall (B), ebenfalls Serie Batterien aber parallel zu Lampen, steht jeweils ein einzelner Stromkreis mit reduzierter Gesamtdauer gegenüber t. In (C) Serienlampen aber Batterienstromkapazität verdoppelt (daher 2t effektiv). Im Falle von (D) verteilen Parallelbetrieb die Spannung gleich, keine Verlängerung, t bleibt.",
+  "antwortoption": "C, D"
+}

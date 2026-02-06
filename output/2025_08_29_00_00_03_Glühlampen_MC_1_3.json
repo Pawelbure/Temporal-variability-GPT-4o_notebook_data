@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gestellten Situationen zu analysieren, nehmen wir folgende Annahmen und Idealisierungen an: (1) Der Spannungsabfall jeder Batterie beträgt V; (2) die Batterie liefert eine konstante Energie über ihre Nutzungszeit; (3) jede Lampe hat einen festen elektrischen Widerstand, R; (4) der Strom durch die Lampe ist direkt proportional zur Leistung und zur Helligkeit der Lampe. Für jede Konfiguration bestimmen wir die Gesamtspannung, den Stromfluss durch die Lampen und die Zeit, bis die Batterien entladen sind. Schließlich vergleichen wir dies mit der gegebenen Zeit t einer einzelnen Batterie und Lampe.",
+  "antwortoption": "B, D"
+}

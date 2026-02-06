@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst nehmen wir an, dass die Spannung jeder Batterie konstant und sich nicht ändert, bis sie vollständig entladen ist. Die Kapazität jeder Batterie ist gleich. Ein konstanter Widerstand der Glühlampen impliziert konstante Leistungsableitung. Einspeisung durch die Serienschaltung von Batterien verdoppelt die Spannung, während die Parallelschaltung die Stromkapazität ohne Spannungserhöhung vereint. Glühlampen im Serienschluss existieren unter einem geteilten Gesamtstrom und addiertem Betriebswiderstand, während Parallelschluss einem Gesamtsummenstrom mit einheitlichem Spannungserhalt über jede Lampe entspricht. Nun analysieren wir die gegebene Optionen hinsichtlich ihrer elektrischen Parameter und Leistungszeit.",
+  "antwortoption": "D"
+}

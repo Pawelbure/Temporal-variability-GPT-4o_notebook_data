@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Die Batterien und Lampen werden als idealisiert betrachtet. Batterien haben eine konstante Spannung und werden durch den Strom pro Zeit entladen. Lampen besitzen einen konstanten Widerstand. \n\n### Fallanalyse:\n**A)** Batterien und Lampen in Serie: Die Spannung der Batterien addiert sich, der Strom bleibt gleich. Energieverbrauch jeder Lampe sinkt proportional zur vierfachen Spannung. Zeit wäre t/4. **Richtig.**\n**B)** Batterien in Serie, Lampen parallel: Die Spannung addiert sich, der Strom teilt sich. Daten legen nahe, hier wäre die Betriebszeit = Batterielebensdauer t/2. **Falsch.**\n**C)** Batterien parallel, Lampen in Serie: Spannung bleibt konstant; Strom reduziert; doppelte Batterieenergie verfügbar => 2t Betriebszeit. **Richtig.**\n**D)** Beide parallel: Spannung bleibt konstant; Strom bleibt allein abhängig der Lampe; gleiches Gesamtsystem; Verhält sich wie E/t = t. **Falsch.**",
+  "antwortoption": "A, C"
+}

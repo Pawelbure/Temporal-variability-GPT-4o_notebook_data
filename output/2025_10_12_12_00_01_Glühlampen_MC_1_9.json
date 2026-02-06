@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die beschriebenen Schaltungen und die entsprechenden Charakteristiken der Batterie und der Glühlampen:1. Jede Batterie hat eine spezifische Kapazität und liefert eine konstante Spannung, bis sie leer ist.2. Jede Glühlampe zeigt einen konstanten Widerstand. Der Strom durch eine Glühlampe beeinflusst ihre Helligkeit (P = U²/R). Für die vier Szenarien: A) In Serie fließt durch beide Glühlampen derselbe Strom, der Gesamtverbrauch ist höher, und die Betriebsspanne halbiert sich: t/4. B) Parallelschaltung der Lampen führt zu gemeinsamem Strombezug. Der Verbrauch ist höher, aber weniger extrem als in Szenario A: t/2. C) Parallele Batterien bei seriellen Lampen führen aufgrund geteilter Strombelastung zu doppeltem Verlauf: 2t. D) Bei paralleler Lampen- und Batterieschaltung ist die Laufzeit abhängig von gemeinsamem Stromabfluss: t.",
+  "antwortoption": "B, C, D"
+}

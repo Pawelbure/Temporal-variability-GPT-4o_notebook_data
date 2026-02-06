@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Bedingungen und Annahmen für dieses Problem umfassen ideale Batterien mit gleichbleibender Spannung bis zur vollständigen Entladung, identische Glühlampen mit konstantem Widerstand und keine Energieverluste durch andere Effekte. Wenn die Batterien in Serie geschaltet werden, wird sich ihre Gesamtspannung verdoppeln, während die Kapazität (in Ampèrestunden) gleich bleibt. Bei paralleler Schaltung bleibt die Spannung gleich, aber die Kapazität verdoppelt sich. Für die Glühlampen: Eine serielle Verbindung führt zur Aufteilung der Spannung auf die Widerstände, eine parallele Verbindung zur Aufteilung des Stroms. Durch Anwendung des Ohmschen Gesetzes und der Leistungsgleichung gelangen wir zu den spezifischen Betriebszeiten.",
+  "antwortoption": "B, D"
+}

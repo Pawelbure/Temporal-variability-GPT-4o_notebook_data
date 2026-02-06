@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu analysieren, nehmen wir an, dass die Glühlampen einen konstanten Widerstand R aufweisen und die Batterien jeweils eine konstante Spannung U mit einer Kapazität Q tragen. Egal in welcher Schaltung sie integriert sind, betrachten wir die Auswirkungen auf die Zeitdauer der Beleuchtung. Relevant sind Konzepte wie die effektive Spannung an den Glühlampen, der Stromfluss und die durch die Batteriekapazität begrenzte Energie. Die Ergebnisse sind: Wenn Batterien und Lampen in Serie geschaltet sind, wird der Gesamtstrom reduziert, weil sich der Gesamtwiderstand erhöht. Wenn jedoch die Lampen parallel sind und Batterien seriell, bleibt die Spannung für jede Lampe und der Gesamtstrom gleich. Parallelisierte Batterien verdoppeln die Gesamtkapazität, sodass Lampen idealerweise für die doppelte Dauer leuchten. Diese Resultate korrespondieren mit:",
+  "antwortoption": "B, D"
+}

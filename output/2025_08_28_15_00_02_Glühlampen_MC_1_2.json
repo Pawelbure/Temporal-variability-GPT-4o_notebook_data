@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, können folgende Annahmen und physikalische Überlegungen nützlich sein: Grundannahmen: jede Batterie liefert eine konstante Spannung U, eine Kapazität Q an Ladung, und jede Lampe hat einen konstanten Widerstand R. Nun betrachten wir die einzelnen Aussagen. Für A: Im Serienschaltungen erhöhen sich Spannungen, aber der Strom bleibt derselbe. Die Energiezunahme erfolgt durch Vervielfältigung der Spannung, aber wegen des höheren gesamten Widerstands in Serie entlädt die Batterie weniger Energie je Zeitschritt. Also ist die Aussage A nicht korrekt. B) Batterien in Serie verdoppeln die Spannung, während parallele Lampen die Gesamtstrombelastung verringern, sodass tatsächlich die Zeit t bei t/2 verbleibt, Aussage korrekt. Bei Batterie in parallel (C), Energie ändert sich linearen projektion verbleibenden Quellen. Während jede Lampe等...",
+  "antwortoption": "B"
+}

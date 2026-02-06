@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Bei dieser Analyse nehmen wir an, dass jede Batterie eine konstante Spannung V liefert und eine Kapazität Q besitzt, wobei ihre Energieabgabe auf W = V * Q beschränkt ist. Zusätzlich betrachten wir, dass der Widerstand R der Glühlampen konstant bleibt und die Energiemenge pro Zeiteinheit durch den Jouleschen Energieverlust P = V^2 / R beschrieben werden kann. Jede Szenario-Kombination wird einzeln betrachtet: ",
+  "antwortoption": "B, D"
+}

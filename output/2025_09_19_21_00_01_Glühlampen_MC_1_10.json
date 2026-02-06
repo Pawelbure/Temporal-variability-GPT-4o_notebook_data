@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, analysieren wir die Wechselwirkungen zwischen den Stormquellen (Batterien) und Lasten (Glühlampen) unter den genannten Schaltungsbedingungen. Annahmen sind: 1) jede Batterie hat gleiche chemische Kapazität, entlädt sich vollständig bei festem Entladestrom über eine Zeit t, 2) der Widerstand der Glühlampe R bleibt konstant unabhängig von der aktuellen Spannung und Stärke, und 3) Idealbedingungen: keine Energieverluste durch Wärmeübertragung oder unsachgemäße Verbindungen.",
+  "antwortoption": "D"
+}

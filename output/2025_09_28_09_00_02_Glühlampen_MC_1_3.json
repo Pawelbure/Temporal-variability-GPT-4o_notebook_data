@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Konzeptualisierung:** Wir nehmen an, dass jede Batterie eine konstante Spannung U und Energieabgabe hat. Jede Glühlampe ist durch ihren Widerstand R und die daraus folgende Leistungsaufnahme P=k·U²/R charakterisiert, wobei k der Faktor für die Anzahl der beteiligten Glühlampen ist. Weiter gehen wir davon aus, dass der Innenwiderstand der Batterien vernachlässigt werden kann. **Lösungen:** A) Bei serieller Verknüpfung erhöht sich die Gesamtspannung auf 2U, und die Leistung steigt um den Faktor 4. So würde die Energie in 1/4 der Zeit verbraucht werden. → Korrekt. B) Inser für 2 Lampe parallel bleibt die Spannung für jede Lampe gleich bei U. Die Laufzeit wird nur durch die verdoppelte Energieanhäufung erhöht, weswegen es bei originalle Zeit verbleibt. → Falsch. C) Serienzahlen besitzen Halbeltlictionn Sie erhalten keine puf direkt Wert index Neinjutze festlegen geltenden. --> False. D paralle usw.....",
+  "antwortoption": "C"
+}

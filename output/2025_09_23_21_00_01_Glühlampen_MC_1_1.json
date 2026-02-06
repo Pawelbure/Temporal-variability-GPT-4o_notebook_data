@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die geschilderten Szenarios unter der Annahme, dass die Batterien gleiche Kapazität und Spannung aufweisen und die Lampe einen konstanten Widerstand besitzt. 1) Serienschaltung von Batterien und Lampen (A): Verdoppelt sich die Spannung bei konstantem Widerstand, fließt doppelt so viel Strom, und die Leistung der Lampen vervierfacht sich. Daher entlädt sich die Batterie viermal schneller, was t/4 ergibt. 2) Batterien in Serie, Lampen parallel (B): Verdoppelte Spannung, unveränderter Widerstand der Lampen ergibt verdoppelte Leistung je Lampe. Summa summarum halbierte Entladezeit. 3) Batterien parallel, Lampen in Serie (C): Halbierter Stromfluss, jedoch verdoppelte Laufzeit aufgrund der parallelen Batterien, macht Gesamtzeit 2t. 4) Parallele Verschaltung (D): Energie verbleibt konstant pro Batterie, parallele Lampenzweige reduzieren die Zeit auf t.",
+  "antwortoption": "A, B, C, D"
+}

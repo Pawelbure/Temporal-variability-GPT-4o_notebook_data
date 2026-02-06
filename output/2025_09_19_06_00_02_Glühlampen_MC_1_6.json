@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für das gegebene Problem nehmen wir an, dass jede Batterie eine konstante Kapazität Q in Coulomb hat und eine konstante Spannung V liefert, bis ihre Kapazität erschöpft ist. Ebenso geht die Lampe von einem konstanten Widerstand R aus und nutzt die Energie gemäß P=V^2/R. Für jede Konfiguration bestimmen wir die resultierende Zeit, bis die Batterien erschöpft sind. Nach Durchführung der Berechnungen anhand der ohmschen Gesetze und elektrischen Schaltungstheorie bestätigen wir die Konsistenz der gegebenen Aussagen.",
+  "antwortoption": "D"
+}

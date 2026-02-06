@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jede Konfiguration: 1. Zwei Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich, während der Strom gleich bleibt. Da der Widerstand sich auch verdoppelt, bleibt die Stromstärke unverändert, wodurch der Innenwiderstand der Drähte berücksichtigt, aber vernachlässigbar ist. Daher reicht die Ladung der Batterie länger, also immer gleichmäßige Zeit t/2 pro Lampe. Option korrekt ist C.",
+  "antwortoption": "C"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Konzepte\nWir betrachten die Stromkreisszenarien und berechnen die Betriebszeit gemäß der Anordnung von Batterien und Glühlampen. Die Batteriespannung und -kapazität bleiben konstant, und wir verwenden den Energieerhaltungssatz sowie elektrisches Verhalten.\n\n1. **Gegenseitige Kapazität und Widerstand in Serie oder parallel:** Batterien in Serie erhöhen die Gesamtspannung, während Batterien in Parallel die total verfügbare Ladungsbelastung (gemessen in Ah) verdoppeln. Für Glühlampen multipliziert die Serie ihre Gesamtresistenz und halbiert in parallel denselben.\n\n2. **Energiegehalt der Batterie:** Geeignete Änderung in elektrischer Energieabgabe gemäss konstruktiver Konstellationen per genauen formulierten Ableitung...\n\nEntsprechend analysiert gelangen wir folglich zu den limitierenden Betriebstauglichkeit existing Zeit.",
+  "antwortoption": "D"
+}

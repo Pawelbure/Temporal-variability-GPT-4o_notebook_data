@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gestellten Szenarien zu analysieren, betrachten wir die Schaltungen und ihre Auswirkung auf Strom und Energie. Annahmen: Jede Batterie liefert konstant die gleiche elektrische Energiemenge. Der Widerstand der Lampen bleibt konstant. Die elektrische Energiemenge für jede Batterie ist fixiert. 1) Bei zwei Batterien in Serie und auch die Glühlampen in Serie wird der Gesamtwiderstand verdoppelt, der Strom halbiert, die Spannung verdoppelt, die Energie bleibt konstant, also Laufzeit t/2. 2) Batterien Serie, Lampen parallel: Gesamtwiderstand halbiert, Strom verdoppelt, Energie halbiert, also t/2. 3) Batterien parallel, Glühlampen Serie: Gesamtspannung halb, Dauer t. 4) Batterien und Glühlampen parallel: Spannung und Strom pro Lampe konstant, Laufzeit t.",
+  "antwortoption": "D"
+}

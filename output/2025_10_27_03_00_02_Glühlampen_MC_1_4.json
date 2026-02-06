@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Idealisierungen und Annahmen\n1. Jede Batterie hat eine konstante Spannung V und einen konstanten Energieinhalt E, welcher die Lampe für die Zeit t mit Energie versorgt.\n2. Der Widerstand der Glühlampe, R, bleibt konstant während ihres Betriebs.\n\n### Physikalische Grundlagen\n- Die Leistung, die von der Glühlampe absorbiert wird, ist \\( P = \\frac{V^2}{R} \\).\n- Die Gesamtzeit, in der die Batterie Energie liefert, hängt von der Energieausgabe ab.\n\n### Analyse der Konfigurationen\n\n#### A) Batterien und Glühlampen in Serie\n- Die Gesamtspannung ist 2V, der Gesamtwiderstand wird 2R. Der Strom ist \\( I = \\frac{2V}{2R} = \\frac{V}{R} \\).\n- Die Leistung pro Lampe bleibt \\( P/2 \\).\n\n#### B) Batterien in Serie, Glühlampen parallel\n- Gesamt R = \\( R/2 \\), effektive \\( P = \\frac{4V^2}{R} \\),\\( 1/2 \\).\n\n",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir machen zunächst die Annahme, dass jede Batterie dieselbe Spannung U und Kapazität Q hat und dass diese Werte konstant bleiben, bis die Batterie vollständig entladen ist. Dies bedeutet, dass jede Batterie bei einer Last für eine Zeit t den Strom I liefert. Der Widerstand R der Glühlampen wird ebenfalls als konstant betrachtet.\n\n**Option A: Batterien und Lampen in Serie:**\ntotal Spannung: 2U. Gesamtwiderstand: 2R. Strom durch die Lampen: I=U/(2R). Die Stromentnahme aus jeder Batterie ist daher halbiert, jedoch bei doppeltem Potential. Im simpleren Modell bleibt die Zeit der Einzelbetriebe gleich.\n\n**Option B: Batterien in Serie, Lampen parallel:** Spannung U, aber beide Lampen benötigen halben Strom kapitas unabhängig bleibt t.\n\nOption C:** In der Konfiguration unstabil. Erl.***\n\n*Option D Parallel Entspechen Verbindung letztlich\"",
+  "antwortoption": "A, B, D"
+}

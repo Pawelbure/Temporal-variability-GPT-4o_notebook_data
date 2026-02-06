@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekten Aussagen zu bestimmen, betrachten wir die vier angegebenen Schaltungsoptionen:\n\n1. Wenn die Batterien in Serie und die Glühlampen in Serie geschaltet sind, verdoppelt sich die Gesamtspannung, jedoch fließt derselbe Strom durch die Glühlampen (da sie in Serie geschaltet sind) wie bei einer Batterie und einer Lampe. Da zwei Lampen in Reihe sind, teilt sich die Spannung für jede Lampe. Daher leuchten die Lampen jede für denselben Zeitraum t/2, wodurch die Zeit für zwei Lampen t insgesamt bleibt.\n\n2. Mit Batterien in Serie und Lampen parallel verdoppelt sich die Spannung (U). Jede Lampe bekommt hier dieselbe Spannung wie bei einer Batterie. Lampen leuchten normal bei t.\n\n3. Batterien parallel, Lampen in Serie: Die Spannung bleibt gleich, die Kapazität verdoppelt sich und Zeit würde verlängern.\n\n4. Glühbirnen und Batterie beide kämpfen parallel? Dies is Double Zeiten.\n\nDie Antwort is clear...",
+  "antwortoption": "B"
+}

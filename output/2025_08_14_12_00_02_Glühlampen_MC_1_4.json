@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, beachten wir folgende Annahmen: 1) beide Batterien sind identisch mit derselben Kapazität und Spannung, 2) jede Glühlampe hat denselben konstanten Widerstand, 3) Wir betrachten ideale Batterien und ohmsche Glühlampen. Die Zeit, während der jede Lampe leuchtet, hängt von der Kapazität der Batterien und dem Stromfluss ab, welcher ihr Inneres leert: Falls die Glühlampen in Serie geschaltet sind, verdoppelt sich die Spannung bei seriell geschalteten Batterien, aber nicht die Kapazität. Dann zieht der Gesamtstrom mehr Energie pro Zeiteinheit. Hingegen, bei paralleler Schaltung der Batterien verdoppelt sich die Kapazität, was die Laufzeit pro Lampe verlängert. Mit diesen Grundlagen wurden die beschriebenen Situationen analysiert.",
+  "antwortoption": "A, D"
+}

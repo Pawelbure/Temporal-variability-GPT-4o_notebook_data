@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Idealisierungen:**\n1. Die Batterien und Lampe besitzen ideale Eigenschaften. \n2. Der Widerstand der Lampe bleibt in allen Situationen konstant.\n3. Die Kapazität der einzelnen Batterie bleibt unabhängig von Schaltungsart konstant.\n\n**Lösungserläuterung:**\n1. Für die Herzustellung der einzelnen Schaltungen analysieren wir den Stromfluss, Spannungsverteilungen und Ladungserhaltung:\n- **Schaltung in Serie:** Die Stromstärke ist in allen Komponenten gleich, dagegen erfolgt die Spannungsaufteilung proportional zum Widerstand.\n- **Schaltung parallel:** Der Strom wird auf. Spannungs bleibt konstant.\n\nBeeinträchtig kviektlich gewiss bei deltatadu anderer\nDaher Option liegt Nein praktisch als c).\n\nPlan B",
+  "antwortoption": "B"
+}

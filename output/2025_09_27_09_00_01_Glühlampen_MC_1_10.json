@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir den Sachverhalt im Detail: Jede Batterie liefert eine konstante Energie. Der von einer Glühlampe abgerufene Strom hängt von der Spannung und ihrem Widerstand ab. Gegeben die vier geschilderten Szenarios ist der Stromabbau für die Batterien und die damit einhergehende Leuchtdauer zu bewerten: 1) Serie: Doppelte Spannung, je Lampe die Hälfte der bisherigen Leistung, Gesamtdauer gleich t. 2) Serie-Parralel: Doppelte Spannung zweimal, verdoppelte Leistung, Leuchtdauer verkürzt auf t/2. 3) Parallel-Serie: Batteriespeicherung verdoppelt, Halbleistung für jede Lampe, Verdopplung der Dauer auf 2t. Letztlich Parallel führt bei Glühlampen im Parallelbetrieb zur Standardnutzung pro Batterie für je t.",
+  "antwortoption": "C, D"
+}

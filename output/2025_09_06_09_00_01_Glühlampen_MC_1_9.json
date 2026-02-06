@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen und Idealisierungen: Elektromagnetische Wechselwirkungen, Konstante Batteriespannung und konstantes interner Widerstand der Batterie während der Entladung, unveränderte Leistungsabgabe. \n\n2. Wichtige Konzepte:\n- Die Leistung einer Lampe ist P=U^2/R.\n- Im Serienkreis wird die Spannung der Batterien addiert.\n- Parallelkreisen teilen sich die Ströme.\n- Batterien in Serie haben eine verdoppelte Spannung, in Parallel jedoch eine höhere Kapazität.\n\n3. Aussageprüfung:\n\nA) Für die Zeit t/4 mit Batterien und Lampen in Serie:\n   - Die Spannung verdoppelt sich, P ~ U^2 => Leistung vervierfacht, Entladeszeit deshalb t/4.\nB) Batterien in Serie, Lampen parallel:\n   - P ist wie oben erhöht, aber bei zwei Lampen halbiert sich die Betriebszeit t/2.\nD) Beide Parallel geschaltet: Jeder nutzt nur Hälfte des Stroms, Effizienz wie einzelne Batterie für zwei.\n  \nRichtig: A, B, D",
+  "antwortoption": "A, B, D"
+}

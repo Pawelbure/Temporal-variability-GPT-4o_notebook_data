@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gegebenen Optionen zu analysieren, betrachten wir die Leistung, die von den Batterien abgegeben wird, und wie sie auf die Glühlampen verteilt wird: 1) Für die Erklärungen setzen wir voraus, dass eine Batterie bei Vollentladung eine konstante elektrische Energie abgibt, unabhängig von ihrer Schaltungsart. 2) Die Gesamtleistung des Systems und deren Verhältnis über die Glühlampen bestimmt die Leuchtdauer. 3) Spezifische Fällen: (A) Batterien und Lampen in Serie: Der gesamte Widerstand verdoppelt sich, was den Strom halbiert. Die Gesamtleistungsabgabe bleibt gleich, aber zweimal mehr Energie wird geteilt, also insgesamt doppelt soweit gedehnt ⟹ t. (B) Batterien in Serie, Lampen parallel: Doppelt spannende Quelle auf zweifache Last, geteilte Energie, daher Zeit ⟹. (C) Falle passt nicht typ korrekt ev. etwas précision. (D).",
+  "antwortoption": "B, D"
+}

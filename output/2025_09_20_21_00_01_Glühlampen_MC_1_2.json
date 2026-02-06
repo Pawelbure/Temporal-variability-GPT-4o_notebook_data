@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Der Lösungsweg beinhaltet die Analyse der Schaltungsmöglichkeiten der Batterien und Glühlampen unter Annahme konstanter Widerstands- und Kapazitätswerte für die Glühlampen und Batterien. Jede Option wird einzeln untersucht. Für A): Die Glühlampen in Serie erhöhen den Widerstand gegenüber einer einzelnen Lampe. Die Batterien in Serie verdoppeln die Gesamtspannung, daher kann der Stromfluss proportional zu 1/(kR) mit der Zeit abnehmen, also eine Verringerung des Zeitraums bewirken. Für B): Mit gleichen Widerstandslasten, aber erhöhter Spannung, könnte die Leistungsverteilung zeigen, dass eine kürzere Zeit t/2 für beide möglich ist. Für C): Heir lässt parallele Anordnung nahe, dass die Kapazität addiert wird, daher könnte 2t die Entladungszeit bestätigen. Für D): Bei paralleler Konfiguration bleibt bei gleicher Voltzahl und geteilter Stromstärke die gesamte Energiedichte erhalten, t ist proportional erlaubbar.",
+  "antwortoption": "C, D"
+}

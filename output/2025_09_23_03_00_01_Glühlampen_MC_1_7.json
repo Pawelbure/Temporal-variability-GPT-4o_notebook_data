@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Wir nehmen an, dass jede Batterie eine konstante Spannung und Kapazität besitzt, die insgesamt gespeicherte Energie in der Batterie gegeben ist und als konstante Menge betrachtet wird. Die Glühlampen haben einen konstanten Widerstand. 2. Betrachtung der einzelnen Szenarien: a. Serie: Zwei Batterien in Serie verdoppeln die Spannung. Zwei Lampen in Serie verdoppeln den Widerstand. Die Gesamtleistung der Serie wäre daher die Hälfte des Ursprungsfalls, was zur conséquence des Verbrauchs *(t/4)* führt. b. Parallel (Batterien in Serie, Lampen parallel): Erhöht den Stromfluss, aber die Energie zieht sich schnell weg. c. Parallel: Hier würde die Lebensdauer bedeutend sein. Daher möglichen  ist.",
+  "antwortoption": "D"
+}

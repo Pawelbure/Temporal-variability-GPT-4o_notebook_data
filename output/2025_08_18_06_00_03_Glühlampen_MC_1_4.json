@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die elektrische Schaltung unter Einbeziehung gegebener Annahmen: 1. Jede Batterie hat dieselbe Kapazität und Spannung. 2. Jede Lampe hat denselben konstanten Widerstand. 3. Energieverlust im Draht wird vernachlässigt. Nun betrachten wir die verschiedenen Szenarien.\\n\\nA) Batterien und Lampen in Serie: Da die Lampenspannung erhöht wird, bleibt der Strom gleich, aber der Puffer pro Batterie sinkt auf die Hälfte. Leitung für Zeit t/2. Ungenau.\\nB) Batterien in Serie und Lampen parallel: Damit teilt sich Energie für jede Lampe. Bei doppelter Spannung halbe Zeit effektive Nutzung, d.h Leistung pro Lampe hat konsistent Energie und halbiertes Verhalten hinsichtlich Zeit letztlich t.\\n\\nAntwort A und B und D\"",
+  "antwortoption": "D"
+}

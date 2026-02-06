@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Jede Batterie hat eine Kapazität C und eine Spannung U. Der Widerstand der Glühlampe ist R. Bezug zur Problematik: Der Entladungsverlauf der Batterien ist idealisiert und linear angenommen. Relevante Konzepte: Die Serienschaltung erhöht die Spannung (addiert sie), verringert aber nicht die Kapazitätsdauer, während die Parallelschaltung die Kapazität summiert. Lange Verwandlungen der Glühlampen in Bezug auf die Stromstärke und die Entladerate der Batterien. Einsätze: Durch die mathematischen Berechnungen der Gleichungen der Stromkreise und Stromberechnungen konnte die Abgabe der Fluchtzeiten festgelegt werden.",
+  "antwortoption": "B, D"
+}

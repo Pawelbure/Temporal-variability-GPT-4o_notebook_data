@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Annahmen sind: Der Widerstand der Glühlampe ist konstant, die Kapazität der Batterie ist unabhängig von der entnommenen Leistung, und die Spannung jeder Batterie ist konstant, bis sie erschöpft ist. Für jede Schaltung analysiere ich die Aufladungs- und Entladungscharakteristik: \n\n- Bei Serienschaltung von Batterien verdoppelt sich die Spannung. Bei Serienschaltung von Glühlampen verdoppelt sich der Widerstand, sodass der Strom und die Leistung sinken und sich die Betriebszeit quadratisch vergrößert. \n- Parallel geschaltete Glühlampen teilen sich die Stromzufuhr, sodass die Betriebsdauer gleich bleibt. \n\nUnter diesen Annahmen ergeben sich:\n- A: Nein, die Zeit ist 2t. \n- B: Nein, die Lampen brennen t. \n- C: Ja, die Zeit ist 2t. \n- D: Ja, die Zeit ist t.",
+  "antwortoption": "C, D"
+}

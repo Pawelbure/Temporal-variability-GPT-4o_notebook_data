@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Die Spannungen der Batterien addieren sich, wenn sie in Serie geschaltet werden, und bleiben gleich, wenn sie parallel geschaltet werden. Die Kapazitäten der Batterien summieren sich, wenn sie parallel geschaltet werden. Der Widerstand der Lampe ist konstant.\n\n2. Analyse der Optionen: \n- A) Zwei Batterien und zwei Glühlampen in Serie verdoppeln die Spannung und addieren die Widerstände. Gesamtenergieverbrauch ist viermal höher, Zeit wird t/4.\n- B) Zwei Batterien in Serie und zwei Lampen parallel verdoppeln Strom und Kapazität pro Lampe. Zeit bleibt t.\n- C) Parallel geschaltete Batterien verdoppeln Kapazität. Zwei Lampen in Serie bekommen gleiche Spannung, Energieverbrauch halbiert, Zeit wird 2t.\n- D) Batterien parallel verdoppeln Kapazität, Spannung bleibt gleich, Lampen parallel teilen Strom. Zeit bleibt t.\n\n3. Richtige Lösungen: A, C.",
+  "antwortoption": "A, C"
+}

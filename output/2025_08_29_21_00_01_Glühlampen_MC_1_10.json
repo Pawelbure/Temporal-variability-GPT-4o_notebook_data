@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Voraussetzungen: Die Batterien liefern konstanten Strom bis zur Entladung. Jede Batterie ist identisch mit Kapazität Q und Spannung V. Die Glühlampen haben konstanten Widerstand R. Für jede Anordnung wird der Stromkreis aufgebaut und analysiert: Spannung, Gesamtwiderstand und Strom werden ermittelt, um die Betriebszeit t zu berechnen. Für jeden Fall wurden die Zusammenhänge hergeleitet. Beispielhaft ergibt dies: Bei D, Batterien parallel und Lampen parallel, bleibt Spannung V konstant, und die Batterien teilen die Last. Dies führt zu einer Betriebszeit t.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Analysieren wir die Situation Schritt für Schritt unter der Annahme, dass die Batterien ideale Gleichspannungsquellen und die Glühlampen idealisierte ohmsche Widerstände sind.\n\n2. Wenn die Batterien in Serie und die Glühlampen in Serie geschaltet sind:\n   - Die kombinierte Spannung verdoppelt sich.\n   - Der kombinierte Widerstand der Lampen beträgt 2R.\n   - Der Strom durch jede Lampe wird halbiert im Vergleich zu einer Einzelkonfiguration.\n   - Die entnommene Leistung wird entsprechend der Formel P = U²/R berechnet und beträgt die Hälfte der Einzelkonfiguration.\n   - Da die Batteriekapazität gleich bleibt, können die Batterien die Glühlampen doppelt so lange leuchten lassen, daher 2t.\n\n3. Überprüfen der anderen Konfigurationen ergibt, dass die angegebenen Zeiten teils korrekt, teils fehlerhaft sind.\n\nFinale Ergebnisse nach Überprüfung der mathematischen Modelle: Korrekte Aussagen sind C und D.",
+  "antwortoption": "C, D"
+}

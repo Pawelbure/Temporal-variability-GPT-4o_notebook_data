@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, nehmen wir an, dass jede Batterie eine konstante Spannung V liefert und die Akku-Kapazität C konstant ist. Die Glühlampen haben einen konstanten Widerstand R, und die Batterien entladen sich vollständig ohne Energieverluste oder Kapazitätsänderungen durch unterschiedliche Schaltungen. Die Verfügbarkeit einer Batterie in Laufzeit entspricht ihrer entnahmebedingten Energie (C*V). \n\n1. **Batterien und Glühlampen in Serie:** Die Gesamtspannung der Batterien verdoppelt sich (2V). Der Gesamtwiderstand verdoppelt sich ebenfalls (2R). Der Strom in der Schaltung ist daher I=U/R=V/R für eine Batterie, aber hier 2V/2R = V/R. Die Betriebsdauer für die Lampen bleibt gleich, nämlich t, wird durch 2 aufgeteilt für die Lampen -> Zeit wird t erhalten und optimiert.",
+  "antwortoption": "A, B"
+}

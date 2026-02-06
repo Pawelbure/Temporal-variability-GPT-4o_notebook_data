@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Konzepte:\n1. Die Spannung jeder Batterie (V) und die Kapazität (Q = I*t) sind konstant.\n2. Der Widerstand jeder Glühlampe ist auch konstant.\n3. Serieschaltung von Widerständen addiert deren Widerstandsumme, und Parallelschaltung teilt den Strom anteilig zwischen den Widerständen auf.\n---\nAnalyse der Aussagen:\nA) Bei Serie (Batterien und Lampen) wird sich die Spannung verdoppeln, der Gesamtwiderstand (2R) ist höher, sodass der Strom halbiert wird. Entsprechend entladen sich die Batterien schneller, etwa in der halben Zeit. Der Ansatz ergibt keine Folgerung t/4.\nB) Serie Batterien, Parallel Lampen: Verdoppelt Spannung auf beiden Lampen in Parallelstrang, Halbierter Strom durch diese verdoppelt Leuchtzeit nicht hinreichend genug\nC) Parallel Batterie und in Serie: Ergebniskonfiguration mit additiv längerer Betriebszeithorizont von äquivalent zu batterietechn. Umlaufstream,\n--",
+  "antwortoption": "B, D"
+}

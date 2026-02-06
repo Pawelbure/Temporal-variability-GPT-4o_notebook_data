@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Analyse der Situationen nehmen wir an, dass die Spannung (U) und die Kapazität (Q) der Batterien gleich sind. Weiterhin hat jede Glühlampe einen konstanten Widerstand R. Wir betrachten, wie die Schaltung der Batterien und Lampen die Spannung und Stromstärke beeinflusst, und berücksichtigen, wie die Leistungsanforderung jeder Glühlampe auf die Lebensdauer der Batterien einwirkt. Nach Prüfung der Schaltungsarten zeigt sich, dass die Optionen B und D korrekt sind, da die Lampe in den genannten Konfigurationen basierend auf einfachen Modellen und gegebenen Annahmen effizient betrieben werden kann, wodurch die behauptete Lebensdauer erreicht wird.",
+  "antwortoption": "B, D"
+}

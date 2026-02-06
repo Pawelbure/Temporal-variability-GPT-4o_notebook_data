@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Modelle basieren darauf, dass sich Batterien ideal verhalten und der elektrische Widerstand konstant bleibt. Für Batterien in Serie addieren sich die Spannungen, während die Nennkapazität gleich bleibt. Bei Batterien in Parallel bleibt die Spannung konstant, während sich die Kapazität addiert. Glühlampen in Serie oder Parallel beeinflussen den Strom durch die Anordnung. Durch Beachtung dieser Konzepte senden wir die Anordnung durch, um die Betriebszeiten für jede Option zu berechnen. Für Option D ist beispielsweise die Zeit t korrekt, da die Lampen parallel zur Spannung sich einen Batterieverbrauch teilen.",
+  "antwortoption": "D"
+}

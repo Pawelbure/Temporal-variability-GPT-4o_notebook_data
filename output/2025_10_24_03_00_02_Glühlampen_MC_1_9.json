@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Lösung: Glühlampen und Batterien\n1. **Annahmen / Vereinfachungen:**\n   - Jede Glühlampe hat einen konstanten Widerstand R.\n   - Die nutzbare Energie pro Batterie ist proportional zur Gesamtkapazität ihrer gespeicherten Ladung Q.\n   - Der Spannungsabfall der Batterien bleibt konstant bis zur vollständigen Entladung und beträgt V.\n\n2. **Analyse der Schaltungsoptionen:**\n   a. Batterien in Reihe: Gesamtspannung V_ges = 2V bei gleicher Ladung Q.\n   b. Batterien parallel: Spannung bleibt V bei doppelt so großer Ladung, Q_ges = 2Q.\n   c. Lampenschaltungen transformieren den Strombedarf und damit die Entladezeit der Batterien.\n\n- **A: In Serie:** *Zeitverhältnis ca. t/4.* Flasch. Spannung erhöht Strom signifikant.\n- **B: In Serie, parallel:** *Zeit ca. t/2.* Energie-Entlad erfolgt mit verdoppelter Rate.\n- **D: Parallelischne Schll.*\n\n",
+  "antwortoption": "B, D"
+}

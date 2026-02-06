@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, treffen wir folgende Annahmen: Die Batterien sind ideal, liefern konstante Spannung bis zu ihrer Entladung und haben identische Kapazitäten. Ebenso wird angenommen, dass der Widerstand der Glühlampen konstant bleibt. \n1. Situation A: Batterien in Serie, Glühlampen in Serie -> Die Gesamtspannung verdoppelt sich, die Betriebsspannung der Lampen ist jedoch ebenfalls doppelt so hoch. Daher fließt der gleiche Strom wie bei einer einzelnen Anordnung, aber die Zeit halbiert sich. Zwei sind jedoch parallel, wodurch der Gesamtwiderstand verdoppelt wird. Die Laufzeit entspricht t.\n2. Situation B: Die Spannung an parallelem Batteriebank bleibt unverändert, der Gesamtstrom verdoppelt sich ...\n\nDie finalen Ansichten wären dann:\n(A)...",
+  "antwortoption": "A"
+}

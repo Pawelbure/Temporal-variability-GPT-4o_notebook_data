@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, wird die Leistungsaufnahme P eines Widerstandes festgestellt: P = U²/R, wobei U die Spannung und R der Widerstand ist. Batterien liefern eine konstante Gesamtladung Q, wobei die Energie E durch E = QU (Q und U sind die Ladung bzw. Spannung der Batterie). Der Ablauf für die Analyse: 1) Einzeln analysieren, 2) Vergleich der Montagen durchführen. Nach Berechnung ergibt sich: Option B und Option D sind korrekt.",
+  "antwortoption": "B, D"
+}

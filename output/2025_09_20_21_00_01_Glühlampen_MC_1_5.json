@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. **Annahmen und Idealisierungen:** Wir nehmen an, dass jede Batterie eine konstante Spannung V besitzt und eine Energiekapazität E, die vollständig auf die Glühlampen übertragen wird. Der Widerstand jeder Glühlampe bleibt konstant bei einem Wert R. Außerdem sind die Leitungen ideal ohne Widerstand. 2. **Physikalische Konzepte:** Die Leistung P, die an einem Widerstand R umgesetzt wird, ist durch P = V^2 / R gegeben. Der Energieverbrauch entspricht E = P * t. Durch Betrachtung der unterschiedlichen Schaltungen kann die Betriebszeit bestimmt werden.",
+  "antwortoption": "D"
+}

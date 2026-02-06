@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Auswirkungen der verschiedenen Batterieschaltungen und Verbindungen der Glühlampen auf deren Betriebsdauer: Bei Schaltungseigenschaften bemerken wir, dass die Reihenschaltung der Batterien die Spannung verdoppelt, während die Parallelschaltung die Kapazität verdoppelt. Bei den Glühlampen bestimmt die Verbindungsart den Gesamtwiderstand, der zusammen mit der Spannungsquelle den Strom durch die Glühlampen beeinflusst und somit deren Energieverbrauch steuert. Die Zeit t ist direkt proportional zur Gesamtladung der Batterien geteilt durch die Leistungsaufnahme der Lampen. Durch Anwendung dieser Überlegungen kommen wir zu den Schlussfolgerungen: A) Falsch, B) Richtig, C) Falsch, D) Richtig.",
+  "antwortoption": "B, D"
+}

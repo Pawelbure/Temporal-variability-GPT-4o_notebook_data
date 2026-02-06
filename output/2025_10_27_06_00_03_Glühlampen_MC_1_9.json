@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Gegebene Annahmen und Konzept:\n1. Jede Batterie hat eine Spannung U und eine Kapazität, die eine Glühlampe mit konstantem Widerstand R für die Dauer t betreiben kann, sofern ein konstanter Strom fließt.\n2. Für jede Glühlampe ergibt sich der Strom aus der Spannung geteilt durch den Widerstand, I = U/R.\n3. Überlegungen für jede Schaltungsvariante:\n   - Batterien in Serie verdoppeln die Spannung, aber die Kapazität bleibt gleich.\n   - Batterien parallel liefern die gleiche Spannung, aber verdoppeln die nutzbare Kapazität.",
+  "antwortoption": "D"
+}

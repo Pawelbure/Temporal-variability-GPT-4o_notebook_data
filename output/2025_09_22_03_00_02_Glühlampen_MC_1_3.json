@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "To solve this problem, we'll analyze the different configurations of batteries and lamps while considering basic electrical principles. We'll assume that each battery delivers a constant voltage for a full-time t when powering one lamp, and that the lamp's resistance remains constant. Let the voltage of one battery be V and its capacity Q (in charge), yielding a total energy capability of E = QV.\\n\\n- **Case A (Batteries and lamps in series):** In series, the voltage doubles, but the same current passes through the combination. Therefore, the energy usage rate, proportional to P = V^2/R, becomes four times that of a single lamp. As energy capacity also increases linearly with the number of batteries, the lamps will last t/4.",
+  "antwortoption": "A"
+}

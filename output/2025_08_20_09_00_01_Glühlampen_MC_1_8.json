@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die gegebenen Szenarien: Die dargestellten Schaltungen beinhalten Kombinationen von Batterien und Glühlampen entweder in Serien- oder Parallelschaltung. Dabei ist kritisch zu beachten, dass in Serienkonfiguration die Gesamtspannung additiv ist, aber der Strom konstant bleibt. In Parallelschaltung bleibt die Spannung konstant, aber die Ströme addieren sich. Annahmen: Jede Batterie liefert über eine Zeit t eine konstante Spannung und speichert elektrische Energie nutzbar. Jede Glühlampe zeigt konstanten elektrischen Widerstand R. Elektrischer Widerstand und Spannung beeinflussen maßgeblich den Energieverbrauch der Glühlampen. Basierend auf physikalischen Konzepten wie der Leistung P = U²/R und der Energie E = P·t leiten wir folgende Szenarien ab:",
+  "antwortoption": "B, D"
+}

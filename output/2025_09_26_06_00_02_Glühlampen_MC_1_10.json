@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir die gegebenen Aussagen und analysieren sie systematisch. Die Bedingungen erwähnen einen konstanten Widerstand der Glühlampen und die ideale Verhalten von Batterien und Leitungen. 1. Wenn zwei Batterien und zwei Glühlampen in Serie geschaltet werden, ist die Spannung insgesamt verdoppelt. Da der Widerstand in einer seriellen Konfiguration ebenfalls verdoppelt wird, bleibt der Stromfluss gleich, und jede Lampe erhält eine nominelle Betriebszeit von t; aufgrund der doppelten Energie können sie beide jedoch nur t/2 arbeiten. 2. Bei gemischten Verschaltungen von Batterien in Serie und Glühlampen parallel fließt der doppelte Strom, was die Entladung halbiert, also t/4. 3. Für parallele Batterien und serielle Lampen wird die Laufzeit auf 2t erhöht, da der Strom halbiert ist. 4. Parallele Verbindungen beider Elemente behalten die individuelle Entladungszeit einer Konfiguration, daher wieder t.",
+  "antwortoption": "B, D"
+}

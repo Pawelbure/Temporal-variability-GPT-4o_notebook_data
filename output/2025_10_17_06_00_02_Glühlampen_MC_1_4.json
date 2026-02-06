@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Analyisieren wir die einzelnen Szenarien:\\n\\nGegeben ist, dass \\(t\\) die Betriebszeit einer Glühlampe mit einer einzigen Batterie darstellt. \\n\\n- **A) Batterien und Glühlampen in Serie**:\\nHier beträgt die Gesamtspannung \\(2U\\) und der Gesamtwiderstand ist \\(2R\\). Der Strom durch die Schaltung beträgt \\(I = \\frac{2U}{2R} = \\frac{U}{R}\\), also identisch mit einer Batterie. Die Entladezeit pro Batterie entspricht also \\(t\\). Ein verkürzter Entladestrom verdoppelt die Zeit theoretisch, aber die Schlussfolgerungen bezüglich \\(t/4\\) scheinen unkorrekt.\\n\\n- **B) Batterien in Serie, Glühlampen paralell:** Gleicher Strom bezogen auf eine Lampe daher stammen hat Halbe Lebenszeit . verdeutlicht idealisch,jdohc",
+  "antwortoption": "D"
+}

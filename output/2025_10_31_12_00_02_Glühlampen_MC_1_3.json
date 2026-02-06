@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe anzugehen, gehen wir die Szenarien durch und wenden die folgenden Prinzipien an: Die Leistung einer Glühlampe ist proportional zu U²/R, der Widerstand ist konstant, und die Energiemenge einer Batterie wird durch E = Q*U bestimmt, wobei U die Batteriespannung ist. Für parallele Schaltungen teilen sich Ströme, und für serielle Schaltungen addieren sich Spannungen. Nehmen wir an, jede Batterie liefert eine Ladung Q bei Spannung U, und ihre Energie ist E=Q*U. Eine Glühlampe an einer einzelnen Batterie mit Spannung U leuchtet für die Dauer t, wobei die Leistung konstant ist.",
+  "antwortoption": "B, D"
+}

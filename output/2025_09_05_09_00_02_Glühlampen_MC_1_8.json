@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekteste Annahme für diese Aufgabe zu treffen, benötigen wir zuerst eine genaue Darstellung der physikalischen Situation und gegebenen Bedingungen: Jede Glühlampe zeigt unabhängig von einer Änderung in der Spannung konstantes Verhalten in Bezug auf den Widerstand an. Jede Batterie ist identisch, liefert eine konstante Spannung V und stellt bis zu einer Gesamtkapazität der Ladung Q konstant Strom I bereit. Die Kombination dieser Schaltungsarten führt zu Änderungen in der Spannung und folglich Stromflüssen durch die Glühlampen, was sich auf die Laufzeit auswirkt. Durch Analyse: Bei A beträgt die Batterielaufzeit t/2 pro Lampe in der Serienschaltung. B zeigt, dass an die Laufzeit t/2 herankommt, da Doppelspannung mit zwei parallelen Lasten. C führt theoretisch zu unzureichender Spannung. Und D bleibt der Laufzeit für nur einem Batteriesatz angemessen erhalten.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Lösung der Aufgabe anzugehen, betrachten wir zuerst die grundlegenden Zusammenhänge und die Annahmen. Das Problem nimmt idealisierte Bedingungen an, wie die Vernachlässigung von innerem Widerstand der Batterien, perfekten konstanten Widerständen bei den Glühlampen und unendlicher Lebensdauer der Kabel ohne Energieverlust. Die Energie, die eine Batterie liefert, ist proportional zu der Zeit der Stromversorgung und hängt von der Spannungsquelle und dem Stromfluss durch die Last ab.\\n\\n1) Serie-Schaltung beider Batterien und Glühlampen:\\nWenn sich Spannungsquellen in Reihe befinden, addieren sich deren Spannungen. Für Resistive Komponenten in Serie gilt, dass der Strom im Stromkreis aufgrund des kombinierten Widerstandes reduziert wird. Dies beeinflusst die Laufzeitkonstante; angedacht kann hier die Kontrollüberlegenheit so beobachtet werden.",
+  "antwortoption": "A, D"
+}

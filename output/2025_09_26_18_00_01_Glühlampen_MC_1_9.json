@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und vereinfachte Annahmen\n1. Jede Batterie hat eine Kapazität von E Joule und eine Ausgangsspannung U Volt.\n2. Der Spannungsverlust der Batterie bleibt bis zur Entladung konstant (ideale Batterie).\n3. Jede Glühlampe hat einen fixen Widerstand R.\n### Analyse der Konfigurationen\n#### A) Batterien und Glühlampen in Serie\n- Gesamtspannung: 2U, serieller Widerstand: 2R.\n- Stromstärke: I = 2U / 2R = U / R.\n- Energieverbrauch pro Glühlampe ist verdoppelt, also t/2 wird divisioniert: 1/4t = t/4.\n#### B) Batterien in Serie, Glühlampen parallel\n### Darstellung einfacher Testmem.",
+  "antwortoption": "A"
+}

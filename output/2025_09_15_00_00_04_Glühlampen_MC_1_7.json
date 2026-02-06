@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Batterie hat eine Kapazität C und eine Spannung U. Der Widerstand jeder Lampe beträgt R. Wenn wir zwei Batterien und zwei Lampen kombinieren, betrachten wir verschiedene Schaltungen. Bei Serienschaltungen addieren sich die Spannungen der Batterien (2U), und der Gesamtwiderstand von zwei Lampen verdoppelt sich (R_ges = 2R). Die Kapazität der Batterie bleibt konstant, und Energie E = U^2 / R. Daher ändert sich die Betriebszeit für die Lampen. Wenn zwei Batterien parallel geschaltet werden, bleibt die Spannung konstant bei U, aber die Kapazität verdoppelt sich (2C). Dies beeinflusst wiederum die Gesamtenergie und somit die Leuchtdauer der Lampen. Nach Berücksichtigung all dieser Effekte und Berechnungen sehen wir folgende Ergebnisse:",
+  "antwortoption": "B, D"
+}

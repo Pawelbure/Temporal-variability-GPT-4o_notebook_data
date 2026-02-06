@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu analysieren, ist es entscheidend, die physikalischen Prinzipien bezüglich der Strom- und Energieverteilung in elektrischen Schaltungen zu berücksichtigen. Die Batterien und Glühlampen haben wir gleichartige Eigenschaften. Wenn zwei identische Batterien in Serie geschaltet werden, verdoppelt sich die angeschlossene Spannung der Quelle. Wenn die Batterien parallel geschaltet sind, bleibt die Spannung dieselbe, die Kapazität verdoppelt sich jedoch. Weiterhin beeinflusst die Kombination der Glühlampen (entweder parallel oder in Serie) den Gesamtwiderstand und daher den Strom und die Lebensdauer der Batterien. Nach Berechnungen hinsichtlich Widerständen, Strömen und Energienutzung in den vier möglichen Szenarien ergibt sich, dass nur Option D korrekt ist, da in diesem Fall die Batterielebensdauer recht gleichmäßig auf die parallelgeschalteten Glühlampen verteilt wird.",
+  "antwortoption": "D"
+}

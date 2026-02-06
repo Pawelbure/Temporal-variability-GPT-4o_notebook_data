@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Problemauflösung\n\nAnnahmen:\n- Spannung einer Batterie: \\( V \\).\n- Innerer Widerstand der Batterie vernachlässigbar.\n- Widerstand einer Glühlampe: \\( R \\). Konstanter Stromverbrauch \\( I \\).\n- Batteriekapazität ausreichend für \\( t \\) Stunden Betrieb einer Lampe.\n\n* Szenario A - Serie-Serie:\n- Spannung verdoppelt sich \\( 2V \\), resultierender Widerstand \\( 2R \\).\n- Strom wird \\( I = \\frac{2V}{2R} = \\frac{V}{R} \\).\n- Die Zeit ergibt \\( t_1 = \\frac{t}{2} \\), wobei Energie gleichmäßig verteilt wird.\n\n* Szenario B - Serie-Parallel:\n- Verdoppelte Spannung \\( 2V \\), gleicher Widerstand \\( R \\).\n- Strom entspricht \\( I = \\frac{2V}{R} \\).\\\n Die Batterien liefern unabhängig Energie, Verbrauch ist proportional verbessert.\\n\n-Aus Zeit ergibt \\( t_2 = t\\)\n\n### Schliesslich B) &D\n",
+  "antwortoption": "A, C"
+}

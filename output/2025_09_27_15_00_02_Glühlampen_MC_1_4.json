@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealvorstellungen: Jede Batterie liefert eine konstante Spannung V und hat eine Kapazität Q. Die Glühlampe hat einen konstanten Widerstand R und verbraucht Leistung P = V²/R, wobei sich die Batteriekapazität durch den Verlauf der Zeit t entlädt. Nun werden die vier Konfigurationen hinsichtlich der Energielieferung und Verbrennung betrachtet: (A) Zwei Batterien in Serie erzeugen eine Spannung von 2V und verbrauchen 2 Glühbirnen in Serie mit einem Widerstand von 2R, wodurch der Strom kleiner ist und die Zeit ungefähr 2Q/(2I) = Q/I bleibt, aber geteilt auf zwei Lampen; (B) Batterien in Serie erzeugen eine Nennspannung von 2V, führen an jeder Lampe in Zweig: Effektiv p um einmal Batteriekapazs; (C+D ....)",
+  "antwortoption": "B, D"
+}

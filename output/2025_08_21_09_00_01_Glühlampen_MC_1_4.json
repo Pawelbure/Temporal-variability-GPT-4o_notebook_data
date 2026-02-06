@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "- Wir betrachten das Problem unter der Annahme idealisierter Bedingungen. Die Batterie liefert eine konstante Energie E bis zur vollständigen Entladung. Jede Glühlampe hat einen konstanten Widerstand R. Die Energiemenge ist proportional zur Spannung und Stromstärke multipliziert mit der Zeit.- Fall A: Batterien und Lampen in Serie. Hier verdoppelt sich die Spannung in der Schaltung, was den Strom durch die Serie erhöht. Somit verbrauchen sich die Batterien doppelt so schnell pro Lampe.- Fall B: Batterien in Serie, Lampen parallel. Die Lampen teilen sich den Strom, sodass ihre gesamte Energie doppelt solange reicht wie bei einer.- Fall C: Batterien parallel, Lampen in Serie. Die Spannung pro Batterie bleibt gleich, aber dadurch sinkt der Energieverbrauch insgesamt proportional.- Fall D: Batterien parallel, Lampen parallel. Der Energieverbrauch bleibt gleich, aber eine konstante Teilung ergibt die ursprüngliche Energie.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier ist die detaillierte Analyse und Lösung der Aufgabe:\n\nAnnahmen und Konventionen:\n- Die Lampe hat einen konstanten Widerstand R.\n- Die Spannung und Ladekapazität der Batterien sind U und Q.\n- Die Batterien liefern eine konstante Spannung, bis die gespeicherte Ladung Q verbraucht ist.\n- Die Energie einer Batterie ist QE (Energie = Ladung × Spannung). Die pro Zeit umgesetzte Energie (Leistung) ist P = U²/R.\nDie Verhältnisse für jede Anordnung sind:\n\n1. **Batterien und Lampen in Serie**:\n   - Spannung: 2U, Strom: I = U/R.\n   - Energieversorgung: Zeit Δt1 = Q / I = t/4.\n\n2. **Batterien in Serie, Lampen parallel**:\n   - Spannung: 2U, Strom: 2U/R.\n   - Δt2 = Q / (2*I) = t/2.\n\n3. **Batterien parallel, Lampen in Serie**:\n   - Spannung: U, Strom: U/(2R).\n   - Δt3 = 2Q / I = 2t.\n\n4. **Beide parallel**:\n   - Spannung: U, Strom: 2U/R.\n   - Zeit Δt4 = t.\n\nDaher gilt: Aussage B und D sind korrekt.",
+  "antwortoption": "B, D"
+}

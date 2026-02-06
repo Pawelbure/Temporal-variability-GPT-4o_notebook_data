@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Schaltungsarten der Batterien und Glühlampen. \nAnnahmen: Jede Batterie hat eine definierte Energiemenge U × Q, wobei U die Spannung ist. Die Glühlampe hat einen spezifischen Widerstand R und ein jeweiliges Energieverbrauch proportional zu U²/R. \nOption A: Batterien und Lampen in Serie: Die Spannung addiert sich, also 2U, und der Gesamtwiderstand verdoppelt sich, also 2R. Die Zeit verringert sich auf etwa t/4. Lösung passt.\nOption B: Batterien in Serie, Lampen parallel: Spannung bleibt 2U, Strom verdoppelt sich, die Zeit beträgt etwa t/2.\nOption C: Batterien parallel, Lampen in Serie: Spannung bleibt U, Widerstand verdoppelt sich, die Zeit bleibt t.\nOption D: Batterien parallel, Lampen parallel: Energieverbrauch halbiert sich, die Zeit bleibt t. \nDaher ist Option B korrekt.",
+  "antwortoption": "B"
+}

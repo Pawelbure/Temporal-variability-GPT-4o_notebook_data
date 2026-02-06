@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Antworten zu bewerten, prüfen wir alle gegebene Szenarien getrennt unter Verwendung der Annahmen und physikalischen Grundlagen: 1. Batterien in Serie und Lampen in Serie: Verdoppelte Spannung führt zu viermal höherer Leistung und damit einer Viertel der Laufzeit t/4. 2. Batterien in Serie und Lampen parallel: Gleiche Spannung führt zur doppelten Leistung bei parallelen Lampen, und daher halbierte Laufzeit t/2. 3. Batterien parallel und Lampen in Serie: Gleichbleibende Spannung wie bei einer Batterie und gleich Leistung, aber doppelte Energie führt zu verdoppelter Laufzeit 2t. 4. Batterien parallel und Lampen parallel: Gleichbleibende Spannung und gleiche Leistung pro Lampe wie bei nur einer Lampe, aber doppelte Energie, sodass Laufzeit t bleibt.",
+  "antwortoption": "A, B, C, D"
+}

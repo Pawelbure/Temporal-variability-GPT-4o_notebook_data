@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysiere ich jede vorgeschlagene Konfiguration im Detail: 1. Wenn die Batterien und Glühlampen in Serie geschaltet sind, verdoppelt sich die Gesamtspannung, und der Stromfluss ändert sich. Dadurch wird die gesamte Energie schneller verbraucht, und die Betriebszeit ist etwa ein Viertel von t. 2. Bei Batterien in Serie und Glühlampen parallel bleibt die Spannung konstant, der Strom wird aufgeteilt, und die Betriebsdauer beträgt etwa die Hälfte, da die Energie unter zwei Lampen aufgeteilt wird. 3. Für Batterien parallel und Lampen in Serie bleibt die Spannung konstant, aber die nutzbare Batteriekapazität verdoppelt sich, was eine doppelte Laufzeit ermöglicht. 4. In der Parallelkonfiguration für beide Batterien und Lampen bleibt die Spannung und Stromkonfiguration wie im Einzelbetrieb, und die Laufzeit bleibt bei t.",
+  "antwortoption": "A, B, C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Situation zu analysieren, berücksichtigen wir die Eigenschaften und Wechselwirkungen von Stromelementen: 1) Die in Serie geschalteten Batterien verdoppeln die Spannung, während die Kapazität unverändert bleibt. 2) Parallel geschaltete Batterien bewirken keine Spannungserhöhung, aber ihre Kapazität summiert sich. 3) In Serie geschaltete Glühlampen teilen die Gesamtnennspannung gleichmäßig, während parallel geschaltete Glühlampen die Spannung der Quelle individuell annehmen. Die Einsatzeffizienz und Betriebsdauer können deduktiv über die Energieabgabe und den Gesamtleistungskonsum berechnet werden.",
+  "antwortoption": "B, D"
+}

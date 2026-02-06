@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, betrachten wir die gegebenen Schaltszenarien in Bezug auf Reihen- und Parallelschaltungen von Batterien und Glühlampen sowie den Energieverbrauch der Lampe. Wir nehmen an, dass jede Batterie über eine Kapazität verfügt, die Energie zu einem Glühlampenwiderstand liefert. Der Energieverbrauch hängt vom Strom durch die Lampe und dem Spannungseffekt ab, der von der jeweiligen Schaltungskonfiguration abhängt. Unter Berücksichtigung von P = U²/R für den Leistungsbedarf der Lampe und davon, dass die Batteriekapazität proportional zu ihrer Lebensdauer ist, analysieren wir die Optionen, wie folgt:",
+  "antwortoption": "B, D"
+}

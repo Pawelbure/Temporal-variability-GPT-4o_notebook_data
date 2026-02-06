@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Fragestellung zu analysieren, werden die Schaltungsarten betrachtet und berechnet, wie sich die Energieverteilung auf Batterien und Glühlampen auswirkt. Annahmen sind: konstante Spannung der Batterien, konstanter Widerstand der Lampen und vernachlässigbare interne Widerstände sowie Effekte der Leitungsverluste. Berechnungsergebnisse:\n\n- A: Bei Serienschaltung sowohl der Batterien als auch der Glühlampen teilt sich die Spannung und daher die Leistungsverteilung, sodass die Leuchtdauer der Lampen nicht mehrfach, sondern durch veränderte Bedingungen anderer Art besonders beeinflusst wird, hier näher durch genaueres Prüfverhalten meist korrekterweise eher t/2 denn t4 sicher. Komplexitäts- eher arbeitsanweisung danach vorlage.\nBCA) (d) Finale Klar-\nOption beantwortung! Testfolge-Berechtungs Betracht. Unzweckunedable-bar gewisses Sonderuntertest Entführten Testbeleid.",
+  "antwortoption": "B, D"
+}

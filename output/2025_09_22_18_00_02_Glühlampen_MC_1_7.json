@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Es wird von idealen Batterien (ohne Innenwiderstand) und idealen Widerständen (konstant und ohne Temperaturschwankungen) ausgegangen. Basiswissen: Die Energie einer Batterie ist E = UIt, wobei U Spannung, I Strom, und t die Betriebsdauer ist. Lösungsansatz: Eine Einzelbatterie betreibt eine Lampe für t, somit E = P • t = (U² / R) • t. A) Batterien in Serie: Spannung 2U. Lampen in Serie: Widerstand 2R. Stromfluss: I = 2U / 2R = U / R (wie Einzellampe). Energie pro Lampe pro Zeit: P = I²R = (U / R)² ⋅ R = U² / R. Energieverbrauch: doppelt → t' = t / 2 pro Lampe, jedoch gleichen Verbrauch arbeitsteilig → t' = t. Aussage korrekt jedoch nicht wie beschrieben. B) Unichtig ob parallel oder Serie, Energie halbiert da Batterieteilung verhältnis bedingt. Manche.\n",
+  "antwortoption": "D"
+}

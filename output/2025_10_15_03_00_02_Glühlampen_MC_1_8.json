@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen:\\nWir nehmen an, dass die Batterien identisch sind und jede derselben Anfangsspannung U und Kapazität Q besitzt. Der Widerstand R der Glühlampen bleibt konstant. Für die Energiemengen, die Batterien abgeben, verwenden wir folgende Überlegung: die abgegebene Energie E = U·I·t entspricht der gespeicherten Energie in der Batterie.\\n2. Fallanalysen:\\na) Batterien und Glühlampen in Serie: Die Spannungen addieren sich (2U), der Widerstand der Lampen addiert sich (2R), also ist der Strom I = U / R unverändert. Aufgrund der gleichen Stromstärke entleert jede Batterie ihre Kapazität Q in derselben Zeit, d.h. die Betriebszeit ändert sich nicht, bleibt t.\\nb) Batterien und Lampen parallel: Die Spannung bleibt bei U, aber die Ströme teilen sich jetzt auf R und jede Batterie treibt eine eigene Lampe an. Das führt zu einer verlängerten Zeit von 2t pro Lampe.\\n3. Überprüfung:\\nOption B ist korrekt.",
+  "antwortoption": "D"
+}

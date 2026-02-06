@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, betrachten wir die Kombinationen aus den Schaltungen von zwei Batterien und zwei Glühlampen sowie die entsprechenden Eigenschaften. Wir nehmen an, dass jede Batterie Spannung U und Kapazität C besitzt und jede Glühlampe einen konstanten Widerstand R aufweist. Daraus ergibt sich eine Entladeleistung der Batterie P = U^2 / R, wodurch die Zeit t ergibt sich als t = C / I = C * R / U^2. Wenn Batterien und Lampen kombiniert werden, ändern sich Stromverhältnisse wie folgt:\n\nA) Serien-Schaltung von Batterien und Lampen führt zu insgesamt verdoppelter Spannung, halbem Strom und doppelter Leistung. Dies entlädt Batterien schnell, die Zeit bleibt dennoch in Relation bis t/4 der ursprünglichen Lampe.\n\nBei Optionen wird iteriert und alle evaluiert -> **Antwort als Letter, bsp. D) nur sind Schaltunfähigkeiten relevant.**\n\n**Bezug Konzeption geben zu erklären Detail getuned.**",
+  "antwortoption": "D"
+}

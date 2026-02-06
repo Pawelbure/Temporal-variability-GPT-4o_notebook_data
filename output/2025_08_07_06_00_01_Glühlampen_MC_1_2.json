@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Vereinfachungen: Jede Batterie hat eine konstante Spannung V und speichert eine elektrische Energie von Q (Gesamtladung). Jede Glühlampe hat einen konstanten Widerstand R und verbraucht pro Zeiteinheit eine elektrische Leistung. Die Batterien sind ideal, ohne internen Widerstand. Das Problem wird unter stationären Bedingungen ohne Übergangseffekte betrachtet.\n\nPhysikalische Betrachtung der Optionen:\n\n*Serie von Batterien und Lampen*: Die Gesamtspannung verdoppelt sich (2V), und der Gesamtwiderstand der Lampen ist 2R, was die Leistung pro Lampe auf 1/4 vermindert, wodurch die Zeit bei 4t liegt, nicht t/4.\n*Serie: korrekte Zeitberechnung*: beträgt t/2\n*Anderes Beispiel...*\n-Finales Resultat: Optionen B, D sind korrekt",
+  "antwortoption": "B, D"
+}

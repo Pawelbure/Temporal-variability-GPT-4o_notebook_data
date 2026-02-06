@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Bedingungen:\nJede Batterie liefert eine konstante Spannung U und die gleiche Ladung Q im Verlauf ihrer Entladung. Die Glühlampen haben alle den gleichen Widerstand R und verbrauchen konstante Leistung über die Zeit. Es wird angenommen, dass die interne Widerstand der Batterien und andere Verluste vernachlässigbar sind.\n\n### Analyse und Berechnungen:\n\n**A) Batterien in Serie, Glühlampen in Serie**: Die Gesamtsapnnung verdoppelt sich (2U), der Widerstand verdoppelt sich (2R). Der Gesamtstrom und somit die Leistung bleibt konstant im Vergleich zur einzelnen Konfiguration. Die Entladeschlusstelle der Batterien endet, wenn die gleiche Q verbraucht wurde. Dies passiert törtlicher Zeit.\n\n**B) in Serie beide Konfiguren:** Formel kombinierende eine Variable Ergebnis. ... *fortgesetzt mit Beschreibung.***\n",
+  "antwortoption": "B, C"
+}

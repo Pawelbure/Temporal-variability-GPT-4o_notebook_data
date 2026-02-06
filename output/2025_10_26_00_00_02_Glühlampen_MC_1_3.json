@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gestellte Frage zu beantworten, starten wir mit folgenden Annahmen: Jede Batterie hat die gleiche Kapazität C und trägt eine konstante Spannung U bei gleichzeitiger Entladung bis zur Kapazitätserreichung. In jedem der vier Szenarien analysieren wir die Schaltungsanordnung der Batterien und Glühlampen: \n\nA) Bei Serienschaltung von Batterien erhöht sich die anstehende Spannung auf 2U, und bei Serienbetrieb von Glühlampen addieren sich die Widerstände zu 2R. Der entstehende Strom beträgt demnach I = U/(2R). Die Energie die bereitgestellt werden kann ist E = C·U², daraus folgt aber eine Verkürzung der Verwendungsdauer entsprechend der höheren Spannung. \n\nB) Serienschaltung der Batterien führt weiterhin zur doppelten Spannung, aber jetzt liegen die Glühlampen parallel. Die Leistungsminderung pro Lampe durch Entladung beträgt die hälfte der ursprünglichen Zeit.\n\nC). eine Parallelverschalten Batterien ...",
+  "antwortoption": "B"
+}

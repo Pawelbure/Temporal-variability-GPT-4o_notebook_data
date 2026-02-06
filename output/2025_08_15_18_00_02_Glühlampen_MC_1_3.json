@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragestellung zu beantworten, analysieren wir die gegebenen Schaltungen unter den angegebenen Annahmen: konstante Widerstände und ideale Batterien ohne Energieverluste. Eine Batterie liefert Energie mit einer konstanten Gesamtladung bis zum Entladen. Für jede Schaltungsalternative betrachten wir zunächst die kombinierte Batteriespannung, den resultierenden Strom durch die Lampen (in Serie oder Parallel) sowie die Energieabgabe und Zeitdauer im Vergleich zur Grundsituation einer Batterie mit einer Lampe: \\(R\\) ist der Lampenwiderstand, \\(U\\) die Spannung einer Batterie, \\(I_0\\) der Strom und \\(P_0 = U^2 / R\\) die Leuchtstärke bei einer Lampe.",
+  "antwortoption": "B, D"
+}

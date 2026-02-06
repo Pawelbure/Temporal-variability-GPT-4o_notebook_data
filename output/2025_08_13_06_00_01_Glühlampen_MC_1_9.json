@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lasst uns die Aufgabe durchgehen. Annahmen: Jede Batterie hat dieselbe Kapazität und gibt Energie bis zur Entladung konstant frei. Jede Glühlampe hat denselben Widerstand. Relevante Gesetzmäßigkeiten: In der Reihenschaltung addieren sich Spannungen, in der Parallelschaltung Ströme, um die Gesamtenergie zu bestimmen. Wenn die Batterien in Serie und die Lampen parallel gekoppelt sind, verdoppelt sich die Spannung bei gleichbleibender Energieversorgung, was zur Hälfte der Laufzeit führt. Ähnlich andere Kombinationen analysiert ergeben: Nur in der Parallelschaltung verhält sich die Tegensionsrate gleich für die Doppellaufrate.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragestellung zu lösen, analysieren wir die verschiedenen Szenarien, in denen die Batterien und Glühlampen geschaltet werden, und bestimmen die Betriebsdauer. Grundannahmen: Jede einzelne Batterie verfügt über eine gegebene Ladung Q und eine konstante Spannung V. Die Glühlampen haben gleichen Widerstand R und verbrauchen Strom nach dem Gesetz P = V²/R. Szenario A: Batterien und Glühlampen in Reihe. Aufgrund der doppelten Spannung fließt doppelter Strom, was die Betriebsdauer auf t/2 halbiert. Zusätzlich wird jede Batterie nur für eine Lampe beansprucht, sodass jede Batterie t/2 arbeitet. Szenario B erkennt, dass ein Betrachtungsfehler gemacht wurde - es handelt sich um Parallele schaltung, es war Fehler in Angabe.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe schrittweise zu analysieren, betrachten wir verschiedene Schaltkombinationen aus den Glühlampen und Batterien. Wir gehen davon aus, dass eine Batterie eine Glühlampe für eine Zeit t betreiben kann. Eine Parallelschaltung zweier Batterien verdoppelt die insgesamt verfügbare Kapazität, wodurch die Betriebszeit der Last proportional zunehmen würde. Ebenso verringert sich die Stromaufnahme jeder Last in einer Parallelschaltung, was ebenfalls die Betriebszeit beeinflusst könnte. Daher können wir die Aussagen der Aufgabe physikalisch überprüfen.",
+  "antwortoption": "D"
+}

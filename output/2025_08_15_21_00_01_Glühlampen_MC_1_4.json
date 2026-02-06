@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren jede Schaltung mit den gegebenen Bedingungen einzeln: 1. Wenn die Batterien und Lampen in Serie geschaltet sind, verdoppelt sich die Spannung, wodurch der Strom verdoppelt und die Energieentladung pro Zeiteinheit um den Faktor Vier erhöht wird. Somit ergibt sich t/4. 2. Bei Batterien in Serie und Lampen parallel bleibt der Spannungspegel erhöht, der Strom teilt sich jedoch auf beide Lampen gleich auf, wobei jede die Hälfte der doppelten Entladung erfährt. Das ergibt t/2. 3. Mit Batterien parallel und Lampen in Serie bleibt die Spannung konstant, jedoch verdoppelt sich die verfügbare Energie aufgrund paralleler Batterien, was für die Lampen etwa 2t ermöglicht. 4. Für Batterien parallel und Lampen parallel bleibt Spannung und Stromverteilung gleich, sodass Lampen und Batterien wie bei Einzelbetrieb mit t brennen.",
+  "antwortoption": "A, B, C, D"
+}

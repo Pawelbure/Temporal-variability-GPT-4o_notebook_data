@@ -1,0 +1,3 @@
+{
+  "loesungsweg": "**Annahmen und idealisierende Hypothesen**:\n1. Die Batterien haben gleiche Kapazität und Spannung, sowie eine konstante Spannungsabgabe bis zur vollständigen Entladung.\n2. Die Glühlampen besitzen einen konstanten Widerstand unabhängig von der angelegten Spannung.\n\n**Einfluss der Schaltungen auf Zeit und Stromkreise**:\n1. *Serienschaltung der Batterien*: Doppelte Spannung, jedoch bleibt der Strombedarf durch die Lampe gesenkt, da für gleichen Widerstand weniger Zeit t für Entladung notwendig ist.\n2. *Parallelschaltung der Batterien*: Gleiche Spannung, jedoch wird die Kapazität verdoppelt, sodass die Gesamtzeit durch beide weniger eingeschränkt wird.\n--- Interpretation und Schaltungsbeschreibungen: (Erweitert durch Formeln wie [I=V][R])*."
+}

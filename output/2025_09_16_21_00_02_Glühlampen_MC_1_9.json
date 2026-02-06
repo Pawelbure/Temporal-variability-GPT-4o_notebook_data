@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, nehmen wir folgende Annahmen und Idealisierungen aufgrund der Problemstellung vor: 1) Jede Batterie hat eine konstante, gleiche Spannung und Kapazität. 2) Die Glühlampen haben einen konstanten, gleichen Widerstand. 3) Wir ignorieren Verluste und den internen Widerstand der Batterien. 4) Der Energieverbrauch der Glühlampen ist direkt proportional zur anliegenden Spannung. Wir analysieren die vier Szenarien wie folgt: \\n\\nA) Batterien in Serie und Glühlampen in Serie: Bei serieller Verschaltung addieren sich die Spannungen der Batterien, und der Widerstand der Lampen verdoppelt sich. Die Stromstärke halbiert sich, die Zeit verlängert sich, doch aufgrund der Energieverteilung leuchtet jede Lampe nicht lange, t/2 wird plausibel verkehren.",
+  "antwortoption": "B"
+}

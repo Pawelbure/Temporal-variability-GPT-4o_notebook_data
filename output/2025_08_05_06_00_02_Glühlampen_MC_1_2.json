@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Annahmen umfassen die ideale Funktion der Batterien und unveränderte Eigenschaften der Glühlampen. Bei einer einzelnen Batterie entlädt sich diese in der Zeit t durch die Glühlampe. Wenn die Batterien parallel geschaltet sind, bleibt deren Spannung gleich, aber die Kapazität verdoppelt sich, was die Betriebszeit der Glühlampen verlängert. Wenn sie in Serie geschaltet sind, verdoppelt sich die Spannung, was zu einer Veränderung des Stromflusses führt. Die genaue Reihenfolge der Schaltung und die daraus resultierenden Stromflüsse haben zentrale Bedeutung bei der Bestimmung der Betriebszeit. Alle Optionen werden unter Berücksichtigung dieser Faktoren analysiert, woraus folgt, dass die korrekte Antwort 'D' ist.",
+  "antwortoption": "D"
+}

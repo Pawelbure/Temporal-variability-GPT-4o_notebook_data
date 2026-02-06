@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und physikalische Grundlagen:\n- Wir nehmen an, dass die Spannung einer Batterie U konstant bleibt, bis sie erschöpft ist.\n- Die Batterie hat eine kapazitätsbedingte Ladungsmenge Q und kann daher mit I = Q/t eine konstante Stromstärke über die Zeit t liefern.\n- Der Widerstand einer Lampe bleibt konstant unabhängig von der Spannung. \n- Energieberechnungen basieren auf der Formel E = P × t und P = U × I, wobei P die Leistung der Lampe ist.\n\n### Fallbetrachtungen:\n#### A) Batterien in Serie, Lampen in Serie:\n- Die Gesamtsapnnung: 2U (da Spannungen addiert werden).\n- Der Gesamtwiderstand: 2R (Lampenwiderstand addieren sich in Serie).\n- Der Stromfluss ist somit I = U / (2R).\n- Jede Lampe leuchtet mit halber Stromstärke, jedoch identischer Leistung wie bei einer Batterie allein. Daher bleibt die Beleuchtungszeit gleich t/2.\n- Falsch.\n#### B) Batterien in Serie, Lampen parallel:\n..",
+  "antwortoption": "B"
+}

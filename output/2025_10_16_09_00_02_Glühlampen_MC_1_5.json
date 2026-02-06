@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir betrachten die verschiedenen Szenarien: 1. Im Fall von Batterien und Glühlampen in Serie verdoppelt sich die Spannung. Die Stromstärke durch das System ist jedoch halb so groß wegen des doppelten Widerstands; daher verlängert sich die Lebensdauer pro Batterie. 2. Bei Batterien in Serie und Glühlampen parallel erhöht sich die Spannung auf das Doppelte, wodurch jede Glühlampe wie gewohnt betrieben wird. So entleert sich die Batterie schneller, was die Betriebsdauer reduziert. 3. Bei Batterien parallel bleibt die Spannung gleich, die Kapazität verdoppelt sich jedoch. Dadurch verlängert sich die Betriebsdauer auf das Doppelte bei in Serie geschalteten Glühlampen. 4. Bei Glühlampen und Batterien parallel ändert sich die Spannung nicht, und die Betriebsdauer bleibt somit entsprechend der Einzelkapazität erhalten.",
+  "antwortoption": "C, D"
+}

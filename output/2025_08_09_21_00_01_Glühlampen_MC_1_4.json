@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die Stromkreiseigenschaften und verwenden:\n1. Die Spannung, die die Batterien bereitstellen;\n2. Die Schaltungskonfiguration von Lampen und Batterien.\n\nFür zwei Batterien und zwei Glühlampen entstehen:\n\nA) Batterien in Serie und Lampen in Serie:\n- Die Spannung verdoppelt sich, der Strom bleibt gegenüber einer Einzelbatterie gleich;\n- Gesamtwiderstand der zwei Lampen verdoppelt sich;\n- Energieverbrauch pro Zeiteinheit bleibt konstant, Entladezeit beträgt daher t.\n\nB) Batterien in Serie, Lampen parallel:\n- Verschiedene Resultate zeigen doppelte Energieabgabe, Entladezeit gleicht t.\n\nC) Batterien parallel, Lampen Serie:\n- Spannung bleibt gleich, Gesamtwiderstand verdoppelt sich, Strom halbiert sich, länger t.\n\nD) Batterien parallel, Lampen parallel:\n- Spannung bleibt gleich, geteilte Last, Entladezeit als Summe gleich effektiv.",
+  "antwortoption": "D"
+}

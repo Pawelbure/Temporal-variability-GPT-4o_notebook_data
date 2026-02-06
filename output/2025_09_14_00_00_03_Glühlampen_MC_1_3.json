@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, analysieren wir die vier verschiedenen Szenarien separat. Wir nehmen an, dass Batterien ideale Spannungsquellen sind und die Glühlampen gleichmäßige Widerstände besitzen. Wir betrachten, wie die Belastung der Batterien durch die unterschiedlichen Schaltungsarten die Gesamtzeit beeinflusst, während die Lampe betrieben wird. 1. Szenario: Batterien und Glühlampen in Serie: Der Strom durch beide Glühlampen ist geringer, sodass die Entladung langsamer verläuft. 2. Szenario: Batterien in Serie, Glühlampen in Parallel: Jeder Lampe erhält halbe Strom, reduziert Laufzeit auf t/2. 3. Szenario Batterien parallel, Lampen in Serie. Der Strom verfällt parallel zu gering, vergrößert Laufzeit. 4. Szenario: parallele Batterien- und Lampenanordnung bringt Normalfall, Zeit bleibt t.",
+  "antwortoption": "A, D"
+}

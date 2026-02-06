@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekte Antwort zu bestimmen, analysieren wir die vier gegebenen Szenarien einzeln und verwenden grundlegende elektrische Prinzipien, wie die Aufteilung von Spannungen und Strömen in Serien- und Parallelschaltungen und die Verhältnisse des Energieverbrauchs. Wir nehmen an: a) jede Batterie liefert die gleiche konstante Spannung U über die gesamte Entladungszeit, b) der Widerstand R der Glühlampen bleibt konstant, c) die Kapazität jeder Batterie ist C, und d) der Stromverbrauch P wird über die Zeit konstant gehalten. \n\n1) Batterien in Serie, Lampen in Serie:\nDie Gesammtspannung beträgt 2U, der Gesamtwiderstand ist 2R, der Strom ist I = U/R. Die Lampe sieht dieselbe Energie in der doppelten Zeit, ensprechend einer Laufzeit t/4.\n\n2) Batterien in Serie, Lampen parallel:\nDie Stromspannung beträgt hier vollen Stromaufteilung entsprechend/ Kapazität /2.\n\nusw.",
+  "antwortoption": "B"
+}

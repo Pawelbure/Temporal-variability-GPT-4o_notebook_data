@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dies zu analysieren, betrachten wir folgende Annahmen: Jede Batterie hat eine Kapazität C und eine Spannung V. Jede Lampe hat einen konstanten Widerstand R und verbraucht eine Leistung P = V^2 / R aus der Batterie. Die untersuchten Schaltungen sind: (1) Batterien in Serie, Lampen in Serie, (2) Batterien in Serie, Lampen parallel, (3) Batterien parallel, Lampen in Serie und (4) Batterien parallel, Lampen parallel. Für jede Konfiguration berechnen wir die Belastung der Batterien und die Zeit, die sie Strom liefern können. Nach physikalischen Gesetzten ergibt sich in den Konfigurationen die Leuchtdauer jeweils wie folgt: 1) t/2, 2) t, 3) t, 4) t. Damit ist die richtige Antwort lediglich D.",
+  "antwortoption": "D"
+}

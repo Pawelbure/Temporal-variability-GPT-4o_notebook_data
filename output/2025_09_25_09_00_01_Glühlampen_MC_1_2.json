@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, ist es wichtig, die Zusammenhänge zwischen Spannung, Strom, Widerstand und Energiemenge (Kapazität der Batterie) zu betrachten. Hierbei nehmen wir an, dass keine Energieverluste auftreten und die Kapazität der Batterie durch ihre gespeicherte Ladung charakterisiert wird. Erstens, bei Serienschaltung von Batterien addieren sich die Spannungen, bei Parallelschaltung bleibt die Spannung konstant, aber die Kapazität verdoppelt sich. Zweitens, bei Serienschaltung von Glühlampen addieren sich die Widerstände, was den Strom verringert, bei Parallelschaltung teilen die Glühlampen den Strom auf. Dies erklärt den Betriebsverlauf und resultiert in den Bewertung der Energieabgabe...",
+  "antwortoption": "D"
+}

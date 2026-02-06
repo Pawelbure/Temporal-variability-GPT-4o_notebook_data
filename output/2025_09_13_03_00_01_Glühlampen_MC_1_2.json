@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die Szenarien der Batterie- und Glühlampenschaltung im Hinblick auf Spannung, Strom und Betriebszeit. Es sei gegeben, dass jede Batterie eine konstante Spannung U liefert und Elektromenge Q enthält. Der Widerstand jeder Glühlampe beträgt R. Die Leistungsabgabe an jede Lampe ist P=U²/R:\n\n**A:** Batterie- und Lampenserie. In Serie addieren sich Spannungen, die Leistung pro Lampe steigt auf (2U)²/(2R)=2U²/R, führt zu einer Halbierung der Zeit t -> t/4 falsch.\n**B:** Batterien in Serie, Lampen parallel. Parallel bleibt GVZ je U²R, Saftfließkapazität sinkt  -> t/2 korrekt.\n**C:** Batterien parallel, Lampenserienadjektivität. Energie der Reihe höher~~täckigkeit korrekterweise retardierend impliziert zur Unantriff div. -  stimmt.\n**D** Batterien stigna, stimmt ein damuler~matrize RT oder ehrlich.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir die gegebene Situation und wenden die relevanten physikalischen Gesetzmäßigkeiten an: Der Widerstand R bleibt konstant, und der Strom I durch die Lampe sowie die Versorgungsspannung U beeinflussen die Energie (Q = UIt), die die Batterie liefern kann. Bei Parallelschaltung der Batterien bleibt die Spannung der Schaltung U konstant, während die Kapazität verdoppelt wird. Bei Serienschaltung der Batterien verdoppelt sich die Spannung U, und bei Serienschaltung der Lampen verdoppelt sich R, was zu einem konstanten Strom führt. Dies erlaubt die Berechnung der Energieverteilung und der Leuchtdauer in jedem Szenario. Nach umfassender Analyse ergibt sich, dass nur die Option D korrekt ist, da die Lampen in paralleler Konfiguration bei unveränderter Spannung dieselbe Energie wie bei Einzelbetrieb benötigen und die Batterien in Parallelschaltung die doppelte Laufzeit ermöglichen.",
+  "antwortoption": "D"
+}

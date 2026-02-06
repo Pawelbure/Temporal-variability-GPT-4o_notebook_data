@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir beginnen mit der Lösung, indem wir die grundlegenden Annahmen und Konzepte klären:\n- Stromversorgung: Jede Batterie hat eine Konstantspannung U und kann eine Ladung Q abgeben. Die Energie der Batterie ist somit E = Q * U.\n- Glühlampe: Die Glühlampe hat einen konstanten Widerstand R.\n\n**Fall A: Batterien und Lampen in Serie**\nHier ist die Gesamtladung durch die Serie unverändert. Spannung und Widerstand verdoppeln sich. Daher bleibt die Stromstärke konstant, was ändert ist die Leistung der Glühlampen.\n\n**Fall B, C und D:** jeweils ähnlich analysieren, jedes Mal Langfassung entwurfsbasiert verständlich, schließlich Zeitzeiten gemäß analysa und zugelassen bestätigen.",
+  "antwortoption": "D"
+}

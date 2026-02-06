@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Konzepte: Batterien haben gleiche Spannung V und Kapazität Q. Die Glühlampen haben gleichen konstanten Widerstand R. Batterien und Lampen werden verlustfrei angeschlossen.\\n\\nAnalyse der Optionen:\\n- A) Serienanschlüsse addieren Spannungen, Strom ist gleich. P = U^2 / R führt zu kürzerer Betriebszeit t/4 (wegen vierfachem Stromverbrauch).\\n- B) Hochere Spannung durch die seriellen Batterien führt zu halbierter Lebensdauer durch höheren Stromverbrauch.\\n- C) Parallel geschaltete Batterien verdoppeln die Kapazität, was die Glühlampen bei gleichem Verbrauch doppelt so lange leuchten lässt.\\n- D) Parallel geschaltete Batterien verlängern die Lebensdauer nicht, bei gleichem Verbrauch ergibt sich gleiche Leuchtdauer.",
+  "antwortoption": "C"
+}

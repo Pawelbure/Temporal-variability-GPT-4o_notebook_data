@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Leistungen und Zeitverhältnisse für die vier Konfigurationen: \n\n1. **Serie von Batterien und Glühlampen:** Doppelte Spannung an den Lampen, deren Widerstände addieren sich, was zur Halbierung des Stroms und zur viertelstarken Leistung übereinstimmt. Die Zeit ist somit t/4.\n\n2. **Serie von Batterien, parallele Lampen:** Doppelte Spannung, jede Lampe erhält volle Spannung, Leistung pro Lampe konstant, Batterien teilen Kapazität. Zeit ist t/2.\n\n3. **Parallele Batterien, serielle Lampen:** Halbe Spannung pro Lampe, viertel Leistung jede Lampe, doppelte Gesamtlaufzeit: 2t.\n\n4. **Parallele Batterien und Lampen:** Halbe Spannung, halbe Leistung pro Lampe, Zeit t bleibt wegen verdoppelter Kapazität intakt.\n\nDie zutreffenden Aussagen sind B (t/2), C (2t) und D (t).",
+  "antwortoption": "B, C, D"
+}

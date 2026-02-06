@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekte Antwort zu bestimmen, analysieren wir die vier Schaltungen: 1. Batterien in Serie und Lampen seriell: Die Spannung verdoppelt sich, der Strom in einer Glühlampe bleibt wie bei einer Batterie, daher entleeren sich die Batterien viermal schneller (t/4). 2. Batterien in Serie, Lampen parallel: Die Spannung verdoppelt sich, jede Lampe zieht den normalen Strom, daher leeren sich die Batterien doppelt so schnell (t/2). 3. Batterien parallel, Lampen seriell: Die Spannung bleibt konstant, die Stromaufnahme halbiert sich, Batterieleistung doppelt so lange (2t). 4. Batterien und Lampen parallel: Spannung bleibt konstant, Stromverteilung gleich, Zeit bleibt t. Alle dieser Resultate beruhen auf den Annahmen konstanter Spannung und gleicher Ladung der Batterien.",
+  "antwortoption": "A, B, C, D"
+}

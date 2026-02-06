@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Analyse der Schaltungen: (1) Batterien in Serie und Lampen in Serie: Die Spannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich, gleiche Stromstärke, reduzierte Batterielebensdauer=>ca. t/4. (2) Batterien in Serie, Lampen parallel: Spannung verdoppelt, Widerstand halbiert=>gleiche Stromstärke/Gesamtzeit verhält sich als t/2. (3) Batterien parallel, Lampen Serie: Gleiche Spannung und Stromfluss wie eine Batterie->Zeitraum durch doppelt Energie=2t. (4) Batterien/Lampen parallel: Gleichgewicht entspricht einfache Batterie=>Zeit bleibt t.",
+  "antwortoption": "A, B, C"
+}

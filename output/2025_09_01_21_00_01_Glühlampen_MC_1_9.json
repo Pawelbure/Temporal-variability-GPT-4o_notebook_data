@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lösung: Wir untersuchen die möglichen Schaltungen der Batterien und Lampen gemäß den angegebenen Optionen: Annahmen: Die Spannung jeder Batterie beträgt U, die Kapazität Q ist dieselbe, der Widerstand jeder Lampe R bleibt während des Betriebs konstant. \n- A: In Serie verdoppelt sich die Spannung, der Strom beträgt I = U/(2R), daher ist P = U²/(2R). Die Energie pro Batterie beträgt E = Q*U, und die Zeit t' = (E/2)/(2*P). Somit ist Approximation fehlerhaft.\n- B: Richtig: jede Batterie arbeitet mit voller Kapazität.\nSomit ist die Haltbarkeit t=Q*U/P.",
+  "antwortoption": "B"
+}

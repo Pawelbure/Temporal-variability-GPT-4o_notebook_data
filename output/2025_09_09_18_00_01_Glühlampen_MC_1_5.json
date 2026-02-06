@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir die jeweiligen Schaltungsarten und deren Einfluss auf die Betriebsdauer der Lampen, basierend auf der Energie, die von den Batterien bereitgestellt wird. Die Batterien haben eine konstante Spannung V und Kapazität C, daher beträgt die gespeicherte Energie pro Batterie E = V × C. Die Glühlampen haben einen konstanten Widerstand R und benötigen daher eine konstante Leistung P = V² / R zum Betrieb. Die verbleibende Betriebsdauer der Lampen ergibt sich daraus, wie der Stromfluss durch die Batterien in den verschiedenen Schaltungen beeinflusst wird.",
+  "antwortoption": "B, D"
+}

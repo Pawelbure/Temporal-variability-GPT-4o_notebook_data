@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir vier verschiedene Szenarien basierend auf der Anordnung der Batterien (in Serie oder parallel) und der Glühlampen (in Serie oder parallel). Wir gehen von idealisierten Bedingungen aus: jede Batterie liefert dieselbe konstante Spannung V und hat die gleiche Kapazität Q (Ladung), und die Glühlampen haben identische Widerstände R und leuchten bei konstanter Stromstärke. 1. Batterien in Serie, Glühlampen in Serie. Gesamtspannung 2V, Gesamtwiderstand 2R. Stromstärke halbiert sich im Vergleich zu einer Lampe, daher Betrieb bei halber Stromstärke. Entladung der Batterien erfolgt also doppelt langsamer, reicht für Zeitdauer t, Energie Fracht jedoch geteilt auf 2 Serienlampen, daher Zeit = t/4. 2. Batterien in Serie, Glühlampen parallel. Gesamtspannung 2V, Einzelbestandteile beeinflussen Laufzeit analog. 3. Batterien in Parallel verringerte Disladung...",
+  "antwortoption": "A"
+}

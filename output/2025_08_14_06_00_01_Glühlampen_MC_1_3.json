@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Vorschläge zur Schaltung von Batterien und Glühlampen unter den angegebenen Annahmen und prüfen die resultierenden Betriebszeiten. Annahmen: Jede Batterie liefert eine bestimmte Energiemenge (E) bei voller Ladung, und die Glühlampen zeigen einen konstanten Widerstand. Der Widerstand verbraucht gemäß Joule'schem Gesetz (P=U²/R) Energie pro Zeit. Für die Beurteilung der Zeit t betrachten wir die konstante Entladungsenergie der Batterie. Nach dieser Analyse gelten: Vorschlag A ist korrekt, da bei Serieanordnung von Batterien und Lampen die vollständige Energie schneller verbraucht wird; Vorschlag B ist nicht korrekt, da parallele Lampen im Energieverbrauch nicht berücksichtigt werden; Vorschlag C ist korrekt, da Parallelschaltung von Batterien die Energie fördert; Vorschlag D erlangt ungenaue Überlegungen.",
+  "antwortoption": "A, C"
+}

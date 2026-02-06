@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die verschiedenen Schaltungen der Batterien und Glühlampen und analysieren, wie der Stromfluss und die Energieverteilung funktionieren. Wir gehen von idealen Bedingungen aus, d.h., dass keine Verluste auftreten und die Batterien und Glühlampen idealisiert funktionieren. Relevant sind folgende physikalische Gesetze und Überlegungen: Die Leistung ist P=U^2/R; die Kapazität der Batterie bestimmt die insgesamt verfügbare Energie, und in einer Reihenschaltung addieren sich Spannungen, während bei einer Parallelschaltung die Kapazität sich erhöht. Für jeden Fall berechnen wir die Zeitdauer t_n, für die die Glühlampen leuchten können. Nach den Berechnungen ergeben sich die folgenden Antworten:",
+  "antwortoption": "B, D"
+}

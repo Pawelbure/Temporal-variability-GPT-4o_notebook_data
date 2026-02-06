@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das gegebene Problem zu analysieren, betrachten wir die Kombination von Batterien und Glühlampen in verschiedenen Konfigurationen sowie die resultierende Entladedauer. Annahmen: Jede Batterie besitzt eine konstante Kapazität (C), und jede Glühlampe hat einen konstanten elektrischen Widerstand (R). 1. Case A: Batterien und Lampen in Serie. Der Gesamtwiderstand beträgt 2R, und die Stromversorgung hat doppelte Spannung. Der Strom halbiert sich, sodass jede Batterie parallel entladen wird. Daher würde jede Batterie die Lampen für eine Zeit τ entladen. Die Zeit beträgt ≈τ/2. 2. Case B: Parallele Batterien. Der doppelte Stromspeicher verursacht ungesicherte Dauer. Da die Glühlampen τ ausgenutzt werden. T. Möglichkeit für ~τ/G beträgt.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir die elektrische Leistung, den Widerstand und die Energiemenge der Batterien. Annahmen: Jede Batterie hat eine konstante Spannung U, liefert eine bestimmte Gesamtenergie E, der Widerstand jeder Glühlampe ist R, und die Energie wird chauffiert bis zur Erschöpfung verwendet. 1) Zwei Batterien in Serie verdoppeln die Spannung auf 2U. Zwei Lampen in Serie verdoppeln den Widerstand auf 2R, sodass der Strom I = 2U/(2R) = U/R erhalten bleibt. Die Energie der Batterien wird in halber Zeit verbraucht, da der doppelte Strom fließt (Zeit t/2). Bei Schutz des Potentials, weniger Energie. Falsche Konzeption: t/4",
+  "antwortoption": "A"
+}

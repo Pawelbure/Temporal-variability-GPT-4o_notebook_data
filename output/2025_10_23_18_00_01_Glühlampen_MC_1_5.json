@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Richtigkeit der Aussagen zu analysieren, betrachten wir die Verhältnisse der Spannungen, Ströme und Widerstände in den verschiedenen Schaltungsarten:\n\nAnnahmen:\n- Die Batterien haben jeweils die gleiche Spannung V und Kapazität C (in Ah, Amperestunden).\n- Jede Batterie liefert bei einer Lampe im Zweierfall konstanten Strom I über eine Zeit t=Q/I.\n- Der Widerstand der Glühlampe sei R und bleibt konstant.\n\n**Analyse der Aussagen:**\n\n- **A)** Batterien in Serie und Glühlampen in Serie:\n  Verdoppelte Spannung (2V) aber Strahlstärke beeinflusst den Strom (Halbierung wegen 2R). Gesamt-Kapazität verdoppelt sich nicht, t/4 ist falsch.\n\n- **B)** Batterien sind in Serie, Lampen parallel: Verdoppelte Spannung mit gleichem Widerstand teilt den Strom jede Lampe die Spannung liefert (t/2 ist exakt).\n\n...\nSo ist die richtige Version abschließend:\nDie Richtige Möglichkeit: Ist D",
+  "antwortoption": "D"
+}

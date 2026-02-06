@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Idealisierungen und Annahmen:\n- Jede Batterie liefert eine feste Energie und liefert eine konstante Spannung, bis sie vollständig entladen ist.\n- Der Widerstand der Glühlampen bleibt konstant während des gesamten Betriebs.\n\n### Analyse der Konfigurationen:\n1. **Option A, Batterien und Lampen in Serie:** Die Spannung addiert sich, der Strom bleibt identisch. Vierfache Leistung bedeutet kürzere Betriebsdauer pro Batterie: t/4.\n2. **Option B, Batterien in Serie und Lampen parallel:** Spannung erhöht, Strom aufgeteilt. Leistung verdoppelt, aber Energie gleichmäßig aufgeteilt: t/2.\n3. **Option C, Batterien parallel und Lampen in Serie:** Spannung konstant, Leistung halbiert, daher Laufzeit verdoppelt: 2t.\n4. **Option D, Batterien und Lampen parallel:** Spannung konstant, Energieverbrauch gleichmäßig: t.",
+  "antwortoption": "A, B, C, D"
+}

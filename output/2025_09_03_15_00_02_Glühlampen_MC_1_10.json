@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Umgang mit den Batterien im Zusammenhang mit Leistungsverbrauch und Lebensdauer erfordert Verständnisse zu elektrischen Grundlagen. Wir nehmen an, dass die Batterien gleiche Kapazität und Spannung besitzen und ohne innere Widerstände arbeiten.  Die Leistungsaufnahme einer Lampe entspricht P = V^2/R, wobei V die Betriebsspannung der Lampe und R der Widerstand ist. Um die Lebensdauer der Lampe zu bestimmen, betrachten wir den Stromverbrauch und die Nutzung der verfügbaren Energie aus der Batterie. Schaltungsauswertungen liefern: in Serie gespeicherte Spannung verdoppelt, jedoch wird Energie schneller verbraucht, was t aufteilt. Parallele Schaltungen der Lampen und/oder Batterien beeinflussen anders, oft verdoppelt sich die Zeit, bei gleicher Konfiguration der Verbraucher.",
+  "antwortoption": "B, D"
+}

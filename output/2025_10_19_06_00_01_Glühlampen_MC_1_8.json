@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir die angegebenen Konfigurationen, wobei wir wesentliche Annahmen und physikalische Prinzipien berücksichtigen. Angenommene Annahmen: Eine Batterie hat eine feste Kapazität, die die maximale Energie des Stroms bestimmt, und die Glühlampen haben einen konstanten Widerstand. Physikalische Konzepte: Der Energieverbrauch P ist proportional zu U^2/R, wobei U die angelegte Spannung und R der Widerstand ist. Zudem beträgt die Kapazität der Batterien eine festgelegte Energie E, und die Parallel- oder Serienschaltung beeinflusst die Gesamtspannung und -kapazität.",
+  "antwortoption": "A"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Analyse und Lösungsweg\n\n**Annahmen und Modellierung**:\n\n1. Jede Batterie liefert einen konstanten Stromfluss bis zu ihrer Entladung, was einer konstanten Leistungsabgabe entspricht.\n2. Der Widerstand der Glühlampe ist unabhängig von Stromstärke und Spannung.\n\n**Fallunterscheidungen und Berechnungen**:\n\n**A) Batterien in Serie, Glühlampen in Serie:**\n- Gesamtspannung: Verdoppelung gegenüber einer Batterie.\n- Gesamtwiderstand: Verdoppelung durch Serienschaltung der beiden Glühlampen.\n- Strom: Konstant gegenüber dem Einzelbetrieb.\n- Entladedauer: Beide Batterien entladen sich mit doppeltem Strom und halten daher jeweils die Hälfte von t. Die Gesamtentladung erfolgt somit bei t⁄4 für die Glühlampen.\n\nFalsch gegeben t (ist gemäß Annahmen t).\n\n",
+  "antwortoption": "A"
+}

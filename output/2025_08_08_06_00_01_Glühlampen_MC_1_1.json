@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Konzepte:\n- Jede Batterie hat eine fixe Kapazität in Ampere-Stunden (Ah) und eine feste Spannung V.\n- Glühlampen verhalten sich resistiv und nehmen bei konstantem Widerstand Leistung P auf.\n- Weder der Innenwiderstand der Batterien noch die Temperaturänderung der Glühlampen werden berücksichtigt.### Analyse:\nSituation 1 (A): Batterien in Serie und Glühlampen in Serie:\n- Spannung der Batterie: 2V\n- Widerstandsgleichung: R_eq=2R\n- Strom: I=V/2R\n- Leistung jeder Lampe: 2V^2/(4R)\n- Gesamtenergie: Q_total/2=2Q/V\n- Ergebnis nach Berechnung: Falsch.\nSituation 2 (B): Batterien in Serie und Glühlampen parallel:\n- Gespannte Bedingungen R_eq beeinflussen t Unterschied.\n- Berechnungen nutzen Stromreduktionen und Energieaufbruch.\n- Erreichen t verringern.\nSituation (C,D): Weitere analysiert kompakt Zeitrealschätzung überprüft: Respektiv getestet.",
+  "antwortoption": "A, C"
+}

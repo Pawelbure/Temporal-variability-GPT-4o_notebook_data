@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Jede Batterie hat eine konstante Kapazität und Spannung und kann eine Lampe alleine für die Zeit t mit konstantem Widerstand betreiben. Das Betriebskonzept besagt, dass die Batterien und Lampen verlustfrei betrieben werden; alle Widerstandsänderungen oder Elektronikverluste sind ignoriert. Analysiert werden die elektrische Leistung und energetische Kapazitätskonzepte im Rahmen von Parallel- und Serienschaltungen. Genaue Analyse der gezeigten Schaltungen führt zum Ergebnis: A - Fehlannahme zu Helligkeit und Nutzung, B - korrekt hergeleitete Batterieverbrauchszahlen, C - falsch kombinierte Verhältnisse der Serienschaltung, D - durchschnittlich plausibel. Lösungsweg klar dargelegt, Details zusammenhängend erklärt.",
+  "antwortoption": "B"
+}

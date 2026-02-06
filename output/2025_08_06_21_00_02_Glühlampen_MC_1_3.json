@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir zunächst die vier genannten Szenarien: Ausgangspunkt ist, dass jede Batterie eine Glühlampe für die Zeit t betreiben kann, wenn sie allein verwendet wird. Es wird angenommen, dass jede Batterie dieselbe Kapazität (Ladung) besitzt und dass der Widerstand der Glühlampen konstant und gleich ist. Weiterhin ist die Spannung jeder Batterie konstant. Zu berücksichtigen ist auch, dass bei Reihenschaltung von Elementen (egal ob Batterien oder Glühlampen) die Spannungen oder Widerstände summiert werden, während bei Parallelschaltungen Spannungen gleich gehalten werden und sich Ströme aufteilen. Basierend auf diesen Prinzipien lassen sich die Zeitspannen für die Funktion der beiden Glühlampen in den verschiedenen Fällen bestimmen.",
+  "antwortoption": "B"
+}

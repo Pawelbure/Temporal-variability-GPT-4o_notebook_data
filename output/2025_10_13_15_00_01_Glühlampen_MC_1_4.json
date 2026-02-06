@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu verstehen und die korrekten Lösungen zu ermitteln, betrachten wir folgende Annahmen: 1. Die Batterie hat eine konstante Kapazität und Spannung; 2. Die Lampe hat einen festen, linearen Widerstand und benötigt konstante Energie für den Betrieb. Wir analysieren die verschiedenen Schaltungen: In Serie erhöhen sich Spannung und Stromverbrauch bei zwei Batterien, was zu kürzerer Betriebszeit führt, da Energie proportional zur Kapazität verteilt ist. Für Parallelverbindungen bleiben Spannung und Betriebszeit unverändert. Angesichts der Energieverteilung über zwei Lampen und Batterien ist die Betriebszeit bei paralleler Verbindung gleich T, während die serielle Verbindung die Zeit reduziert.",
+  "antwortoption": "B, D"
+}

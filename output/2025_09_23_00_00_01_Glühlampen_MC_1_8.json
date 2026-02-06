@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir die Szenarien im Detail: Die Kapazität jeder Batterie sei eine Energiemenge, die für ein Zeitintervall t ausreicht. Spannung U ist konstant, der Widerstand R ebenfalls. Bei Schaltung in Serie verdoppelt sich die Spannung, bei Parallelschaltung bleibt sie gleich, jedoch verdoppelt sich die Kapazität. Bei Glühlampen in Serie verdoppelt sich die Gesamtspannung und der Gesamtr, bei parallelen bleibt alles konstant. Mathematische Analysen führen uns zu den einzelnen Laufzeiten: (A) entspricht t/4, (B) t/2, (C) nicht korrekt, da die Kapazität erhöht, Spannung aber fix ist (reduzierte Zeit), (D) korrekt mit Zeit t. Answer: D.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Gegebenheiten:\n\n1. Jede Batterie liefert eine konstante Spannung, bis sie keine mehr Energie hat.\n2. Die Glühlampen haben einen konstanten Widerstand R.\n3. Die Lebensdauer t einer einzelnen Batterie ist durch die gelieferte Energie zur Lampe bestimmt.\n\n### Relevante physikalische Konzepte:\n\n1. Elektrische Leistung P: \\( P = \\frac{U^2}{R} \\).\n2. Lebensdauer der Batterie bei konstantem Strom: umgekehrt proportional zu ihrem Stromverbrauch.\n\n### Lösungen für die angegebenen Konfigurationen:\n\n(a) **Batterien und Lampen in Serie:** \n- Gesamte Spannung spricht für \\( 2U \\).\n- Gesamtwiderstand: \\( 2R \\).\n- Strom: \\( I = \\frac{2U}{2R} = \\frac{U}{R} \\).\n- Leistung pro Lampe: \\( \\frac{U^2}{R} \\); Lebensdauer bleibt \\( t \\).\n\n(b) **Batterien in Serie, Lampen parallel:** \n- Gleiche Spannung stimmt, parallele Lampen teilen den Strom. \n\n(c) **Batterien ins Serie",
+  "antwortoption": "D"
+}

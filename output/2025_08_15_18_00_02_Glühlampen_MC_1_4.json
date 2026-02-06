@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Angenommen wird, dass die Batterien gleich sind, eine gleichförmige Spannung liefern, und eine gleichbleibende Kapazität haben. Glühlampen haben konstanten Widerstand, die Stromverschiebung zwischen den Schaltungen beeinflusst die Entladegeschwindigkeit der Batterien.   Algorithmisch prüfen wir:   *Durch Schaltungsvarianten analysieren wir die Auswirkungen auf Strom und Gesamtenergieverbrauch.*  Ergebnis: A) Falsch: Zwei in Serie mit Strom durch den kombinierten Widerstand verbrauchen die Gesamtenergie zu schnell. B) Wahr: In Serie mit paralleler Last fließt mehr Strom, die Parallelität halbiert die Batteriedauer. C) Wie A. Falsch.* Lösung ist **B**.",
+  "antwortoption": "B"
+}

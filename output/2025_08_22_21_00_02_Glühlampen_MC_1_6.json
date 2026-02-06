@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Schaltungsmöglichkeiten der Batterien und Glühlampen einzeln:\n1. **Serielle Verbindung von Batterien und Lampen**:\n    a. Die Serienverbindung der Batterien verdoppelt die Gesamtspannung.\n    b. Die Serienverbindung der Lampen verdoppelt den Gesamtwiderstand.\n    c. Die Stromstärke bleibt daher unverändert.\n    d. Die Energie jeder der zwei Batterien wird nacheinander aufgebraucht, jede verbringt eine halbe Zeit des gesamten Prozesses.\n\n2. **Serielle Verbindung der Batterien und Parallelschaltung der Lampen**:\n    a. Die Spannung verdoppelt sich.\n    b. Der Gesamtstrom wird durch die doppelte Energieversorgung in je t/2 stabilisiert.\n\n3. **Parallele Verbindung von Batterien und Serielle der Lampen**:\n    a. Hier bleibt die Spannung konstant, aber die Energieverdoppelung erlaubt längeren Betrieb; idealerweise doppelt so lang.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, überlegen wir uns die elektrische Verteilung der Energie in den genannten Szenarien. Basisannahme ist, dass eine einzelne Batterie eine Glühlampe für eine Zeit t bei konstanter Helligkeit betreiben kann, was impliziert, dass die Batterieladung genau für diesen Zeitraum bei unverändertem Strom ausreicht. Außerdem nehmen wir an, dass der Widerstand der Glühlampen konstant und nicht von der Spannung abhängt, was bedeutet, dass der Strom proportional zur Spannung ist. Zusätzlich nehmen wir an, dass der Innenwiderstand der Batterien vernachlässigbar ist. Anhand der Kombinationen von seriellen und parallelen Verschaltungen dieser Batterien und Glühlampen untersuchen wir folgendes: 1) Spannung und Strom in jeder Verschaltungsmöglichkeit, 2) die Belastung jeder Batterie, und 3) die Zeit, bis die Energie einer Batterie verbraucht ist.",
+  "antwortoption": "B, D"
+}

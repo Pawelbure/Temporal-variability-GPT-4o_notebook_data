@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier genannten Schaltungsfälle und berücksichtigen dabei die Annahmen: Der Widerstand der Lampen ist konstant, und die Batterien haben eine konstante Energie- oder Ladungsabgabe. Des Weiteren nehmen wir an, dass die interne Widerstände der Batterien vernachlässigbar sind. 1) Batteriespannung: Eine Einzelbatterie hat die Spannung U und eine Energiemenge E. 2) Energieabgabe: Die Glühlampe benötigt eine konstante Leistung P = U^2 / R, wobei R ihr Widerstand ist. Vereinfachende Hypothese: t=E/P für eine Batterie und eine Lampe.",
+  "antwortoption": "B, D"
+}

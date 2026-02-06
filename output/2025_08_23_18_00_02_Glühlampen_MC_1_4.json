@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "\nDie Aufgabe untersucht, wie die Anordnung von Batterien und Lampen die Leuchtdauer beeinflusst. Annahmen sind, dass Batterien ideale Spannungsquellen mit konstanter Spannung und Kapazität sind und die Glühlampen konstante Widerstände besitzen. Der Strom ergibt sich durch das Ohmsche Gesetz und die Leistung durch P=U²/R. Wird die Leistung reduziert, verlängert sich die Betriebszeit. Schaltarten werden analysiert und deren Einfluss auf Spannung, Strom und Zeitdauer herangezogen:\n\nA) Batterien und Lampen in Serie: Strom halbiert, Leistung pro Lampe viertelt, Zeitdauer: t -> 4t.\nB) Batterien in Serie, Lampen parallel: Spannung verdoppelt, Leistung pro Lampe bleibt konstant, Zeitdauer bleibt t.\nC) Batterien parallel, Lampen in Serie: Spannung halbiert, Leistung viertelt, Zeitdauer t -> 4t.\nD) Batterien und Lampen parallel: Spannung bleibt konstant, keine Änderung in Verteilung, Zeitdauer bleibt t.",
+  "antwortoption": "C"
+}

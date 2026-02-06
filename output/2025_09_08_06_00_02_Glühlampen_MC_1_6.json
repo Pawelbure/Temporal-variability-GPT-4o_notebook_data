@@ -1,0 +1,3 @@
+{
+  "loesungsweg": "### Annahmen und Idealisierung: \n- Jede Batterie liefert eine konstante Spannung und hat eine Gesamtkapazität Q dessen gespeicherte Energie E_prop=Q·U ist.\n- Die Glühlampen verhalten sich wie ideale Widerstandslastungen, deren elektrischer Widerstand R konstant bleibt und während des Betriebs unabhängig von Spannungsänderungen ist.\n- Kein Energieverlust tritt durch Verkabelung oder interne Batterieeigenwiderstände auf.\n\n1. **Fall A:** Batterien und Lampen in Serie:\n   - Gesamtspannung = 2U (weil Batterien in Serie), Gesamtwiderstand = 2R. Strom I = U/(2R) führt zu einer Leistung P=(U²)/(2R). Laufzeit r=T Durch doppelte Leistung um die Energie aufzubrauchen (t/2)\n \n### Endgültige Konklusion:\nDie oben detaillierten ..."
+}

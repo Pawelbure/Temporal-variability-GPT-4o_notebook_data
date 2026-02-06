@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Batterien sind ideale Spannungsquellen mit der Spannung V und Kapazität Q; Lampen haben den Widerstand R.\n2. Relevant ist das Konzept des elektrischen Stroms, der durch Lampen fließt, und die daraus resultierende Belastung der Batterien.\n3. Analyse der Schaltungen:\n   A) Batterie in Serie (2V), Lampen in Serie (2R): Bei der doppelten Spannung durch die Lampen fließt der gleiche Strom und die Energie der Batterien wird schneller verbraucht, was zu einer kürzeren Leuchtzeit führt.\n   B) Batterie in Serie, Lampen parallel: Hier fließt doppelt so viel Strom durch die parallelen Lampen; die Batterien entladen sich schneller.\n   C) Batterien parallel, Lampen in Serie: Spannung bleibt wie bei einer Batterie, aber die Kapazität verdoppelt sich; die Lampen leuchten länger.\n   D) Batterien parallel, Lampen parallel: Spannung bleibt gleich, Strom fließt wie bei einer Batterie-Kombi für beide Lampen.",
+  "antwortoption": "C, D"
+}

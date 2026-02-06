@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, beginnen wir mit den Annahmen: Jede Batterie hat eine Kapazität C (Energiemenge), etablierbar in Joule, und eine Spannung V. Die Glühlampen haben einen konstanten Widerstand R. Die Batterie gibt konstant Energie ab, bis sie erschöpft ist. Nun analysieren wir die verschiedenen Szenarien: 1) Batterien in Serie verdoppeln die bereitgestellte Spannung (2V), und Lampen in Serie verdoppeln den Widerstand (2R). Dies ergibt keinen Vorteil, da die Energie aus den Batterien schneller verbraucht wird, die Zeit wäre t/4. 2) Serienschaltung der Batterien mit parallelen Lampen: Die Lebensdauer wird hier t/2 betragen, da die Energieverteilung ändert. 3) Parallelschaltung der Batterien mit seriellen Lampen: die Lampen würden mit dem gleichen Strom wie zuvor agieren, Zeit 2t. 4) beiderseits Parallelschaltung verursacht keinen signifikanten Unterschied, Zeit t.  Rechnen wir dies detailliert durch.",
+  "antwortoption": "B, D"
+}

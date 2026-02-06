@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die Wirkung verschiedener Schaltungsanordnungen auf die Batterielebensdauer und Glühlampenzustand. Die Kapazität jeder Batterie beträgt initial Q Elektronen, und jede Glühlampe hat den Widerstand R. Wichtig ist, dass die Spannung einer Batterie konstant bleibt, bis sie leer ist. Die vier Szenarien analysieren wir basierend auf den Energieflüssen der Schaltungen.  \n\nOption A: Batterien in Serie, Lampen in Serie. Die Studenten haben vermutet, dass der Strom identisch bleibt, aber wegen der doppelten Gesamtlänge wird t/4 erreicht. \n\nOption B: Batterien parallel, Lampen auch, die Stromaufteilung verdoppelt Laufzeit durch doppelten Stromfluss Qgesamt.\n\nOption C: Zapfungen bei Serie unberechtigt daher unwahrscheinlich (Doppellaufzeit).\n\nOption D: Die Schaltung reproduziert Basisverschaltungen identisch somt Laufzeit Grundgleich.",
+  "antwortoption": "A, C"
+}

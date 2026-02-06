@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem anzugehen, berücksichtigen wir die folgenden Annahmen und relevanten Konzepte: Jede Batterie liefert eine konstante elektrische Energie, die durch das Produkt ihrer Spannung und Kapazität pro Zeit spezifiziert ist. Wenn Batterien in Serie geschaltet sind, addieren sich ihre Spannungen, während die Kapazität gleich bleibt. In Parallelschaltung bleibt die Spannung konstant, während sich die Kapazitäten addieren. Weiterhin spielt der Widerstand der Glühlampen und deren Verschaltung eine wesentliche Rolle für die Stromverteilung und Energieabgabe. Für jede Konfiguration ermitteln wir die Zeit der Lichtemission der Lampen:",
+  "antwortoption": "A"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Situation zu analysieren, berücksichtigen wir die folgenden Annahmen und Konzepte: jede Batterie liefert eine konstante Spannung V und stellt eine feste Ladungsmenge zur Verfügung, der Widerstand jeder Glühlampe ist mit R konstant. Der Energieverbrauch der Lampen hängt von der Stromstärke ab. Für jede Szenarioanalyse:\n\n- **A:** Seriell geschaltete Glühlampen teilen sich die Spannung, wodurch der Strom halbiert und die Betriebszeit verdoppelt wird. Gleichzeitig verursachen Batterien in Serie doppelte Spannung, was den Strom erhöht und damit die Zeit wieder proportional verkürzt.\n- **B:** Das Kombinieren der Batterien in Serie ermöglicht doppelten Strom durch parallel geschaltete Lampen, was die Steckzeit halbiert.\n- **C:** Batterien in Parallelverdopplung erhöhen Kapazität; jedoch, Serielle Lichter doppeln benötigten Verbrauch da zweimal Beleutung kombiniert zuckenden Proportion.",
+  "antwortoption": "A"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu analysieren, werden die folgenden Annahmen getroffen: Die Batterien haben eine konstante Spannung bis zur vollständigen Entladung, die Lampe hat einen konstanten Widerstand und es gibt keine Energieverluste durch andere Effekte wie Wärme oder Verbindungswiderstände. Es wird zudem angenommen, dass jede Lampe und jede Batterie identisch sind. 1) Wenn Batterien und Lampen in Serie geschaltet sind, erhöht sich die Spannung aber nicht die Kapazität. Der Strom wird durch die gesamte Schaltung beschränkt. In diesem Fall entladen sich die Batterien schneller. 2) Für Batterien in Parallelbetrieb erhöht sich die Gesamtkapazität, aber die Spannung bleibt konstant. In diesem Fall teilen sich die Lampen gleichmäßig die Energie. Nach Auswertung der geladenen Energie- und Strombeziehung stimmen nur die Antworten B und D mit korrekten physikalischen Prinzipien überein.",
+  "antwortoption": "B, D"
+}

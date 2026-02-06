@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, gehen wir von den folgenden vereinfachenden Annahmen aus: Jede Batterie hat eine konstante Kapazität (Ladung), ein konstanter Widerstand der Lampe bedeutet, dass der Strom ebenfalls konstant bleibt und die Größe unbeeinflusst von Batterieentladung ist, und ein linearer Verlust der Batterieladung mit der Zeit unter konstantem Strom wird angenommen. Zusätzlich wird die Ausgangsspannung der Batterien während der Entladung nicht abnehmen. Relevante Konzepte beinhalten die Kirchhoffschen Gesetze und die Berechnung von Strom, Spannung und Widerstand in parallelen und seriellen Anordnungen.",
+  "antwortoption": "B, D"
+}

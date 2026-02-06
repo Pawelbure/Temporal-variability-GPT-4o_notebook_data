@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die entscheidenden Annahmen für dieses Problem sind: 1. Die Ladung bzw. Energie jeder Batterie bleibt konstant mit ihrer ursprünglichen Kapazität. 2. Der Widerstand der Glühlampen ändert sich nicht, und die Batterien können als ideale Spannungsquellen betrachtet werden. Betrachten wir die Konfigurationen: A) Batterien in Serie, Glühlampen in Serie - Spannung verdoppelt, Widerstand vervierfacht: die Glühlampen leuchten mit 1/4 der üblichen Zeit. B) Batterien in Serie, Glühlampen parallel - Die gesamte Spannungsquelle wird für parallel geschaltete Lampen bereitgestellt, sie leuchten mit t/2. C) Batterien parallel, Glühlampen in Serie - Es bleibt die gleiche Spannung erhalten, Strom halbiert sich durch die seriellen Lampen, Laufzeit 2t. D) Batterien und Glühlampen parallel - Spannung bleibt gleich, geteilte Stromstärke zu parallelen Lampen, Laufzeit bleibt t. Zusammenfassend ist die Antwort 'A, B, C, D'.",
+  "antwortoption": "A, B, C, D"
+}

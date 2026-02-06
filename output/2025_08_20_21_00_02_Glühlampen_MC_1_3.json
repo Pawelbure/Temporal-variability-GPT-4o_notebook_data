@@ -1,0 +1,5 @@
+{
+  "loesungsweg": "Wir analysieren nacheinander die gegebenen Szenarien, um festzustellen, ob die Aussagen korrekt sind:\n\nANNAMEN UND PROBLEMDEFINITION:\n- Jede Batterie hat eine Kapazität von Q Coulomb und eine Spannung von V Volt. Die Glühlampen besitzen einen Widerstand R.\n- Die Batterie liefert konstanten Strom, bis sie leer ist. Dabei gilt, Kapazität geteilt durch Strom ergibt die Entladungszeit.\n- Die Glühlampen arbeiten optimal innerhalb der vorgeschriebenen Spannung und leuchten gleichmäßig.\n\n**A) Batterien in Serie und Glühlampen in Serie.**\nAn der Serienschaltung verdoppelt sich die Gesamtspannung auf 2V. Der Gesamtwiderstand der Lampen in Serie ist 2R, sodass der Strom I = V / R bleibt gleich wie bei einer einzelnen Lampe. Da der Strom nicht steigt, bleibt die Zeit t, aber der Energiebedarf verdoppelt sich daher wird die Zeit zu t/4 reduziert weshalb Aussage A **nicht korrekt** ist.\n\n\nB) Wenn die Batterien...\n**C)  ...wenn ja entspricht dies Punkt dann ja**..",
+  "antwortoption": "A, B",
+  "aswllis_answer": ""
+}

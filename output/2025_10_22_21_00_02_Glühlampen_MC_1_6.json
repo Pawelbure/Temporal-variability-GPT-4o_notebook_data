@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, betrachten wir das Verhalten der Batterien und Lampen in verschiedenen Schaltungen. Idealisierend nehmen wir an, dass die Batterien ideale Spannungsquellen sind und dass jede die gleiche Ladungsmenge und Spannung besitzt. Der Widerstand der Lampen sei ebenfalls identisch. Bei der Schaltung in Serie addieren sich die Spannungen der Batterien, während bei Parallelschaltungen die Spannung konstant bleibt, aber die Kapazität (Ladung) der Batterie effektiv verdoppelt wird. Bei Parallelschaltung der Lampen halbiert sich der Strom durch jede Lampe im Vergleich zur Serienschaltung. Durch Analyse aller Kombinationen finden wir, dass die korrekte Aussage D ist: Bei paralleler Schaltung von Batterien und Lampen bleibt die Beleuchtungsdauer eines einzelnen Elements konstant.",
+  "antwortoption": "D"
+}

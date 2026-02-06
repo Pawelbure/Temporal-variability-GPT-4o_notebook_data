@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Situation zu analysieren, modellieren wir die Batterie als ideale Spannungsquelle und die Glühlampe als konstanten Widerstand. Die Kapazität der Batterie bleibt konstant. \n\nA) Schalten wir die Batterien und die Glühlampen in Serie, verdoppelt sich die Spannung, aber der Gesamtwiderstand vervierfacht sich (R ges = 4R). Dadurch fließt ein Viertel des ursprünglichen Stromes, und die Batterien entladen sich langsamer, was zu einer Betriebszeit von t/4 führt. Aussage A ist korrekt.\n\nB) Schalten wir die Batterien in Serie und die Lampen parallel, ergibt sich eine erhöhte Spannung an den Lampen, aber die parallele Schaltung verdoppelt die Stromaufnahme im Vergleich zur einzelnen Lampe. Insgesamt verdoppelt sich die Entladegeschwindigkeit der Batterien, und sie halten halb so lange, also t/2.",
+  "antwortoption": "A, B"
+}

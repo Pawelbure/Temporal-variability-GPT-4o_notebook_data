@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Batterien und Glühlampen sind in verschiedenen Konfigurationen geschaltet. Betrachten wir jede Möglichkeit einzeln unter den gegebenen Annahmen: 1. Die Batterien haben gleiche Kapazitäten und entladen vollständig. 2. Der Widerstand der Glühlampen bleibt immer konstant. 3. Die Leistung ist proportional zum Strom und der Spannung über den Lampen. \n\nA) Batterien und Lampen in Serie: Die Spannung der Batterien addiert sich (2V), der Widerstand verdoppelt sich; der Strom halbiert sich. Die Leistung (P=I²R) wird somit um den Faktor 1/2 reduziert. Daher leuchten die Lampen doppelt so lange; B) Batterien in Serie, Lampen parallel: Die Spannung erhöht sich, der Strom verdreifacht sich (2V/R), die Leistung erhöht sich um Faktor 2, daher leuchten diese 1/2 von t; bei C und D verwendet sich die gleiche Behandlungslogik.",
+  "antwortoption": "C, D"
+}

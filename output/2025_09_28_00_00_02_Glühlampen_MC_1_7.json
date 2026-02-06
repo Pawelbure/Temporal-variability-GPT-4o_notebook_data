@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. **Annahmen und Vereinfachungen:** Die Batterien haben die gleiche Spannung V und Kapazität Q (Q=tI_g, wobei I_g der Strom durch eine Glühlampe ist). Die Glühlampen haben den konstanten Widerstand R.\n\n2. **Relevante Konzepte:** *Ohmsches Gesetz V = IR* sowie die Definition der elektrischen Leistung P = VI und die Energie E = Pt.\n\n**Fall A: Batterien in Serie, Glühlampen in Serie:**\n- Spannung über beide Serienbatterien: V_ser = V1+V2 = 2V.\n- Serienwiderstand der Glühlampen: R_ser = R1+R2 = 2R.\n- Strom durch beide und Zeit: I = V_ser / R_ser = 2V / 2R = V/R.\n- Energie jeder Batterie reicht X für die Energie bei doppelter Spannung und gleichem Strom: Lampe hält halbe Zeit t.\n\n**Antwort:** Testen und Bestimmung.",
+  "antwortoption": "B"
+}

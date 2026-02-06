@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Konzeptionelle Grundlagen:** Wir gehen von idealen Batterien sowie Glühlampen mit konstantem Widerstand R aus. Außerdem nehmen wir an, dass die Batterien gleiche Kapazität Q und Spannung V haben. Energieübertrag verlustfrei (ideale Schaltung).  \n1. **Fall A (seriell Batterien und seriell Lampen):** Die Batterien gemeinsam liefern 2V bei doppelter Gesamtenergie. Jedoch teilen sich die Glühlampen dieselbe Stromquelle, wodurch R_eff verdoppelt wird. Gesamtleistung wird halbiert und Leuchtdauer t bleibt erhalten.  \n2. **Fall B (seriell Batterien, parallel Lampen):** Da die batterieseitige Spannung  verdoppelt wurde, bleibt bei Lampe geblieben ist tatsächlich Einnahme Maximum.",
+  "antwortoption": "D"
+}

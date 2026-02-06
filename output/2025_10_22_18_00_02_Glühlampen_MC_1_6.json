@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Beginnen wir mit den Annahmen: Beide Batterien haben die gleiche Kapazität und Spannung, und die Glühlampen haben denselben Widerstand. Die Energie einer Batterie ist proportional zur enthaltenen Ladungsmenge multipliziert mit der Spannung. Die Leistungsaufnahme einer Glühlampe hängt vom Strom und der Spannung ab, was durch den Widerstand beeinflusst wird. Jetzt analysieren wir jede Konfiguration: \n\n(A) Wie lange die Batterien halten, hängt von der Leistungsaufnahme ab. In Serienschaltung verdoppelt sich die Spannung, was, da die Lampen auch in Serie sind, keine Änderung der Leistung bewirkt. Dennoch ist die Anzahl der in Serie geschalteten Glühlampen mit Batterien ein Element, das berücksichtigt wird. Die Glühlampen leuchten für t.\n\n(B) Erhöht eine Parallelschaltung von Lampen mit der Spannung dieser Verdopplung, es bleibt dabei etwa bei t h der Zweifachen.\n\nAngenommene Konzepte: Kirchhoff und Ohm, \n",
+  "antwortoption": "A, C"
+}

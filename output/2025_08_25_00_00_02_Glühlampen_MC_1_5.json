@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Idealisierungen:\nDie Batteriespannung beträgt U, und jede Batterie liefert eine konstante elektrische Energie, unabhängig von der Schaltungsart. Jede Glühlampe hat einen Widerstand R und leuchtet konstant, bis die Batterie vollständig entladen ist. Der Innenwiderstand der Batterien wird vernachlässigt.\n\n### Analyse:\n1. **Batterien und Lampen in Serie:** Durch den größeren Widerstand (2R) verringert sich der Strom auf U/(2R). Die Leistung pro Lampe reduziert sich, daher wird die Lampe länger als t betrieben.\n2. **Batterien in Serie, Lampen parallel:** Die elektrische Energie (2U) verteilt sich gleichmäßig auf die Lampen. Dies führt zu halber Dauer.\n3. **Batterien parallel, Lampen in Serie:** Die Spannung bleibt U, aber die Energie der Batterien addiert sich (2t).\n4. **Batterien und Lampen parallel:** Durch parallele Verteilung bleibt die Nutzungszeit wie für eine Batterie.",
+  "antwortoption": "C, D"
+}

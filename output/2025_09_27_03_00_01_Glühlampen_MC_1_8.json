@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, nehmen wir an, dass jede Batterie eine konstante Energiemenge E speichern kann und jede Glühlampe einen konstanten Widerstand R aufweist. Daraus folgt, dass, wenn eine Batterie eine Lampe betreibt, die gesamte gespeicherte Energie der Batterie für die Lampe genutzt wird, was einer Betriebsdauer von t entspricht. Dies ist die Basis für die Betrachtungen verschiedener Schaltkategorien der Batterien und Lampen. Die Schaltungen beeinflussen sowohl die verarbeitete Gesamtenergie als auch den Strom- und Spannungsfluss in den Lampen, was letztendlich die Betriebsdauer bestimmt.",
+  "antwortoption": "D"
+}

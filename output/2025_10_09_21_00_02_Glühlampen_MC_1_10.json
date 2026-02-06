@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aussagen zu bewerten, machen wir folgende Annahmen: Die Spannung einer Batterie ist U, ihre Kapazität beträgt C, die Glühlampe hat den Widerstand R, und die Batterien sind identisch. Der Energieinhalt der Batterie ist gegeben durch E = C·U²/2. Weiterhin ist die Leistung der Glühlampe mit P = U·I genannt. Betrachtung der Schaltungen: 1. Batterien und Lampen in Serie: Die Gesamtspannung verdoppelt sich, der Widerstand ebenfalls; die Zeit halbiert sich, da P proportional zu U² ist. 2. Batterien in Serie, Lampen parallel: Die Lampen teilen sich die Energie einer Batterie über kürzere Zeiträume. Die Energie verteilt sich anders, dann etwa t/2. 3. Batterien parallel, Lampen in Serie: Hier teilt sich der Strom und verdoppelt die Betriebszeit. 4. Batterien und Lampen parallel: Gesamtzeit ist t, da jede Batterie eine Lampe beliefert.",
+  "antwortoption": "D"
+}

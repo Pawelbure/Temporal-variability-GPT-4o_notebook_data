@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Konfigurationen: \n- **A)** Batterien und Lampen in Serie: Die Spannung verdoppelt sich, der Strom halbiert sich, Potenz bleibt gleich. Zeit ~ Energie/Konstantleistung = t.\n- **B)** Batterien in Serie, Lampen parallel: Spannung doppelt, Stromverbrauch durch zwei Lampen, t/2.\n- **C)** Batterien parallel, Lampen Serie: Gleiche Spannung, halber Stromverbrauch durch Serie, Batterien pro Lampenladung länger nutzbar, t.\n- **D)** Beide Parallel: Gleichbleibende Spannung und Verbrauch, Batterien geben Energie gleicher Zeit = t. \nKorrekt sind D.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Aufgabenstellung nehmen wir an, dass die Batterien ideal sind, jede mit einer Spannung U, einer gleichen Kapazität C (und somit einer gespeicherten Energie von E=CU²/2), und dass die Glühlampen idealisierte ohmsche Verbraucher mit Widerstand R sind. Im Folgenden analysiere ich die angegebene Schaltungen und Bestimme die Leuchtdauer der Lampen: \\n 1. Schaltung in Serie (Batterien und Lampen): Die Gesamtspannung verdoppelt sich auf 2U. Der Strom durch beide Lampen wird halbiert (da der Gesamtwiderstand verdoppelt wird), allerdings fließt dieser doppelte Strom durch jede Batterie, was die Leuchtdauer auf t/4 reduziert. \\n 2. Batterien in Serie, Lampen parallel: Spannung 2U, jede Lampe erhält ihren „normalen“ Strom. Jede Batterie lädt die doppelte Strommenge pro-Zeit ab, die Summe bleibt also Ergebnis t/2. \\n Analoge Vorgehen für Fall 3 und 4 unter serien/P Eurordnung Identifizieren.",
+  "antwortoption": "A, B, D"
+}

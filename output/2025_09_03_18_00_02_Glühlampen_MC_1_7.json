@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir die Situation basierend auf den Schaltungsregeln und den Energieeigenschaften der Batterien und Glühlampen: Die Energie einer einzelnen Batterie, die an der Glühlampe abgegeben wird, beträgt Wb = Ub * I * t, wobei Ub die Spannung und I der Strom ist. Da die Glühlampe einen konstanten Widerstand R hat, ist I = Ub / R. In den verschiedenen Schaltungsoptionen ändern sich der Fluss von Strom und die zu übertragende Energie; das analysieren wir für jede Option im Detail.",
+  "antwortoption": "A, B"
+}

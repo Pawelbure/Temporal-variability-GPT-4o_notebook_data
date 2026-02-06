@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Zeit zu berechnen, für die die Glühlampen betrieben werden können, analysieren wir jede angegebene Schaltung hinsichtlich der Stromflüsse und der Energieverteilung. Wir nehmen an, dass jede Batterie eine konstante Spannung V und eine gespeicherte Energiemenge E zur Verfügung stellt und dass der Widerstand jeder Lampe konstant ist. Der Zusammenhang zwischen elektrischem Strom, Spannung und Widerstand wird durch das Ohmsche Gesetz beschrieben.",
+  "antwortoption": "B, D"
+}

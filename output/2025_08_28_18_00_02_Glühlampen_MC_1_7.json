@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekten Antworten herauszufinden, analysieren wir jede der angegebenen Konfigurationen und berücksichtigen die Auswirkungen der Schaltung auf die Strom- und Spannungsverteilung sowie die Entleerungszeit der Batterien. Wir nehmen vereinfachend an, dass jede Batterie die gleiche Kapazität Q, jede Lampe denselben Widerstand und Konstanz der Energiezufuhr hat. Die Batterie hat eine Spannung V0.",
+  "antwortoption": "B, D"
+}

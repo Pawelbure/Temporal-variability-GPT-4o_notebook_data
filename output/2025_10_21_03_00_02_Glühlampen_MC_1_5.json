@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die richtige Ausarbeitung\n\n### Annahmen und Relevante Konzepte:\n1. Batterien in Serie verdoppeln die Spannung (U), während die Kapazität (C) konstant bleibt.\n2. Batterien parallel erhöhen die Kapazität und verdoppeln die nutzbare elektrischen Energie im Vergleich zur Einzelbatterie (2C).\n3. Glühlampen zeigen konstanten Widerstand unabhängig von elektrischer Leistung oder Temperatur.\n\n### Analyse der Szenarien:\n- Szenario A) Batterien in Serie, Glühlampen in Serie:\n  Die Spannung über die Lampen verdoppelt sich, der Effektivwiderstand vervierfacht sich, daher sinkt der Gesamtstrom um den Faktor 4. Pro Lampe sinkt der Anteil an nutzbarer Energie der Batterien, wodurch die Funktion t/4 beträgt.\n\n- Szenario C) Wenn die Batterien parallel angeschlossen und die Glühlampen in Serie:\n   Die Energiespeicher der Batterien addieren sich, total Entladung um bei parallel eine-strömungen realisiert zu werden.",
+  "antwortoption": "A, C"
+}

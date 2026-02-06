@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die einzelnen Szenarien:\n\n1. Annahmen und Bedingungen:\n   - Jede Batterie liefert eine konstante Energiemenge, was als Kapazität betitelt wird.\n   - Die Glühlampen haben konstanten Widerstand und Leistung, solange sie mit der vorgesehenen Spannung betrieben werden.\n\n2. Herleitung der Antworten:\n\nA) Zwei Batterien und Glühlampen in Serie: Die Serienladung verdoppelt die Spannung, während der Strom sich durch die Kombination halbiert, aber die Lampen verbrauchen Gesamte wegen ihrer erhöhten Arbeitszeiten Energie quartieren.\n\nB) Zwei Batterien in Serie und Glühlampen parallel: Die einzelnen Lampen erhalten gesunden Energiezeit halbweise erhalten.\n\nC) Parallel geschaltete Batterien fördern Gesamtzeit ohne Debuff.\n\nD) jede Energie simultan parallel verteilen sinkt bei Hälfte für Geräte.",
+  "antwortoption": "D"
+}

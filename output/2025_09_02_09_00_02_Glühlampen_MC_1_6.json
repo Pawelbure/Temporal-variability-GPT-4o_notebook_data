@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese physikalische Aufgabe zu analysieren, nehmen wir folgende Annahmen und Idealisierungen vor: 1. Die Batterien sind ideal, haben also konstanten Innenwiderstand und konstante Spannung bis zur Entladung. 2. Die Glühlampen werden als ohmsche Widerstände mit konstantem Widerstand modelliert. 3. Der Energiegehalt jeder Batterie ist gleich. In der Lösung berücksichtigen wir jeweils die Spannung und Stromverteilung in den Schaltungen sowie die Energiebilanz, um die Leuchtdauer t der Lampen zu bestimmen. Nach ausführlicher Analyse der Ströme und Spannungen können wir die Verhältnisse der Betriebszeiten einzelner Szenarien berechnen. Ergebnis:",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Lösung des Problems sind folgende Annahmen und Konzepte relevant: Die Batterien haben jeweils eine konstante Spannung U und eine Kapazität C in Ah, die Gesamtenergie ist gegeben durch E=C*U. Die Glühlampen haben pro Lampe den Widerstand R, wodurch der Strom des Stromkreises je nach Schaltung bestimmt wird. Schaltvarianten und Resultierende Effekte: A) Bezieht sich auf Batterien und Lampen in Serie. B) Betrifft Batterien in Serie, Lampen parallel. C) Beide parallel. D) Ebenfalls beide parallel. Berechnungen zeigen, dass Erklärung B korrekt ist: Spannung und Strom verdoppeln sich in der Anordnung entsprechend, wodurch die Betriebsdauer halbiert wird.",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problematik zu analysieren, betrachten wir die verschiedenen Schaltungen. Annahmen: Batterien haben gleiche Spannung und Kapazität, Glühlampen gleichen Widerstand R.\n\n1. Zwei Batterien in Serie verdoppeln die Spannung, Batterien in Parallel stellen die Originalspannung bereit, aber verdoppeln die Kapazität.\n\n2. Zwei Glühlampen in Serie verdoppeln den Widerstand, in Parallel halbieren sie den Widerstand.\n\n(A): Spannung und Widerstand verdoppeln sich, Stromfluss bleibt gleich. Energie wird schneller verbraucht als bei Einzelbetrieb. Zeit: t/4.\n\n(B): Spannung verdoppelt, Widerstand halbiert. Energieverbrauch erhöht sich um Faktor vier. Zeit t/4.\n\n(C): Unveränderte Spannung, doppelter Widerstand halbiert Stromfluss. Gespeicherte Energie wird in doppelter Zeit verbraucht. Zeit: 2t.\n\n(D): Spannung und Stromfluss bleiben gleich. Zeit: t.\n\nErgebnisse deuten darauf, dass Antwort D korrekt ist.",
+  "antwortoption": "D"
+}

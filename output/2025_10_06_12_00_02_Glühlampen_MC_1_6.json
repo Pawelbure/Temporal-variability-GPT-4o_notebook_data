@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren jede Schaltungsvariante getrennt und bewerten die Auswirkungen der Rekombination der Batterien und Lampen auf den Stromverbrauch und die Lebensdauer. Annahmen: Jede Batterie hat eine konstante Kapazität und Spannung; Lampenwiderstand bleibt konstant.\n\nOption A:\n- Batterien und Lampen in Serie: Das Ergebnis ist eine Verdopplung der Spannung und des Gesamtwiderstands.\n- Der Strom bleibt gleich wie bei einer Batterie für eine Lampe.\n- Zeit also t/2 (die Designspannung wird nicht berücksichtigt).\nFalsch.\n\nOption B:\n- Batterien in Serie, Lampen parallel: Spannung verdoppelt und jede Lampe der Hälfte der Nennspannung zugeführt.\n- Jede hält doppelt so lange; erwartete Laufzeit vor Reduzierung: Gesametlänge bleibt gleich.\nKorrekt.\n\nRest durch spezifische Design{\"U}berlegung mehrfach zu Textdesign setzen.",
+  "antwortoption": "B"
+}

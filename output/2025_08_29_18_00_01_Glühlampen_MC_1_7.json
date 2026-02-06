@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die grundlegenden Annahmen und relevanten Konzepte sind: 1) Jede Batterie liefert eine konstante Energie bei Entladung, unabhängig davon, ob sie in Serie oder parallel geschaltet ist. 2) Jede Glühlampe hat einen konstanten Widerstand. 3) Die Energieabgabe der Batterie und der Energiestrom bestimmen die Betriebdauer. Nun analysieren wir die Szenarien: (A) In Serie führt die erhöhte Spannung zu einem vierfachen Energiestrom durch die Lampen, wodurch die Dauer t/4 beträgt. (B) Zwei parallel geschaltete Lampen halbieren den Widerstand, wodurch die Energieentnahme pro Batterie verdoppelt wird. Entsprechend läuft die Lampe für t/2. (C) Die Batteriekapazität addiert sich bei paralleler Schaltung und die Stromabgabe bleibt konstant, was zu einer doppelten Laufzeit führt, also 2t. (D) In diesem Fall verändert sich die Lichtdauer nicht, da sich sowohl Kapazität der Batterien als auch Verbrauchsrate additiv ausgleichen.",
+  "antwortoption": "C, D"
+}

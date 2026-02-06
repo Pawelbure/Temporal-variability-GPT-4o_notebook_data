@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die grundlegenden Zusammenhänge von Stromkreisphysik und Energieverbrauch der Glühlampen. Jede Batterie liefert eine Kapazität Q an Ladung und eine Spannung V. Die Energie wird verbraucht, wenn die Lampen leuchten. Üblicherweise wird die Leistung (P) berechnet, da P = V * I, wobei I der Strom ist und V die Betriebsspannung angibt. 1) Batterien und Lampen in Serie: Die Spannung verdoppelt sich, der Widerstand verdoppelt sich (2R). Der Strom halbiert sich auf I/2. Die Leistung ist P = (V*2)/(2R) = V^2/(2R), also ein Viertel der Einzelbatterie, und die Entladung erfolgt schneller: Zeit ca. t/4. 2) Batterien und Lampen parallel: Die Spannung bleibt V und der Widerstand der parallelen Lampen ist R/2. Der Strom verdoppelt sich, bleibt jedoch konstant durch die doppelte Batteriekapazität: Zeit t. Ähnlich für andere Konfigurationen wird diese Analyse für die Dauer überprüft.",
+  "antwortoption": "B, D"
+}

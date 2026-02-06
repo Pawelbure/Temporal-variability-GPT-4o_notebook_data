@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Bedingungen: Die Batterie hat eine konstante Kapazität Q und eine konstante Spannung V. Der Widerstand der Glühlampe bleibt ebenfalls konstant und beträgt R. Die Helligkeit der Lampe hängt von der Leistung ab, die gleich V^2/R ist. Die Entladungsdauer der Batterie ist proportional zum Entladestrom. Auswertung der Schaltungen: A) In der seriellen Konfiguration von Batterien und Lampen verdoppeln sich die Spannungen, und der Strom halbiert sich, sodass die Batterien viermal schneller leer werden - Aussage A falsch. B) Batterien in Serie und Lampen parallel beibehalten einen hohen Strom, sodass die Entladezeit halbiert wird - Aussage korrekt. C) Batterien in Parallel- und Lampen-Serienkonfiguration liefern keinen ausreichenden Strom für die Serie - nicht korrekt. D) Batterien und Lampen parallel teilen den Stromverbrauch pro Batterie, wodurch jeder die gleiche Lebensdauer hat - korrekt.",
+  "antwortoption": "B, D"
+}

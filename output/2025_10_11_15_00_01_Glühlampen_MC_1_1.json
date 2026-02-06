@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problematik zu untersuchen, betrachte ich die Kombinationen von Batterie- und Lampenschaltungen und berechne die Entladezeit der Batterien basierend auf den elektrischen Parametern. Angenommen, jede Batterie besitzt eine konstante Spannung U und die Lampen haben jeweils einen Widerstand R. Zusätzlich betrachte ich, dass die Kapazität Q der Batterien bezüglich der gelieferten Ladung gleich bleibt. Die Leistungsaufnahme einer Lampe P ist durch das Produkt der Spannung über der Lampe und dem Strom gegeben: P = U * I. Unter diesen Annahmen analysiere ich die Szenarien.",
+  "antwortoption": "B"
+}

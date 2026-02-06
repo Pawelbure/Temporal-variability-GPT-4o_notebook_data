@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, führen wir folgende Annahmen ein: 1) Jede Batterie hat eine Zellenspannung V und eine Kapazität Q, wobei die Energie der Batterie als E=Q·V modelliert wird. 2) Glühlampen weisen konstanten Widerstand R auf. 3) Die elektrische Energie wird vollständig zum Betrieb der Lampen verwendet; Verluste durch Wärme oder andere Effekte werden ignoriert.[...] Nach Auffassung und Anwendung grundlegender elektrischer Schaltungsprinzipien (Ohmsches Gesetz und Kirchhoffschen Regeln) sowie der Bestimmung bei jedem Szenario der Gesamtkapazität, des Widerstands und Energieabgabe ergibt sich: Option D ist korrekt, da in dieser Konfiguration jede Batterie ihren Anteil an elektrischer Energie beisteuert, die sich in der Heizleistung der Glühlampen gemäß des Widerstands aufteilt, was die ursprüngliche Betriebszeit beibehält.",
+  "antwortoption": "D"
+}

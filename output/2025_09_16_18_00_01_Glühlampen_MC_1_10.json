@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Analyse:\n 1. Jede Batterie liefert eine konstante Spannung V und hat eine Kapazität, durch die sie eine konstante Stromstärke I über die Zeit t bereitstellt, bevor sie entladen ist.\n 2. Jede Glühlampe hat einen festen Widerstand R und leuchtet mit einer Stabilität, solange sie an die Spannung der Batterien angeschlossen ist.\n### Falls:\n - Batterien und Glühlampen sind unabhängig. Daher untersucht man die Kombinationen systematisch:\n#### A)\n - Wenn zwei Batterien und Glühlampen seriell angeschlossen: Gesamtspannung 2V, Widerstand vererfacht, sodass gezogene Energiequersatitis ausging in \\approx kürzversion zeigen kann.",
+  "antwortoption": "D"
+}

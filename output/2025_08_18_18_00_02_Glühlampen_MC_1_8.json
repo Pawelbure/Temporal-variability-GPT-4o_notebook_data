@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die vier Szenarien mit den gegebenen Schaltungen und beständigen Annahmen. Die Batterien liefern eine konstante Spannung in beiden Fällen, aber die parallele Anordnung verdoppelt den maximal bereitgestellten Strom. Lampen verhalten sich ideal wie konstante Ohmsche Widerstände. Damit ergeben sich folgende Ergebnisse: A) Bei serieller Verbindung ist der Strom halbiert und der Energieverbrauch ist daher auch geringerer, sodass die Laufzeit nicht t/4 ist. B) Diese Konfiguration teilt die Energie der Batterien auf beide Lampen auf, wodurch jede nur für eine Zeit von t/2 leuchtet. C) Parallele Batterien unterstützen eine längere Leistung, jedoch nicht 2t. D) Hier bleibt die Laufzeit t, da Parallelität gleiche Belastung ermöglicht.",
+  "antwortoption": "B"
+}

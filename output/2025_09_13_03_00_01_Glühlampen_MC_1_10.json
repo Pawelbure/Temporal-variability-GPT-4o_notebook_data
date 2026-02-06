@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die Auswirkungen der verschiedenen Verschaltungen auf die Laufzeit der Glühlampen. Gegeben seien zwei identische Batterien und Glühlampen. Die ideale elektrische Energie von einer Batterie ist proportional zu ihrer Kapazität multiply dem Spannungsabfall (Q * V). Es wird angenommen, dass die Glühlampen eine konstante elektrischen Belastung erzeugen: R konstant. \n\nA) Wenn die Batterien und Lampen seriell verschaltet sind, steigt die Spannung durch Addieren (Utot = 2U). Aber der Strom (I=U/R beträgt) wird ebenfalls erhöht, was die Zeit halbiert auf t/2. Zusätzlich ein zweite Lampe sorgt für abermalige Halbierung, was insgesamt t/4 ergibt.\n\nB) Zwei Batterien in Serie ergibt zweimal Spannung Utotal=2U aber Fixerstellel resistance parallall sorgt jeweil als Factor den. Halbt bleibt.\n\nEntsprechend den Angaben Beweisele einfach\ndass wird korrekt Liste Lösung ist:",
+  "antwortoption": "A, D"
+}

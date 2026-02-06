@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Lösungsweg:** Im Folgenden analysieren wir die Funktionsweise der verschiedenen Schaltungsarten: \\n\\n**A) Serie von Batterien und Lampen:**\\n\\n- Batterien in Serie addieren ihre Spannungen. Bei zwei Batterien wird somit die Spannung verdoppelt. \\n- Lampen in Serie teilen sich diese Spannung, was bedeutet, dass jede Lampe dieselbe Spannung erfährt wie bei Verwendung nur einer Batterie.\\n- Allerdings verdoppelt sich der Gesamtwiderstand, wodurch der Strom, der durch beide Lampen fließt, halbiert wird.\\n- Die beiden Lampen teilen sich jedoch den gleichen Strom, was bedeutet, dass ihre Helligkeit reduziert wird und sie länger leuchten. Die Gesamtzeit pro Lampe bleibt t.",
+  "antwortoption": "A"
+}

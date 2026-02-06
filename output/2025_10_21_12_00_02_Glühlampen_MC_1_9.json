@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Problemstellung wird analysiert unter der Annahme, dass die Batterien ideale Spannungsquellen und die Glühlampen ideale ohmsche Widerstände darstellen. Relevant für die Bewertung der Aussagen sind die Konzepte elektrische Leistung (P = U²/R) und Gesamtenergie (E = P · t). \n\nA) Batterien in Serie verdoppeln die Spannung. In Serie geschaltete Lampen verdoppeln den Widerstand. Gesamtleistung bleibt die gleiche wie für eine Batterie und eine Lampe (Energieverbraucht halbiert -> Zeit = t).\nB) Batterien in Serie erhöhen Spannung (verdoppelt), Glühlampen parallel halbieren Widerstand. Das ergibt die vierfache Leistung und einen Betrieb für Zeit t/4.\nC) Batterien parallel ergeben gleiche Spannung, Glühlampen in Serie verdoppeln Widerstand. Leistung wird halbiert. Zeit = 2t.\nD) Batterien und Lampen parallel halten Spannung konstant, gesamt Energieverbrauch bleibt wie original. Zeit bleibt t.",
+  "antwortoption": "A, C, D"
+}

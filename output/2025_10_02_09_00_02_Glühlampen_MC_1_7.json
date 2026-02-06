@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, untersuchen wir die verschiedenen beschriebenen Schaltungen und analysieren, wie sich die Energie der Batterien auf die Betriebsdauer der Glühlampen auswirkt. Gemäß der Annahme liefert eine einzelne Batterie Energie für die Glühlampe für eine Zeitspanne t. Die Widerstände der Glühlampen bleiben konstant.\n\n1. Fall A: Batterien und Glühlampen in Serie\n- Spannung über der gesamten Schaltung verdoppelt sich, Strom bleibt gleich, Leistungsverbrauch der Glühlampen halbiert sich, Zeiten bleiben identisch im Gesamtverhältnis.\n\n2. Fall B:\n- Einzelne Batterie parallel, widerstandsgeregeltes Konzept\n\n\n....",
+  "antwortoption": "C"
+}

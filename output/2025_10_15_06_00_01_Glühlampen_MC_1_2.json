@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Unter Annahme idealer Bedingungen wie konstanter Batteriespannung bis zur völligen Entladung und ohne Energieverluste analysieren wir die Szenarien: 1) Batterien und Lampen in Serie: Die Spannung verdoppelt sich, aber der Strom halbiert sich, daher bleibt die Energieabgabe konstant. Im Verhältnis 1:4 reduziert sich die Leuchtzeit der Lampen. 2) Batterien in Serie und Lampen parallel: Die Energie wird gleich aufgeteilt, die Lampe leuchtet aber doppelt lang, also t/2. 3) Batterien parallel, Lampen in Serie: Gesamtladung verdoppelt und durch halben Strom geteilt; die doppelte Energie verdoppelt Betriebsdauer. 4) Batterien und Lampen parallel: Gleichmäßige Ladungsverteilung und keine Stromänderung garantieren unveränderte Leuchtzeit t.",
+  "antwortoption": "A, C, D"
+}

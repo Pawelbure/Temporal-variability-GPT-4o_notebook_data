@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Beginnen wir mit den wichtigsten Annahmen: Jede Batterie hat dieselbe Spannung V und Kapazität Q. Die Glühlampen haben denselben Widerstand R, und wir betrachten ideale Bedingungen ohne Verluste. Wenn die Batterien in Serie geschaltet werden, verdoppelt sich die Spannung ihrer Kombination auf 2V, die Speicherkapazität bleibt gleich. Werden Batterien parallel geschaltet, bleibt die Spannung gleich (V), jedoch verdoppelt sich die Kapazität auf 2Q. Beim Betrieb einer Glühlampe mit konstantem Widerstand R nutzen wir den Zusammenhang für die elektrische Leistung P = V²/R. Für jede Konfiguration berechnen wir nun die Betriebdauer der Glühlampen:",
+  "antwortoption": "D"
+}

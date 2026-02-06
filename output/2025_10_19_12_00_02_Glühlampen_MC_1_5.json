@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die angegebenen Aussagen zu analysieren, gehen wir folgendermaßen vor: Angenommen, die Kapazität jeder Batterie ist Q Coulomb (und jede liefert eine konstante Spannung V), und der Widerstand jeder Glühlampe beträgt R Ohm. \n\n* **Aussage A:** Batterien in Serie und Glühlampen in Serie.\n   - In dieser Konfiguration ist die Gesamtkapazität der Batterien weiterhin Q und die Gesamtspannung 2V, während der Gesamtwiderstand 2R beträgt.\n   - Die entnehmbare Energie ist E = Q · 2V. Der Strom beträgt I = (2V)/(2R) = V/R, und die Leistung wird P = I^2 · 2R = V^2/R. Daraus ergibt sich die Betriebsdauer t' = E / P = (Q · 2V) / (V^2 / R) = Qt / 1.\n\n* **Aussage B:** Batterien in Serie und Glühlampen parallel.\n   - Hier hat die Batterie eine Kapazität von Q und eine Spannung von 2V, und jede Glühlampe erhält die ursprüngliche Spannung V, was die Energie fließen lässt.",
+  "antwortoption": "D"
+}

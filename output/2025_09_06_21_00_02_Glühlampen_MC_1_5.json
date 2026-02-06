@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Schaltungsoptionen unter den gegebenen Bedingungen. Die vereinfachenden Annahmen sind: Batterien liefern konstante Spannung (U) und haben identische Kapazität (Q), Lampe hat konstanten Widerstand (R). Die Konzepte umfassen Schaltungen von Widerständen und Batterien für Strom, Spannung und Energie. A) Batterien und Lampen in Serie verdoppeln Spannung und Widerstand, sodass I=U/(2R): Strom halbiert sich, Energie pro Lampe ist U·t/2, Zeit daher t/4. B) Batterien in Serie, Lampen parallel, Spannung verdoppelt, aber R=sum(R)/2: Strom verdoppelt sich pro Lampe, Kapazitätsverbrauch II: Zeit t/2. C) Batterien parallel, Lampen Seriell: Spannung konstant U, Gesamtkapazität 2Q, somit Lampe Energie verdoppelt pro Zeit; Zeit 2t. D) Parallelierte Batterien und Lampen verhält sich wie einzelner parallel Versorgungssystem, Energieverbrauch konstant Q.Q somit t/2.",
+  "antwortoption": "B, C"
+}

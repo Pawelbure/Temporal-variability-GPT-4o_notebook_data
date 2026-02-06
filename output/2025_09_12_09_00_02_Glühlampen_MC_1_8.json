@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst analysieren wir die Situation und verwenden ideale Annahmen, wonach die Batterien identische Eigenschaften in Bezug auf Spannung und Kapazität aufweisen und innere sowie äußere Widerstände nicht beeinflussen. Ich nehme an: Eine Batterie mit ihrer Kapazität liefert Energie E=U·Q, und die Glühlampe verbraucht elektrische Leistung P ähnlich wie bei einer idealisiert konstanten Stromaufnahme. Bei den verschiedenen Anschlüssen analysieren wir den Effekt auf den Gesamtstrom (I), der Spannung (U) und damit der Laufzeit (t) basieren auf der Energiebilanz. Die Zustände lauten unter Anwendung:\n\nA) Serie: Verdoppelt Spannung, der Strom halbiert, führt zu Zeit: t/4.\n\nB) Glüfhampen Parallel: Entladungszeit reduziert, Batterien verbraucht doppelt.\n\nusw.",
+  "antwortoption": "A, D"
+}

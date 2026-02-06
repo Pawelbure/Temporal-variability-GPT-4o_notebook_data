@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Problemstellung untersucht die Auswirkungen unterschiedlicher Verschaltungsarten von Batterien und Glühlampen auf deren Leuchtzeit. Wir gehen von idealisierten Bedingungen aus, bei denen die Spannung jeder Batterie konstant bleibt, die Batterien gleiche Kapazität besitzen und die Glühlampen einen konstanten Widerstand aufweisen. Die Energie, die eine Batterie bereitstellt, ist proportional zur elektrischen Ladung, die sie liefert (E = U * q). Bei Reihenschaltung von zwei Batterien verdoppelt sich die Gesamtspannung, während bei Parallelschaltung die Kapazität für die Gesamtladung verdoppelt, die Spannung jedoch unverändert bleibt. Analog dazu betrifft die Reihenschaltung von Glühlampen den gesamten Widerstand der Schaltung und die aufgenommene Energie.",
+  "antwortoption": "B"
+}

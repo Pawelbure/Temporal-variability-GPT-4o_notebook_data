@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir die elektrische Energieversorgung von Glühlampen unter verschiedenen Schaltungsbedingungen. Annahmen: Der Widerstand der Lampe bleibt konstant, die Spannungsabgabe der Batterien ist bis zur Entladung konstant, und die Batteriekapazität ist gleich bei allen Batterien. Des Weiteren beachten wir den Einfluss der Serienschaltung auf die Spannung und der Parallelschaltung auf die Kapazität. Lösungen und Zeitverhältnisse: a) In der Serienschaltung von Batterien addiert sich die Spannung, allerdings steigt der Widerstand der Lampen, was zu einer schnelleren Entladung führt. b) Bei Parallelschaltung teilen sich Batterien die Last, was die Entladung verzögert. Anwendung dieser Prinzipien liefert, dass lediglich Aussage D korrekt ist.",
+  "antwortoption": "D"
+}

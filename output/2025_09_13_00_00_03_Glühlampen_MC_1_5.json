@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, berücksichtigen wir zunächst die relevanten Annahmen und physikalischen Prinzipien. Angenommen wird, dass die innen- und außenliegende Widerstande, sowie Ladungs- und Leistungsfluss der Batterien identisch sind. Die Entladung einer Batterie bei Nutzung durch eine Glühlampe geschieht mit konstanter Stromabgabe. Jede Glühlampe besitzt einen gleichbleibenden Widerstand. Der Stromfluss und die daraus resultierende Leistungsaufnahme hängen direkt von der Schaltungskombination von Batterien und Glühlampen ab: Serienschaltungen addieren die Spannungen und reduzieren den Strom, während Parallelschaltungen die Kapazität erhöhen und den Widerstand reduzieren. Nachdem dies berücksichtigt wurde, werde ich jede der angegebenen Optionen testen:",
+  "antwortoption": "D"
+}

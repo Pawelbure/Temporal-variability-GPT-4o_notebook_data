@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, betrachten wir zunächst die Verhältnisse der Schaltungen im Zusammenhang mit elektrischer Energie und Batterien. Batterie liefern bei entladenden Prozessen Energie proportional zur Ladung und Spannung. Gegeben die Lampe besitzt konstanten Widerstand R, bleibt die Energieaufnahme konstant für gegebene Spannung. \n\nVersuchen wir nacheinander die Aussagen zu prüfen:\n\nA) Serienbetrieb von Glühlampen und Batterien. Jede Lampe erhält 2-mal höhere Spannung aber gleiche Strom. Batteriekapazität reduziert durch höheren Stromverbrauch. Gesamtleuchtezeit: Originalzeit durch 4.\n\nB) Parallelschaltung Lampen/Serienbatterien: Energie über 2 Lampen proportional verteilt. Insgesamt stimmt dies für halbere Kapazität pro Batterieaufladung der zweiten Einheit. Leuchtdauer reduziert.\n\nC)\nD etc.\n",
+  "antwortoption": "A, B, D"
+}

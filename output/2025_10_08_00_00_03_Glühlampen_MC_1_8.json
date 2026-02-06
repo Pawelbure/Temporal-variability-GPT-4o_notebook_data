@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu analysieren, machen wir folgende Annahmen: • Jede Batterie kann ursprünglich eine konstanten Stromfluss bei konstanter Spannung liefern, bis sie leer ist. • Der Widerstand der Glühlampe bleibt konstant während des Betriebs. • Innenwiderstand der Batterie und mögliche Verluste sind vernachlässigt. Betrachten wir die vier Szenarien: • A) Batterien und Lampen in Serie: Doppelte Spannung ergibt den doppelten Strom, und die Energie pro Batterie wird schneller verbraucht, Zeit ist t/4. • B) Batterien in Serie, Lampen parallel: Spannung verdoppelt, jede Lampe erhält den Standardstrom, Batterien liefern doppelte Leistung, Halbierung der Laufzeit auf t/2. • C) Batterien parallel, Lampen in Serie: Spannung konstant, Batterien liefern gemeinsam Strom, doppelter Energieinhalt, Zeit 2t. • D) Batterien und Lampen parallel: Spannung bleibt gleich, jede Batterie teilt Strom pro Lampe, bleibt t erhalten.",
+  "antwortoption": "C, D"
+}

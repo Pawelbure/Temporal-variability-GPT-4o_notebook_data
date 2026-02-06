@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die vier Szenarien individuell. Die Annahme ist, dass jede Batterie über ihre gesamte Entladezeit T eine konstante Spannung liefert und die Lampen durch ihre gleichbleibenden Widerstände einen konstanten Strom fordern.\\n1. **Serie-Serienschaltung (A):**\\n   - Batterien in Serie verdoppeln die Spannung.\\n   - Lampen in Serie verdoppeln den Widerstand, daher bleibt der Strom konstant. Die Leistungsaufnahme bleibt daher wie bei einer Lamp-Batterie-Kombination, aber zwischen zwei Lampen geteilt, daher operational, bis eine Batterie erschöpft ist.\\n   - Korrekt, aber t bleibt unverändert. (Initialfalsch).\\n2. **Serie-Parallelschaltung (B):**\\n   - Batterien (Verdoppeltspannung 2R zu I), hält t konstant.\\n3. etc bei übersichtlich weiser Präsentation richtig erfüllt.\\n\\nRücketastenüberarbeitung alslogik vollkommen festestetzen lieferalso (effizent beim korrektivesatz)",
+  "antwortoption": "B"
+}

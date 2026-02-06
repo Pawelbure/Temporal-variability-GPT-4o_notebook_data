@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, identifizieren wir wichtige Annahmen: Jede Batterie liefert eine konstante Spannung V über die Zeit t; die Glühlampen haben einen konstanten Widerstand R; Energie wird in den Glühlampen verlustfrei in Licht und Wärme umgewandelt. Weiterhin berücksichtigen wir die elektrischen Eigenschaften der Serienschaltung (Strom gleicher Größe fließt durch beide Komponenten) und der Parallelschaltung (gleiche Spannung liegt an beiden Komponenten an). Die Batterien in Serie verdoppeln die Spannung, während ihre Kapazitäten in Summe gleichbleiben. Parallele Batterien behalten die Spannung V, verdoppeln jedoch die Gesamtkapazität (Energie). Ausgehend von diesen Grundlagen berechnen wir die Zeit, die die Glühlampen bei den verschiedenen Konfigurationen leuchten können:",
+  "antwortoption": "D"
+}

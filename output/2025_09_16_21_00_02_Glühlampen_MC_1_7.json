@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, betrachten wir die Auswirkungen verschiedener Batterie- und Lampenkonfigurationen auf die jeweiligen Betriebszeiten. Wir arbeiten mit den folgenden Annahmen: Die Batterien liefern konstante Spannung bis zur vollständigen Entladung; die Widerstände der Glühlampen sind konstant. Eine Batterie allein kann eine Glühlampe für die Zeit t betreiben, was bedeutet, dass die Energiemenge von W = P * t verfügbar ist, mit P = V² / R (Leistungsaufnahme).",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und physikalische Konzepte\n1. Die Glühlampen haben einen konstanten Gleichstromwiderstand.\n2. Die Batterien sind identisch und liefern eine konstante Spannung über eine Zeit t, bis ihre Kapazität vollständig erschöpft ist.\n3. Der Stromverbrauch der Lampen ist ausschließlich durch deren Widerstand bestimmt.\n4. In Parallelschaltungen ist die Spannung identisch für alle parallel geschalteten Teile, während in Serienschaltungen der Strom gleich ist.\n\n### Analyse der einzelnen Szenarien\nA) Batterien und Lampen in Serie:\n- Die Spannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich. Der Strom bleibt konstant. Da durch den gleichen Strom beide Batterien parallel genutzt werden, entladen sie sich in der halben Zeit. Hergeleitet: t/2. Für Effekte auf Lampenleistung siehe unten.\n- Falsch.\n\nB) Batterien in Serie, Glühlampen parallel:\n- Denk-Effekt: Wicklungen, anisotrop. Flux durch Höhle.",
+  "antwortoption": "C"
+}

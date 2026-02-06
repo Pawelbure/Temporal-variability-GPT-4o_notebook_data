@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, gehen wir wie folgt vor: 1. Wir machen Annahmen: Die Spannung der Batterien sei V, der Widerstand der Glühlampe sei R, der Konstantenstrom sei I und die Batterien haben gleiche Kapazität mit jeweils gespeicherter Energie E. Glühbirnen in Serie erhalten dieselbe Stromstärke, und parallel teilen sich den Strom. Batterien in Serie addieren Spannungen, und parallel erhöht sich die Kapazität. 2. Analyse: a) Für Schaltungen in Serie verdoppelt die Batteriespannung die Leistung pro Lampe, und die verfügbare Zeit sinkt quadratisch. b) In Parallelität bleibt die Spannung konstant, und die Zeit verlängert sich oder wird aufgeteilt. Anwendung der hier skizzierten Konzepte ergibt, dass die korrekten Aussagen 'B und D' sind.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir die verschiedenen Szenarien. Jede Batterie bietet eine konstante Spannung und besitzt eine bestimmte Ladungsmenge, die sie bereitstellen kann, bevor sie erschöpft ist. Der Widerstand der Glühlampe ist gegeben, sodass wir den Strom durch die Lampe und die Leistungsaufnahme analysieren können. Schaltoptionen in Serie und parallel werden detailliert betrachtet, um festzustellen, wie sich die Kombinationen auf Strom, Spannung und Energieabgabe auswirken. Besondere Aufmerksamkeit liegt auf den Veränderungen der Lebensdauer der Batterie (Kapazität) unter den verschiedenen Verbindungen und der resultierenden Energieabgabe an die Lampen.",
+  "antwortoption": "D"
+}

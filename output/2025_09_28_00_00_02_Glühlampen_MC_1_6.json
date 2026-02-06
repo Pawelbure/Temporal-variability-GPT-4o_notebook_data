@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst eine Listing der Annahmen: 1. Die Batterien haben gleiche Kapazität und Spannung; 2. Der Widerstand der Glühlampen ist konstant; 3. Der Entladungsverlauf der Batterien ist idealisiert (konstante Spannung bis zur vollständigen Erschöpfung). Analyse der Optionen: Im Fall (A), Batterien und Lampen in Serie, verdoppelt sich die Betriebsspannung, während der Serienwiderstand steigt, welche den Gesamtstrom auf ein Viertel reduziert. Dies reduziert die Betriebszeit pro Lampe auf ein Viertel, Ergebnis ist falsch beschrieben. Für (B), Batterien in Serie und Lampen parallel, bleibt der Strom doppelt so hoch, wobei die Zeit gleich bleibt, daher ebenfalls falsch. (C), Batterien parallel und Lampen in Serie, doppelter Widerstand und gleiche Kapazität pro Lampe, Betriebszeit verdoppelt sich, richtig. Für (D), Batterien und Lampen parallel, bleibt die Betriebszeit der Lampe gleich t, daher korrekt.",
+  "antwortoption": "C, D"
+}

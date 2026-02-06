@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, treffen wir einige vereinfachende Annahmen: Jede Batterie hat dieselbe Kapazität Q bei einer festen Spannung U, und der Widerstand R der Glühlampen bleibt konstant.\n\n1. **Batterien in Serie, Lampen in Serie:** Die Gesamtspannung verdoppelt sich, der Gesamtstrom halbiert sich aufgrund des doppelten Widerstands zweier in Serie geschalteter Lampen. Energie wird langsamer verbraucht, Zeit t bleibt erhalten, da geringerer Stromflus. Die Kapazität wird jedoch gleichmäßig umgerechnet, t bleibt. Aussage A ist korrekt.\n\n2. **Batterien in Serie, Lampen parallel:** Die Gesamtspannung ändert sich nicht, doppelter Energieverbrauch, halbe Zeit verbleibend (gerechnet auf reelle Basis). Systematische summarische Konsequenzen hinführen. Aussage B korrekt.",
+  "antwortoption": "A, B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, müssen wir betrachten: Die Batteriespannung V, die Kapazität der Batterie Q, den konstanten Widerstand R der Lampe und die Beziehung für die Entladung P = V²/R.\n\n(A) Batterien und Lampen in Serie: Spannung = 2V, Widerstand = 2R. Leistung P = (2V)^2/(2R) = V²/R. Zeit t' = Q/(I_eff) bleibt Q/V unberührt, da Leistung konstant ist, jedoch jetzt auf zwei Lampen verteilt wird. Das ergibt t/4.\n\n(B) Batterien in Serie, Lampen parallel: Spannung = 2V, effektiver Widerstand R_eff = R/2. Leistung = (2V)^2/(R/2) = 2(V²/R), wodurch jede Lampe dieselbe Strombeaufschlagung hat (t'",
+  "antwortoption": "A"
+}

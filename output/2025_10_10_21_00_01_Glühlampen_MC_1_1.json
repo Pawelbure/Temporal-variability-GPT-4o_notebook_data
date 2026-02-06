@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jede der gegebenen Kombinationen von Batterien und Lampen. Wir nehmen an, dass die Batterien ideal sind, d.h., sie haben keinen internen Widerstand, und die Lampen werden als ohmsche Widerstände modelliert. Jede Batterie liefert eine konstante Energie und Spannung bis sie leer ist. Eine einzelne Batterie kann also eine Lampe für die Zeit t mit Energie versorgen.",
+  "antwortoption": "A, B, D"
+}

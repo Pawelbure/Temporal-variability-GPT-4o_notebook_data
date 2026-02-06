@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Stromversorgung der Glühlampen zu analysieren, treffen wir die folgenden vereinfachenden Annahmen: 1. Batterien besitzen eine feste Kapazität, die beschreibt, wie viel Energie sie liefern können, bevor sie vollständig entladen sind. 2. Der Widerstand der Lampe ist konstant. 3. Der Ladezustand der Batterien ändert sich linear mit der Zeit im Betrieb. 4. In der Parallel-Konfiguration teilen zwei Batterien ihren Strom und erhöhen dadurch die Laufzeit, während in Serie die Spannung addiert wird, wodurch der Strom verdoppelt und dadurch die Energie schneller verbraucht wird. Basierend auf den obigen Regeln bewerten wir jede der Aussagen:",
+  "antwortoption": "B, D"
+}

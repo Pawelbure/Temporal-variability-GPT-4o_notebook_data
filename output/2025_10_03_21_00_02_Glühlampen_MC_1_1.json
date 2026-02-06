@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. ***Annahmen und physikalische Grundlagen:*** Die Energie, die eine Batterie liefert, ist konstant und unabhängig von der Konfiguration. Die Lampen und Batterien sind idealisiert, d.h., der Widerstand bleibt unverändert und die Batterien liefern eine konstante Spannung, bis sie vollständig entladen sind. Der Strom und somit die Entladezeit der Batterie hängen von der Gesamtstromstärke in der Schaltung ab. 2. ***Analyse jeder Konfiguration:*** Option A: Zwei Batterien und Lampen in Serie: Die gesamt elektrische Energie pro Lampe ist geringer, die entstehende Stromstärke halbiert, jedoch die Emitierung verdoppelt wird. Die Leuchtdauer beträgt dann weniger von t. Option B: Hier wird die Spannung an einer parallelen Lampe konstant, jedoch ganze Energie aufgetielt. Option C: Lampen gemeinsame Energie weniger verdoppelt durchgeteilt. ",
+  "antwortoption": "D"
+}

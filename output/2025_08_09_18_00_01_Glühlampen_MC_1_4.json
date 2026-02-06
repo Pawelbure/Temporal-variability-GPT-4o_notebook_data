@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Frage zu lösen, sollen zunächst die relevanten Konzepte analysiert werden: Spannung, Stromstärke, Energiebedarfe der Glühlampen sowie die Kapazitäten der Batterien. Es wird angenommen, dass jede Batterie eine konstante Energie E speichern kann. Ebenso sei bekannt, dass eine Glühlampe einen konstanten Widerstand R hat und sie mit einer konstanten Spannung U betrieben wird.Dies führt zu einem Energieverbrauch P = U²/R und einer entsprechenden Entladedauer der Batterie. Zur Beantwortung der Frage werden die vier Fälle einzeln analysiert, wobei die Aufaddierung von Batteriekapazitäten (bei Parallelschaltung) sowie die Änderung der Gesamtspannung (bei Serienschaltung) berücksichtigt wird.",
+  "antwortoption": "B, D"
+}

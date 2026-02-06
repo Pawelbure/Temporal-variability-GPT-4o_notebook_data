@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die relevanten Konzepte der Elektrotechnik bezüglich Spannung, Stromfluss und Energieverbrauch. Angenommen, eine Batterie liefert eine konstante Spannung V und eine konstante Gesamtenergie E. Die Glühlampe hat einen Widerstand R, was bedeutet, dass ihre Stromstärke I = V/R ist und ihre Leistungsaufnahme P = V^2/R. Die Zeit t der Glühlampe, die mit einer einzigen Batterie betrieben wird, ergibt sich aus t = E/P. Wenn mehrere Batterien und Lampen in verschiedenen Konfigurationen kombiniert werden, ändert sich der Stromkreis, was Auswirkung auf die Spannung, den Stromfluss und die Aufteilung der Energie hat. Im Einzelnen analysieren wir die vier gegebenen Schaltungsszenarien und bestimmen die jeweilige Betriebszeit:",
+  "antwortoption": "B"
+}

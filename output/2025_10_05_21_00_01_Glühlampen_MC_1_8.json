@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Kombinationen aus den Angaben hinsichtlich der Batterien und Lampen basierend auf Strömen, Spannungen und Energien.\n\n1. **Wichtige Annahmen und Parameter**:\n- Jede Batterie hat eine konstante Spannung V und kann eine konstante Energie E liefern.\n- Jede Glühlampe hat einen konstanten Widerstand R.\n\n2. **Untersuchung der vier Aussagen**:\n- **A**: Für Batterien in Serie steigt die Gesamtspannung auf 2V (doppelte Spannung), und Lampen in Serie verdoppeln den Gesamtwiderstand auf 2R. Der resultierende Strom I = V/(2R) ist halb so groß wie bei einer Einzelbatterie mit einer Lampe. Die Energie der Batterien wird jedoch mit einer Rate von P = I² · 2R = V²/(2R) abgegeben, was Energieersparnisse bewirkt und die Laufzeit für jeden Stromkreis gleich t ergibt.\n\n3. **Ermittelte physikalische Gegebenheiten**:\n",
+  "\tantwortoption": "A"
+}

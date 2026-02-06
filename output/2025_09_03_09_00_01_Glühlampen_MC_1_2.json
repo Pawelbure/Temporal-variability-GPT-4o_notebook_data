@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die gegebene Situation unter Berücksichtigung der Grundgesetze der Elektrizität und den Randbedingungen: Betrachten wir eine Glühlampe mit Widerstand R und eine Batterie, die eine elektrische Energie mit einer konstanten Kapazität pro Zeit abgeben kann. Das Produkt aus Spannung U der Batterie und Stromstärke I entspricht der Leistung P, die die Batterie antreibt. Nun zu den Konfigurationen: Bei Serienschaltung addieren sich die Spannungen, der Strom bleibt konstant; bei Parallelschaltung addieren sich die Stromkapazitäten, die Spannung bleibt konstant.",
+  "antwortoption": "D"
+}

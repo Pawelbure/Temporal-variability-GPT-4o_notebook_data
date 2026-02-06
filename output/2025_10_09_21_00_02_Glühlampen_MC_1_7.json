@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir betrachten das Problem:\nDie Batterien haben eine Spannung U und geraten in den Szenarien in Serie oder parallel geschaltet. Ebenso verhält es sich mit den Glühlampen, mit einem Widerstand R. Basierend auf der Kapazität der Batterien und der Anordnung, analysieren wir, wie die Gesamtzeit beeinflusst wird. Dies ergibt:\n\n- A) Hier führt der kombinierte Widerstand in Serie dazu, dass der Gesamtstrom geringer wird. Die entnehmende Energie entspricht der Summe der Batterien, was die Zelllebenszeit auf ein Viertel reduziert.\n\n- B) Der höhere Stromabbrauch in paralleler Lampe und Serie-Batterie verbraucht die Energie in kürzerer Zeit, bestimmt durch die halbe Batteriedopplung.\n\n- C & D miss¸den Glühlampen parallelzuspeisend.",
+  "antwortoption": "B, D"
+}

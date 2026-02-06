@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Beginnen wir mit den Annahmen:\n- Die Batterien werden als ideale Spannungsquellen modeliert, jede mit derselben elektrischen Kapazität und Spannung.\n- Der Widerstand der Glühlampen ist konstant, unabhängig von der anliegenden Spannung und der Temperaturänderung.\n- Es wird keine Energie innerhalb der Batterien oder durch Kabelverluste verschwendet.\n\n1. Fall A: Batterien und Glühlampen in Serie.\n   - Die Spannung der Batteriepaare addiert sich, daher verdoppelt sich die Spannung der Schaltung.\n   - Zwei Glühlampen in Serie haben einen Gesamtwiderstand von 2R und verbrauchen denselben Strom I.\n   - Die Betriebszeit j kialnn an approximativ h' vergleichen.\n\nErgebnisse: Die Analyse führt zu passenden Interpretationen.",
+  "antwortoption": "D"
+}

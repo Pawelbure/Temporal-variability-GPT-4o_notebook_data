@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die korrekte Lösung finden wir, indem wir die ideale Gleichstromschaltung analysieren. Wir nehmen an: 1) Jede Batterie hat die gleiche Kapazität Q und Spannung V im ungenutzten Zustand. 2) Die Glühlampen haben denselben konstanten elektrischen Widerstand R unabhängig von der Spannung. 3) Energieverluste und Innenwiderstände werden vernachlässigt. Fälle: A) Serie Batterie-Glühlampe - Der Stromkreis hat verdoppelten Widerstand, weniger Strom fließt, geht zur Analyse klar. B) Batterie-Serie, Lampe-Parallel: Batterien leisten doppelte Spannung, Halbierungsstrom pro Lampe, korrekter Ansatz. Etc.",
+  "antwortoption": "A, B"
+}

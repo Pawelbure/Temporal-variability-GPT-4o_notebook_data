@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir die vier Szenarien:- A) Wenn die Batterien in Serie und die Lampen in Serie geschaltet sind: Das Potential beider Batterien addiert sich, und die Lampen teilen sich den Strom. Der Energieverbrauch jeder Lampe sinkt daher. Berechnend ergibt sich eine quadratisch kürzere Betriebsdauer, daher t/4. - B) Batterie in Serie und Lampen parallel: Jede Lampe wird mit voller Spannung betrieben und verbraucht Energie in Verkürzung der Zeit, hierbei t/2. - C) Parallelbatterien und Lampen in Serie: Die kombinierte Kapazität verlängert die Betriebsdauer, die Lampen teilen jedoch den Strom, ergeben verdoppelte Laufzeit, somit 2t. - D) Parallel-Batterien und Lampen gleichermaßen: Energieverbrauch bleibt konsistent zu Einzelbedingungen, sodass die Lampe die Leitkapazität t erfährt.",
+  "antwortoption": "A, B, C, D"
+}

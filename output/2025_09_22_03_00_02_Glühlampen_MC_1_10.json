@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Modellierung:** Wir gehen davon aus, dass:\n1. Jede Batterie eine Spannung $U$ und eine Energie $E$ liefert.\n2. Eine vollständige Entnahme dieser Energie erfolgt unabhängig von der Stromstärke (ideale Batterie).\n3. Der Widerstand $R$ der Glühlampen bleibt während ihrer Betriebszeit konstant.\n\n**Lösung der Teilaufgaben:**\n- Bei **Reihen- und Parallelkombinationen** ändern sich die Leistungsaufnahme und damit die Dauer, welche Glühlampen betrieben werden können.\n\nBetrachten wir die einzelnen Fälle:\n\n**A)** Binär abzuklären.\n\nDazu wird...",
+  "antwortoption": "B, D"
+}

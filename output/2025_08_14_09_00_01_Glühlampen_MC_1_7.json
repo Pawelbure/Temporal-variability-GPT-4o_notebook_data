@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Dieses Problem analysiert die Auswirkung von Schaltkreisanordnungen auf die Betriebszeit von Glühlampen, die von Batterien gespeist werden. Idealisierungen umfassen: (1) die Glühlampenwiderstände bleiben unabhängig von Spannung und Strom konstant, und (2) die Batterien liefern eine konstante Ladung bis zur vollständigen Entladung. Die Spannung jeder Batterie ist E, und die Kapazität jeder Batterie beträgt Q. Die Leistung, die durch die Glühlampen verbraucht wird, beeinflusst die Zeitdauer ihres Betriebs. In Serie addiert sich die Spannung der Batterien, während in parallelen Schaltungen die Kapazität addiert wird. Durch Berechnungen erhalten wir die folgenden Resultate: A) Die Glühlampen leuchten etwa t/2, nicht t/4. B) Sie leuchten etwa t, nicht t/2. C) Sie leuchten etwa t, nicht 2t. D) Die gesamte Betriebszeit entspricht etwa t. Somit ist nur D korrekt.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir beginnen mit der Analyse der alternativen Schaltungen. Die Batterien und Lampen haben konstante Spannung bzw. Widerstand, und die Energie der Batterien wird gemäß dem Produkt ihrer Kapazität und Spannung berechnet. Im Parallelbetrieb bleibt die Spannung der Batterien gleich, ihre Kapazitäten addieren sich; im Serienbetrieb verdoppelt sich die Spannung. Lampen, die parallel geschaltet sind, erhalten jeweils individuelles Stromkreispersönlich; daher bleiben Spannungsbeziehungen erhalten. Bei Serienschaltungen verteilt sich zudem die Spannung zwischen den Verbrauchern. Rechnen wir für jede Option die jeweilige Zeit aus, in der die Lampen mit Strom versorgt werden können, da sich der Strombedarf und Energieverbrauch unterschiedlich auswirken.",
+  "antwortoption": "D"
+}

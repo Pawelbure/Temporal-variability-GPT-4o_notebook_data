@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, betrachten wir, wie die Verbindungen der Batterien und Glühlampen die Stromversorgung beeinflussen: Jede Batterie hat eine bestimmte Kapazität in Ampèrestunden (Ah) und eine Nennspannung V. Der konstante Widerstand der Lampe R ergibt eine Leistung P (P=V^2/R), was die Entladezeit der Batterie bestimmt. Wir überprüfen die vier Szenarien mit detaillierten Rechnungen.",
+  "antwortoption": "A, B, D"
+}

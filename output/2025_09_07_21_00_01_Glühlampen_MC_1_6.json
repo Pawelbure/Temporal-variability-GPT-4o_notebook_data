@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabenstellung genau zu lösen, betrachten wir zunächst die elektrischen Gegebenheiten bei unterschiedlichen Schaltungen. Der relevante Parameter ist die Energie, die jede Batterie liefert, und wie diese in Glühlampen umgesetzt wird. Jede Batterie hat eine Energie von U · t (Produkt aus Spannung und Entladungszeit). Der Stromfluss hängt von der Schaltungsart und dem Widerstand der Glühlampe ab. Nun analysieren wir jede der Schaltungsarten: A) Batterien und Glühlampen in Serie: Der Strom wird gleichmäßig und kleiner, sodass Energie abgegeben wird. Zeit etwa t/4. B) Batterien in Serie, Glühlampen parallel: Die Parallelschaltung erhöht den Strom, aber die Spannung ist höher. Energieaufteilung ergibt t/2. C) Batterien parallel, Glühlampen in Serie: Durch den kleineren Strom steigt die Leistungszeit, auf etwa 2t. D) Batterien und Glühlampen parallel: Beide bleiben unabhängig und entladen um t.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Jede Batterie besitzt eine konstante Spannung U und Kapazität Q, die Glühlampe hat einen festen Widerstand R und leuchtet konstant bei U. 2. Analyse der Schaltungsoptionen und Berechnung der Zeitspanne: Für Serie: Gesamtwiderstand verdoppelt, Kettenspannung summiert; für Parallel: Widerstand halbiert, Kapazität addiert in Batterien. 3. Szenarien: A) Die Zeit ist Q/(2U×3); B) Zeit ist Q/2; C) Zeit ist 2Q/(U/2); D) Zeit ist Q/U. 4. Berechnet wird die Betriebslaufzeit je nach Konfiguration.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Situationen basierend auf den gegebenen Schaltungen: Die wesentlichen Annahmen sind: Einzelbatterien liefern eine konstante Spannung V und Gesamtladung Q. Die Energie der Glühlampen bleibt konstant bei konstanter Spannung. Die vier Schaltungen sind:\n1. A) Batterien und Lampen in Serie: Gesamtspannung verdoppelt, Strom identisch zu einzelner Schaltung. Gesamtzeit ändert sich nicht bei konstantem Energieverbrauch: T ≈ t.\n2. B) Batterien in Serie, Lampen parallel: Strom zu Lampen verdoppelt, Energieverbrauch verdoppelt, Zeit daher halbiert: T ≈ t/2.\n3. C) Batterien parallel, Lampen in Serie: Gesamtenergie konstant, Zeit identisch wie bei Einzelbatterie: T ≈ t.\n4. D) Batterien und Lampen parallel: Lampen verbrauchen Gesamtenergie konservativ: Zeit bleibt gleich: T ≈ t. Wir widerlegen ungünstige Behauptungen nach numerischen Betrachtungen zur Energieverteilung.",
+  "antwortoption": "D"
+}

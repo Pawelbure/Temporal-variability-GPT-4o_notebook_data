@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aussagen zu bewerten, analysieren wir die jeweiligen Schaltungen basierend auf den physikalischen Gesetzen: Wenn die Batterien Serienschaltung aufweisen, erhöht sich die Gesamtnennspannung, während die Kapazität gleich bleibt. Bei der Parallelschaltung erhöht sich die Gesamtkapazität, während die Spannung konstant bleibt. Für die Glühlampen, die als ohmsche Verbraucher betrachtet werden, untersuchen wir somit die Auswirkung der jeweiligen Schaltkombination auf Energieverbrauch und Betriebsdauer. Wir berechnen die relative Betriebsdauer hinsichtlich der ursprünglichen Zeit t pro Batterie-Gleichstrom-Schaltung einer Glühlampe.",
+  "antwortoption": "D"
+}

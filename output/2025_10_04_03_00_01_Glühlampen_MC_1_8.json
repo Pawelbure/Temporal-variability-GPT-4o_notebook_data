@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, analysieren wir die vier Anordnungen und berücksichtigen dabei die Annahmen: Die Batterien haben die gleiche Spannung und die gleiche gespeicherte elektrische Energie. Die Glühlampen haben den gleichen Widerstand R. Die Energie jeder Batterie beträgt Q=U^2*t/R, bezogen auf die ursprüngliche Zeit t, Spannung U und Widerstand R.",
+  "antwortoption": "C"
+}

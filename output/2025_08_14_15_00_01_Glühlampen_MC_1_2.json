@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zum Lösen der Aufgabe werden folgende Annahmen getroffen: Die Batterien sind ideal mit konstanter Spannung, und der Widerstand der Glühlampen bleibt konstant unabhängig von der Stromstärke. Außerdem wird angenommen, dass der Energiegehalt der Batterien gleich ist. Bei der Betrachtung der verschiedenen Schaltungsarten berücksichtigen wir die Beziehung zwischen Strom, Spannung und Widerstand sowie die Änderung der Energieabgabe der Batterien. Nach detaillierter Berechnung für jeden der vier Fälle ergibt sich, dass nur die Option D korrekt ist. Sie beschreibt den Fall, dass Batterien parallel geschaltet werden, was die Spannung konstant hält, und die Glühlampen parallel betrieben werden, sodass die Gesamtstromstärke verdoppelt wird, wodurch die Betriebszeit bezüglich jeder Batterie bei einmaliger Entleerung gleich t bleibt.",
+  "antwortoption": "D"
+}

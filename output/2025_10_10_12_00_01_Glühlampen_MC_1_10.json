@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um den Betrieb der Glühlampen mit den Batterien zu analysieren, betrachten wir den Energieverbrauch und die Verteilung des Potentials und des Stroms in den verschiedenen Schaltungsarten. Annahmen: Die Batterien besitzen ideale Eigenschaften (konstante Spannung und Kapazität), und der Widerstand der Glühlampen bleibt konstant unabhängig von der angelegten Spannung. Die Serien- und Parallelschaltung beeinflussen die gesamte Spannung in der Schaltung (Summe bei Serie, konstant bei Parallel) und den Stromverbrauch (gleichmäßig bei Serie, je nach Gesamtwiderstand bei Parallel).",
+  "antwortoption": "B"
+}

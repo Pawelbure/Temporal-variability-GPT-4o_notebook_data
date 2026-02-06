@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Die Batteriespannung beträgt V, die Ladung pro Batterie beträgt Q und der konstante Widerstand einer Lampe ist R. Die Entladung erfolgt linear und die Energieabgabe pro Batterie ist proportional zur abgegebenen Ladung Q. Generelle Formeln wie Leistung (P = V²/R) und Energie (E = QV) werden verwendet.\n\n2. Analyse der einzelnen Schaltungsarten:\n   - Serie (Batterien + Glühlampen): U_res = mV (m=Anzahl Batterien); I = U_res/R_total. Bestimme I, t, und vergleiche sie mit Einzelkonfiguration.\n   - Parallel (Batterien oder Glühlampen): Aufgabeforderungen an I und t berücksichtigen, wobei U konstant und Q proportional addiert wird.\n\nNach korrekter Berechnung ergibt sich:\n- A: falsch (t × m² nicht halbiert).\n- B: richtig (halbiert).\n- C + D: Mess-/Ergebnisauswirkung falls akzeptiert, vergleichbar. Schiffs-/Anwendungsformeln der Datensetzung.",
+  "antwortoption": "B"
+}

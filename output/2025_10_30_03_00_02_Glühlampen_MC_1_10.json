@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Die Innenwiderstände der Batterien sind vernachlässigbar, und die elektrische Energie wird vollständig in den Glühlampen umgesetzt. Jede Batterie hat die gleiche Kapazität und Spannung. Der Widerstand jeder Glühlampe bleibt konstant, unabhängig von der Spannung. 2. Analyse der Szenarien: (A) In Serie steigert sich die Spannung zwischen zwei Batterien, aber auch durch den erhöhten Widerstand durch zwei Glühlampen in Serie ist die Energieabgabe für eine Lampe geringer, die Laufzeit bleibt nicht t/4; (B) Bei Glühlampen parallel und Batterien in Serie fließen höhere Ströme und die Batterien entladen sich schneller, aber die Laufzeit bleibt t/2; (C) Batterien parallel ergibt längere Arbeitszeit -2t für Glühlampen; (D) Glühlampen parallel ist wie ein Glühlampen Strom: Energiverbrauch reduziert, gesamte Zeit bleibt nur t Dauer.",
+  "antwortoption": "A, B, C, D"
+}

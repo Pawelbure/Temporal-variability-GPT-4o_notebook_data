@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe korrekt zu lösen, seien folgende Annahmen getroffen: Jede Batterie hat die gleiche Spannung V, die durch die Batteriekapazität bestimmte Ladungsmenge Q_tot und liefert einen konstanten Strom, bis sie entladen ist. Die Glühlampen haben jeweils den gleichen Widerstand R und leuchten mit der gleichen Intensität. Die Zeit t, für die eine einzelne Batterie eine Glühlampe betrieben kann, ergibt sich aus t = Q_tot / (V/R). Die angeschlossene Konfiguration hat direkten Einfluss auf die Betriebsdauer und -intensität der Glühlampen. Geht man von der idealisierten Annahme einer konstanten Leistung und ohne Berücksichtigung des Innenwiderstands der Batterie aus:",
+  "antwortoption": "B, D"
+}

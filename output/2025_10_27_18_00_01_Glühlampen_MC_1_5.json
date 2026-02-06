@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die vier Szenarien der Verschaltung von Batterien und Lampen. Grundlegende Annahmen sind: Die Batterien liefern eine konstante Spannung bis zur vollständigen Entladung, und jede Lampe hat den gleichen konstanten Widerstand R. Die Energiekapazität jeder Batterie ist proportional zur Zeit t, die eine Lampe allein betrieben werden kann. Szenario A: Batterien und Lampen in Serie: Der Strom ist halbiert, sodass jede Lampe für eine längere Zeit leuchtet, und aufgrund der Energiekapazität der Batterien kommen wir zur Betriebszeit 2t. Szenario B: Lampen parallel: Jede Lampe erhält die maximale Spannung, daher verbleibt die ursprüngliche Zeit t. Szenario C: Parallel: Der gleiche Effekt wie A. Szenario D: Die Zeit bleibt gleich, da die Batterien parallel eingesetzt werden. Komplette Überprüfung zeigt finale Ergebnisse wie folgt auf.",
+  "antwortoption": "D"
+}

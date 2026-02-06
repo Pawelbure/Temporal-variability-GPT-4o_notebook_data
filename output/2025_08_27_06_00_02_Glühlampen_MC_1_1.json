@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungsvarianten hinsichtlich der Zeit, die die Lampen mit den Batterien betrieben werden können. Wir nehmen an, dass jede Batterie derselben Spannung (U) und Kapazität (Q) entspricht und der Widerstand jeder Glühlampe konstant ist sowie deren Leistungsaufnahme nicht von der Spannung abhängt:\n\n1. Schaltvariante A: Batterien in Serie, Lampen in Serie:\nDie Gesamtspannung verdoppelt sich (2U), aber der gesamt elektrische Widerstand erhöht sich, da zwei Lampen in Serie geschaltet sind. Dies führt dazu, dass der Strom gleich bleibt wie in einer einzelnen Schaltung, was bedeutet, dass die Lampen jeweils die herkömmliche Energie t benötigen. Da der Strom aufgrund der doppelten Spannung schneller die Kapazität der Batterien entnimmt, wird halbiert, somit etwa t/2. Nicht etwa, t/4 wie angegeben.\n\nDie richtige Anwtort ist daher 'B.'",
+  "antwortoption": "B"
+}

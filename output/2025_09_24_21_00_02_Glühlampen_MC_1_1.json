@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Kombinationen aus Batterie- und Lampenschaltungen kürzester Formulierung: Batterien in Serie und Lampen in Serie: Hier verdoppelt sich die Batteriespannung, während der Widerstand verdoppelt wird, und der Strom bleibt gleich. Entsprechend bleibt die Leistung jeder Lampe in etwa gleich und die Zeit halbiert sich auf t/2. Batterien in Serie, Lampen parallel: Hier endet der Batteriestromsystem einphasig durch die Gesamtwirkung.... Batterien parallel, Lampen in Serie: Verbleibender Stromaustausch ist symmetrisch.... Vergleiche Konstellationen für empirische Übereinstimmung.\n",
+  "antwortoption": "A"
+}

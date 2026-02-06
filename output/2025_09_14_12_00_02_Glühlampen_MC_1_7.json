@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Idealisierungen:** Wir nehmen an, dass jede Batterie eine konstante Spannung liefert, bis ihre gespeicherte Energie vollständig entladen ist. Ebenso wird der Widerstand der Glühlampe als konstant angenommen. Die Batterien und Lampen können entweder in Serie oder in Parallelkonfiguration geschaltet werden. **Relevante physikalische Prinzipien:** In einer Serienschaltung addieren sich die Spannungen der Batterien, während der Strom konstant bleibt. In einer Parallelschaltung bleibt die Spannung konstant, während sich die Kapazitäten (oder gespeicherte Energie) der Batterien addieren. Die Energieabgabe von Batterien hängt von der Stromstärke und Nutzungszeit ab. **Lösungsweg:** Option A ist korrekt: Im Serienschaltungs-Modell zweier Batterien und zweier Lampen vervierfacht sich der Widerstand der Schaltung, reduziert den Stromfluss um ein Viertel und die Beschaffungszeit auf t/4.",
+  "antwortoption": "A"
+}

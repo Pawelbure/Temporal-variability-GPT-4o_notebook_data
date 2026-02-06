@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung zu analysieren, beginnen wir mit den grundlegenden physikalischen Konzepten: Jede Batterie hat eine Energiekapazität E, die sich aus der Nennspannung V und der maximalen Kapazität (in Coulomb) bestimmen lässt. Wenn die Glühlampen einen Widerstand R haben, fließt ein Strom I = V/R hindurch, was Energie verbraucht. Die Leistung der Lampe ist P = V * I = V² / R. Nun analysieren wir die einzelnen Konfigurationen:",
+  "antwortoption": "B, D"
+}

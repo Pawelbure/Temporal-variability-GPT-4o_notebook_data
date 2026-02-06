@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu lösen, nehmen wir an, dass die Batterien ideale Spannungsquellen mit Kapazität Q sind, die Glühlampen ideale ohmsche Widerstände mit R sind und die Energie, die eine Batterie liefert, über die Zeit konstant bleibt solange sie Energie liefert. So können wir die Vorgänge in den verschiedenen Schaltungen berechnen:1. Wenn die Batterien in Serie geschaltet werden, verdoppelt sich die Spannung. 2. Wenn die Glühlampen in Serie geschaltet werden, verdoppelt sich der Gesamtwiderstand und der Strom reduziert sich um die Hälfte von dem einer einzelnen Glühlampe, was die Energieversorgung der Lampen ineffektiv nutzt und ihre Brenndauer verletzt. 3. Batterien parallel genutzt teilen die Kapazität Q auf, halten den gleichen Betrieb aber konstant wieder bis t an.  So analysieren wir, dass",
+  "antwortoption": "D"
+}

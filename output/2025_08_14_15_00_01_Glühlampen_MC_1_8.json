@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung analysieren zu können, nehmen wir an: Jede Batterie liefert eine konstante Spannung V und hat eine bestimmte Kapazität (Ladung), die entnommen werden kann, was äquivalent zu einer gespeicherten Energie U=QV ist. Die Glühlampe hat einen konstanten Widerstand R.1. Batteriespannungen addieren sich, wenn in Serie geschaltet. 2. Batterien in Parallelbetrieb erhöhen die Kapazität. 3. Bei Serienwiderständen (oder Glühlampen) summieren sich die Widerstände. 4. Parallele Widerstände teilen den Strom.   Für jede der Schaltungen A-D analysieren wir dann anhand der gegebenen Daten:",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jeden der angegebenen Schaltfälle unter den gegebenen Annahmen: ideale Batterien mit gleicher Kapazität und Spannung, identischen konstanten Widerstand der Glühlampen, und Vernachlässigung weiterer Verluste. 1. Batterien in Serie, Glühlampen in Serie (A): Gesamtspannung verdoppelt sich, Widerstand der Glühlampen addiert, Strom sinkt, Energie sinkt quadratisch mit Zeit, ergibt t/4. 2. Batterien in Serie, Glühlampen parallel (B): Die doppelte Spannung verdoppelt den Strom pro Lampe, Energie pro Lampe reicht halb so lang, ergibt t/2. 3. Batterien parallel, Glühlampen in Serie (C): Spannung bleibt, Strom gering, Energieverbrauch reduziert, Betriebsdauer verdoppelt sich auf 2t. 4. Batterien parallel, Glühlampen parallel (D): Spannung gleich, Energie bleibt unverändert, Betriebszeit bleibt bei t.",
+  "antwortoption": "C, D"
+}

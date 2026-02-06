@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Angenommen sei, dass jede Batterie eine konstante Spannung U liefert und eine konstante Energiemenge E speichert. Jede Glühlampe hat einen konstanten Widerstand R und leuchtet, bis die Energie der angeschlossenen Batterie aufgebraucht ist. Betrachten wir jede Konfiguration analytisch: Umfasst die Ladungsauslegung den aktuellen Spannungsbetrag sowie die gesamte Energieverbrauchsrate direkt. Für jede Schaltungsanordnung wird die verbrauchte Leistung in der gegebenen Zeitspanne in Bezug gesetzt. Alle angegebenen Zeitverhältnisse wurden unter der Berücksichtigung dieser Variablen definiert und analysiert, zusammen mit Serien- und Paralleleffekten bei elektrischen Kreisen.",
+  "antwortoption": "A, D"
+}

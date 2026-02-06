@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Die Batterie liefert eine konstante Spannung, bis sie entladen ist. Die Glühlampe hat eine feste Leistungsaufnahme gemäß P = U²/R, wobei U die Spannung und R der Widerstand ist. Die Energie einer Batterie ist proportional zum Produkt von Spannung und Kapazität (E = UQ).   2. Relevant ist der Energieverbrauch der Glühlampen und wie die Schaltung dies beeinflusst.   3. Bei den Schaltungen:   - (A) Zwei Batterien in Serie verdoppeln die Spannung, Glühlampen in Serie verdoppeln den Widerstand, somit bleibt der Strom identisch und die Energieaufnahme ändert sich nicht. Die Zeit bleibt gleich (t), da die Leistung jeder Lampe halbiert ist und somit die Entnahme langsamer ist. Aber insgesamt ist die Aussage für die Option A falsch, da die Lampe in dem Szenario länger als t/4 ausgehen werden.  - (B) Dies ist korrekt, da bei erhöhter Spannung die Leistung anders auf die Lampe ab dauert. Correct",
+  "antwortoption": "A"
+}

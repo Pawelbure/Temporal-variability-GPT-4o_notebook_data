@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die angegebenen Szenarien zu analysieren, betrachten wir die Vereinfachung, dass jede Batterie eine konstante Menge an Energie liefert und die Widerstände der Glühlampen ebenfalls konstant sind. Die elektrische Energie der Batterie wird zur Erwärmung der Glühlampe genutzt, die Leistung ist konstant, solange dieselbe Spannung anliegt. - Szenario A: Zwei Batterien in Serie verdoppeln die Spannung. Die Glühlampen in Serie erhalten ebenfalls die doppelte Spannung und denselben Strom, sind aber gegenüber einer Lampe doppelt so resistent. insgesamt bleibt die Leistung pro Lampe konstant, die Zeit bleibt also gleich: t/2 für beide Lampen. - Szenario B und D: Batterien parallel halbieren die Spannung auf jeder Lampe, also halbiert sich die Leistung. Die Glühlampen parallel liefern den gleichen Strompro Lampe, könnten jedoch mit voller Periodenzeit Leistung zeigen. t. ",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "In diesem Szenario sind folgende Annahmen und physikalischen Konzepte relevant: Die Batterien besitzen eine endliche Ladungskapazität, die sich in der theoretisch entnehmbaren Gesamtelektrizitätsmenge widerspiegelt. Die Belastung der Batterien durch Widerstände ist konstant, unabhängig vom Stromverbrauch oder der Spannung. Nun wird jede Schaltungsvariante einzeln betrachtet und die Leuchtdauer berechnet. Wenn Batterien in Serie sind, verdoppelt sich die Spannung, wodurch bei gleichen Widerständen der Gesamtstrom größer wird. Dementsprechend ist die Leuchtdauer reduziert. Im parallelen Fall bleibt die Spannung gleich, die Ladung steht jedoch verdoppelt zur Verfügung, was die Nutzzeit verlängert. Die Widerstandskonfiguration der Lampen beeinflusst den Gesamtstrom und somit den Batterieverbrauch entsprechend.",
+  "antwortoption": "B, D"
+}

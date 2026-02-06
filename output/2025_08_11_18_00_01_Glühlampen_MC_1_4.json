@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir betrachten die Situationsbeschreibung und analysieren die Fälle unter Annahme idealisierter Bedingungen (keine internen Verluste, konstante Spannung der Batterien bis zur vollständigen Entladung, etc.). In Serie addieren sich die Spannungen, und in Parallelverbindung teilen sich die Ströme gleichmäßig. Die Kapazität einer Batterie bleibt bei Parallelschaltung gleich, wird jedoch bei Serialverbindungen nicht addiert, während die Spannung über mehrere Verbraucher entsprechend aufgeteilt wird. Nach Analyse der vier Szenarien ergeben sich folgende Laufzeiten: A) t/4, B) t/2, C) 2t, und D) t.",
+  "antwortoption": "A, B, D"
+}

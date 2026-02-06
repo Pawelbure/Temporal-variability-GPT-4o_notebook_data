@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, gehen wir zunächst von folgenden Annahmen aus: Jede Batterie liefert eine konstante Spannung U, verfügt über eine Kapazität Q, sodass ihr gespeicherter Energiegehalt U⋅Q beträgt (Energie = Ladung * Spannung). Jede Glühlampe weist einen festen Widerstand R auf und leuchtet bei konstanter Stromaufnahme. Die Gesamtkapazität eines Batteriepacks und die Last eines Lampenarrays ermitteln sich aus den jeweiligen Schaltungsarten (seriell oder parallel). Können wir keine Verluste oder andere Einflüsse vernachlässigen, bewerten wir den Energieverbrauch und die Haltbarkeit. Es folgen nun die Berechnung der Betriebszeiten für die verschiedenen Szenarien:",
+  "antwortoption": "D"
+}

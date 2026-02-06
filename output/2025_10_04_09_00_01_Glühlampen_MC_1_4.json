@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu beantworten, analysieren wir die vier gegebenen Schaltungsoptionen unter den Annahmen, dass jede Batterie eine feste Energiemenge liefern kann und der Widerstand jeder Glühlampen konstant ist. Daraus folgt, dass der Energieverbrauch einer Lampe ausschließlich durch die Leistung bestimmt wird, die den Quadratstrom-Widerstand-Abhängigkeit entspricht. Fallweise Analyse: Bei der Serie: die Spannung verdoppelt sich, wodurch der Strom ansteigt. Parallelbetrieb gewährleistet unveränderte Spannung mit Proportionaler Energieverteilung.",
+  "antwortoption": "B, D"
+}

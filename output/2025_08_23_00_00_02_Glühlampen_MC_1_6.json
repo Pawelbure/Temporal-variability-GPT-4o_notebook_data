@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zur Analyse dieses Problems nehmen wir folgende idealisierende Annahmen an: Jede Batterie hat eine konstante Spannung und eine konstante Energie- oder Ladungskapazität. Der Widerstand der Glühlampen ist unabhängig von der Stromstärke und Temperatur. Damit untersuchen wir die Situationen für jede Kombination: A) Zwei Batterien in Serie verdoppeln die Betriebsspannung; bei zwei Glühlampen in Serie ist der Gesamtwiderstand verdoppelt. Dies führt zu halber Stromstärke und verdoppeltem Gesamtverbrauch von Batteriekapazität durch die gleiche Lampe, wodurch sich die Betriebszeit t halbiert. Effektive Zeiturationsanalyse zeigt t Bald X/q t/4: Falsch. B) Bei Serie/Parallel fällt halbe Spannung: Zeit Verdopplung bleibt konsistent. Etc.",
+  "antwortoption": "A, B"
+}

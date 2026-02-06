@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Szenarien zu analysieren, betrachten wir die elektrischen Eigenschaften der Schaltungen unter den gegebenen idealisierenden Annahmen: Die Batterien liefern eine konstante Spannung, bis sie vollständig entladen sind, die Glühlampen haben einen konstanten Widerstand, und keine weiteren Energieverluste fließen in Systeme ein. Die Kapazität der Batterien bestimmt die übertragbare Ladungsmenge und damit die Beleuchtungsdauer. Im Szenario wird die Anzahl der möglichen Elektronenflüsse von Batterien auf Glühlampen untersucht. Unter Berücksichtigung der Wechselwirkungen zwischen Spannung, Strom und Widerstand in den gegebenen Schaltungen lassen sich die angegebenen Verhältnisse herleiten. Es ergibt sich, dass nur die Option D korrekte Beziehungen zwischen den Parametern wiedergibt.",
+  "antwortoption": "D"
+}

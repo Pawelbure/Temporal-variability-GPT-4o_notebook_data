@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die Anordnung der Batterien und Glühlampen in den gegebenen Fällen und bestimmen die davon abhängige Betriebsdauer. Vielen Annahmen und Grundannahmen zugrunde liegt, dass die Kapazität einer Batterie eine konstante Stromabgabe über eine Zeit t ermöglicht. (1) Serie-Seriemodus: Der erhöhte Widerstand durch zwei Lampen in Serie reduziert den fließenden Strom, jedoch wird durch die höhere Gesamtspannung (doppelt die Batteriespannung) der Verbrauch schneller erfolgen, resultierend in t/4 für jede Lampe. (2) Serie-Parallelmodus: Dies führt zu einer stabilen Halbierung der Dauer auf t/2 pro Lampe. (3) Parallel-Seriemodus: Der verlängerte Betriebsstrom durch parallelen Batteriespeisung lässt eine lange Beleuchtung über nahezu 2t zu. (4) Parallel-Parallelmodus: Jede Lampe bezieht sich äquivalent weiter mit Dauer von t, durch parallele selbe Versorgung.",
+  "antwortoption": "B, C, D"
+}

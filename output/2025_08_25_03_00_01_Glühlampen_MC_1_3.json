@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Das Problem beschreibt eine Schaltung mit zwei Batterien und zwei Glühlampen.\n2. Für die Analyse wird die Leistung sowie die zeitbezogene Energieabgabe der Batterien betrachtet.\n3. Kombinationen:\n- **A**: Zwei Batterien in Serie verdoppeln die Spannung; Zwei Glühlampen in Serie verdoppeln den Widerstand, -> Effektiv: Halbe Leistung, daher Zeit verdoppelt: Zeitpunkt t angenommen.\n- **B**: Reihenschaltung Spannung verdoppelt; Parallelschaltung der Lampen Strom teilt sich, -> Zeit t/2 und Energie stimmen nicht überein.\n- **C**: Parallel Energieverteilung der Batterien, \\nzahlung nutzt effektiv Leistung.",
+  "antwortoption": "D"
+}

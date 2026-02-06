@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Jede Batterie hat eine Kapazität von Q und eine Leerlaufspannung von U. Der Widerstand jeder Glühlampe beträgt R und bleibt konstant. Konzepte: Die Leistung der Glühlampe ist P=U²/R. Die Entladezeit der Batterie hängt von der Stromstärke ab. \\n\\nAnalyse der Szenarien: \\n\\n- (A): Batterien und Lampen in Serie: Strom I = U/(2R), Zellladung entladen halbiert, Zeit t'=t/4.\\n- (B): Batterien in Serie, Lampen parallel: Strom durch jede Lampe 2U/R, t'=Q/(2*(2U/R))=t/2.\\n- (C) und (D): Batterien in Parallel, Zeit t unverändert.",
+  "antwortoption": "B, D"
+}

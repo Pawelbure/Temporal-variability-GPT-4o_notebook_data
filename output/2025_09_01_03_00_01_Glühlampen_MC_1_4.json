@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier ist der detaillierte Lösungsweg:\n\n- Annahmen:\n   1. Die Energie einer Batterie ist durch ihre gespeicherte Ladung (Kapazität) und ihre Spannung begrenzt.\n   2. Die Glühlampen haben einen festen Widerstand R und leuchten konstant hell.\n   3. Die Spannungsquelle erhöht nur die Spannung bei Serienschaltung (z. B. 2Batterienystems).\n\n- Betrachtungen:\n   A\t\n   - Wenn die Batterien und Gl\u00000fannen in Serie angeschlossen sind",
+  "antwortoption": "A; retornar liefern Lösung ab T"
+}

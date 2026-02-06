@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Betrachten konstante Spannungen und Vernachlässigung von internen Widerständen der Batterien. Die Glühlampen haben einen festen Widerstand, und die Batterien liefern eine konstante Strommenge bis zur vollständigen Entladung. Ausgangsparameter: Ein Widerstand R pro Lampe, eine Spannung V pro Batterie und eine Kapazität Q pro Batterie. Schaltung A: In Serienschaltung der Batterien ist die Gesamtspannung 2V, und zwei Lampen in Serie führen zu einem Gesamtwiderstand von 2R. Der Strom ist I=2V/(2R)=V/R, identisch mit einem Lampenszenario allein. Jedoch wird der doppelte Strombedarf über zwei Lampen gemittelt und die Entladezeit beträgt daher t/2. Wahl der Antworten: Nach Analyse ergeben sich: C: korrekt, D: korrekt.",
+  "antwortoption": "C, D"
+}

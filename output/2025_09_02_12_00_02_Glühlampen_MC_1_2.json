@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gestellten Fragen zu beantworten, berücksichtigen wir folgende Annahmen und Konzepte: Wir nehmen an, dass die Batterien identisch sind und jede eine EMK E und Kapazität Q besitzt. Der Widerstand der Glühlampen ist R, und der Strom I bewirkt einen konstanten Energieverbrauch. 1. Batterien in Serie erhöhen die Spannung; in Parallelkonfiguration erhöht sich die Kapazität. 2. Lampen in Serie erhöhen den Gesamtwiderstand; in Parallelkonfiguration addieren sich Stromflüsse proportionell. Wir analysieren: Bei A) entlädt höherer Strom die Batterie schneller, was zu t/4 führt. B) Parallelschaltung ermöglicht länger als in Serie, somit t/2. C) In Parallel ergeben sich längere Betriebszeiten, hier mit 2t. D) bleibt jeweils t, weil Einstellungen gleich bleiben.",
+  "antwortoption": "A, D"
+}

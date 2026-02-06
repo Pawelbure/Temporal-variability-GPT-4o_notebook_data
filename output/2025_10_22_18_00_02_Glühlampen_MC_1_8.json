@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten der gegebenen Möglichkeiten und durch Anwendung von Kirchhoffs Regeln Berechnung der Zeit, die die Glühlampen unter den unterschiedlichen Konfigurationen betrieben werden können. Bei Annahme, dass die Ladung einer Batterie Q und die Spannung V konstant sind sowie dass der Widerstand jeder Glühlampe konstant R beträgt, führen die Berechnungen zu den korrekten Betriebszeiten. Danach ergibt sich:\n\n* Für A (Serie von Batterien und Lampen): Strom halbiert, Energieverbrauch der Lampen viermal vermindert, Zeit 4t.\n* Für B (Serie von Batterien, Lampen parallel): Batterieenergie gleich verteilt konstant auf beide Zweige, verbleibende 2t.\n* Für C (Batterien in Parallel, Lampen Serie): keine Erhöhung, Halbierung Widerstand ergibt 2t.\n* Für D (Batterien und Lampen parallel) unverändert t-Lösung aus Darstellungen.",
+  "antwortoption": "A, B, C, D"
+}

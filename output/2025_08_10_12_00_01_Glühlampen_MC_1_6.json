@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die elektrischen Eigenschaften und die Auswirkungen unterschiedlicher Schaltungen: 1. Sei die Spannung einer Batterie U und die Glühlampe hat einen Widerstand R. Nach der Formel P=U²/R bleibt die Leistung konstant und wird direkt aus der Spannung der Batterie bestimmt. Jede Batterie hat Energiekapazität E und kann die Lampe der Dauer t betreiben, bis sie entleert ist. 2. *Option A:* Sind die Batterien und die Lampen in Serie geschaltet, ergibt sich die Gesamtspannung als 2U und Sie leuchten intensiver, da P = (2U)²/(2R). Pro Lampe beträgt die Leistung (2U)²/4R = U²/R. Die Lebensdauer ist jedoch aufgrund des doppelten Leistungsbedarfs halbiert, also t/2. Diese Option ist deshalb korrekt.",
+  "antwortoption": "A"
+}

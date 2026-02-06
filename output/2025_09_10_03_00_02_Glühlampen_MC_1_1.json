@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier Szenarien hinsichtlich der Schaltung von Batterien und Glühlampen.\n\n1. Beide Batterien in Serie und beide Glühlampen in Serie:\n- In der Serienschaltung verdoppelt sich die Gesamtspannung, während der Strom konstant bleibt.\n- Für zwei Glühlampen in Serie und den konstanten Gesamtstrom verbraucht jede Batterie den halben Ladungsfluss.\n- Da die Leistung proportional zur Spannung ist, bleibt die Gesamtenergieverbrauchsdauer gleich, also t. \n\n2. Batterien in Serie und Glühlampen parallel:\n- In dieser Konfiguration bleibt der Energieverbrauch pro Lampe gleich, jedoch wird die Energieversorgung der Batterien aufgeteilt.\n- Das führt dazu, dass die Zeit immer gleichbleiben wird.\n\nusw.",
+  "antwortoption": "D"
+}

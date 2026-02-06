@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Idealisierungen: Die Batterien und Glühlampen verhalten sich ideal, d.h., Batterien haben identische Spannungen und keine Innenwiderstände, und die Glühlampen besitzen konstanten Widerstand und Effizienz. \n2. Relevante Konzepte: Ohmsches Gesetz, Energieerhalt und den Klemmen- sowie Parallel-Serien-Schaltungsregel.\n3. Analyse der Szenarien: Für jede Kombination aus Batterie- und Glühlampenschaltung ermitteln wir den Strom und damit den Energieverbrauch, unter der Annahme konstanten Widerstands der Lampen. Daraus ergibt sich die Leuchtdauer im Vergleich zur Referenzzeit t.\n4. Resultate:\n- A: Bei Serien von Batterien erhöhen sich sowohl Spannung als auch Gesamtwiderstand der Lampenlinie proportional, was bei gleicher Stromversorgung -> t bleibt.\n- B: Die kombinierte Batterieleistung teilt sich proportional, wodurch Betriebszeit = t bleibt.\n- C: Falschkonzept.\n- D: Referenz bleibt t.",
+  "antwortoption": "D"
+}

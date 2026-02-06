@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die gegebenen Annahmen beinhalten, dass die Batterien ideal sind, also unveränderliche Spannung liefern, bis sie leer sind, und dass der Widerstand der Lampen konstant bleibt. Die Leistung P, die eine Lampe aufnimmt, wird durch die Gleichung P = U^2 / R bestimmt (mit der Lampenspannung U und dem Widerstand R). Die Kapazität der Batterien bestimmt die gelieferte Energie, also W = P * t. Analysieren wir die verschiedenen Szenarien: A) Batterien und Lampen seriell: Verdopplung der Spannung führt zur vierfachen Leistung, also Gesamtzeit t/4. B) Batterien in Serie und Lampen parallel: Spannung wie bei einer Batterie, also Gesamtzeit t/2. C) Batterien parallel und Lampen seriell: gleiche Leistung wie bei einer Batterie, doppeltes Energieangebot, daher Gesamtzeit 2t. D) Batterien und Lampen parallel: keine Änderung gegenüber einer Batterie und Lampe allein, also Zeit t.",
+  "antwortoption": "A, B, C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst nehmen wir an, dass jede Batterie eine konstante Ausgangsspannung liefert, bis sie vollständig entladen ist, und dass jede Glühlampe einen konstanten Widerstand aufweist. Außerdem ist die Gesamtkapazität einer Batterie konstant. Wenn die Batterien seriell geschaltet sind, addieren sich die Spannungen, während bei Parallelschaltung die effektive Kapazität verdoppelt wird, aber die Spannung gleich bleibt. Ähnlich beeinflussen die Schaltungen der Glühlampen den effektiven Widerstand der Schaltung, was wiederum die Stromstärke und die Batterielebensdauer beeinflusst.",
+  "antwortoption": "D"
+}

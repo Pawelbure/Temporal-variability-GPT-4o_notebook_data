@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die gegebenen Schaltungen und berechnen die jeweiligen Ströme und Spannungen. Angenommen, die Kapazität jeder Batterie in Ampere-Stunden ist gleich und der Innenwiderstand sowie der Energieverlust bei Kombinationen von Batterien sind vernachlässigbar. Eine einzelne Glühlampe hat einen konstanten Widerstand. In Serie verdoppelt sich die Spannung und halbiert sich der Strom, während parallel die Spannung gleich bleibt, aber die Kapazität der Batterien additativ steigt. Nach Anwendung dieser Prinzipien liegt die maximale Energie pro Ladung vor. Nach Berechnung der Zeiten für die angegebenen Schaltungen ergibt sich abschließend, welche Aussagen korrekt sind.",
+  "antwortoption": "B, D"
+}

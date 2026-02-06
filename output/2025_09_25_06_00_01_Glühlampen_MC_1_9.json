@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragestellung zu bearbeiten, machen wir folgende Annahmen: Jede Batterie hat eine konstante Spannung V und einen Energieinhalt E. Die Glühlampen haben einen konstanten Widerstand R, und die Verluste durch Leitung sind vernachlässigbar. Die jeweiligen Schaltkreise können wie folgt analysiert werden:  \n  \nA) Wenn die Batterien und Glühlampen in Serie geschaltet werden, ist der Gesamtwiderstand 2R und die Spannung 2V. Somit ist der Strom I=V/R. Die Leistung jeder Lampe ist daher P=(V/R)^2∙R=V^2/R; eine Batterie kann daher nur die Hälfte aller Lampen versorgen --- Falsch.\n  \nB) Bei Serien2 Batterierstrom so reduziert Energieverzehr simpel Resultante Batterie Stromrichtungen langer- korrekt---",
+  "antwortoption": "D"
+}

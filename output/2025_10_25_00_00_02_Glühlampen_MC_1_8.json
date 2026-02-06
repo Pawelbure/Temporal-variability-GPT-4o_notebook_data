@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir die Kombinationen von Batterien und Glühbirnen in verschiedenen Schaltungen und berechnen die resultierende Leuchtdauer. Wir nehmen an, dass jede Batterie über eine spezifische Energiemenge verfügt, dass der Widerstand der Glühbirnen konstant bleibt, und dass die Spannung jeder Batterie bekannt ist. In Serie verbunden verdoppelt sich die Spannung, während in Parallelverbindung die Kapazitäten (Energie) addiert werden, aber die Spannung unverändert bleibt. Weiterhin folgen elektrische Ströme den Ohmschen Gesetzen. Bei seriellem Strom, E: Energie einer Batterie, V: Betriebsspannung einer Batterie, R: Widerstand einer Glühbirne, wird die Leuchtdauer wie folgt berechnet. Die Analyse jeder Schaltung führt dann wie folgt:",
+  "antwortoption": "D"
+}

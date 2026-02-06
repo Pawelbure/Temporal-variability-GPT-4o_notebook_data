@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe analysiert die Energieversorgung von Glühlampen durch Batterien in verschiedenen Schaltungen. Annahmen: die Batterie besitzt eine konstante elektrische Spannung und kann eine limitierte Energie pro t liefern; die Glühlampe besitzt einen festen Widerstand R. Physikalische Konzepte: Energieversorgung bestimmt durch Spannung, Strom und Widerstand. Schaltungseigenschaften bestimmen Energieverbrauch und daher Leuchtdauer. Fallbetrachtungen: (A) In Serie: Strom halbiert, restliche Anpassungen zeigen t/4. (B) In Serie-Batterien, aber Parallel-Lampen weist gemäß Stromaufteilung t/2 nach. (C) Parallel-Batterien, Serie-Lampen doubliert Betriebsdauer auf 2t. (D) Parallel beides: paralleler Energieaufteilung, daher t bleibt unverändert. Ergebnisanalyse stimmt mit Konzepten überein.",
+  "antwortoption": "B, C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, berücksichtigen wir Folgendes: Die Batterie liefert eine konstante Spannung und hat eine endliche Energiemenge, die sie an die Lampe abgeben kann. Um den Effekt verschiedener Kopplungen zu analysieren, betrachten wir die Leistungsformeln.\n\n1) Batterien in Serie verdoppeln die Spannung, Glühlampen in Serie verdoppeln den Widerstand.\n\nEine Einzelbatterie versorgt eine Einzelglühlampe erstmals mit der Leistung P1 = U²/R. Zwei Batterien in Serie haben 2U Spannung. Zwei Glühlampen in Serie haben 2R als Gesamtsystem. Die Leistung wird zu (2U)²/(2R) = U²/R identisch von P1. Jedoch, durch das Zusammenschalten halbiert sich der Strom je Lampe, sodass die verfügbaren 2q Ladung über die Zeit gleichauf verteilt gezielt wird und durch den immer halbierten Strom sich Zeit verachtelt, oder T/4 nur letztlich trifft. \n B --> Iss Location  \n\nDie Logik käme entsprechend hin.",
+  "antwortoption": "A"
+}

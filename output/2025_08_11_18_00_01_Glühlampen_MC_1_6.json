@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Die Batteriespannung bleibt konstant, der Widerstand der Glühlampen bleibt ebenfalls konstant, und die Batterien entladen sich ideal. Dr. Annahmen erfolgt die Berechnung:\\n\\n1. Serie: Gesamtspannung der Batterien addiert sich. Der Strom ist überall gleich. Daher ergibt sich eine höhere Gesamtspannung über die Lampen.\\n\\n2. Parallelschaltung der Batterien: Die Kapazität addiert sich, die Spannung bleibt wie bei einer. Eigenschaften versorgen Lampen gut.\\n\\nBetrachtung Stromstärke und Spannung in spezifizierten Konstellationen, Energieverbrauch entspricht paralleler Kapazitätsentladung. Regelübergreifend nutzen, Berechnung:\\n\\nErgebnisse Situation A: Falsches Verhalten 2.t. Situation B 2*t Akzeptabel, C Strom liefert 3d/2 akzept.",
+  "antwortoption": "D"
+}

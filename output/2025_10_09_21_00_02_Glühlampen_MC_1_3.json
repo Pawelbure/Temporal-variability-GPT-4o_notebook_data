@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die Auswirkungen unterschiedlicher Schaltungen auf die Entladezeit der Batterien sowie auf die Stromversorgung der Glühlampen. Annahmen: Die Batterien liefern eine konstante Spannung, bis sie vollständig entladen sind; die Glühlampen haben einen konstanten Widerstand; die Batterien identische Kapazität Q (in Coulomb) und Ausgangsspannung U. Stärke der Schaltung: Spannung erhöhen oder halten durch serielle/parallele Kombis; Ladung schneller/nicht erhöhen/kernbleiben. Falluntersuchung: (A) Seriengeschaltet verringert Strom vermutlich, Zeit als Effekts. (B) Änderungen betrachten für Effekte lamparen: par/ring. Ergebnisse: korrekt deduziere Basismodellherleiteden. Analyse insbesondere (D): Lösungen kompatibel",
+  "antwortoption": "D"
+}

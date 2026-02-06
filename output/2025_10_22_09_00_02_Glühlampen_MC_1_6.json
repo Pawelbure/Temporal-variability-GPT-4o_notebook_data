@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabenstellung zu verstehen und zu klären, welche Option korrekt ist, müssen wir mehrere physikalische Überlegungen und grundlegende Prinzipien in Betracht ziehen. Wir vereinfachen das Problem durch folgende Annahmen: Jede Batterie liefert eine konstante Spannung V und hat einen bestimmten Energieinhalt (Kapazität) C. Die Glühlampe hat einen festen Widerstand R. Die Leistung der Glühlampe P ergibt sich aus P = V^2 / R und bestimmt die Entladezeit der Batterie T durch T = C / P. Beim Schalten der Komponenten in Serie und Parallel beeinflussen die resultierende Spannung und der Stromkreis die Entladung der Batterien und die Energieverteilung auf die Lampen. Basierend auf diesen Prinzipien analysieren wir jede Option:",
+  "antwortoption": "D"
+}

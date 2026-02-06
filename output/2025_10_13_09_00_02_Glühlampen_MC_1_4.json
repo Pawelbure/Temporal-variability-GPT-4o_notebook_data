@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lösungsweg:\n\n1. Annahmen und physikalische Konzepte:\n    - Die Glühlampen und Batterien sind ideal angenommen, das bedeutet keinen Innenwiderstand der Batterien und konstanten Widerstand der Glühlampen.\n    - Die Energieabgabe der Batterien ist proportional zu ihrer Spannung und der Zeit des Stromflusses durch ihre Terminals.\n2. Analyse der vier Schaltungen:\n    A) Batterien in Serie, Glühlampen in Serie:\n        - Die Gesamtschaltung hat die doppelte Spannung einer Batterie, jedoch den doppelten Widerstand, also denselben Strom wie die Einzelschaltung.\n        - Jedoch teilen sich Batterien ihre Energieabgabe proportional zueinander.\n    B) Batterien in Serie, Glühlampen parallel:\n        - Die doppelten Spannung erzielt vierfache Verbrauch in Energie.\n    C) Batterien Parallel Glühlampen ähnlichen Strom:\nHier wär die Definitions Ansatz Schiefe stabil.",
+  "antwortoption": "B"
+}

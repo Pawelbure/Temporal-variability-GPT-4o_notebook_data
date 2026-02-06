@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Analysen:\\n- Jede Batterie hat eine konstante Kapazität Q und liefert konstant die Spannung V.\\n- Der Widerstand R der Glühlampen bleibt während ihrer Nutzung unverändert.\\n- Als elektrische Leistung der Glühlampen L ergibt sich P = V^2 / R.\\n\\nGegeben sind die betrachteten Schaltungsarten und deren Auswirkungen auf die Betriebszeit:\\n\\nAktiver Ansatz:\\n1. Batterien in Serie, Glühlampen in Serie:\\n   - Spannung: 2V, Serienschaltung der Lampen: 2R.\\n   - Strom: I = 2V / (2R) = V / R.\\n   - Laufzeit bleibt t, da die gleiche Batteriehöhe pro Strom fließt.\\n2. Batterien in Serie, Glühlampen parallel:\\n   - Energie erhöht ist Doppelspannungs zweite.",
+  "antwortoption": "B"
+}

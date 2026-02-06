@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, nehmen wir an, dass die Spannungsquelle jeder Batterie V und die gespeicherte Ladung Q beträgt, wodurch die Energie der Batterie E = V × Q wird. Der Widerstand jeder Glühlampe ist R. Weiterhin wird vorausgesetzt, dass kein Energieverlust in den Verbindungen oder interne Widerstände der Batterie auftreten. \n\nA) Bei serieller Schaltung der Batterien und Glühlampen addieren sich Spannungen und Widerstände: 2V über R+R=2R bewirken den gleichen Strom I=V/R und gleiche Energieumsetzung wie Einzelschaltung, also t.\n\nB) Batterien in Serie (2V) und parallele Lampen (R, R parallel) ergibt effektive Last R/2 bei U=2V, daher I=2V/(R/2)=4I. Höhere Energieaufnahme, Zeitverhältnis gegenüber A ist Halbe, hiermit etwa von t/2.\n\n[Analyse C und D analog.]",
+  "antwortoption": "C"
+}

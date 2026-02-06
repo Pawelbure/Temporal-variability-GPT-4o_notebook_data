@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, nehmen wir an, dass jede Batterie eine konstante Spannung U und Kapazität C besitzt und dass die Glühlampen einen konstanten Widerstand R haben. Aufgrund dieser Annahmen\nb) Batterien in Serie und Glühlampen parallel:\nIn dieser Konfiguration verdoppelt sich die Spannung (2U), die verfügbare Kapazität bleibt aber unverändert. Jede Glühlampe zieht denselben Strom wie bei einer einzelnen Batterie, jedoch halbiert sich die Zeit wegen einer höheren Entladung.\nAuswertung der Ergebnisse deutet darauf hin, dass Aussage (B) korrekt lautet.",
+  "antwortoption": "B"
+}

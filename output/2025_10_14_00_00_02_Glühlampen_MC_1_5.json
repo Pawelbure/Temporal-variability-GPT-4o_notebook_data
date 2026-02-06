@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Wir nehmen an, dass die Batterien identisch sind, eine konstante Spannung liefern und bei konstanter Entladungsrate leer werden (d.h., die Ladung Q ist konstant und V ist konstant bis Q verbraucht wird). Die Glühlampen betrieben bei konstanter Stromstärke und Spannung. Batterien und Glühlampen haben interne Widerstände vernachlässigbar in Bezug auf die betrachteten Eigenschaften. Physikalische Konzepte: Strom(Ohmisches Gesetz), Leistung, Ladungszeitkonstante.\n\n1) Batterien in Serie - Glühlampen in Serie: Gesamtspannung = V + V = 2V, Gesamtwiderstand = 2R. Gesamtstrom = 2V/(2R) = V/R. Energie pro Batterie verbraucht schneller, d.h. Zeit t/2 für insgesamt halbe Serie Energie kombinierte Leistung.\n2) Batterien in Serie - Glühlampen parallel: Jede Lampe Spannung V, Gesamtstrom 2I=2V/R.\n3) Batterie parallel, alle Lamp alleine vollen Betrieb.",
+  "antwortoption": "D"
+}

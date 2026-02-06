@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Idealisierungen:** Wir stellen fest, dass die Batterien identisch sind und ihre Kapazität sowie Spannung während ihres Entladens nicht variieren. Die Glühlampen haben konstanten Widerstand und gleichen Energiebedarf. Die Batteriespannung und der Widerstand der Glühlampen bestimmen die Energieabgabe. **Relevante Konzepte:** Die Leistungsaufnahme eines Widerstands entspricht der Spannung im Quadrat geteilt durch den Widerstand, P = U^2/R. Gleichzeitig hängt die entnommene Energie der Batterie von der Zeit des Entladens und der Leistung ab. **Analyse der Aussaegen (nur berechnend):**",
+  "antwortoption": "D"
+}

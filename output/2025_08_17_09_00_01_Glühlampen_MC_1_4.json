@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die gegebenen Schaltungen und berücksichtigen dabei die Komponenten und deren Eigenschaften. Wir nehmen an, dass die Kapazität jeder Batterie gleich ist und die gesamte gespeicherte Ladung durch den Stromverbrauch der angeschlossenen Glühlampen bestimmt wird. Weiterhin betrachten wir den konstanten Widerstand der Glühlampen und die Tatsache, dass die Spannung der Batterien bis zur Erschöpfung konstant bleibt, unabhängig von der Verbindungsweise. Für jede der angegebenen Schaltungen bestimmen wir die Stromverteilung und die Entladezeit der Batterien.",
+  "antwortoption": "B, D"
+}

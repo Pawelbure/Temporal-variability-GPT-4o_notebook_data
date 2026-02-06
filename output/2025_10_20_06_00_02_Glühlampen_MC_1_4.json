@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu analysieren, berücksichtigen wir die vereinfachten Annahmen:\\n1) Jede Glühlampe hat einen konstanten Widerstand und den gleichen Strombedarf im Betrieb.\\n2) Die Batterien sind ideal, d. h., liefern eine konstante Spannung und entladen sich vollständig, während sie arbeiten.\\n\\nFür jede Konfiguration:\\n\\n***Option A: Batterien in Serie – Glühlampen in Serie:***\\nDie Serienverbindung der Batterien verdoppelt die Gesamtspannung, während der Strom durch die Glühlampen bei Serienbetrieb halbiert wird. Effizienzüberlegung ergibt eine Betriebszeit wie bei einer einzelnen Glühlampe und Batterie: t. Falsch.",
+  "antwortoption": "B"
+}

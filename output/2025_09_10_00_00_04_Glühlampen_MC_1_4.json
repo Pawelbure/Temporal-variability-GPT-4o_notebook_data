@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die richtigen Aussagen zu identifizieren, betrachten wir die Auswirkungen verschiedener Verschaltungen der Batterien und Glühlampen auf den Strom, die Spannung und die Betriebsdauer. Wir nehmen an, dass jede Batterie eine konstante Energie E liefert und jede Glühlampe einen konstanten Widerstand R hat. Die Zeit, wie lange eine Batterie eine Glühlampe versorgen kann, ergibt sich aus t = E / P, wobei P die Leistung der Lampe ist.",
+  "antwortoption": "A, D"
+}

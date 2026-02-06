@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Szenarien in Hinblick auf die Batterieleistungen und Lampencharakteristika. Es wird von idealen Bedingungen ausgegangen: der Innenwiderstand der Batterien sowie die Batterieentladespannung bleiben konstant, und die Glühlampen haben festgesetzte Widerstandswerte. Berechnung der Laufzeit erfolgt durch die Gesamtentladungsenergie geteilt durch die Leistungsaufnahme der Lampen: A) Beide Lampen erhalten die halbe Batteriespannung und benötigen insgesamt die Doppelte Energie, Laufzeit: t/4. B) Beide Lampen erhalten die Batteriespannung jedoch aufgesplittet in Energie, die Laufzeit ist t/2. C) Spannung halbiert sich, aber nun mit zusammengerichteter Kapazität ergibt sich Laufzeit 2t. D. Energie wird ausgeschlossen und geteiltem, Gesamt bleibt bei einer",
+  "antwortoption": "C"
+}

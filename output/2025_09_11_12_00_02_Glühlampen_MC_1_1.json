@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier sind die Annahmen und relevanten Konzepte zusammengefasst: Wir nehmen an, dass jede Batterie eine identische Kapazität Q an elektrische Ladung liefern kann. Jede Glühlampe hat eine konstante elektrische Leistung bei gegebener Spannung und Widerstand. Die Gesamtschaltung hängt von den Verbindungen (Reihen- oder Parallelschaltungen) der Batterien und Glühlampen ab. Ich werde jeden Fall im Detail analysieren und die korrekten Antworten ableiten. Fall A: Reihenverbindung von Batterien und Glühlampen. Für den gegebenen Widerstand ist die Gesamtspannung doppelt so hoch, und jede Lampe erhält halben Strom, daher pro Lampe eine Viertel des Energieverbrauchs. Betrieb nur für t/4. Fall B: Batterien in Reihe, Lampen parallel. Vollenergiedichte, aber umgekehrte Teilung der Kapazität. Betrieb für t/2. Analog Rest.",
+  "antwortoption": "B, D"
+}

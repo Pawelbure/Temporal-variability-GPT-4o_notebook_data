@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragestellung zu beantworten, analysieren wir zunächst die Auswirkungen der verschiedenen Schaltungen auf Spannung, Strom und Verbrauch jeweils separater Batterien. Gehen wir von idealen Batterien und Glühlampen mit konstantem Widerstand aus. Jede Batterie hat eine Kapazität (Energie, die sie liefern kann; proportional zu ihrer Strommenge) und eine definierte Spannung. A) In Serie verdoppelt sich die Spannung, Glühlampen in Serie teilen diesen Strom. Leistungsverbrauch nicht linear = kürzer. Zeit etwa t/4. B) Spannung addiert, Glühlampen parallel halbieren Strom = Zeitaufwand etwa halbiert: t/2. C) Parallel keine Spannungsaddition, aber Kapazität addiert. Serienbetrieb = normale Nutzungszeitaddierung. Zeit 2t. D) Batteriespannung konstant, Kapazität doppelt, parallele Lampe gleichstromt. Zeit t. Dies führt zu den korrekten Antworten.",
+  "antwortoption": "A, C, D"
+}

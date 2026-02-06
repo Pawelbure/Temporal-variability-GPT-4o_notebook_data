@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und relevante Konzepte:** Die Problembeschreibung berücksichtigt konstante Helligkeit (konstante elektrische Leistung) der Glühlampen und konstanten Widerstand entsprechend Ohms Gesetz. Batterien sind idealisiert mit konstantem Spannungs- und Energiewert. Die kombinierte Energie der Batterien beeinflusst die Betriebdauer.\n\n**(A)** Batterien und Glühlampen in Serie: Gesamtwiderstand ist doppelt so hoch, Spannung und Strom halbieren sich. Leistung jeder Lampe (\n\\[P = IV\\]\n) ist halbiert, daher Energieverbrauch ist entsprechend. Zeit ≈ t/4, Aussage korrekt.\n\n**(B)** Batterien in Serie, Glühlampen parallel: Einer Erhöhung der Spannung gegenüber einer Lampe ist Energieverbrauch etwa verdoppelt (Energie aufgeteilt), Gesamtzeit ist halbiert. Leistung ist erhöht, daher ≠ Vorhaben. Aussage inkorre.",
+  "antwortoption": "A"
+}

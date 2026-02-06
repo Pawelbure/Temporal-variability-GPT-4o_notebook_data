@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst machen wir einige idealisierende Annahmen: Der Innenwiderstand der Batterien sowie jegliche Verluste in den Schaltungen werden vernachlässigt; außerdem betrachten wir konstante Spannungen und Ströme. Eine Batterie betreibt eine Lampe mit einer Leistung über eine Zeit t, also ist die Kapazität der Batterie E=Pt, wobei P=U^2/R die Leistung der Lampe beschreibt. Wir analysieren verschiedene Szenarien:\n1. Bei Seriensschaltung verdoppelt sich die Spannung, wodurch die Leistung jeder Lampe verdoppelt wird. Wegen der erhöhten Leistungsaufnahme ist die Betriebsdauer t/4.\n2. Bei serieller Batterie und paralleler Lampe ist die Leistung unverändert, die doppelte Energiemenge fließt jedoch gleichmäßig; die Zeit ist t/2.\n3. Parallel batterien und Serieelam begins ändert nur den Strom.\n4 Parallelen Entlad ändert nicht\n.Daher helfen FormelnFunde.",
+  "antwortoption": "A, B"
+}

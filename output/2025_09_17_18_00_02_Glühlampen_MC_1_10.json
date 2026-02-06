@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu analysieren, gehen wir von idealen Batterien mit einer konstanten Spannung und ohne innere Widerstände aus, und die Glühlampen haben einen konstanten Widerstand R. Eine einzelne Batterie betreibt eine Glühlampe für die maximale Zeit t, abhängig von der verfügbaren Energie in der Batterie. *Analyse der Optionen:* (A) Batterien und Glühlampen in Serie: Spannung verdoppelt, Strom halbiert aufgrund des doppelten Widerstands; Leistung konstant, Zeit t. (B) Batterien in Serie, Glühlampen parallel: Spannung führt zu maximalem Strom durch die Batterien; Zeit kürzer als t. (C) Batterien parallel, Glühlampen in Serie: Spannung halbiert, Strom und Leistung niedrig, Zeit verlängert. (D) Batterien und Glühlampen parallel: Strom und Leistung konstant, Zeit t wie ursprünglicher Zustand.",
+  "antwortoption": "D"
+}

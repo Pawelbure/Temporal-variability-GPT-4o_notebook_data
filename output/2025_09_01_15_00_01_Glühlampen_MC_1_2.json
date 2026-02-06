@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe umfasst elektrische Schaltungen und die Auswirkungen unterschiedlicher Verschaltungen von Batterien und Verbrauchern auf die Betriebsdauer und Leistung. Ich werde die potentielle Betriebszeit für jede Option berechnen, indem ich annahme, dass jede Batterie eine Kapazität Q besitzt und eine Glühlampe einen konstanten Widerstand R hat. Ohne Verlust der Allgemeinheit nehme ich des Weiteren an, dass jede Batterie eine Ausgangsspannung E aufweist. Bei in Serie geschalteten Batterien addieren sich die Spannungen, während bei Parallelschaltung die Spannung gleich bleibt, aber der Gesamtstrom erhöht wird. Für in Serie geschaltete Verbraucher summieren sich deren Widerstände, während bei Parallelschaltung der Gesamtwiderstand sinkt. Nachdem diese Konzepte angewendet werden, ergibt sich die Aussage D als korrekt, während die anderen Aussagen falsche Annahmen über das Verhalten der Schaltung treffen.",
+  "antwortoption": "D"
+}

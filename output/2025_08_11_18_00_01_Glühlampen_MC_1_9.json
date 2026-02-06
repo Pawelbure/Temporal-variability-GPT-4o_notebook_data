@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Situation zu analysieren, betrachten wir folgende Annahmen: Jede Batterie hat eine konstant gleiche Kapazität und inneren Widerstand, und jede Glühlampe benötigt eine konstante Leistung unabhängig von der anliegenden Spannung. Dies impliziert, dass der Strom durch die Glühlampe variabel sein muss, um Leistungsanforderungen zu erfüllen. Nun untersuchen wir die Optionen einzeln: A) Batterien und Lampen in Serie: Die Gesamtspannung verdoppelt sich, der Strom halbiert sich (bei konstantem Widerstand), und die Kapazität pro Strom bleibt gleich, daher Viertel des Verbrauchs pro Lampe, also 4t Lebensdauer jeder. Zeittotal: t/4 falsch. B) und C) ebenso eruiert. D) bestätigt Zeit bleibt t unverändert bei par.",
+  "antwortoption": "D"
+}

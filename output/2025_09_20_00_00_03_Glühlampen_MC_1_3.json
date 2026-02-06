@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gestellten Szenarien korrekt zu analysieren, gehen wir von folgenden Annahmen aus: Jede Batterie hat eine feste Kapazität an Energie, die bei Betrieb konstant an das Verbrauchergerät abgegeben wird, und es gibt im System keine Energieverluste (wie beispielsweise Wärmeverluste in der Schaltung oder durch den Innenwiderstand der Batterie). Zudem ist die Lampe ein idealer Widerstand, der sich nicht mit Änderung der Eingangsspannung ändert. In jedem Szenario betrachten wir die beste Stromkreisaufstellung zur Maximierung der Laufzeit und Beleuchtung. Durch eine genaue Analyse, unter Zuhilfenahme der grundlegenden Physik von Stromkreisen und elektrischen Verbrauchern, kommen wir zu den folgenden Aussagen:",
+  "antwortoption": "D"
+}

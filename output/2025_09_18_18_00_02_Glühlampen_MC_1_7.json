@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu analysieren, berücksichtigen wir Folgendes: Jede Batterie liefert eine konstante elektrische Energie, und die Glühlampe als Verbraucher hat einen konstanten Widerstand, benötigt also eine konstante elektrische Leistung. Die Gesamtenergie wird durch das Produkt der Spannung und der Kapazität der Batterie (U·Q) bestimmt. Wenn die Verbraucher (Glühlampen) angeschlossen werden, wird die anzuwendende Leistung in Abhängigkeit von der Schaltung berechnet. Die verschiedenen Schaltungsvarianten haben unterschiedliche Implikationen auf die Stromstärke und den Energieverbrauch der Batterien. Durch Berechnung der Energiezufuhr und der Widerstandsverhältnisse bestimmen wir die Betriebsdauer.",
+  "antwortoption": "D"
+}

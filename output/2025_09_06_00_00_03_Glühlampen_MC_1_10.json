@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, führen wir folgende Überlegungen durch: 1. Die Energie einer einzelnen Batterie ist proportional zur Ladung Q und der Spannung U. 2. Der Stromverbrauch hängt von der Schaltungskonfiguration (seriell oder parallel) ab. 3. Wir analysieren jede Schaltungssituation individuell: A) Bei serieller Schaltung der Batterien und Glühlampen wird bei doppelter Spannung auch doppelte Leistung verbraucht, die Zeit t ist daher t/4. B) Serielle Batterien und parallele Lampen: Die geringere Leistungsabnahme verdoppelt t auf t/2 für beide. C) Parallele Batterien und serielle Lampen: keine Änderung der Spannung, Zeit bleibt t. D) Parallele Batterien und Lampen: gleicher Dauerbetrieb wie bei einer Glühlampe.",
+  "antwortoption": "B, D"
+}

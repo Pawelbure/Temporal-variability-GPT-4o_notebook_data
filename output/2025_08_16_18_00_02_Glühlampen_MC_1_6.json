@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Bewertung:\n\n1. Einfachheitsannahmen: Konstanter Widerstand der Glühlampen und stabiler Entladungsverlauf der Batterien.\n\n2. Analyse der Szenarien:\n\na) Batterien und Glühlampen in Serie: Der Gesamtwiderstand verdoppelt sich. Der Strom halbiert sich, somit dauert die Entladung viermal länger.\n\nb) Batterien in Serie, Glühlampen parallel: Batterie liefert doppelten Strom, Entladung dauert halb so lang.\n\nc) Batterien parallel, Glühlampen in Serie: Identischer Strom wie bei einer Batterie, weswegen die Betriebsdauer verdoppelt wird.\n\nd) Batterien und Glühlampen parallel: Gleicher Stromaufwand wie bei einer Batterie, daher identische Entleerungszeit wie bei einer Einzelbatterie.\n\nErgebnisse: Die richtige Antwort wäre für (a): falsch, (b): teilweise korrekt, (c): möglich, (d): korrekt, erfordert Sicherheit durch Szenariobetrachtung.",
+  "antwortoption": "B, D"
+}

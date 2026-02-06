@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Vereinfachte Annahmen zur Aufgabenstellung\n1. Jede Batterie hat eine konstante Energiekapazität U•C, wobei U die Spannung und C die Kapazität ist.\n2. Die Lampe hat einen konstanten Widerstand R und zieht bei angelegter Spannung U einen konstanten Strom I = U/R.\n3. Der Energieverbrauch der Lampe pro Zeit ist konstant und entspricht P = U•I = U²/R.\n4. Zwei Lampen und zwei Batterien werden miteinander verbunden, sodass die resultierenden Konfigurationen keine internen Verluste aufweisen.\n\n### Analyse der Optionen\n#### **Option A:**\n- Schaltung: Batterien und Glühlampen in Serie.\n- Der Strom durch die Schaltung ist aufgrund der Verdopplung der Batteriespannung halbiert, also I = U / (2•R).\n- Die gesamte Energieabgabe verteilt sich auf die vierfache Zeit. Die Leistung erscheint asynchron: t_eff_ bleibt tatsächlich t.\n\n#### **Option B:**\nTBC. ",
+  "antwortoption": "TBD"
+}

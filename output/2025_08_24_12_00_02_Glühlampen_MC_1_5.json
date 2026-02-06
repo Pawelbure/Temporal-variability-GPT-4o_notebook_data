@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die vier gegebenen Szenarien individuell unter der Annahme eines konstanten Widerstandes der Glühlampen und idealer Batterien ohne Innenwiderstand. Dies führt zu den folgenden Überlegungen: \n1. **A)** Batterien und Glühlampen in Serie: Durch die Reihenschaltung verdoppelt sich die Spannung an den Lampen, und die elektrische Leistung verdoppelt sich für gleiche Zeit von t, da die gesamte gespeicherte Energie der Batterien proportional zur Spannung von 2U anstatt U verteilt wird. Jedoch Fließt insgesamt konstanterer Strom. Die Nutzungsdauer sämtlicher Energie wird t – dies passt nicht.\n2. **B)** Diese Angabe beinhaltet ein veränderten  Spannungspotenziale rationasiche Anpassen,\nEs benutz vielfarbigte.",
+  "antwortoption": "A, B"
+}

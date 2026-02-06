@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, machen wir folgende Annahmen: Die Batterien haben identische Kapazitäten und liefern eine konstante Spannung (V), solange sie Ladung haben. Der Widerstand jeder Glühlampe ist konstant (R) und von der Temperatur unabhängig. Basierend auf den Schaltungsanordnungen reagieren Strom- (I) und Energieverbrauch wie folgt:\n\n1. **Batterien und Glühlampen in Serie (A):** Die Gesamtspannung ist doppelt so hoch (2V), der Gesamtwiderstand verdoppelt sich (2R). Der Strom halbiert sich (I=V/2R), daher ist die Leistung P=I²R=(V²/R)/4, ein Viertel der Leistung eines Einzellampenbetriebs. Energieverbrauch bringt eine Laufzeit ber t t sein.\n\n2. **Batterien in Series, Glühlampen parallel (B):** Segmentierung die Spannung erhöht sich Verdoppel von in.\n\nDie. Ergelt der Lösung Stand gasieren nach Variableneffekteichen.",
+  "antwortoption": "A"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen:\n\n### Annahmen und Idealisierungen\n- Jede Batterie kann eine konstante Ladungsmenge liefern, und die Ausgangsspannung der Batterie bleibt konstant, bis die Batterie leer ist.\n- Der Widerstand der Glühlampen bleibt unabhängig von der Spannung konstant.\n- Die Energiezufuhr zu den Glühlampen ist proportional zur Spannung im Quadrat geteilt durch den Widerstand.\n\n### Lösungen:\n- **A)** Batterien in Serie verdoppeln die Spannung (2V). Glühlampen in Serie vervierfachen den Gesamtwiderstand, wodurch der Strom sich mengtviertelt. Dies führt zu einem Viertel der Leistungslosigkeit, aber der Energieinhalt wird in 1/4t entleert.\n- **B)** In diesem Szenario sollte die Helligkeit in Parallelschaltung und die Gesamtsystemveränderung knapp identisch halten t können.\n",
+  "antwortoption": "B, D"
+}

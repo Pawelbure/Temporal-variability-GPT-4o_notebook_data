@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zur Lösung der Aufgabe nehmen wir an, dass die Batterien ideale Gleichstromquellen mit konstantem Energieinhalt und die Glühlampen als ideale ohmsche Widerstände modelliert werden können. Berücksichtigt man die Leistung über Widerstände und das Verhalten bei parallelen und seriellen Verbindungen, ergibt sich Folgendes: Option A: Mit der Leistungsteilung und dem Energieverbrauch ergibt sich, dass beide Lampen eine kürzere Zeit leuchten, nämlich t/4. Option B: Der Energieverbrauch ist für beide parallel geschalteten Lampen geteilt und jede verfügt über die volle Zugangsspannung, was die Batteriespannung teilt, sodass die Lampen für t/2 funktionsfähig sind. Option C: Die Kombination in diesem Aspekt stimmt nicht mit der Energieverteilung überein, die für jede Lampenserie verfügbar wäre, wohingegen Option D die richtige Neuberechnung liefert, wobei jede Lampe die halbe Gesamtzeit der Batterie gleichmates erwartet.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die grundliegenden Annahmen sind: 1. Jede Batterie hat eine konstante Kapazität und liefert eine feste Gesamtenergie E. 2. Die Spannung jeder Batterie ist V und bleibt konstant, bis diese entladen ist. 3. Der Widerstand R einer Glühlampe ist konstant. 4. Die Batterien verlieren bei Parallelschaltung keine Energie aufgrund interner Wechselwirkungen. Der Strom I ist für eine Glühlampe gegeben durch V/R. Die Energie, die in der Zeit t geliefert wird, ist E = P·t = I^2·R·t mit der Leistung P=V^2/R. Durch Schaltungsanalyse erhalten wir für die verschiedenen Konfigurationen die zugehörigen Laufzeiten der Lampen: Option A: t/4, Option B: t/2, Option C: 2t, Option D: t.",
+  "antwortoption": "B, C, D"
+}

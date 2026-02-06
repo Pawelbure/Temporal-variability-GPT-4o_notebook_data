@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Analyse der Aufgabe gibt vier Szenarien der Batterie- und Lampenschaltung vor. Bei Batterien in Serie erhöht sich die Spannung, bei Parallelschaltung bleibt sie konstant, während die Kapazität sich summiert. Verbraucher in Serie steigern den Gesamtwiderstand, in Parallelschaltung sinkt dieser. Unter Berücksichtigung der Energieverteilung bei konstantem Widerstand und Stromfluss ergibt sich unter vereinfachten Annahmen, dass keine der genannten Aussagen mit den physikalischen Grundlagen im Einklang steht.",
+  "antwortoption": "keine"
+}

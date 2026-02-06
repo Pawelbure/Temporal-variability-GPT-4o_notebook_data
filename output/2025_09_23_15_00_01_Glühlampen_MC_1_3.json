@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Stromkreise, berücksichtigen dabei den Widerstand der Glühlampen, den Innenwiderstand der Batterien (wenn er nicht vernachlässigbar ist) und die Energieumwandlungsprinzipien. Eine Batterie speichert eine konstante Energiemenge. Wenn zwei Batterien in Serie geschalten werden, verdoppelt sich die Spannung, aber die gespeicherte Energie bleibt konstant, da der zusätzliche Energiebedarf zu höherer Leistung führt. Parallel geschaltete Batterien liefern jedoch denselben Strom, verdoppeln aber die Energieausbeute, da jede Batterie nur die Hälfte des Stroms liefert. Für Glühlampen in Serie addieren sich die Widerstände, wobei der Strom daher geringer ist. Parallelgeschaltete Lampen teilen den Strom auf, womit jede nur die Hälfte des Stroms erhält. In dem gegebenen Fall berechnen wir die Leuchtzeit für die unterschiedlichen Szenarien. Die Ergebnisse lauten: Option A und Option D sind korrekt.",
+  "antwortoption": "A, D"
+}

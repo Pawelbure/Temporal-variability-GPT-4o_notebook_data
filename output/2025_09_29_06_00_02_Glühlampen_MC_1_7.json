@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die jeweiligen Konfigurationen basierend auf den Annahmen und der gegebenen Situation: Eine Batterie liefert über die Zeit t eine konstante Energie an eine Glühlampe. \n\n1. Annahmen: Jede Batterie liefert eine definierte Energiemenge, der Widerstand der Glühlampen bleibt konstant. \n2. Analyse der Schaltungsarten: \n- Serie: Spannungen der Batterien addieren sich; der Strom wird geteilt. \n- Parallel: Batterien teilen die Last, Spannung bleibt konstant; Glühlampen teilen Strom. \n3. Lösung: \n   - Aussage A: Falsch, in Serie verlängert sich die Zeit.\n   - Aussage B: Richtig, Energie wird je gleichmäßig verteilt.\n   - Aussage C: Falsch, in Parallelkonfiguration bleibt t gleich.\n   - Aussage D: Richtig.",
+  "antwortoption": "B, D"
+}

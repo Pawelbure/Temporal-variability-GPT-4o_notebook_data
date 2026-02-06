@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir zunächst einige physikalische Grundkonzepte: 1) Spannungsquellen in Serie addieren ihre Spannungen, während parallele Spannungsquellen dieselbe Spannung liefern wie eine einzelne Quelle, aber sich die Ladekapazität (maximale Gesamtladung) addiert. 2) Der Widerstand einer Glühlampe ändert sich nicht mit der Zeit (wie in der Annahme dargelegt). 3) Zwei Glühlampen in Serie verdoppeln den effektiven Widerstand, während parallele eine äquivalente Reduktion gemäß 1/R_ges = 1/R_1 + 1/R_2 bewirken. Gegeben: Jede Batterie reicht aus, eine Glühlampe Zeit ‚t‘ zu betreiben, was impliziert, dass die Energie in der Batterie konstant ist. Durchführung:",
+  "antwortoption": "A"
+}

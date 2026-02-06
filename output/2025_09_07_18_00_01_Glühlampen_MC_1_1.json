@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Fragestellung zu lösen, analysieren wir die vier angegebenen Szenarien der Schaltungskomponenten (Batterien und Glühlampen) einzeln. Wir berücksichtigen dabei die Annahme, dass Batterien identische Spannung U und Kapazität Q haben sowie Lampen als reine ohmsche Widerstände mit konstantem Widerstand R betrachtet werden können, und bestimmen die resultierenden Spannungen und Ströme. Anschließend berechnen wir die Entladezeit der Batterien in jedem Szenario, da diese die maximale Betriebszeit der Lampen bestimmt. Die detaillierte Analyse zeigt, dass nur Option D gilt, da beide Batterien ihre Kapazitäten gleichmäßig teilen und die parallele Beschaltung der Lampen keine Änderung ihrer individuellen Entladezeit bewirkt.",
+  "antwortoption": "D"
+}

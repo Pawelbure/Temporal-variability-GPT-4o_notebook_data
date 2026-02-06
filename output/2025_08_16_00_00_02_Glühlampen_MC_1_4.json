@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmeend enthält jede Batterie die gleiche Ladungsmenge und Spannung. Wir analysieren die Schaltungen:\n\n- A) Mit zwei in Serie geschalteten Batterien verdoppelt sich die Spannung, was bei serieller Schaltung der Lampen keinen Stromänderung bewirkt, jedoch verdoppelt es die Energie in den Lampen, was die Zeit proportional verlängert.\n\n- B) Parallele Lampen mit seriellen Batterien halbieren den Gesamtstromverbrauch und verlängern die Leuchtdauer.\n\n- C) Zwei parallele Batterien verdoppeln die Kapazität, Lampen in Serie führen zur Verdopplung der Spannung, was die Leuchtdauer auf das Doppelte explodiert.\n\n- D) Parallele Batterien mit parallelen Lampen halten die normale Leuchtdauer von Lampen.",
+  "antwortoption": "C"
+}

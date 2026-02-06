@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, betrachten wir die elektrische Schaltung und die Energieabgaben der Batterien. Wir gehen hierbei von idealisierten Batteriezuständen (keine internen Verluste) und konstantem Widerstand der Glühlampen aus. Jede Batterie beleuchtet eine Lampe für die Dauer t, was bedeutet, dass sie über diese Zeit eine konstante Energieabgabe an das Lampensystem hat. Die zur Verfügung stehende Energie der Batterien wird also jeweils identisch verwendet. Durch die unterschiedlichen Verschaltungen der Batterien und Glühlampen in Serie oder parallel ändern sich die Spannungs- sowie Stromverhältnisse im System. Dies beeinflusst, wie lange die Glühlampen leuchten können.",
+  "antwortoption": "D"
+}

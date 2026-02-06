@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Jede Batterie liefert eine konstante Spannung, und die Glühlampe hat einen konstanten Widerstand. Die Kapazität und Spannung der Batterien sind identisch. Das Ohmsche Gesetz beschreibt den Strom durch die Lampen. Analyse: \n- Wenn zwei Batterien und zwei Lampen in Serie sind, verdoppelt sich die Spannung, was den Strom verdoppelt. Der quadratische Leistungsbezug verkürzt die Betriebszeit auf ein Viertel (t/4). \n- In der Konfiguration Batterien in Serie, Lampen parallel, bleibt die Spannung auf jeder Lampe unverändert. Die Stromabgabe beträgt doppelt so viel, auspärmt sich darauf aber halbieren. \n- Parallele Batterien und Lampen in Serie verdoppeln die Laufzeit, da der komulative Energiegehalt der Batterien addiert wird. \n- Parallele Batterien und Lampen addierenstöme parallel Llevant para nach Gleichlauf erfüllt Betrieb etwa gleichgehalten bleiben.",
+  "antwortoption": "A, C, D"
+}

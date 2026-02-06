@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gegebene Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungsoptionen unter der Annahme idealer Batterien und Glühlampen (konstanter Innenwiderstand und Spannung):\n\n1. **Serie-Schaltung von Batterien und Lampen:**\n   Wenn die Batterien in Serie geschaltet sind, verdoppelt sich die Gesamtspeisespannung. Bei zwei Lampen in Serie teilt sich diese Spannung gleichmäßig auf beide Lampen, sodass jede Lampe bei gleicher Stromstärke wie bei einer Batterie betrieben wird. Da jedoch der Strom durch beide Lampen der gleiche ist wie beim einzelnen Lämpchen und derselbe Strom doppelt durch die Batterie fließt, bleibt t (oder ein Vielfaches) erhalten.\n\n2. **Batterien in Serie, Lampen parallel:**\n   Bei Batterien in Serie bleibt die Spannung erhalten.\n\n3. **Batterien parallel, Lampen parallel:**\n\nBesprechen 1.",
+  "antwortoption": "B, D"
+}

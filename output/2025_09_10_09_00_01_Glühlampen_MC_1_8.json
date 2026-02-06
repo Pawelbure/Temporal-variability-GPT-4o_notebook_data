@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Analyse gehen wir von folgenden Annahmen und Idealitäten aus: Jede Batterie ist eine ideale Spannungsquelle mit einer konstanten Spannung U, ein konstanter Innenwiderstand wird nicht berücksichtigt. Die Glühlampen besitzen einen konstanten Widerstand R und zeigen keine Stromänderung oder Abhängigkeit durch Temperatur – sie leuchten konstant bei einer Energieversorgung. Für die Energiebetrachtungen der Batterien wird angenommen, dass jede maximal eine Ladungsmenge Q liefern kann, bevor sie als entladen betrachtet wird.",
+  "antwortoption": "D"
+}

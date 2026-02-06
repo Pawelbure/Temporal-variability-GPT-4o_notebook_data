@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe macht mehrere Annahmen: Der Widerstand der Glühlampen und die Kapazität der Batterien sind konstant. Der Innenwiderstand der Batterien wird vernachlässigt. In Serie werden Spannungen addiert, in Parallelschaltung addieren sich Kapazitäten. Die Energieabgabe einer Batterie ist proportional zu ihrer Kapazität. Die Leistung P einer Lampe ist abhängig von P=U²/R, wobei R konstant bleibt. Aus den Schaltungen und den Wechselwirkungen ergeben sich:\n\nA) Serie: Batteriespannung verdoppelt => Leistung pro Lampe vervierfacht => Brenndauer viertelt sich: korrekt.\nB) Parallele Lampen bei reihenweiser Spende: Laufzeit reduziert, aber Verhältnis nicht wie erwartet: falsch.\nC) Parallelbetrieb Batterien gibt keine verdoppelte Energie: Zeit bleibt unverändert: falsch.\nD) Parallele Lampen korrekt konstant.",
+  "antwortoption": "A"
+}

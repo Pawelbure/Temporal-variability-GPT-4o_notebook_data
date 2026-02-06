@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: \n- Die Batterien sind ideal und besitzen keinerlei Innenwiderstand. \n- Der Energieverbrauch der Glühlampen ist konstant, indem ihr Widerstand als gleichbleibend akzeptiert wird. \nPhysikalische Konzepte: Eine Batterie liefert bei einer Serie- oder Parallelschaltung unterschiedliche Spannungen, welche Einfluss auf die Leistung und somit die Laufzeit im gegebenen Schaltungssystem hat. \nBegründung der Aussagen: \nA) Falsch: In serieller Konfiguration einer doppelten Stromkreislänge wird die Spannung pro Glühlampe halbiert, was keine Reduktion der Laufzeit t erzeugen sollte. \nB) Falsch: Gemäß gegebener Idealspannungsregel können parallele Konfigurationen nicht harmonisieren. \nC) Falsch: Serienbelastete Batterien induzieren keinen Ressourcenverbrauchsentlast. \nD) Richtig: Gleicher Durchleitbetrieb wie reduzierend. ",
+  "antwortoption": "D"
+}

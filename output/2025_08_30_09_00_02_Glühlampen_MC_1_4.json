@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Gehen wir analytisch vor: \n1. Die Kapazität jeder Batterie sei konstant mit der gespeicherten Ladungsmenge q und der Batteriespannung V. Die Lampe wird durch einen Widerstand modelliert, wodurch der Strom I und die Leistung P konstant bleiben.\n2. Wir untersuchen jede Schaltung im Hinblick auf Strom ODER Spannung auf der Lampe und die Entladungsrate der Batterie.\n3. Schaltung A: Lampen und Batterien in Serie = Strom sinkt auf einen Viertel -> Leistung auf ein Viertel -> Entladung in 2t statt t (da Energieverbrauch langsamer) allerdings kurz vermute.",
+  "antwortoption": "D"
+}

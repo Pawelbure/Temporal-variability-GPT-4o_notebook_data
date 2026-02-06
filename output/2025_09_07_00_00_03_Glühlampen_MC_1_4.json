@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Situationen der Problembeschreibungen: Zwei Batterien und zwei Glühlampen werden in verschiedenen Kombinationen aus seriellen und parallelen Schaltungen verbunden, wobei die Batterien und Glühlampen als ideal betrachtet werden. Die Zeit t, in der eine einzelne Batterie eine einzige Glühlampe betreibt, dient als Maßstab. Prinzipiell teilen oder summieren sich Spannungen und Ströme je nach Art der Schaltung (parallel oder seriell). Wir berechnen die Energie und Leistung jeder Konfiguration einzeln und stellen sie in Bezug auf die Basiszeit t dar. Nach der Analyse ist korrekt, dass die Aussagen B und D den physikalischen Bedingungen entsprechen.",
+  "antwortoption": "B, D"
+}

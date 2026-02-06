@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Voraussetzungen und Annahmen: Jede Batterie hat eine endliche Energiemenge und die Glühlampe hat einen konstanten Widerstand. Die Energieabgabe der Batterie ist direkt proportional zum Produkt aus angelegter Spannung und Laststrom, multipliziert mit der Zeit. Den Widerstand der Glühlampe nennen wir R, und die Spannung einer Batterie sei U. 1. Szenario (Batterien in Serie, Lampen in Serie): Die doppelte Spannung wird an zwei seriell geschaltete Widerstände angelegt. Der Gesamtwiderstand beträgt 2R, der Strom I=U/2. Der Gesamtverbrauch je Lampe bleibt gleich, somit beträgt die Betriebsdauer t. 2. Szenario (Batterien in Serie, Lampen parallel): Der Parallelwiderstand ist R/2 mit 2U, der Strom pro Lampe erhöht sich, ergibt somit T=t/2. Szenarien (batterielte Parallel): Die Laufzeit verdoppelt sich bei Absenkung des Einzelstroms. Angleichen Situationen zeigen Differentiale je nach Parallelität.",
+  "antwortoption": "D"
+}

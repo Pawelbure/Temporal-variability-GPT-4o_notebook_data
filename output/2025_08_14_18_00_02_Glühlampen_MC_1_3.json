@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, überprüfen wir die Szenarien:\n\n1) Serienschaltung der Batterien und der Glühlampen:\n    - Die Spannungen der beiden Batterien summieren sich.\n    - Der Strom durch die Lampen ist derselbe, da diese in Serie geschaltet sind, aber der Widerstand verdoppelt sich.\n    - Gesamte Energie = Spannung * Strom * Zeit. Da die Stromaufnahme t/2 ist, gilt: Betriebszeit = t/4.\n\n2) Serie Batterien und Lampen parallel:\n    - Die Spannung verdoppelt sich, und die Lampen belasten separat und verbrauchen gesamthaft den Batteriestrom unabhängig voneinander.\n    - Da jeweils nur die halbe Zeit beansprucht wird: 1 Batterie verbraucht => t/2.\n\n3) Parallelbatterien/Serienlampen:\n   - Die Spannung bleibt wie einer, aber länger durch Parallelschaltung.\n\n4 ) beide parallel: am klar klassischen single Version Test.",
+  "antwortoption": "A, B"
+}

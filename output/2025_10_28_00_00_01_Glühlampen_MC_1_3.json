@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Das Problem betrachtet den Einfluss verschiedener Schaltungsarten auf die Wirkungsdauer von Batterien und Glühlampen. Annahmen schließen eine konstante Spannung der Batterien während der Entladung, idealisierte Stromleitungen und Glühlampen mit konstantem Widerstand ein. Wichtige Begriffe: Innere Widerstände der Batterie können vernachlässigt werden und Energieinhalt der Batterien ist fix. Standardfall: Eine Batterie betreibt eine Glühlampe für Zeit t. Durchführung: 1) Batterien in Serie verdoppeln die Gesammtspannung, 2) Batterien parallel erhöhen Kapazität. A: Serien-Batterien erhöhen Stromverbrauch 4-fach, Laufzeit t/4. B: Parallelschaltung der Lampen halbiert Gesamtstromversorgungslaufzeit: t/2. C & D: Ergänzen Modelle.",
+  "antwortoption": "A, B"
+}

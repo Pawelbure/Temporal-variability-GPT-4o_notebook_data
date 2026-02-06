@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Konzept:\nDie Batterien haben jeweils die gleiche Kapazität \\(C\\) und Spannung \\(U\\). Die Glühlampen haben gleiche Widerstände \\(R\\) und betreiben mit konstantem Widerstand. Es gelten Grundformeln des Stromkreises: Ohmsches Gesetz \\(U = I·R\\), Strom \\(I = \\frac{U}{R}\\), entnehmene Energie \\(E = U·I·t\\). Die Kapazität verändert die maximal entnehmbare Energie der Batterien pro Richtung \\(E = C·U^2\\).",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zuerst analysieren wir die Annahmen und relevanten Konzepte: Batterien haben eine bestimmte Kapazität (Ladung) und eine konstante Spannung. Jede Batterie liefert eine gleichbleibende Energie, bis sie entladen ist. Widerstände der Glühlampen ändern sich mit der Zeit nicht.Um die Situation zu analysieren: Die Energieabgabe durch die Batterie und die Energieaufnahme durch die Lampe betragen jeweils U*I*t, w",
+  "antwortoption": "D"
+}

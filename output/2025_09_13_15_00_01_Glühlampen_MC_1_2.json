@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Fragestellung zu beantworten, berücksichtigen wir die relevanten physikalischen Grundlagen über Batterien, Glühlampen und deren Schaltung.Konventionen:\n- Jede Batterie hat eine bestimmte Energiemenge, E, sowie eine bestimmte Spannung, U.\n- Glühlampen haben einen Widerstand, R. Wenn sie angeschlossen sind, nehmen sie eine Leistungsmenge (P=U^2/R) auf.\n\n Analyse der Optionen:\nOption A: Batterien und Lampen in Serie: Die Spannung verdoppelt sich, jedoch fließt derselbe Strom durch die Lampen wie bei einer Einzelbatterie. Der Energieverbrauch erfolgt doppelt so schnell.Sean: Akkus werden in halber Zeit entladen.\nOption B:\nOption C:\n\n\n Final",
+  "antwortoption": "D"
+}

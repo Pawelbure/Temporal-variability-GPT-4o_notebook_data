@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für diese Aufgabe nehmen wir an, dass die Batterien ideale Spannungsquellen sind und gleiche Kapazitäten besitzen. Des Weiteren bleibt der Widerstand der Glühlampen konstant, unabhängig von der angelegten Spannung, und wir betrachten keine Temperatur- oder andere Verlustmechanismen.\\n\\nPhysikalische Gesetze, die hier relevant sind, umfassen das Ohmsche Gesetz $U=IR$, die Gleichspannungs-Serien- und Parallelschaltungsregeln für Batterien sowie die Energieübertragungsprinzipien.\\n\\nDurchführung der Analyse:\\n- Betrachtung von Schaltungsvarianten hinsichtlich der Energieabgabe der Batterien sowie des Widerstands über den Lampen.\\n- Abschätzung der Strom- und Energieverteilung entsprechend der jeweiligen Schaltungsart.\\n\\nAnalyse der vier angegebenen Szenarien:\\n",
+  "antwortoption": "D"
+}

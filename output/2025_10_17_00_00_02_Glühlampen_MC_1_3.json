@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Frage zu beantworten, analysieren wir die Eigenschaften der verschiedenen Schaltungen basierend auf die Energieabgabe der Batterien und den Eigenschaften der Lampe: 1) Wenn Batterien und Lampen in Serie geschaltet sind (Option A): Zwei Lampen in Serie erhöhen den Gesamtwiderstand, der Strom wird reduziert und somit die Dauer verlängert. Die Aussage mit t/4 ist falsch. 2) Batterien in Serie, Lampen parallel (Option B): Jede Batterie benötigt ihren Strompfad. Hier wird die halbe Lebenszeit erwartet, t/2 ist korrekt. 3) Batterien parallel, Lampen in Serie (Option C): Hier wird auch durch die Stromverteilung Energie länger genutzt, was 2t bestätigt. 4) Batterien in Parallelem Lampenschaltung bestätigt gleicht auch längerem Betrieb, so t ist korrekt. Nach diesen Betrachtungen ist die Auswahl B, C und D korrekter natur.",
+  "antwortoption": "B, C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir lösen die Frage unter folgenden Annahmen: Jede Batterie hat eine konstante Spannung und speichert eine gleiche Gesamtladungsmenge (q). Jede Glühlampe hat dasselbe ohmsche Verhalten (Widerstand R), und jede verbraucht Energie proportional zur Spannung über ihr. Nutzen wir die Konzepte des Energieverbrauchs, des Ohmschen Gesetzes und der Kapazität der Batterien, um die Szenarien zu analysieren: A) Batterien und Lampen in Serie: Der Widerstand verdoppelt sich, der Strom wird halbiert, und die Zeit der Energieabgabe sinkt, was zu einer Zeit von t/2 führt. B) Batterien in Serie, Lampen parallel: Jede Batterie gibt wie eine einzelne Energie an (addieren sich nicht kapazitiv). C) Batterien parallel, Lampen in Serie: Zeit bleibt gleich pro Batterie. D) Batterien und Lampen parallel: Zeit t. Daher ist die korrekte Betrachtung: B (t/2) ist richtig.",
+  "antwortoption": "B"
+}

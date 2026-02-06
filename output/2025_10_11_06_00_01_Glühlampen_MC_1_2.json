@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen Eigenschaften von Batterien und Lampen im Kontext unterschiedlicher Konfigurationen und Ströme. Annahmen: Die Batteriekapazität bleibt konstant; jeder Lampe ist konstant mit einem Widerstand R charakterisiert.\\n\\n(B) Batterien in Serie und Lampen parallel: Die Spannungen der Batterien addieren sich. Der Strom teilt sich gleichmäßig auf die parallelen Lampen auf. Die Möglichkeit, dass jede Batterie schneller entladen wird, erklärt, dass die Lampen in dieser Konfiguration für t/2 leuchten können.\\n\\nÜberprüfung der weiteren Aussagen zeigt, dass nur Aussage (B) korrekt ist.",
+  "antwortoption": "B"
+}

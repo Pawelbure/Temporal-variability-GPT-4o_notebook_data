@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Überlegungen: 1. Jede Batterie liefert eine konstante Spannung U und hat eine Energiekapazität E. 2. Jede Lampe hat einen konstanten Widerstand R. 3. Es gilt die Beziehung P=U^2/R für die Leistung, die eine einzelne Lampe verbraucht. ### Analyse der Schaltungen: - Schaltung A: Batterien in Serie, Lampen in Serie: Die Gesamtspannung wird verdoppelt, der Widerstand ebenfalls, sodass der Strom halbiert ist. Die Leistungsaufnahme ist dann halbiert, daher hält die Energie länger. - Schaltung B: Batterien in Serie, Lampen parallel: Die Gesamtleistung wird sich aufteilen, und die Leistung bleibt die einzelne Batteriedauer als mittleres Bezugskriterium. - Schaltung C: Batterien parallel, Lampen in Serie: Die Spannung bleibt gleich und die Energiedauer verdoppelt daher insgesamt. ### Antwort:",
+  "antwortoption": "C"
+}

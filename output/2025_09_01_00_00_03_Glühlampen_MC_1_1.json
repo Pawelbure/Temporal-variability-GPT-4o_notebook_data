@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jede Aussage basierend auf den grundlegenden Prinzipien der Elektrotechnik. Wir nehmen an, dass die Spannung jeder Batterie V beträgt und jede Batterie die gleiche Ladung Q liefern kann. Der Widerstand jeder Glühlampe wird durch R dargestellt. Die Batterie liefert bei Anschluss an eine Lampe gemäß den gegebenen Informationen für eine Zeitdauer t den Strom I = V/R. Die gelieferte Ladung beträgt daher Q = I * t = (V/R) * t = V * t / R. Gehen wir nun die verschiedenen Gegebenheiten durch: \n\nA) Zwei Batterien und Glühlampen in Serie: Die Gesamtspannung verdoppelt sich auf 2V, der Gesamtwiderstand beträgt 2R, daher bleibt der Stromfluss konstant wie bei einer Batterie mit einer Lampe. Es wird keine Änderung in der Zeitdauer festgestellt, daher ist diese Option falsch.",
+  "antwortoption": "A"
+}

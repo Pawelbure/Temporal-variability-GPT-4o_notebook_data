@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Die Batterien sind ideal mit identischer Spannung V und Kapazität Q (Ladung), die Lampe hat einen konstanten Widerstand R, die Betriebsdauer überwacht die Batterieentladung. Physikalische Grundlage: P=V²/R beschreibt die Leistungsaufnahme der Lampe, die geladene Energie E beträgt Q·V. Wenn zwei Lampen in Serie betrieben werden, beträgt der Gesamtwiderstand 2R und die Spannung jeder Batterie bleibt V, was zu einer Leistung P einer jeden Lampe von V²/(2R) resultiert.",
+  "antwortoption": "D"
+}

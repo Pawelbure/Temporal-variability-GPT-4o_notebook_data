@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Angenommen wir verwenden zwei identische Batterien und zwei identische Glühlampen, mit bekanntem Innenwiderstand R der Lampen und konstanter Spannung U der Batterien. Wir analysieren vier verschiedene Verschaltungen:\n\n**Analyse der Verschaltungen:**\n\n**A) Batterien in Serie, Glühlampen in Serie:**\nGesamte Spannung verdoppelt sich, R gesamt = 2R => Strom halbiert sich, daher Betreibungszeit bleibt t\n\n**B) Batterien in Serie, Glühlampen parallel:** \nklingt unlogisch wird  geprüft\n\nAber rein bleibt sta dabei heraus",
+  "antwortoption": "A"
+}

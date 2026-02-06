@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gegebene Problemstellung zu lösen, betrachte ich die vier angegebenen Szenarien unter Berücksichtigung idealisierter Annahmen: Die Batterien liefern einen konstanten Strom, bis ihre Energie aufgebraucht ist; der Widerstand der Glühlampen bleibt konstant; alle Batterien und Lampen sind identisch und ideal. In Modell 1 wird die Spannung aufgeteilt, was den Betriebsstrom verringert, in Modell 2 hingegen summieren sich die Ströme aufgrund der Schaltungsanordnung. Die Zeit der Energiemaximierung ergibt sich aus der Energieverteilung und dem Verbrauchsmodus der Lampen. Dies führt für die Optionen A, B, C und D zu einem Szenarienvergleich, wobei D alleine mit einer Betriebszeit von t optimal ist.",
+  "antwortoption": "D"
+}

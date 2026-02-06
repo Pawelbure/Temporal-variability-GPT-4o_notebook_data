@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Schritt 1: Annahmen und Grundlagen. Wir betrachten ideale Batterien (konstante Spannung bis zur Entladung) und Glühlampen (konstanter Widerstand R). Die Kapazität einer Batterie sei Q, die Entladung liefert Energie proportional zu QU.\n\nSchritt 2: Betrachtung der Konfigurationen:\n- Fall A: Serienschaltung von Batterien und Lampen. Gesamtspannung verdoppelt sich, die Stromstärke bleibt halbiert, da 2R der Gesamtwiderstand ist. Die Leistung bleibt konstant bei einem Lampenstrom von I=U/R, daher t=t/4.\n- Fall B: Dopelte Spannung liefert doppelte Leistung an jede Lampe. Beide leuchtet mit einem t=t/2.\n- Fall C: Parallelschaltung liefert gleiche Spannung wie bei Einzelbatterie, bessert die Betriebszeit des leichten Doppelwiderstands R bei t=bisheriger Kapazität 2×Q×t\n- Fall D: Parallele Stromquellen und Verbraucher führen Betriebszeiten laminarerweise gleichlich.",
+  "antwortoption": "D"
+}

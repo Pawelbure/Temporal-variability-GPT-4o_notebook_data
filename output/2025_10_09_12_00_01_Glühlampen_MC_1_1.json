@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren Schritt für Schritt die vier Szenarien unter Berücksichtigung der gegebenen Annahmen:1. Annahmen: Es wird angenommen, dass die interne Spannung (V) und Kapazität (C) der Batterien konstant ist, der Widerstand (R) der Glühlampen fix bleibt und Effekte wie Wärmeverlust und Spannungseinbrüche vernachlässigt werden. Es wird weiterhin gesetzt, dass die Leistung P Glühlampe = V²/R sich wie beschrieben verhält.2. Grundlagen: Für Batterien in Serie addieren sich die Spannungen (2V gesamt), Kapazität bleibt identisch. Bei Batterien parallel bleibt die Spannung wie bei einer Batterie (V), Kapazität verdoppelt sich (2C). Bei parallelen Glühlampen addieren sich 1/R_wertseitig, resonant doppelte Stromstärke erzeugend. Bei in Serie bleibt Stromstärke identisch, wodurch eine Halbierung resultierender R wichtig wird.",
+  "antwortoption": "D"
+}

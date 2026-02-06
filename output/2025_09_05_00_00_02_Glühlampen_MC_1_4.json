@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir jede der gegebenen Schaltungsvarianten:\n\n1. **Grundannahmen:** Jede Batterie liefert eine konstante Energie bis zur vollständigen Entleerung. Der Widerstand der Glühlampen (R) ist über den gesamten Zeitraum konstant, und folglich ist die Energieabgabe nur von der Schaltungsart abhängig.\n\n2. **Analyse der Schaltungen:**\n   - **Serienschaltung beider Komponenten (A):** Da die Spannung der Batterien addiert wird (2V), ist der Strom im Soring 2I. Durch die längere Ladeentleerungszeit ist die Glühlampenlaufzeit dabei durch Rs Form\n",
+  "antwortoption": "B"
+}

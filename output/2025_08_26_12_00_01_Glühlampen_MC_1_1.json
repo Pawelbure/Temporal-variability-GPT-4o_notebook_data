@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zur Lösung analysieren wir jede Schaltungskonfiguration unter der Annahme idealer Bedingungen (keine internen Verluste in den Batterien, und konstanter Widerstand der Glühlampen). 1. Schaltung: Batterien und Glühlampen in Serie. Die Gesamtspannung (2U) halbiert sich über jede Lampe, verringert jedoch den Stromfluss und erhöht die Lebenszeit. Die Kombination wird t Lebenszeit aufweisen, nicht t/4 (daher A falsch). 2. Batterien in Serie, Lampen parallel. Jede Lampe erhält U Spannung, und der parallele Stromfluss teilt die Batterie zeitlich, wodurch die Lebenszeit t/2 beträgt (B korrekt). 3. Batterien parallel, Lampen in Serie. Die Gesamtspannung ist U, jedoch halber Stromfluss pro Lampe, wodurch die Lebenszeit verdoppelt wird (2t, C korrekt). 4. Batterien und Lampen parallel: Jede Lampe erhält U Spannung mit reduziertem gemeinsamem Stromfluss, sodass die Lebenszeit t beträgt (D korrekt).",
+  "antwortoption": "B, C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die Batterie-Geometrie und die Resultierende Spannung sowie den Stromfluss:\n\n1. Batterien in Serie erhöhen die Spannung, jedoch bleibt die Kapazität, d.h. die entziehbare Ladung, unverändert. Wenn die Batterien parallel geschaltet sind, bleibt die Spannung konstant, jedoch verdoppelt sich die Kapazität.\n\n2. Seriengeschaltete Lampen erhöhen den Gesamtwiderstand, während parallele Schaltungen den Gesamtwiderstand verringern.\n\nBetrachten wir die Szenarien im Detail:\n\nA) Batterie in Serie (2V): Lampen in Serie --> Der Ladungsentzug bleibt gleich, aber es fliesst weniger Strom und die Spannung pro Lampe halbiert sich. Ergebnis: Zeit bleibt gleich bei idealen Bedingungen.\n\nB) Batterie in Serie 2 Lampen in parallel --> Spannung bleibt etwa hälftige Entladung, Laufzeit bleibt gleiche.\n\nAntwort: Konsonant",
+  "antwortoption": "A"
+}

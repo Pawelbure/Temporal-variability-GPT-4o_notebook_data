@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst analysieren wir das Problem mithilfe der Grundgesetze der Elektrotechnik und berücksichtigen die Voraussetzungen der Aufgabenstellung. Annahmen: Die Batterie liefert während ihrer Lebensdauer konstante Spannung und ist durch die entnommene Ladung vollständig definiert; der Widerstand jeder Glühlampe bleibt konstant; Energieverluste in der Leitungsverbindungen sind vernachlässigbar. Die elektrische Energie, die eine Glühlampe aufnimmt, hängt von der Stromstärke und der Polarisation ab. Die Anordnung der Batterien und Lampen in Serie oder parallel beeinflusst die Spannung und den Strom durch die Lampen erheblich. Berechnung der unterschiedlichen Konfigurationen zeigt, dass Aussage D korrekt ist, weil parallele Schaltung der Batterien und Lampen jeweils gleichen Strom ermöglicht, wobei jede Batterie gleich stark ausgenutzt wird.",
+  "antwortoption": "D"
+}

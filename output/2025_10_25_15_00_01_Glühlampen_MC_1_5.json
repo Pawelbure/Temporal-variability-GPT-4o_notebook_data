@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragestellungen zu beantworten, berücksichtigten wir: 1) Zwei gleiche Batterien liefern die gleiche Spannung (V) und Kapazität (Q). 2) Glühlampen haben bei konstanter Spannung einen festen Widerstand (R). 3) Energieabgabe der Batterien ist proportional zu ihrer Kapazität. A) Serie beider ergibt verdoppelte Spannung: 2V. Serie Lampe ergibt 2R, daher erzeugt P=(2V)^2/(2R), identisch zu einer Batterie mit einer Lampe. Somit wäre t korrekt: folgen etwa t. Nicht t/4. B) Serie Batterien 2V. Parallel Lampen: Jedes erlebt 2V. Zweifache P. Daher t/2. Wirklich. C) wie A mit Strom ne? falsch Gegenteil t. D auch jeweil mit P und Kap. Nein doch wirklich korrekt.",
+  "antwortoption": "B, D"
+}

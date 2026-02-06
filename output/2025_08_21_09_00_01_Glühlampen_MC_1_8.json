@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Schaltungen: 1) Für zwei Batterien und Glühlampen in Serie verdoppelt sich die Spannung und der Strom durch die Lampen wird verdoppelt, was die Betriebszeit auf t/4 reduziert. 2) Zwei Batterien in Serie und Glühlampen parallel entsprechen einer Spannungserhöhung, wobei die Stromverteilung die Lebensdauer auf t/2 reduziert. 3) Zwei parallele Batterien verlängern die Betriebszeit auf 2t, da der Strombedarf einzelner Lampen nur die Hälfte benötigt. 4) Sowohl Batterien als auch Lampen parallel bringen den Verbrauch auf Standard, die Lebenszeit bleibt t.",
+  "antwortoption": "A, B, C, D"
+}

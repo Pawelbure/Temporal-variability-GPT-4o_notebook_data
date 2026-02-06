@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Analyse der Aufgabe unter idealisierten Bedingungen\n\n1. **Annahmen:**\n   - Jede Batterie besitzt eine Kapazität, die direkt proportional der Energie entnommen wird.\n   - Die Spannung der Batterien bleibt während der Entladung konstant.\n   - Die Widerstandswerte der Glühlampen sind gleich und konstant.\n2. **Relevante Konzepte:**\n   - Serienschaltungen erhöhen die Spannung entsprechend der Summe der Batterien (oder widerstände).\n   - Parallelschaltungen erhalten die Spannung und summieren die Kapazität.\n\n**Analyse der Optionen:**\n\n- **Option A:**: Bei einer Serienschaltung erhöht die höhere Spannung des Doppels der Quellen den Entladestrom durch Gleiche Widerstände, dieser ist im Quadrat proportional höher, daher bleibt Batterieenergie nur kürzere Gemenge dennoch halber Halves.\n- ...",
+  "antwortoption": "A"
+}

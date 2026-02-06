@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, machen wir einige Annahmen: Batterien haben die gleiche Spannung und Kapazität, und Glühlampen haben gleichen Widerstand. Wichtig ist, den Stromfluss und die Energieabgabe im Zusammenspiel verschiedener Schaltungen zu verstehen. Für jede Konfiguration berechnen wir, wie Strom, Spannung und Zeit sich verhalten, wenn die Batterien entladen werden. 1) In Serie geschaltete Batterien verdoppeln die Spannung. 2) Parallele Batterien verdoppeln die Kapazität. Weiter analysieren wir die Auswirkungen auf die Glühlampen. Die Ergebnisse zeigen, in welchem Szenario wie viel Energie geliefert wird und wie lange dies jeweils dauert.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: - Die Batterien und Glühlampen sind identisch. - Die Batterien haben konstante Ausgangsspannung bis zur vollständigen Entladung. - Der Widerstand der Glühlampen (R) ist konstant. - Vernachlässigung von Verlusten in den Verbindungen. Relevant ist das Verhalten des Stroms und der Leistung im Stromkreis abhängig von der Schaltung der Batterien und Lampen. Lösen der Aufgabenstellung: A) Bei serieller Schaltung verdoppelt sich die Spannung, wodurch der Strom quadratisch steigt. Beide Lampen teilen den Strom. t_eff= t / 4 passt. B) Bei seriellen Batterien erhöht sich Spannung, Strom steigt, Auswirkungen auf Zeit? Berechnungen: Dieses Resultat ist so nicht korrekt. C) Parallele Batterien verlängern Betriebszeit. Serielle Lampen: Gesamtstrom sinkt, Zeitverlängerung? Ergebnis passt nicht. D) Parallele Schaltung: Zeit bleibt konstant bei homogenen Bedingungen: Entspricht Darstellung.",
+  "antwortoption": "D"
+}

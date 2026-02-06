@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir die Szenarien unter Berücksichtigung der Annahmen und wichtigen elektrischen Prinzipien: Die Leistung (P) einer Lampe wird durch die Formel P = U²/R beschrieben, wobei U die Spannung an der Lampe ist und R der konstant bleibende Widerstand der Lampe beschreibt. 1. Szenario: Zwei Batterien wirken in Serie. *Jeweilige Spannung:* 2U * 2 Lampen in Serie: Dadurch fließt derselbe Strom durch beide Lampen. Die Gesamtspannung (2U) wird auf beide Lampen verteilt, wodurch jede Lampe eine Spannung von U erhält. Zum Betreiben von zwei Lampen wird die Energie zweier Batterien verbraucht, was zu einer Halbierung der Dauer, also t/2 führt, da beide Batterien zusammenarbeiten. 2. Szenario: Zwei Batterien parallel. Die jeweilige Spannung bleibt U für jede Lampe. *2 Lampen gleich parallel:* Jede wird separat gespeist, jedoch teilen sich die Batterien den Energieabstoß.",
+  "antwortoption": "D"
+}

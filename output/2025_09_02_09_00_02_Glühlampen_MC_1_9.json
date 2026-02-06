@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Jede Batterie liefert unter bestimmtem Widerstand konstant eine Energie E, und jede Lampe hat einen festen Widerstand R_L. Die Kapazität der Batterien verdoppelt sich bei Parallelschaltung, während die Gesamtspannung bei Serienschaltung addiert wird. \n\nAnalyse:\n\n1. Serienschaltung von Batterien und Lampen (A):\n   Der Gesamtwiderstand der Lampen ist 2R_L. Der Strom durch den Gesamtwiderstand beträgt I = U / (2R_L), und die Gesamtspannung der batterien beträgt 2U. Die Leistung beträgt P = I^2 * 2R_L = U^2 / R_L. Die Glühlampen leuchten daher mit einer konstanten Energieabgabe, die zur Geamtkapzit von 2E führt, die Zeit ist e= E / P = t / 4. \n\n",
+  "antwortoption": "A"
+}

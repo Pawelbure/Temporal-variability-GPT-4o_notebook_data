@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekten Antworten zu bestimmen, analysieren wir jede Schaltungsvariante und berechnen die Betriebsdauer:\n\n1. **Annahmen:** Batterie liefert konstante Energie bis zur Entleerung; Lampe hat konstanten Widerstand und Power.\n   \n2. **Gegeben:** Jede Batterie hat eine Kapazität E und jede Lampe benötigt eine konstante Leistung P.\n   \n   **A) Batterien und Lampen in Serie:** \n   -> Die Spannung der Batterien addiert sich, verdoppelt die Gesamtspannung. \n   -> Der Strom durch jede Lampe halbiert sich wegen des doppelten Widerstands. P bleibt gleich, da V verdoppelt und I halbiert ist. Aber die Energie der Batterien verteilt sich in geringerer Zeit, da P verdoppelt wird. Produkt der Zeit zur Spannung passt zu t/4.\n\n3. Rezitieren wir den Verfahren für andere Optionen: Aufgrund der konzisen Darstellung und Überlaufmöglichkeit.",
+  "antwortoption": "A, D"
+}

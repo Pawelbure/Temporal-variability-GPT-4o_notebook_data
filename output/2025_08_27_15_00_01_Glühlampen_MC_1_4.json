@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu lösen, betrachten wir die jeweiligen Szenarien unter Anwendung des Ohm'schen Gesetzes und der Gesetze zur Konsistenz der Spannungen und Ströme bei Reihen- und Parallelschaltungen. Unter der Annahme, dass die Batterien identisch sind und jede Batterie eine Kapazität besitzt, die eine Lampe für eine Zeit t betreiben kann, analysieren wir die Konfigurationen wie folgt: \n\n  1. Serie Batterie/Lampe: Bei Serienschaltung addieren sich die Spannungen, teilen sich aber die Kapazität und damit wird die Zeit auf t/n reduziert.\n  2. Parallel Batterie mit Serie Lampe: Die Kapazität wird addiert und die Zeit verlängert um 2t/n\n\nDie relevanten physikalischen Konzepte: 1. Energiespeicherformel; Energie= Strom x Zeit und dass diese konstant bleibt.\nDaher final validierte Abwägung die richtige ist wie folgt\n",
+  "antwortoption": "B, D"
+}

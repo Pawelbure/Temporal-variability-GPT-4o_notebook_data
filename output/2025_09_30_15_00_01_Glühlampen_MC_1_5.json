@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Analyse und Annahmen\n1. Jede Batterie hat eine Spannungsquelle mit einer Initialladung Q_0.\n2. Jede Glühlampe hat einen Widerstand R und leuchtet bei einer Stromstärke I, die durch sie fließt.\n3. Die Batterien entladen sich vollständig und liefern dann keine Spannung mehr.\n\nDie Möglichkeit, die Batterien und Glühlampen parallel und in Serie zu schalten, verändert die Gesamtspannung und den Gesamtstrom, der durch das System fließt. Das bedeutet, dass dies die Nutzungsdauer beeinflusst.\n\n### Einzelne Aussagen analysiert\n\n**A) Batterien und Glühlampen in Serie (Zeit = t/4)**\n- Gesamtwiderstand der Lampenverdopplung reduziert Stromfluss auf die Hälfte.\n- Entladung dauert doppelt so lange, daher Spannungssummierung verdoppelt Leistung und reduziert Zeitverhältnis auf Ausgangs-auf-Teil.",
+  "antwortoption": "D"
+}

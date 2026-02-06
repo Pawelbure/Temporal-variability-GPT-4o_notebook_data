@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Aufgabe Schritt für Schritt: 1. Wir nehmen an, dass jede Batterie eine konstante Spannung U bereitstellt und jede Glühlampe einen konstanten Widerstand R hat. 2. Batterien in Serie verdoppeln die Spannung der Quelle, Batterien parallel erhöhen die verfügbare Kapazität und somit die Betriebszeit. 3. Die Leistungsabgabe jedes Glühlampe ist P = U²/R. - Lösung der Aussagen: A) Batterien und Glühlampen seriell: Strom ist um 4-fach niedriger -> Laufzeit etwa 4t. B) Batterien seriell, Lampen parallel: Leistung jeder Lampe bleibt wie bei einer Batterie -> Zeit t. C) Batterien parallel, Lampen seriell: keine sich erfüllende Stromversorgung -> Akku entlädt nicht nutzlos bis zu ableeren einer Lampe Batterien erhöht -> 2t zu erwarten fast aber...",
+  "antwortoption": "C"
+}

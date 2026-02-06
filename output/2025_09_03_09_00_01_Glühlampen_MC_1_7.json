@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellungen zu analysieren, müssen wir folgende Annahmen und physikalischen Konzepte berücksichtigen: Jede Batterie besitzt eine konstante Spannung V und kann eine Gesamtmeng Q an Ladung abgeben, wobei der Strom I und die Zeit t durch I = Q / t in Beziehung stehen. Eine Glühlampe mit konstantem Widerstand R zieht bei einer Spannung V einen Strom I = V / R. 1. Wenn zwei Batterien und Glühlampen in Serie geschaltet sind: Bei serieller Verbindung der Batterien addieren sich die Spannungen, die Glühlampen teilen die Spannung, beide teilen sich jedoch denselben Strom I. Die Entladezeit wäre daher durch die Änderung der Stromverhältnisse zu modifizieren. 2. Bei paralleler Verbindung der Batterien bleibt die Spannung unverändert, die Kapazität jedoch verdoppelt sich, wodurch die an die Lampen verfügbare Zeit proportional ansteigt. Nach Durchführung der genauen Rechnungen stellen wir dabei fest:",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Batterie liefert eine konstante Spannung U über Zeit t. Die elektrische Energie ist gegeben durch W = U * I * t, wobei I der durch die Glühlampe fließende Strom ist. Der Strom durch eine Lampe ist I = U/R, wobei R ihr Widerstand ist. Entsprechend der Angaben untersuchen wir die vier Szenarien unter Beachtung der Leistungsabgabe der Batterien: (A) Serienschaltung beider Lampe und Batterie, was den Strom halbiert, aber die Serienspannung verdoppelt und die Zeit viertelt. (B) Reihenbatterie mit parallelen Lampen, erhöht sowohl Spannung als auch Strom. Einschätzung ergibt t/2 Betriebszeit. (C) Parallelbetrieb der Batterien mit seriellen Lampen, wobei der Strom halbiert wird, das Energieverhältnis Die Betriebszeit verdoppelt. (D) Parallelbetrieb Batterien und Lampen, was ähnliche Verhältnisse ergibt wie Einzelbetrieb: t bleibt unverändert. Daher sind die korrekten Antworten: B, C und D.",
+  "antwortoption": "B, C, D"
+}

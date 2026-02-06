@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, analysieren wir verschiedene Schaltungen aus zwei Batterien (B1 und B2) und zwei Glühlampen (L1 und L2). Annahmen und Idealisierungen: 1. Die Batterien haben identische Kapazitäten und Spannungen. 2. Die Glühlampen haben den gleichen elektrischen Widerstand und bleiben während des Betriebs konstant. Konzeptuelle Betrachtung: Batterien in Serie verdoppeln die Spannung, aber die Kapazität bleibt gleich. Batterien in Parallel schalten, verdoppelt die Kapazität bei gleichbleibender Spannung. Schaltungsanalyse: A) Bei serieller Verbindung von Batterien und Lampen beträgt der Strom die halbe Ladung, wodurch die Betriebszeit T = 1/(1^2) = t/4 beträgt. B) In Serie geschaltet verdoppelt sich Spannung und damit auch Leistung, daher die Länge 1/(2*2) = t/2. C) Parallel mechanisiert Stabile Dauer wie doppelte = 2T = 2Pl .",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen:\\n1. Jede Batterie liefert eine konstante Spannung $U$ und eine konstante Energie $E$.\\n2. Jede Glühlampe hat einen Widerstand $R$, und die elektrische Leistung für eine Lampe beträgt $P = \\frac{U^2}{R}$.\\n3. Der Energieverbrauch $P \\cdot T$ bestimmt die Betriebsdauer $T$.\\nHinweise zu den verschiedenen Schaltungen:\\nA) Batterien in Serie und Glühlampen in Serie:\\n- Die Gesamtspannung der Batterien ist $2U$, der Gesamtwiderstand der Lampen (in Serie) ist $2R$. Der Strom beträgt $I = \\frac{2U}{2R} = \\frac{U}{R}$. Die Leistung ist $P = I^2R = \\frac{U^2}{R}$ für beide Lampen, die Energie teilt sich gleich auf, Zeit ist $t/4$.\\n\\nB) Batterien in Serie, Lampen parallel:\\n- Spannung entspricht $2U$, Leistung verdoppelt, Betrieb mit $t/2$.\\n\\n(C) Batterien parallel, Lampen Serie:\\n- Entladung als gleichstromquelle, Leistung reduziert auf halbe Energie, Zeit geht auf 2t.",
+  "antwortoption": "B"
+}

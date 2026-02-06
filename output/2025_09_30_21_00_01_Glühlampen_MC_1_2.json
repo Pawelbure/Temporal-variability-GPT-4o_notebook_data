@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Gegeben sind zwei Batterien und zwei identische Glühlampen; jede Batterie allein kann eine Lampe für eine Zeit t betreiben.2. Annahmen sind: Ideale Batterien und konstant bleibende Widerstände der Lampen.3. Szenarioauswertung:a) Batterien und Lampen in Serie: Die Spannung verdoppelt sich, also steigt der Strom, wodurch die Lampen heller leuchten, aber die Batterien schneller leer werden. Die Betriebszeit sinkt aufgrund des erhöhten Energieverbrauchs auf etwa t/2.b) Batterien in Serie, Lampen parallel: Die Spannung verdoppelt sich, der Strom durch jede Lampe bleibt wie amb. Da der Energieverbrauch pro Lampe konstant bleibt, leuchten beide zusammen etwa t.d) Batterien parallel, Lampen parallel: Gesamtstrom halbiert, Energieabgabe verdoppelt die Laufzeit auf 2t.",
+  "antwortoption": "D"
+}

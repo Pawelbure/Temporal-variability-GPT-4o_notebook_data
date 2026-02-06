@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst nehmen wir an, dass die Batteriespannung V, die Kapazität Q (Ladung, die eine einzelne Batterie liefern kann) und der Lampenwiderstand R für jede Batterie bzw. Lampe gleich und konstant sind. Weiterhin sei gegeben, dass die Glühlampe bei konstanter Helligkeit betrieben wird und die Energieabgabe der Batterien linear verläuft. Die Zeit t bezeichnet also die Betriebsdauer einer einzelnen Lampe bei einer einzelnen Batterie. \\n\\n### Analyse der gegebenen Schaltungen:\\n\\n**A) Serienschaltung Batterien und Lampen:**\\nDie Spannung der Batterien addiert sich (2V), und die Widerstände der Lampen addieren sich (2R). Der Gesamtstrom wird durch I=V/R=2V/2R=V/R bestimmt. Da derselbe Strom durch jede Lampe geht, entlädt jede Batterie ihre Ladung Q mit einer Geschwindigkeit der normalen Einzelbatteriekonfiguration. Die Gesamtlaufzeit ist somit t/2. Dies steht aber nicht im Einklang mit den Schätzungen im Problem.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Frage zu beantworten, analysieren wir die verschiedenen Schaltungen unter der Annahme idealer Bedingungen: Batterien liefern konstanter Spannung V und Strom bis zu ihrer Kapazität Q, und die Glühlampe hat einen konstanten Widerstand R. Die Leistung P wird durch P = V^2 / R gegeben, und die Batterieentladungszeit t hängt von der Gesamtstromstärke ab. \n\n1. Serie (Batterien und Lampen): Gesamte Spannung ist 2V. Die Lampen teilen die Spannung gleichmäßig, jede hat 1V. Gesamtstrom ist I = V/(2R). Zeit ist t/4.\n2. Serie (Batterien), Parallel (Lampen): Spannung 2V teilt sich gleichmäßig auf parallele Lampen, jede hat 1V, aber Arbeitszeit ist nur Yt.\n3. Zuflüsse: Richtung Spannung verstanden. Energieberechnung und Nutzen hiervon stimmen mit physikalischen Gesetzen für P beispielsweise.\nOption possibly interpreted differently.  ",
+  "antwortoption": "D"
+}

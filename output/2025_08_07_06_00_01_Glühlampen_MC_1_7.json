@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zuerst betrachten wir die möglichen Schaltungen der Batterien und Glühlampen unter der Annahme idealer Verhältnisse: Batterien liefern konstante Spannung bis zur Entladung, Glühlampen haben konstante Widerstände, und der Energieverbrauch ist proportional zum Produkt aus Strom und Spannung über das Produkt der Zeit. Schaltungen in Serie verdoppeln die Spannung, während der Strom konstant bleibt, wohingegen Parallelschaltungen die Kapazität und somit die Betriebsdauer bei identischer Belastung erhöhen. Nach Betrachtung der genannten Fälle ergibt sich: A) In Serie ergibt die vierfache Leistung und somit t/4 Betriebszeit. B) Spannung verdoppelt, Batteriekapazität verringert, t/2 Betriebszeit. C) Keine doppelte Kapazität, falsche Annahme. D) Redundante Leistungsausgleich ergibt t als Zutreffend. Nur B und D sind korrekt.",
+  "antwortoption": "B, D"
+}

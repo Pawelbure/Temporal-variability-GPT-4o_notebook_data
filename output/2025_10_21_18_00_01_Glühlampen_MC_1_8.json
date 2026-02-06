@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Im vorliegenden Szenario untersuchen wir den Betrieb von zwei Batterien und zwei Glühlampen in verschiedenen Schaltungen. Es gilt, verschiedene Schaltungsarten hinsichtlich der entnommenen Energie und der Betriebsdauer zu analysieren. Die Glühlampen werden durch einen konstanten Widerstand R und die Batterien durch ihre Spannung U und Kapazität Q charakterisiert. Die entnommene Energie von einer Batterie beträgt U * Q. Im Fall Serienschaltung summieren sich die Spannungen der Batterien, die Kapazität bleibt gleich. Bei Parallelschaltung bleibt die Spannung gleich, die Kapazitäten summieren sich. Für eine Kombination aus Spannungs- und Leistungsgesetz und der jeweiligen Stromverteilung ergibt sich die Betriebszeit für jede Schaltungsvariante. Nach Durchführung entsprechender Berechnungen ergeben sich die korrekten Aussagen zu den Optionen wie folgt:",
+  "antwortoption": "B, D"
+}

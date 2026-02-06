@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die vier Szenarien, basierend auf der Schaltungskonfiguration und den resultierenden physikalischen Eigenschaften. Es wird angenommen, dass der Widerstand der Glühlampen konstant ist und die Batterien identische Kapazitäten und Spannungen aufweisen. Die Ladungsmenge einer Batterie liefert direkt, wie lange eine Glühlampe leuchten kann. Die Batterien und Glühlampen werden gemäß dem Szenario verschaltet, um die Zeit zu bestimmen, in der die Glühlampen leuchten können. (Hier erfolgt eine detaillierte Berechnung der vier Fälle). Schlussfolgerung: B) und D) sind die korrekten Aussagen.",
+  "antwortoption": "B, D"
+}

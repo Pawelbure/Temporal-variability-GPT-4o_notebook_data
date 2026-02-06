@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Gehen wir systematisch vor:1. Grundannahmen:- Die Batterien liefern konstant die gleiche Spannung, bis sie leer sind.- Die Glühlampen haben einen konstanten Widerstand R.- Die Energie in den Batterien ist proportional zur Ladung Q, die sie liefern können.2. Analyse:- Einzelne Lampe erhält bei einer Batterie genau die Energie der Batterie und betreibt die Lampe für Zeitdauer t.- (A) In Serie: Die Gesamtspannung verdoppelt sich, der Strom verdoppelt sich, womit die Leistung verfierfacht wird. Verhältnis zur Energie halbiert die Zeit auf t/4. Richtig.- (B) In Serie parallel: Spannung bleibt zu Beziehung konstant. Verbrauch bleibt ebenfalls, also Zeit t.- Nein.- (C) Richtig.- (D) Parallel Batteries Zeit verdoppelt, Ladung bei Energie Richtig.",
+  "antwortoption": "A, C"
+}

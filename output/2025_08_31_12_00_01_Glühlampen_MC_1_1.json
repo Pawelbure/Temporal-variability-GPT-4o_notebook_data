@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier ist der Ansatz zur Lösung: 1. Da die Batterie jeweils eine festgelegte Strommenge (Ladung) abgeben kann, hängt die Wirkdauer von der Belastungsweise ab. 2. Die Annahmen sind idealisierte konstante Spannungs- und Leuchtverhältnisse. 3. Die Reihenschaltung von Widerständen verdoppelt den Gesamtwiderstand, wodurch der Strom halbiert wird, und die Parallelschaltung führt zu einer konstanten Belastung jeder Batterie. 4. Die Optionen wurden unter Einbeziehung dieser Mechanismen geprüft. Basierend auf diesen Überlegungen ist die Antwort gerechtfertigt.",
+  "antwortoption": "A, D"
+}

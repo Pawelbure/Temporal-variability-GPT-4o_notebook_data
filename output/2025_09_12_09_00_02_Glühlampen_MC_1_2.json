@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Sehen wir uns die erwähnten Schaltungen genauer an: Eine Batterie erzeugt eine bestimmte Ladungsmenge, die eine Lampe für Zeit t betreiben kann. Wenn Batterien in Serie geschaltet werden, verdoppeln sich die Spannung und somit der Strom durch Lampen, sofern die Lampen ebenfalls in Serie sind. Die Leistung steigt daher, und die Laufzeit verringert sich auf ein Viertel, erklärt in Antwort A. Bei parallelen Batterien wird der Gesamtstrom ausgelastet, wodurch die Laufzeit nicht geändert wird (D).",
+  "antwortoption": "A, D"
+}

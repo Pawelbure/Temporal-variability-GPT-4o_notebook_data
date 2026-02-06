@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die vier Fälle unter Annahme idealer Batterien und Glühlampen mit konstantem Widerstand. 1) Beide Batterien in Serie erhöhen die Gesamtspannung für die zwei Lampen in Serie; dies verdoppelt den Strom durch jede Lampe, was zu einer Beschleunigung der Entladung führt – sie leuchten in einem Viertel der ursprünglichen Zeit. 2) Zwei Batterien in Serie und Lampen parallel teilen den Strom auf, verdoppeln jedoch die Spannung pro Lampe, wodurch die Gesamtzeit halbiert wird. 3) Zwei Batterien parallel fügen Kapazität hinzu, und Lampen in Serie erhöhen den Widerstand, wodurch sie langsamer entladen und doppelte Zeit erreichen. 4) Beide Batterien und Lampen in Parallelverbindung verdoppeln die Kapazität, wodurch eine Laufzeit gleich der einer Lampe erreicht wird.",
+  "antwortoption": "A, B, C"
+}

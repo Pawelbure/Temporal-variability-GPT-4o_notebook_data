@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die elektrischen Schaltungen unter den verschiedenen Szenarien: 1) Batterien in Serie und Glühlampen in Serie: Die Batteriespannung verdoppelt sich, und der Strom durch die Lampen halbiert sich (ohmsches Gesetz). Die Energieentladung beider Batterien wird desselben Stroms beansprucht, wodurch die Betriebsdauer der Lampen gleich der Einzelbatterie beträgt: t. 2) Batterien in Serie und Glühlampen parallel: Die Batteriespannung bleibt für jeden Ast gleich groß, wodurch jede Lampe denselben Strom zieht wie beides Einzelne. Da nun beide Batterien den Doppelstrom entwähren, beträgt die Betriebdauer t/2. 3) Parallelisierung beider Batterie und Reihenschaltung der Lampen: Der Gesamtnachlaufstrom der doppelten Kapazität versorgt parallel die seriellen Lampen. Etwa 2t, da die Summe doppelter Kapazitätszustand erhält kein Sing.savefig/Deb. hf  Ly. und Gruppenlast über.:4",
+  "antwortoption": "D"
+}

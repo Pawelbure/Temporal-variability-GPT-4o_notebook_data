@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Die Batterie verfügt über eine konstante Energiebereitstellung bis zur vollständigen Entladung. Der Widerstand der Glühlampen bleibt unabhängig von der ihnen zugeführten Spannung konstant. Das Problem setzt voraus, dass der Energieverbrauch der Lampen ausschließlich durch die Spannungs- und Stromversorgung der Batterien bestimmt wird. Relevante Konzepte: Elektrische Leistung P = U^2 / R oder P = I^2 * R sowie die Berechnung der Gesamtkapazität und -spannung in parallel- bzw. seriellen Schaltungen. Lösungsanalyse: Wenn die Batterien und Lampen parallel geschaltet sind, verdoppelt sich die verfügbare Kapazität, und da die Leistung auf beide Lampen aufgeteilt ist, bleibt die Gesamtverwendungsdauer von t bestehen. Dies stimmt mit Option D überein. Andere Optionen basieren auf fehlerhaften Annahmen.",
+  "antwortoption": "D"
+}

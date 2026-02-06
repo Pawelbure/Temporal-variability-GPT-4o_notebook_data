@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Lebensdauer einer Batterie bestimmt sich durch die abgegebene Ladung: Q = I*t. Der Strom hängt von der am Widerstand anliegenden Spannung ab, da I = U/R. Untersuchen wir jeden Fall:\n\n1. Batterien und Lampen in Serie:\nDie Gesamtspannung beträgt 2U, und der Gesamtwiderstand wird zu 2R. Der Strom für jede Lampe ist I=U/R. Daher beträgt jede Lampe halb so viel wie die normale Zeit t/4.\n\n2. Batterien in Serie, Lampen parallel:\nDie Spannung ist 2U und der Widerstand je Lampe R. Individuell fließt der gleiche Strom, und die Energie wird schneller verbraucht: Gesamte Zeit t/2.\n\n3. Batterien parallel, Lampen in Serie:\nSpannung bleibt U und die Gesamtkapazität Q verdoppelt sich. Die Gesamtdauer beträgt damit 2t.\n\n4. Batterien und Lampen parallel:\nSpannung bleibt gleich, aber kombinierte Kapazität ist doppelt, also erhalten bereits klassisch eine Lebensdauer t je Einspeisung.",
+  "antwortoption": "A, B, C, D"
+}

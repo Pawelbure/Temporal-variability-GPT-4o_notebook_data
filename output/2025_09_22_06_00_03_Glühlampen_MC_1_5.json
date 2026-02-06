@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier erfolgt zunächst die Analyse der Situation und der relevanten Annahmen: Die Kapazität der Batterie und der Widerstand der Glühlampen werden als konstant betrachtet. Fließen Ströme durch die Batterien, takten sie Energie ab, wodurch sie ihre Kapazität verlieren. Die Zeitdauer des Leuchtens hängt von der Stromkonfiguration und der Energieverteilung ab. Für jede der genannten Schaltungen: A) In Serie bei zwei Batterien und Glühlampen: Der Gesamtwiderstand R verdoppelt sich, während die Spannung auch steigt, sodass die Betriebszeit sich zeigt durch die reduzierte Stromabgabe. B) Batterien in Serie arbeiten bei doppelter Spannung, aber parallel Verdoppelung des Strom = kürzere Zeit. C) Batterien parallel, lichterering, Zeitverlängerung ergibt sich. D)= korrekt, eine Batterie nutzt.",
+  "antwortoption": "D"
+}

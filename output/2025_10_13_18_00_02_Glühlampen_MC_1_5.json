@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Frage zu beantworten, betrachten wir die Schaltungskombinationen der Batterien und Glühlampen unter Berücksichtigung der Strom- und Energieabgabeeigenschaften der Batterien. Eine einzelne Batterie versorgt eine Glühlampe für die Zeit t. Es wird spezifiziert, dass der Widerstand der Glühlampen konstant bleibt und die Energieabgabe der Batterie vollständig zur Beleuchtung genutzt wird. Es sind folgende vier Szenarien zu überprüfen:\\n\\n(A) Batterien in Serie, Glühlampen in Serie:\\nSeriengeschaltete Batterien verdoppeln ihre Spannung, und seriengeschaltete Glühlampen erhöhen ihren Gesamtwiderstand allerdings. Das Verhältnis der Energieableitung bleibt unverändert, da weniger Energiefluss durch den höheren Gesamtwiderstand kompensiert wird. Daher, trotz doppelter Spannung und vierfacher Glühlampen-Widerstand (halber Strom), dauert die Anwendungszeit etwa gleichwie normale Nutzung allerdings weniger.",
+  "antwortoption": "B"
+}

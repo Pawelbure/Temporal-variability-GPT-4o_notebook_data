@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst betrachten wir die Annahmen zur Problemstellung: Jede Batterie hat eine konstante Energie, die sie liefert, die Glühlampen haben konstante Widerstände, und es wird eine ideale Schaltung ohne zusätzlichen Widerstand angenommen. Der elektrische Energieverbrauch P der Glühlampen wird durch die Formel P = U²/R bestimmt, wobei U die Spannung an der Lampe und R ihr Widerstand ist. Weiterhin definiert sich die Betriebszeit der Batterien bei gegebener Glühlampe über die insgesamt abgegebene elektrische Energie der Batterie. Für die verschiedenen Anordnungen analysieren wir den Energieverbrauch und die zu erwartenden Zeitdauern. Nach einer detaillierten Berechnung finden wir:",
+  "antwortoption": "D"
+}

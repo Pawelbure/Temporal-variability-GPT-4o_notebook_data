@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die jeweiligen Schaltungen und berechnen die Zeit, für die die Glühlampen betrieben werden können. Annahmen: Die Batterien haben eine konstante Kapazität (Q), die Glühlampe hat einen konstanten Widerstand R, der Schaltungswiderstand ist vernachlässigbar.  A) Batterien und Lampen in Serie: Die Batteriespannungen addieren sich, Strom ist konstant, Energieverbrauch verdoppelt sich, führt zu t/2 für verdoppelte Spannung. Fehler: t/4 entsteht nicht. B) Batterien in Serie, Lampen parallel: Batteriespannung verdoppelt sich, Strom pro Lampe bleibt konstant. Energieverbrauch führt zu t/2. Aussage korrekt. C) Batterien parallel, Lampen in Serie: Kapazität verdoppelt sich, Spannung bleibt unverändert. Zeit bleibt t. Fehler: Zeit verändert sich nicht. D) Batterien und Lampen parallel: Kapazität verdoppelt sich, Spannung unverändert. Zeit bleibt t. Aussage korrekt.",
+  "antwortoption": "B, D"
+}

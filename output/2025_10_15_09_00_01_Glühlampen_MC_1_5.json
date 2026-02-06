@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, können folgende Annahmen getroffen werden: Die Spannungsquelle (die Batterie) hat eine konstante Kapazität, der Widerstand der Glühlampe bleibt konstant, und es gibt keine Energieverluste durch die Schaltung oder externe Widerstände. Die Batterien und Glühlampen können in verschiedenen Konfigurationen geschaltet sein: parallel oder in Serie. Die relevanten physikalischen Konzepte hier sind die Kirchhoffschen Regeln (Spannung und Strom in Schaltungen), die Richtigkeit der Leistungsverteilung in Schaltungen und die Kapazitätsausschöpfung der Batterie. Es stellt sich heraus, dass in Szenario B die richtige Lösung gefunden wird, weil die Batterien in Serie die doppelte Spannung liefern und parallelgeschaltete Glühlampen die Energie in einer gemeinsamen Zeitspanne gleichmäßig aufteilen.",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die unterschiedlichen Konfigurationen der Schaltungen. Wir nehmen an, dass jede Batterie eine konstante Spannung liefert und fixierte Energie zur Verfügung stellt, und die Glühlampe wie angegeben einen konstanten Widerstand besitzt. Die leuchtende Zeit der Lampe hängt von der bereitgestellten Energie und der Leistungsaufnahme ab. 1) Serie Batterien und Glühlampen: Die Spannung verdoppelt sich, daher verdoppelt sich die Leistung für jede Lampe, wodurch sie t/4 leuchtet. 2) Serie Batterien, Parallel Glühlampen: Die Spannung verdoppelt sich, Gesamtleistung nimmt zu, und Lampen leuchten t/2. 3) Parallel Batterien, Serie Lampen: Spannung wie bei Batterie bleibt gleich, kein Unterschied zur Einzelbatterie, 2t. 4) Parallel Batterie und Lampe: Spannung und Energie verdoppeln sich, eine Lampe leuchtet t.",
+  "antwortoption": "C, D"
+}

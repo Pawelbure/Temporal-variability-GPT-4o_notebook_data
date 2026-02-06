@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu analysieren, betrachten wir die verschiedenen Schaltungsanordnungen und deren Auswirkungen auf die Betriebszeit der Glühlampen. Wichtig dabei ist, dass der Widerstand der Glühlampe konstant bleibt und die Batterien idealerweise eine konstante Kapazität besitzen:  \\ \n\\ \n**A) Batterien und Glühlampen in Serie:** In einer Reihenschaltung fließt derselbe Strom durch beide Glühlampen, was deren effektiven Widerstand und somit die Stromstärke verringert. Dies verlängert die Lebensdauer der Batterien.",
+  "antwortoption": "D"
+}

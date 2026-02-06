@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Betrachtung der Schaltung zeigt: Die Batterien als Stromquellen können in Serie oder Parallel geschaltet werden, was Spannung oder Kapazität beeinflusst. Gleiches gilt für die Lampenschaltung, die sich auf den Gesamtwiderstand auswirkt. Wir untersuchen jede Option unter Berücksichtigung der elektrischen Gesetze (U=RI, Leistung P=UI, Energie E=P*t):\n\nA) Serie Batterie und Lampe: Ukomb=2U, Rk=2R -> Halbspannung an jeder Lampe, halbe Helligkeit, viertel Energieabgabe durch die Batterien. t/4 Dauer.\n\nB) Serie Batterie, Parallel Lampen -> Gesamtspannung 2U/R, Halbierung des Flusses, führt zu unterbrochenen Beleuchtung t/2. \n\nC) Parallel Batterie/Lampe -> Längere Haltbarkeit durch doppelte Nennzeit, doppelt t Energie.\n\nD) Parallel/Parallel -> Vereinfachte Berechnung der Dichte Energieeffizienz Maximierung.",
+  "antwortoption": "C, D"
+}

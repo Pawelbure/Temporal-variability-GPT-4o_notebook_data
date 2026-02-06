@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu lösen, werden folgende Annahmen gemacht: 1. Die Batterien und Glühlampen sind identisch. 2. Die Kapazität einer Batterie ist konstant (Ladungsmenge pro Batterie) und wird durch den gleichen Strom entladen. 3. Der Widerstand der Glühlampe bleibt unabhängig von der Stromstärke konstant. 4. Die interne Resistenz der Batterie wird vernachlässigt. Nun analysieren wir die vier Szenarien: A) Batterien und Glühlampen in Serie: Die Spannung verdoppelt sich, daher die Leistung steigt quadratisch, also t_eff = t/4. B) Batterien in Serie, Lampen parallel: Jede Lampe zieht gleichen Strom; Beide werden halb der Zeit betrieben, t_eff = t/2. C) Batterien parallel, Glühlampen in Serie: Ladung wird verdreifacht, Verbrauch halbiert, d.h. t_eff = 2t. D) Batterien und Glühlampen parallel: Gleicher Ratenschluss ergibt t_eff = t.",
+  "antwortoption": "B, D"
+}

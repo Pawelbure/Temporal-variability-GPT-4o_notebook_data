@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Lösung des Problems gelten die folgenden Annahmen: (1) Jeder Batterie verleiht eine konstante Gesamtladung an den Stromkreis; (2) Die Glühlampen (Identisch in Widerstand) verbrauchen Leistung gemäß konstanter Spannung und Strom gemäß Ohmschem Gesetz.\n\nBetrachtung der Optionen:\n\n(A) Beim zuschalten in Serie verdoppelt sich die Spannung zu 2U, Verdoppelt wird auch erforderliche Gleichstrom zu Widerstand, Gesammtladung ist Viertel. Daher Option Unkorrekt.\n\n(B) Verdopplung Spannung Beide Lampen Parallel Struktur Halten Gesamtleistungsbedarf zwei, Zeit hälftig wird. Option Unkorrekt.\n\n(C) Batterien in Parallelschaltung Wieveil Stromparallersind Widerstand in lampenverlängerung Gesamtladung Zweifach Zeit Zwei 'R'.  Option korekt.\n\n(D) Parallel Lam Mis Batterilationssum läuft Paralleligen Ladungsverus sudden times, korrekt.\n\nValidieten des letzt um gesammt:'",
+  "antwortoption": "C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, müssen wir die elektrischen Zusammenhänge und deren Auswirkungen auf Betriebszeiten der Glühlampen untersuchen. Wir nehmen an, dass jede Batterie eine Kapazität Q an elektrischer Ladung und eine konstante Spannung U hat. Der Strom I durch eine Glühlampe mit Widerstand R sei ebenfalls konstant. Hierbei gilt, dass die Zeit t, welche die Glühlampe betrieben werden kann, mit der Kapazität und dem Strom gemäß t = Q/I zusammenhängt. Wenn zwei Batterien oder Lampen in Serie oder parallel geschaltet werden, ändern sich die Gesamtkapazität und die Gesamtspannung, was sich auf die Betriebszeit auswirkt.",
+  "antwortoption": "D"
+}

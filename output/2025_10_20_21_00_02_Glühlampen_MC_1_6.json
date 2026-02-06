@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Das Problem analysiert die elektrische Energieversorgung von Glühlampen mit Batterien in verschiedenen Anordnungen. Annahmen: eine ideale Batterie mit konstanter Kapazität, die wie ein Speicher von elektrischer Energie agiert; konstante Helligkeit impliziert einen konstanten Widerstand der Glühlampen. Konzepte: Leistungsformel (P=U^2/R) und Energie (E=P×t). Wenn die Batterien in Serie geschaltet sind, verdoppelt sich die Spannung; in Parallelschaltung bleibt die Spannung gleich. Serie-/Parallelschaltung bei Lampen beeinflusst den effektiven Widerstand. Resultate:",
+  "antwortoption": "D"
+}

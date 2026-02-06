@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, nehmen wir folgende Annahmen vor: Die Batterien haben identische Kapazitäten und gleiche Spannung (V), und die Glühlampen haben identische Widerstände R. Der Energiefluss durch die Glühlampe wird ausschließlich durch den elektrischen Widerstand bestimmt. In Serie fließen durch beide Glühlampen derselbe Strom, in Parallelschaltungen teilt sich der Gesamtstrom gleichmäßig proportional zu den Widerständen. Fallweises Szenario: A) Batterien und Lampen in Serie: Gesamtabfallspannung 2V; Gesamtwiderstand 2R; Strom I = V/(2R), Leistung P = VI = (2V)²/(2R). B) Batterien in Serie, Lampen parallel: Spannung V über jede Lampe, R parallel: Strom pro Lampe I = V/R. Batterieladung q entleert schneller als bei paralleler Batterie. C und D ähnlich analysiert. Tablierung führt zu genannten Zeiten auch unter Berücksichtigung Leistungsanteil.",
+  "antwortoption": "B, D"
+}

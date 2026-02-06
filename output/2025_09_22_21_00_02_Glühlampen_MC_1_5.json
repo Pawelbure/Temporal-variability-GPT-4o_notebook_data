@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysiere ich die verschiedenen möglichen Konfigurationen:\n\n**A) Batterien und Lampen in Serie**\n- In Serie addieren sich die Spannungen der Batterien.\n- Der Gesamtwiderstand verdoppelt sich.\n- Der Strom bleibt der gleiche (durch das doppelte Potential und doppelten Widerstand).\n- Die Energie pro Batterie wird schneller verbraucht (kürzere Dauer).\n  - Die Betriebszeit ist daher t/2.\n\n**B) Batterien in Serie, Lampen parallel**\n- Hier wird die Spannung für die Lampen doppelt, aber jede Lampe erhält nur die Hälfte des Ström.\n- Innerhalb einer Batterie wird mehr Energie gleichzeitig vernichtet, daher sinkt Effizient.\n\n**Genau wie für parallel**.\n\n**C) **....",
+  "antwortoption": "B, C"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aussagen zu bewerten, gehen wir wie folgt vor:\\n\\n1. **Annahmen und Prinzipien:** Die Kapazität einer Batterie (mAh) und Spannung (V) bleiben konstant. Die Glühlampen haben festen Widerstand R. Die Energieabgabe oder Leistung folgt aus den Zusammenhängen 𝑃=𝑉²/𝑅 und Energie 𝐸=𝑃·𝑡.\\n\\n2. **Analyse der Konfigurationen:**\\n   - Für sukzessive Schaltungsarten berechnen wir Strom, Spannung, Leistung und folgern Batterielebensdauer.\\n   - Für Parallelschaltung (Batterien): Addieren sich Kapazitäten. Für Serielle Schaltung steigt Spannung.\\n\\nNun die Evaluierung:\\n\\n**A)** Batterien-Serie + Lampen-Serie\\nUr = V * 2, Rgl gesamt=R*#Gl/Höchste-leistung.\\n  Bestimmunng.... \\n\\n\\n",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Wir nehmen an, dass die Werte wie Spannung, Stromstärke und Widerstand idealisiert und konstant sowie ohne Innenwiderstand der Batterien betrachtet werden. Die physikalischen Gesetzmäßigkeiten umfassen: Leistungsgesetz (P=U²/R) und Energieprinzips (E=P·t). Betrachtung der Fälle: A) Zwei Batterien und Glühlampen in Serie: Aufgrund verdoppelter Spannung ergibt sich Vierfache Leistung (P∝U²). Somit halbiert sich die Zeit t zur Verfügung gestellter Energie, Berechnung für jede Lampe ergibt t/4. B) Batterien in Serie und Glühlampen parallel: Spannung verteilt sich auf parallele Lampen gleicher Energiebedarf, daher verbleibt halbe Energiezeit t/2. C) Batterien parallel und Lampen in Serie: keine Steigerung, einfache addierte Energie auf halber Stromlast verdoppelt zur Zeit: 2t. D) Parallele Anordnung beide, keine Änderung zur Einzellösung pro Lampe verbleibende Versorgungszeit gleich t.",
+  "antwortoption": "B, D"
+}

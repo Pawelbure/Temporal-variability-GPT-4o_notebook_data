@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um zu analysieren, welche Aussage korrekt ist, gehen wir von folgenden Annahmen und idealisierenden Bedingungen aus: Jede Batterie hat eine konstante Potentialdifferenz V und eine chemische Energie zur Bereitstellung der Kapazität E. Jede Glühlampe hat einen konstanten Widerstand R, sodass die elektrische Leistung durch P=(V/R)*V=V^2/R bestimmt wird. Die Batterien und Lampenkombinationen werden ideal implementiert und gehen nicht durch vorgeschaltete oder interne Verluste über die Zeit hinweg verloren. Wir analysieren einzeln die Szenarien für:\n\n1. Batterien und Lampen in Serie: Jede Batterie leistet derselben Lampe Strom in gleicher Reihe, Vgesamt verdoppelt, Potential steigt, ladet durch Kraft halber Energieverbrauch.\n\n2. Parallelbzeugung führt direkt dominanter Eigenschaftsdauerzeitstandt Verlustbeding um jegen vorherhig potentzialilterungeleivelaufungCONFIGURAT.\n\nDaher Durch Artiklühung:",
+  "antwortoption": "B"
+}

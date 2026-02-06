@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungen sowie die Auswirkungen auf Strom, Spannung und Batterielaufzeit basierend auf elektrischen Gesetzmäßigkeiten. Die Leistung einer Glühlampe ist proportional zum Produkt aus Strom und Spannung. Wenn zwei Batterien zusammenarbeiten, kann dies den Strom oder die Spannung anpassen, wodurch sich die Energieversorgung und die Brenndauer der Lampen ändern. Für jede Konfiguration wird geprüft, wie die Batterien entladen werden und wie dies im Verhältnis zur Regelzeit t steht.",
+  "antwortoption": "B"
+}

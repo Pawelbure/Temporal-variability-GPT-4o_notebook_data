@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Analysen der Schaltungsszenarios:\n\n**Annahmen für das Problem:**\n- Jede Batterie liefert eine bestimmte Menge an Energie, die unabhängig von der angelegten Spannung konstant bleibt.\n- Die Glühlampen haben einen konstanten elektrischen Widerstand R.\n- Der Innenwiderstand der Batterien wird vernachlässigt.\n\n**Analyse der Szenarien:**\n\n**A) Batterien in Serie, Glühlampen in Serie:**\n- Die Spannungen der Batterien summieren sich, und mit 2R als Gesamtwiderstand fließt der Strom I = U / (2R). Die Leistung ist halbe Energieverbrauch pro Lampe, also ≈ t Zeit.\n\n**B) Batterien in Serie, Glühlampen parallel:**\n- Fließt für U höherer jeweils individueller Betriebszeit als üblich, hier halbe Batteriezeit ≈ t/2 je Lampe.\n\nDie detaillierte Schaltanalyse stimmt mir weiteren Eingangsserverbindungen ab.",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, berücksichtigen wir folgende Annahmen und Konzepte: 1) Eine Batterie liefert eine konstante Spannung und hat eine feste Kapazität C. 2) Die Glühlampe hat einen festen Widerstand R und zieht daher bei konstanter Spannung eine konstante Stromstärke I. Effektiv hängt die Betriebsdauer direkt von der Gesamtkapazität der Batterien und der Leistungsaufnahme ab. Berechnungen zeigen:\n\n- In Szenario A fließt durch beide Glühlampen ein reduzierter Strom infolge der seriellen Schaltung, was zu einer Betriebsdauer von t führt,\n- in Szenario B erfolgt durch parallele Schaltung der Glühlampen eine Halbierung der Gesamtbatteriebelastung, was die Lampen für t/2 leuchten lässt,\n- in Szenario C bleibt der Serienstrom konstant, wodurch die Batteriekapazität für 2t ausreicht,\n- Szenario D lässt eine gleichmäßige Energieverteilung der Batterien zu, weshalb die Betriebsdauer t beträgt.",
+  "antwortoption": "C, D"
+}

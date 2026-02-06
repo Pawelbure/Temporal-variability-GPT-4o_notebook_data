@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen:\\n1. Die Glühbirnen haben einen konstanten Widerstand, unabhängig von der Stromstärke.\\n2. Die Kapazität der Batterien ist unabhängig von ihrer Auslastung.\\n3. Die Spannung der Batterien bleibt konstant, bis ihre Energie aufgebraucht ist.\\n\\nLösungen:\\n\\n- *Fall A*: Batterien in Serie, Glühlampen in Serie:\\n   - Die Gesamtspannung verdoppelt sich.\\n   - Der Gesamtwiderstand der beiden Lampen in Serie ist doppelt so hoch wie der einzelner Lampen.\\n   - Daher fließt ein Strom, der einer Betriebsspannung entspricht, doppeltem Widerstand, also Strom = U/(2R).\\n   - Energieverbrauch ist proportional zu U^2/R, also konstanter Gesamtenergieverbrauch.\\n   - Zeit t/2 Kosten.\\n\\nBcf",
+  "antwortoption": "C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1) Annahmen: Die Batterien sind identisch mit einer Quellenspannung von U und Kapazität Q. Jede Glühlampe hat einen Widerstand R. Es wird kein Energieverlust durch Widerstände in den Schaltungen angenommen.\n\n2) Betrachten der Szenarios: \n\n- (A) Batterien in Serie (Gesamtspannung: 2U) und Glühlampen in Serie (Gesamtwiderstand: 2R): Der fließende Strom ist I=U/R, Energieverbrauch pro Lampe wird Q*U, Gesamtzeit ist t/2.\n\n- (B) Batterien in Serie (2U) und Glühlampen parallel: Der fließende Strom halbiert sich je Lampe I=U/R, Verbrauch pro Batterie bleibt gleich, Betriebsdauer t/2.\n\n- (C) Batterien parallel und Glühlampen in Serie: Effektive Kapazität 2Q, Spannung U wie bei einer Batterie, Energieverbrauch halbiert durch R-Serie, Zeit 2t.\n\n- (D) Batterien und Lampen parallel: Spannung U, jedes Element unabhängiger Stromkreis mit Q*U, Betriebsdauer t.\n\nKorrekte Antwort nach Analyse: Aussagen C und D.",
+  "antwortoption": "C, D"
+}

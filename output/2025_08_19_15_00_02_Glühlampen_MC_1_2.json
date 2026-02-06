@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Schaltungen und prüfen, wie sich die Lebensdauer der Batterien auf die angegebene Zeit t auswirkt: Wenn die Batterien in Serie geschaltet sind, verdoppelt sich die Spannung, aber die Gesamtenergie der Kombination bleibt die einer einzelnen Batterie multipliziert mit der Anzahl der Batterien. Wenn die Glühlampen ebenfalls in einer entsprechenden Konfiguration geschaltet werden, beeinflusst das Zusammenspiel von Spannung und Strom die gesamte Betriebszeit. Durch Detektion der Stromstärke und Kapazität bei den vier angegebenen Konfigurationen ergibt sich die korrekte Evaluierung.",
+  "antwortoption": "D"
+}

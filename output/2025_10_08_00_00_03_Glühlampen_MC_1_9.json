@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Die Batterie hat eine konstante Kapazität und Spannung bis zum vollständigen Entladen, und der Widerstand der Lampe bleibt konstant unabhängig von der Spannung. Relevante Konzepte: Ohmsches Gesetz, Energieerhaltung, Parallele und serielle Kombinationen elektrischer Schaltungen.Wenn zwei Batterien und zwei Glühlampen in Serie geschaltet sind, verdoppelt sich die Spannung, wodurch die Leistung der Lampen ansteigt. Dies führt dazu, dass die Batterien schneller entladen werden. Im Serienbetrieb teilen sich die Batterien den Ladungstransport. Im Parallelschaltungsbetrieb bleibt die Spannung der Einzelbatterie gleich, aber die Laufzeit der Lampen verlängert sich, da beide Batterien zusammenwirken.",
+  "antwortoption": "B"
+}

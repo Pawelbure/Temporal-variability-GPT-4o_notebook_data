@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir beginnen mit den Grundannahmen und physikalischen Konzepten: Jede Batterie besitzt eine konstante Kapazität Q und eine Spannung V. Der Widerstand der Glühlampe sei R. Die Leistung (P), die an einer Lampe abfällt, ist gegeben durch P = V^2/R. Die Energie, die eine Batterie liefert, beträgt QV, und die Zeit, die die Lampe leuchtet, ist t = (Energie der Batterie) / Leistung der Lampe. Sobald die Schaltung verändert wird, wie in den Optionen beschrieben, ändern sich die resultierenden Spannungen und Ströme im Stromkreis, was zu unterschiedlichen Leistungen und somit Leuchtzeiten führt. Ich werde die Optionen der Reihe nach analysieren unter Berücksichtigung dieser Prinzipien.",
+  "antwortoption": "B, D"
+}

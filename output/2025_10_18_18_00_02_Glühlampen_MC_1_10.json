@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, müssen wir die elektrischen Schaltungen und das Verhalten von Batterien und Glühlampen in Betracht ziehen. Angenommen, jede Batterie hat eine Kapazität von \\( Q \\) und eine Spannung von \\( U \\), und jede Glühlampe hat einen Widerstand \\( R \\). Wir beginnen mit den gegebenen Szenarien: In Serie (beides Batterien und Lampen) verdoppelt sich die Spannung und der Strom wird halbiert, was die Leistung der Lampe verringert. Bei Parallelschaltungen bleiben Spannung und Strom konstant, daher bleibt die Leistung jeder Lampe gleich. In Szenarien, bei denen Batterien die Energie teilen, wie in der parallelen Batterieverbindung, verlängert das die Gesamtdauer der Energieversorgung. Durch die Durchführung spezifischer Berechnungen für jedes Szenario bestätigen wir folgende Schlussfolgerungen:",
+  "antwortoption": "B, D"
+}

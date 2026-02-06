@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung zu lösen, betrachten wir den Energieverbrauch und die Kapazität der Batterien in unterschiedlichen Schaltkonfigurationen: Erste Annahmen sind, dass jede Batterie eine konstante Spannung U und Kapazität Q besitzt, sowie dass jede Lampe einen konstanten Widerstand R hat. Hierdurch können wir den Strom I und die Leistung P, die durch jede Lampe fließt, bestimmen. Betrachtet man die verschiedenen Konfigurationen: Bei Batterien in Serie verdoppelt sich die Gesamtspannung, und bei Batterien parallel bleibt die Spannung gleich, während die Kapazität sich verdoppelt. Davon ausgehend analysieren wir die gegebenen Konstellationen und berechnen die Zeit, die die Lampen betrieben werden können.",
+  "antwortoption": "D"
+}

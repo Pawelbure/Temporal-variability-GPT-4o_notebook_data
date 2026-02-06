@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragen zu lösen, ist es notwendig, die Situation der Schaltungen von Batterien und Glühlampen und deren Auswirkungen auf Strom- und Spannungsfluss zu analysieren: 1. Annahmen: (a) Die Batterien haben die gleiche Kapazität und sind ideal, d. h. sie stellen eine konstante Spannung bereit, bis sie leer sind. (b) Der Widerstand der Glühlampen bleibt konstant. 2. Analyse der Schaltungen: (a) Aufeinanderfolgende Verbindungen ändern die Gesamtspannung. (b) Parallelverbindungen teilen die Stromzufuhr bzw. erhöhen die Gesamtkapazität. 3. Bewertung der gegebenen Schaltungen: (a) Bei Serielle Zusammenschaltungen kombiniert sich die Spannung, was die Lebensdauer reduziert, jedoch den Strom durch die Glühlampen erhöht.",
+  "antwortoption": "A, B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Hier folgt die detaillierte Lösung mit allen relevanten Annahmen, Berechnungen und Schlussfolgerungen: Um die Problemstellung zu analysieren, nehmen wir an, dass eine Batterie durchgehend eine konstante elektrische Leistung abgeben kann, bis ihre Energie vollständig verbraucht ist, und diese Energie reicht aus, um eine einzelne Glühlampe der angegebene Zeit T zu betreiben. Jede Glühlampe hat einen festen elektrischen Widerstand R. Schauen wir uns nun die verschiedenen Schaltungsfälle an: Fall A (Batterien und Glühlampen in Serie): Die Serienschaltung von Glühlampen erhöht den Gesamtwiderstand, wohingegen die Serienschaltung von Batterien die Spannung verdoppelt. Dies resultiert in einer Halbierung der Stromstärke...[Fortsetzung des Lösungswegs und vollständige Berechnungen].",
+  "antwortoption": "B, D"
+}

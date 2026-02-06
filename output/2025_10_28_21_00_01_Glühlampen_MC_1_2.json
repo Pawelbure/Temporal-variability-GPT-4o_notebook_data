@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, berücksichtigen wir Folgendes: Jede Batterie hat eine gegebene Energie E, und der Widerstand der Glühlampe ist R. Der LED-Strom I und die Spannung V bestimmen die Leistungsaufnahme. Wir analysieren die vier Schaltungskonfigurationen:\\n1. **Serienbatterien, Serienlampen**: Unter dieser Konfiguration ist die Gesamtspannung 2V, während die Serienlast (2 Lampen) den Strom halbiert (I/2). Die Gesamtleistung ist dann E_eff = P×t_eff = (2V×(I/2)). Effektive Laufzeit t_eff = E/(0.5I^2×R) = ?Wegen Potenzierungssatz.\\n2. Parallelschaltungsfälle!",
+  "antwortoption": "D"
+}

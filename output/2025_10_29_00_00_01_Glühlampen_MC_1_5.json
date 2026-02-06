@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die verschiedenen Szenarien unter Berücksichtigung elektrischer Schaltkreise\nDie wichtige Annahme ist die Vernachlässigung von internen Widerständen der Batterie und konstanter Lampeigenschaft (Leistung).\n\nIm Detail:\n* Szenario A: Batterien und Lampen in Serie. Spannung verdoppelt sich. Stromfluss bleibt konstant (gleicher Widerstand). Energie ~ Spannung² * Zeit. Zeit daher t/4.\n* Szenario B: Batterien in Serie, Lampen parallel. Strom pro Lampe halbiert. Betrieb mit halber Leistung für Zeit t. Zeit somit t/2 für jede Lampe.\n* Szenario C: Batterien parallel, Lampen in Serie. Spannung unverändert. Betrieb mit gleicher Leistung; Zweifache Batterieentladezeit ergibt 2t pro Lampe.\n* Szenario D: Batterien und Lampen parallel. Spannung/Leistung wie bei einer Batterie. Gesamtzeit daher t.\nZusammenfassung nach obigen Berechnungen:\nRichtig ist: B und D.\n",
+  "antwortoption": "B, D"
+}

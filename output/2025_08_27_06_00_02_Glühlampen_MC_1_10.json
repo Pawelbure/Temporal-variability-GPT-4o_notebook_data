@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen:\n- Jede Batterie weist eine feste Energie- oder Ladungsmenge auf, die entnommen werden kann, \n- und ihre Spannung bleibt konstant, bis sie entladen ist. Jede Glühbirne zeigt einen konstanten Widerstand.\n\nBerechnungen:\n1. Jede Lampe mit Widerstand R wird bei Betrieb mit einer Spannung V_\n\nder Batterie mit der Leistung P = V²/R betrieben.\n2. Die Energie der Batterie speist sich in die Lampe durch die Beziehung E = P*t, wobei E die insgesamt zur Verfügung stehende Batterienergie ist.\n\nFall A: Batterien und Lampen in Serie: Die gesamte Spannung verdoppelt sich, was führt zu einer Leistungssteigerung von P_total = (2V)²/(2R) = 2(V²/R).\nDie Energie zweier Batterien reicht nur zur Hälfte des Betriebszeit, t/4.\n\nFall B: Batterien in Serie und parallele Lampen: Bei paralleler Lampe verteilt sich Spannung auf beiden,\nfehlt länger Betrieb, Batterien liefert Energie aus 2\n\nFall C",
+  "antwortoption": "C"
+}

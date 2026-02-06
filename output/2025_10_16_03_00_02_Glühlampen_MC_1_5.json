@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Fragestellung zu beantworten, betrachten wir die Grundprinzipien des elektrischen Stromkreises und Energieverbrauchs. Zuerst bemerkt man, dass die Energie jeder Batterie konstant ist, und dass die Leistung, mit der die Lampen arbeiten, vom Stromkreis abhängt: Spannung und Strom fließen entsprechend den Schaltkonfigurationen. Wichtig ist auch, dass die Lampen und Batterien identisch sind und der ohmsche Widerstand der Lampen konstant bleibt. Im Serienfall verdoppelt sich die Spannung, während die Glühlampen den Widerstand verdoppeln, was wiederum den Gesamtströmfluss beeinflusst. Im Parallelfall bleibt die Spannung konstant, aber die Kapazität der Batterien wird effektiv verdoppelt, was die Gesamtlaufzeit beeinflusst.",
+  "antwortoption": "A, B, D"
+}

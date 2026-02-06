@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu lösen, ist es wichtig, die Stromkreisszenarien zu analysieren unter der Prämisse: Die Batterien haben dieselbe Kapazität und Spannung, jede Glühlampe hat denselben Widerstand, und Batterien entladen sich einfach durch Stromabgabe. Bei seriellem Anschluss verdoppelt sich die Spannung, jedoch bleibt die Kapazität dieselbe. Bei parallelem Anschluss bleibt die Spannung gleich, jedoch verdoppelt sich die verfügbare Kapazität. Die Betrachtung individueller Szenarien ergab: für Parallelschaltungen bleibt der Strom auf Teilzweige verteilt, und für serielle Schaltungen wird die Spannung geteilt. Dadurch ist keine Aussage außer Option 'D' korrekt.",
+  "antwortoption": "D"
+}

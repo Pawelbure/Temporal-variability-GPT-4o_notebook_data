@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Jede Batterie hat die gleiche Elektromotorische Kraft (EMK) E und Kapazität C, die Glühlampen haben den Widerstand R.\n2. Wenn Batterien in Reihe geschaltet sind, verdoppelt sich die Gesamtspannung (2E), die Kapazität bleibt gleich (C).\n3. Wenn Batterien parallel geschaltet sind, bleibt die Spannung gleich (E), jedoch verdoppelt sich die Kapazität (2C).\n4. Wenn Glühlampen in Reihe geschaltet sind, verdoppelt sich deren Widerstand (2R), in Parallel bleibt der Widerstand konstant (für identische Lampen).\n5. Mit der elektrischen Leistung P = U²/R und daraus der Enelgieverbrauch pro Zeit und den unterschiedlichen Energieausgaben durch Betriebsmodi werden die Leuchtdauern berechnet.",
+  "antwortoption": "D"
+}

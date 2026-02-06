@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung zu lösen, machen wir folgende Überlegungen: - Jede Batterie hat eine konstante Spannung U sowie eine Energiemenge E, die sie liefern kann. - Der Widerstand der Glühlampen, R, bleibt unabhängig von der zuströmenden Spannung konstant. Die Leistungsabgabe einer Glühlampe beträgt daher P = U²/R, wobei die für eine einzelne Batterie verfügbare Zeit t = E/P ist. - Für die verschiedenen Kombinationen von Batterien und Lampen evaluieren wir die Reihen- bzw. Parallelschaltungen und bestimmen Zeit t': 1. Batterien in Serie, Lampen in Serie: Spannung 2U, Gesamtwiderstand 2R → Strom: U/R, Leistung pro Lampe U²/R, Zeit t' = t/2. 2. Batterien in Serie, Lampen parallel: Gleiche Spannung pro Lampe, Zeit t' = t/2. 3. Batterien parallel, Lampen in Serie: Gleiche Leistung zu halber Zahl von Lampen → Zeit 2t. 4. Batterien parallel, Lampen in Parallel: Halbe Spannung, gleiche Zeit t selbst. Daraus richtig: C.",
+  "antwortoption": "C"
+}

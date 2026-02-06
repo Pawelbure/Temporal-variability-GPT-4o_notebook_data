@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung zu lösen, analysieren wir zunächst das Verhalten der Batterien und Glühlampen in verschiedenen Anordnungsmöglichkeiten. Eine Batterie betreibt eine Glühlampe für die Zeit t. Die Energie einer Batterie ist konstant. Der Strom durch die Glühlampen hängt von der Kombination der Schaltkreiskonfigurationen ab: 1) In Serie geschaltete Batterien verdoppeln die Gesamtspannung. Glühlampen in Serie verdoppeln den effektiven Widerstand des Kreises. Die Stromstärke bleibt stabil; daher leuchten die Lampen so lange wie mit einer Batterie. Jedoch verdoppeln wir die Energieübertragung auf beide Glühlampen verteilt, was die Dauer halbiert. 2) In parallel geschaltete Batterien bleibt die Spannung konstant, jedoch verdoppelt sich die Kapazität (Ladetilgabeproportionalität), während Glühlampen parallel den Strom gleichzeitig verbrauchen. Die Betrachtungen ergeben bei jeder Konfiguration die Stand-by-Zeit.",
+  "antwortoption": "D"
+}

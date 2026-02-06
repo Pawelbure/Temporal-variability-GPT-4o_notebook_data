@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Behauptungen zu überprüfen, müssen wir das Verhalten der jeweiligen Schaltungen analysieren. Annahmen: Die Batterien liefern bei entnehmbarer Energie (Kapazität) Q eine konstante Spannung U, und die Glühlampen haben einen konstanten Widerstand R. Physikalische Konzepte: Leistung P = U^2/R; Energie = Leistung × Zeit; Lade- und Entladeströme in seriellen und parallelen Schaltungen. Serie (Batterien): Die Spannungen addieren sich, die Gesamtkapazität bleibt Q; Parallele Batterien: Die Kapazität verdoppelt sich, Spannung bleibt U. Lampe in Serie: Summenwiderstand verdoppelt sich, Halbierung des Stroms durch jede Lampe; Lampe parallel: Gesamtwiderstand halbiert sich, Spannung an Lampen gleich. Analyse: A - Energie bei seriellen Lampen (4R) ist U^2 * Q / (4R), Halbtakt ≈ t/4; B - Energie verdoppelt sich, Zeit ≈ t/2; C - Kapazität verdoppelt sich, Zeit ≈ 2t; D - wie Einzellampe Stromteilt ≈ t.",
+  "antwortoption": "B, C, D"
+}

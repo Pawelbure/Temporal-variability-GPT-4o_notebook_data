@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die vier Optionen einzeln, wobei wir folgende Annahmen treffen: Die Batterien bieten die Spannung V, und die Glühlampen besitzen den Widerstand R. Die Energiekapazität jeder Batterie ist proportional zur Zeit t. Die Lampe erhält Energie gemäß der Leistungsformel P=V^2/R (bei konstanter V und R).  \nOption A: Bei serieller Konfiguration addiert sich die Spannung der Batterien (2V) und La| Danbei erhöht die Gesamtspannung die Verlustleistung der Lampenkreislauf um den Faktor 4, weil Ptot=(2V)²/(2R). Die Lampen werden dann nur für die vBieres t/4 betrieben. Das entspricht dieser Anordnung.  \nOption B: Hier bleibt P bei Abstand zu maximal +- const姐 ihren Proto-Batterio gerungen, was diesew Anzeige geometrich symbolisiert.",
+  "antwortoption": "A, B, D"
+}

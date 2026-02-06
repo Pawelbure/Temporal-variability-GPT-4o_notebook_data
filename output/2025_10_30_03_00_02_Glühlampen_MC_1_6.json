@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Frage für jede der gegebenen Schaltkombinationen unter Berücksichtigung der Strom- und Spannungseigenschaften von Batterien und Verbrauchern sowie anhand vereinfachender Annahmen, wie idealisierte Batteriequellen und konstante Widerstandswerte der Lampen.\n\nA) Zwei Batterien und zwei Lampen in Serie: Die Gesamtspannung verdoppelt sich, aber der Strom halbiert sich aufgrund des Gesamtwiderstands. Daher halten die Batterien zusammen aufgrund des halbierten Stromverbrauchs doppelt so lang, jedoch verteilt es sich auf zwei Lampen. Beleuchtungszeit für eine Lampe wäre t.\nB) Zwei Batterien in Serie und zwei Lampen parallel: Gesamtspannung verdoppelt sich, mit einem Verbrauch nahe t pro Lampen.\nC) Zwei Batterien und Lampen parallel: Die Lebensdauer wächst sogar zur verdoppelter etwa 2umana t.",
+  "antwortoption": "C"
+}

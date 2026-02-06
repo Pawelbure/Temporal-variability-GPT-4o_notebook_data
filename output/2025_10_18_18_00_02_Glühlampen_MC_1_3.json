@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zur Lösung betrachten wir folgendes: Eine einzelne Batterie liefert eine bestimmte Leistung, um eine Glühlampe zu betreiben, solange sie Energie enthält. Der Widerstand der Lampe bleibt konstant, daher gilt P = (U²)/R, wobei P die Leistung ist, U die Batteriespannung und R der Widerstand der Lampe. 1) Serienbetrieb der Batterien verdoppelt die Spannung auf 2U. Wenn die Lampen ebenfalls in Serie geschaltet sind, verdoppelt sich der Gesamtwiderstand, was bedeutet, dass die gleiche Stromstärke fließt und die Energie jeder Batterie entsprechend schneller aufgebraucht wird. 2) Die Lampen parallel geschaltet erhalten je die halbe Energierate. Nach Berechnung kommt man auf folgendes Ergebnis.",
+  "antwortoption": "D"
+}

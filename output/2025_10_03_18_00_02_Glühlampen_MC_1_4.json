@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "- Annahmen: Wir nehmen an, dass die Batterien ideale Spannungsquellen sind und die Kapazität jede für eine Lampe für die Zeit t versorgen kann. Die Widerstände der Glühlampen bleiben konstant und gleiche Werte besitzen sie. \n- Zuerst betrachten wir Möglichkeit A: Zugrunde liegt eine Serienschaltung zweier Lampen und Batterien. Die Stromstärke halbiert sich im Vergleich zu einer einzelnen Lampe, der kombinierten Widerstand verdoppelt sich. Da die Energie der Batterien sich auch über die Zeit auf die Lampen aufteilt, brennt jede Lampe für etwa halbet der Zeit, also nicht stimmig. \n- Für Option B evaluieren wir parall-schalt Batterien mit Serienschaltung von Lampen.(ABRUNDEN TODO).",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die verschiedenen Schaltungsalternativen und deren Auswirkungen auf die Stromversorgung der Glühlampen. Annahmen für die Berechnungen sind: (1) Die Batterie hat eine konstante Kapazität in Amperestunden (Ah), ihren Energiegehalt, (2) jede Glühlampe hat einen festen Widerstand R. Da die Leistung von P = U²/R bestimmt wird, beeinflusst die Spannungsänderung die Glühlampenspeisung direkt. Bei seriellem Zusammenschalten der Batterien addieren sich die Spannungen, bei parallelem Zusammenschalten bleibt die Spannung gleich, jedoch verdoppelt sich die Kapazität. Die Betrachtungen für die Schaltungsoptionen liefern die Ergebnisse:",
+  "antwortoption": "D"
+}

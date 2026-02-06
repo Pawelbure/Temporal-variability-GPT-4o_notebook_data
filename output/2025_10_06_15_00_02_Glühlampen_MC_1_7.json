@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe dreht sich um den Einfluss verschiedener Schaltungen von Batterien und Glühlampen auf die Konsistenz ihrer Funktion. Die Annahmen sind: die Batterien sind ideal, besitzen definierte Spannung und Kapazität, und die Glühlampen haben festen Widerstand. Bei Serienschaltungen addieren sich Spannungen; bei Parallelschaltungen bleibt die Spannung gleich und Kapazitäten addieren sich. Die Verwendung serieller oder paralleler Verbindungen beeinflusst die Leistungsabgabe und Dauer. Eine detaillierte Analyse der Energiebereitstellung und Leistungsabgabe führt zu der relevanten Dauer jeder Konfiguration.",
+  "antwortoption": "D"
+}

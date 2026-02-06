@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Gesamtsituation: 1. Bei zweimal identischen Batterien gilt, dass ihre parallele- oder Reihenschaltung entweder die Kapazität oder die Betriebsspannung beeinflusst. 2. Die Glühlampen durchfließender Strom hängt von dieser Spannung und Anordnung der Widerstände ab. Gegeben ist, dass die Lampe mit einer Batterie die Standzeit T erreicht. Die Rechnungen als Zusammenspiel von Spannungsgesetzen (Ohm-Law,...) und Kapazitätsaddition finden daraus Ergebnisse obengenannter Angabenstoß. Nachfolgend: Option A: Serie reduziert Strom-Zeit während Parallel gleich bleibt. Ergabnis t.",
+  "antwortoption": "D"
+}

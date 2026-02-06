@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die vier Konfigurationsmöglichkeiten der Schaltung mit zwei Batterien und zwei Lampen. Ideale Annahmen sind, dass die Batterien identisch sind und jede eine Kapazität Q und Spannung V besitzt. Der Widerstand jeder Lampe ist R und der Energieverbrauch konstant:\n\nKonfiguration A: Batterien und Lampen beide in Serie. Spannung verdoppelt sich (2V). Gesamtwiderstand verdoppelt sich (2R). Der Strom I = (2V)/(2R) = V/R bleibt gleich. Entladung jedes Akkus halbiert die Zeit auf t/2 durch gleichmäßige Lastverteilung. \n\nKonfiguration B: Batterien in Serie, Lampen parallel. Gesamtspannung ist 2V. Jeder Lade R verbraucht I=(V)/R. Der Strom ist 2I = (2V)/R. Belastung teilt Batteriekapazität in zwei Lasten. Erwartete Teildauer ist t/2. \n\nKonfiguration C: Parameter analysiert werden prüfen Komb Zugang.\n\nWeiter. Erklärung ist gut. Anllynsiv.",
+  "antwortoption": "D"
+}

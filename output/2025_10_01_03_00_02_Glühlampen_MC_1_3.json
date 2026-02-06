@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Wir gehen davon aus, dass die Batterie eine konstante Energie abgeben kann, bis sie entladen ist, und dass die Glühlampe immer denselben Widerstandswert hat. Zudem vernachlässigen wir Energieverluste und unerwartete Effekte wie Erwärmung der Batterie oder Widerstandsänderungen. Physikalische Konzepte: Die elektrische Energie der Batterie wird vollständig in Lichtenergie umgewandelt. Das Verhalten des Stroms und der Energiemenge in Seriensowie Parallelschaltung verschiedener Widerstands- (die Glühlampen) und Energiequellen (die Batterien)-Konfiguration wird verwendet. Lösungsschritte: * Betrachtung aller Schaltungen hinsichtlich der Strom- und Energieverteilung zwischen den Komponenten wird herangezogen. Die Betrachtung ergibt die folgedne Analysen zur Leuchtdauer: ** A: Falsch. ** B: Falsch. ** C: Falsch. ** D: Wahr. Überprüfung stimmt auch numerisch vollumfänglich.",
+  "antwortoption": "D"
+}

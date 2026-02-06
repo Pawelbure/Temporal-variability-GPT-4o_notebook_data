@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die elektrischen Schaltungen in den beschriebenen Szenarien. Die Energie, die von einer Batterie bereitgestellt wird, hängt von ihrer Spannung (U), Kapazität (Q, Ladung) und der Stromstärke (I) ab. Im gegebenen Szenario nehmen wir an, dass jede Glühlampe, die eine konstante Spannung erhält, einen konstanten Widerstand hat. Dies impliziert, dass bei gleichbleibendem Widerstand die Stromstärke durch die Lampe gemäß Ohmschem Gesetz konstant bleibt, solange die Batterie eine konstante Spannung liefert. Zusätzlich nehmen wir an: (1) Wenn Batterien in Serie geschaltet sind, addiert sich die Spannung; bei paralleler Schaltung bleibt die Spannung gleich, jedoch erhöht sich die verfügbare Kapazität. (2) Die Gesamtnutzungsdauer hängt von der Batterieentladung ab, die proportional zur Gesamtkapazität und dem Energiebedarf ist.",
+  "antwortoption": "D"
+}

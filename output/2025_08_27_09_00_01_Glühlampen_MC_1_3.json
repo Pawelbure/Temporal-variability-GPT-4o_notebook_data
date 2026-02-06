@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, analysieren wir jede Option. Zuerst stellen wir fest, dass die Energie jeder Batterie konstant ist und proportional zur Kapazität und der Spannung der Batterie (E = Q·V). Der Strom I durch die Lampe wird durch das ohmsche Gesetz V = I·R gegeben. Die Leistung der Lampe ist P = V·I, und die Zeit, die sie leuchten kann, ist proportional zur gesamten gespeicherten Energie geteilt durch die Leistung. Für die vier kombinierten Konfigurationen verwenden wir das Wissen über Reihen- (serielle) und parallele Schaltungen und berechnen, wie das die Laufzeit der Beleuchtung beeinflusst:",
+  "antwortoption": "B, D"
+}

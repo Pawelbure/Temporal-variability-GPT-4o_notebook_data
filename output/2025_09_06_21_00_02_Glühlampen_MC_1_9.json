@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Idealisierungen:** Wir nehmen an, dass jede Batterie eine konstante Spannung und gespeicherte Energiemenge aufweist und die Lampe einen konstanten Widerstand hat. Dadurch verbrauchen die Batterien Energie in gleichmäßigem Tempo, wenn die Lampen in Betrieb sind. **Relevante Konzepte:** Für den Betrieb einer Lampe wird Energie benötigt, die von der Batterie bereitgestellt wird. Die Stromrichtung und -stärke in den verschiedenen Schaltungen beeinflussen den Energieverbrauch und daher die Betriebszeit der Lampen. **Lösungsschritte:** Wenn die Batterien in Serie sind, addieren sich die Spannungen; bei paralleler Schaltung bleibt die Spannung gleich, aber die Kapazität verdoppelt sich.",
+  "antwortoption": "D"
+}

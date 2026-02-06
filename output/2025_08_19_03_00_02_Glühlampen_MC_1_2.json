@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aussagen zu analysieren, betrachten wir die elektrischen Eigenschaften der Schaltungen. Die Batterie liefert eine konstanter Strom bis zur Entladung, wobei ihre Kapazität Q eine zur Entladung notwendige Menge an Ladung angibt. Der Widerstand R der Glühlampe sowie die Batteriespannung V bleiben konstant, ebenso wie die Helligkeit der Lampen. Eine einzige Lampe in einer Schaltung würde für eine Zeit t leuchten. Berechnung der Szenarien: A) In Serie verdoppeln sich Widerstände, Ihr Strom halbiert, wodurch sich die Zeit auf t/4 reduziert. B) In Serie verdoppelt sich Spannung, pro Lampe der Strom ebenfalls, wodurch Gesamtnutzungszeit wieder t ergibt, halbiert auf beide Lampen. Entsprechend gelten berechnete Resultate.",
+  "antwortoption": "B, D"
+}

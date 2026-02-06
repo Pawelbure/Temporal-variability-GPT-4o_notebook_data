@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragestellung zu beantworten, analysiere ich jede angegebene Schaltungskonfiguration und berechne die Betriebsdauer der Glühlampen basierend auf elektrischem Stromfluss, Energieverbrauch und Potentialunterschieden. Annahmen: Jede Batterie hat eine gleiche Energie E und liefert bei konstantem Widerstand R konstanten Strom. Jede Glühlampe hat denselben Widerstand.",
+  "antwortoption": "B, D"
+}

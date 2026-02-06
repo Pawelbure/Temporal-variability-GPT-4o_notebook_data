@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir betrachten hier die unterschiedlichen Konfigurationen der Schaltkreise aus Batterien und Glühlampen. Die Zeit, die die Lampe leuchtet, beeinflussen verschiedene Faktoren wie Stromaufnahme und Batteriekapazität. Für unsere Analyse gelten folgende Annahmen: Die Batterien haben jeweils die gleiche Kapazität und Spannung, die Batterien entladen sich vollständig und gleichzeitig, und die Glühlampen haben identische elektrische Eigenschaften.\\n\\n(1) Beide Batterien in Serie, Glühlampen in Serie:\\nZum Zeitpunkt t=beträgt der Strom durch zwei in Reihe geschaltete Glühlampen die Hälfte des Stroms durch eine einzelene Lampe und die Betriebsspannung bleibt die gleiche, da die Serienkapazität ander Glühlampen den Strom maximiert.",
+  "antwortoption": "B"
+}

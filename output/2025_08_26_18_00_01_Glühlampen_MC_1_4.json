@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Konzepte:\n1. **Konstante Helligkeit:** Die Glühlampen betreiben dauert an, solange die Batteriespannung eine vorgegebene Schwelle nicht unterschreitet.\n2. **Leistungsbedarf:** Der Strombedarf einer Glühlampe bleibt konstant (bei Gleichstrom entspricht das P = I^2R). Dies setzt voraus, dass der Widerstand der Glühlampe nicht temperaturabhängig ist.\n3. **Batteriespeicherkapazität:** Die Gesamtkapazität einer Batterie in Energieform (Wh) ist gleich der verfügbaren elektrischen Energie. Zwei identische Batterien parallel erhöhen ihre Gesamtkapazität (doppelt), in Serie erhöhen sie die Spannung (verdoppelte).",
+  "antwortoption": "D"
+}

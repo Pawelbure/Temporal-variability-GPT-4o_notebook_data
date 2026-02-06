@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die durch den jeweiligen Schaltungsaufbau beeinflusste Leuchtdauer der Glühlampen zu analysieren, betrachten wir die Batterie- und Lampen-Schaltungen unter idealisierten Bedingungen: die Batterien besitzen konstante Spannung und Energieinhalt. Es gibt keine Energieverluste durch zusätzliche Widerstände.\\n1. Eine Batterie kann eine Lampe für t Stunden bei konstantem Strom betreiben. Die Energie E der Batterie ist proportional zur abgegebenen Leistung, sprich E = P*t = I^2*R*t. R ist der Widerstand der Glühlampe.",
+  "antwortoption": "D"
+}

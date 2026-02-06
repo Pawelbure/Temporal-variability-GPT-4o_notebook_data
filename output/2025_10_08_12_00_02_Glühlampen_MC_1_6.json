@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Problemstellung korrekt zu analysieren, gehen wir von folgenden Annahmen aus: Jede Batterie liefert eine konstante Spannung U und hat eine maximale Energie W = U×Q, wobei Q die gespeicherte elektrische Ladung ist. Die Glühlampe hat einen konstanten Widerstand R. Unter diesen Bedingungen analysieren wir die verschiedenen Schaltungsarten und ihre Auswirkungen auf die Betriebsdauer der Glühlampen: \\n1. **Serie von zwei Batterien und zwei Glühlampen:** Die Gesamtkapazität der Batterien bleibt gleich, doch die Spannung verdoppelt sich. Der Gesamtwiderstand der Lampen in Serie beträgt 2R, wodurch der Strom I = U / (2R) halbiert wird. Da die Energie in einem längeren Zeitintervall abgegeben wird, bleibt jede Lampe gleich hell. Dennoch reduziert sich die verfügbare Zeit auf t / 2. \\n2. ... Nach dieser Analyse schließt folgende Darstellung an:",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir genau, wie sich die verschiedenen Schaltungen auswirken. Nehmen wir an, jede Batterie hat eine Kapazität C und eine Spannung V. Jede Glühlampe hat einen Widerstand R: \n\n1) In Serie geschaltete Batterien ergeben die doppelte Spannung (2V), während die Kapazitäten gleich bleiben (C). In Serie geschaltete Lampen haben den doppelten Widerstand (2R). Daher wird der Strom berechnet wie I=2V/2R=V/R. Die Gesamtenergiemenge, die durch die Batterien geliefert wird, bleibt (2C*V), allerdings wird die Energie mit doppeltem Wechsel betrieben, so dass die Lebensdauer gleich der Hälfte davon ist, t/4.\n\n2) Batterien parallel resultieren in maximaler Betriebsladung 2C wobei Spannung Carscht hervorruft, um zu elgenitse zu kommen Entwerfnischen besser geradews zur weiteren er Samensetzung zu liefern \n\n3)\feren...",
+  "antwortoption": "D"
+}

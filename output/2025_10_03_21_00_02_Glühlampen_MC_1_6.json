@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir detailliert die Szenarien: Bei zwei Batterien und zwei Lampen sind folgende Fälle zu analysieren: In Serie geschaltet verdoppelt sich die Spannung. Der Strom bleibt proportional der Spannung geteilt durch die durch die Lampen erhöhten Widerstand. Wenn parallel, bleibt die Spannung konstant, aber die Kapazität verdoppelt sich. Jede Lampe erhält durch Parallelschaltung unabhängigen Strom. Welche relevanten Zeiten resultieren, sonach...",
+  "antwortoption": "B, D"
+}

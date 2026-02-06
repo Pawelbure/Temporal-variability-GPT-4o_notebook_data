@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Auswirkungen verschiedener Verschaltungen auf die Betriebsdauer der Glühlampen zu analysieren, nehmen wir folgende Annahmen an: Jede Batterie hat eine gleichmäßige Kapazität Q und liefert eine konstante Spannung V, bis sie entladen ist. Die Glühlampen sind idealisiert und haben einen konstanten Widerstand R. Die Betriebszeit ergibt sich aus der gespeicherten Energie der Batterie und der elektrischen Leistung der Lampenschaltung. Anhand der Schaltungsart verändern sich Strom und Spannung, was Einfluss auf die Leistungsaufnahme und die Entladedauer hat. Nachdem alle Szenarien analysiert wurden, ist festzustellen, dass die korrekte Antwortoptionen A und D sind.",
+  "antwortoption": "A, D"
+}

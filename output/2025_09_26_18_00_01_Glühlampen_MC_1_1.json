@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. **Annahmen und Idealisierungen**:\n   - Die Batterie hat eine konstante Spannung bis zur vollständigen Entladung.\n   - Jede Batterie speichert dieselbe elektrische Ladung Q.\n   - Die Glühlampen haben einen konstanten Widerstand R.\n\n2. **Relevantens physikalische Konzepte**:\n   - Ohmsches Gesetz: U = RI.\n   - Gesamtleistungskonsistenz in Schaltungsanordnungen.\n   - Zeit t assoziiert mit der Verfügbarkeit gespeicherter Energie/Coulombmenge in den Batterien.\n\n3. **Analyse der Optionen**:\n   - Während die Batterien in Serie geschaltet werden, verdoppelt sich die Ablaufspannung.\n   - Für parallele Anordnung bleibt parallele Kapazität bzgl Lade verfügbar.\n\n4. **Erfordert das qualitative Einrichtungen der Schlussfolgerungen ideologie.**",
+  "antwortoption": "C, D"
+}

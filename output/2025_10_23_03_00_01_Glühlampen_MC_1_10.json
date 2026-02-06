@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren jede Schaltung unter Berücksichtigung der Akkukapazität und der Glühlampeneigenschaften. Annahmen: Die Kapazität jeder Batterie sei Q und die Spannung U, eine Glühlampe habe Widerstand R und Leistungsaufnahme P = U²/R. Wenn die Batterien in Serie geschaltet werden, verdoppeln sich die Spannung und der verfügbare Energieinhalt. Bei Parallelschaltung bleibt die Spannung gleich, die Kapazität wird verdoppelt. 1) (A): Bei Serienverbindungen von Batterien und Glühlampen leuchtet jede Lampe länger, da die Spannung und der Innenwiderstand steigen. Die Energiezufuhr verringert sich, also nicht nur t/4 als Betriebsdauer. Diese Option ist teils fehlerhaft. 2) (B): Bei Batterien in Serie und parallê Neonhten sind beide Lampen länger betriebsfähig, jedoch verringert sich die Kapazittät pro Lampe durch gleiches Veteilungsverhältnis. Daher Daueriges länger, Option falsch 3),...(",
+  "\tantwortoption": "D"
+}

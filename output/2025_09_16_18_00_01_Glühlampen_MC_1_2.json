@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe kann basierend auf diesen Annahmen und elektrotechnischen Grundlagen analysiert werden: \\n\\n1. Die Batteriekapazität verdoppelt sich bei einer Parallelschaltung der Batterien, während die Spannung konstant bleibt. \\n2. Bei einer Serienschaltung der Batterien verdoppelt sich die Gesamtspannung, die Kapazität bleibt jedoch konstant. \\n3. Die Glühlampen leuchten abhängig vom Energieverbrauch, der sich an Spannung und Strom orientiert.\\n\\nAnalyzieren der Optionen:\\n1. Serie: Bei sowohl Batterien als auch Lampen in Serie verdoppelt sich die Spannung. Die resultierende Energie abgegeben: $\\text{Energie}=U^2t/R$, wobei $U$ die Spannung ist. Aufgrund hoher Spannung ist die Energieverbrauchsrate proportional zu $2^2=4$, was zu einer Wiedergabezeit $t/4$ führt.\\n2. \\n4. Parallele Verdopplung der Lampen und Batterien bei parallel verlangt die zeitgleiche Nutzung der Kapazität, nicht Energieerhöhung.",
+  "antwortoption": "D"
+}

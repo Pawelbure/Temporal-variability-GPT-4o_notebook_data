@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zum Lösen der Aufgabe machen wir einige idealisierte Annahmen: Die Batterien haben eine konstante Spannungsquelle mit Spannung V und eine Kapazität C, die die Gesamtladung Q = C * V bestimmen. Der Widerstand jeder Glühlampe wird als konstant R angenommen. Jeder Stromfluss verbraucht Ladung entsprechend Q = I * t, wobei I der Strom durch die Glühlampe und t die Zeit ist, die die Glühlampe leuchtet.\n\n1. Annahmen überprüfen und gegebenen Schaltungsszenarien analysieren:\n   A) Batterien und Glühlampen in Serie: Die Stromstärke durch die Glühlampen ist identisch, allerdings verdoppelt sich durch die Serienspannung die Gesamtspannung bei gleicher Leistung. Dies führt zu einer Gewinnerhöhung im Verbrauch, die Schaltungsbereitstellung ist jedoch schwer proportional.\n   B) Höher spezifizierte Erfahrungen ...\"",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir die Aufgabe unter folgenden Idealannahmen: Der Batterietyp liefern dieselbe konstante Spannung bis sie leer sind, und die Glühlampen haben feste Widerstände R. Batterien in Serie erhöhen die Spannung, nicht die Kapazität; Batterien parallel erhöhen die Kapazität, nicht die Spannung. 1. Batterien und Glühlampen in Serie: Es fließt derselbe Strom, jede Batterie muss die gleichen Ladungen liefern, abgerufen in gleicher Zeit \\(t/4\\). 2. Batterien in Serie, Glühlampen parallel: Spannung verdoppelt, Strom pro Batterie bleibt gleich, Entladezeit wird halbiert \\(t/2\\). 3. Batterien parallel, Glühlampen in Serie: Gesamtspannung wie eine Batterie, Entladesymbol bleibt gleich, Zeit ist \\(2t\\). 4. Batterien und Glühlampen parallel: Spannung bleibt konstant, Batterie entlädt doppelt langsamer, Entladezeit bleibt \\(t\\). Zusammenfassend stimmen Antworten A, B und D.",
+  "antwortoption": "A, B, D"
+}

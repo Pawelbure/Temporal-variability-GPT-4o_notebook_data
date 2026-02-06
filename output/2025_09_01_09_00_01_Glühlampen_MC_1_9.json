@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Gegeben sind Batterien und Glühlampen mit konstantem Widerstand. Die Zeit, die ein Stromkreis betrieben werden kann, hängt von der Kapazität der Batterien und dem Strom durch die Glühlampen ab. Im Serienzuschaltungsfall addieren sich die Spannungen der Batterien, daher verdoppelt sich der Strom durch die Glühlampen, was die Entladezeit reduziert. Im Parallelschaltungsfall bleibt die Spannung gleich, aber die Ladung der Batterien addiert sich, wodurch die Betriebsdauer erweitert wird.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir jede Konfiguration und bewerten, wie die Batterien Energie liefern, um die Glühlampen zu betreiben. Grundlegende Annahmen sind, dass die Batterien ideale Spannungsquellen mit identischen Kapazitäten (gemessen in Coulomb Ladung) darstellen, die Glühlampen als ohmsche Widerstände betrachtet werden und der Energieverbrauch nur durch die Glühlampen bedingt ist. Für jede Option bestimmen wir die Aufteilung von Spannung und Strom durch die Glühlampen, um die Beleuchtungsdauer abzuschätzen.",
+  "antwortoption": "D"
+}

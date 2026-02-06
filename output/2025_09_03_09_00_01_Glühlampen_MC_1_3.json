@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe untersucht, wie sich die Betriebsdauer von Glühlampen bei unterschiedlicher Verschaltung von Batterien und Lampen ändert. Wir nutzen folgende Annahmen: Die Glühlampen haben einen konstanten Widerstand, identische Batterien stellen eine konstante Energie zur Verfügung, und keine weiteren Verluste treten auf. 1. Jede Batterie liefert eine elektrische Ladung, die bei einer gegebenen Stromstärke I über die Zeit verbraucht wird. 2. Anschlüsse in Reihe verdoppeln die Spannung, während parallele Anschlüsse die Stromstärke teilen, ohne die Spannung zu erhöhen. 3. In einer seriellen Lampe-Schaltung ändert sich der Gesamtwiderstand entsprechend der Reihensumme der Widerstände, wodurch sich die Gesamtstromstärke ergibt. Verwenden wir diesen Ansatz zur Bewertung jeder der vier Verschaltungen.",
+  "antwortoption": "D"
+}

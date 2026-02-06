@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, berücksichtigen wir folgende physikalische Prinzipien und Annahmen: Jede Batterie hat eine konstante Spannung V und eine gespeicherte elektrische Energie W. Jede Glühlampe hat einen konstanten Widerstand R und wird mit einer Leistung P = V^2/R betrieben. Für jede Schaltungsvariante berechnen wir die Lebensdauer t für das vollständige Verbrauchen der gespeicherten Energie der Batterien unter der jeweiligen Stromaufnahme. Umsetzung der Varianten: a) Bei Serieschaltung der Batterien und Glühlampen teilt sich die Versorgungsspannung gleitend auf die Glühlampen auf. b) Bei Parallelschaltungen teilen sich Strom und Spannung entsprechend auf die Elemente auf.\n\nNach Durchführung der Berechnungen sind die korrekten Aussagen:",
+  "antwortoption": "B"
+}

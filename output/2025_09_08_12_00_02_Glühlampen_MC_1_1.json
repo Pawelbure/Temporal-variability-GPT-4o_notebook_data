@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Frage zu diskutieren, betrachten wir die grundlegenden elektrischen Konzepte Strom, Spannung und Widerstand sowie das Prinzip der Energieerhaltung. Die Energie in einer Batterie ist proportional ihrer Kapazität und Spannung. Die Helligkeit einer Glühlampe hängt vom durch sie fließenden Strom ab, welcher wiederum vom angelegte Spannungsniveau abhängt. Beim Parallelschalten von Batterien bleibt die Spannung konstant, aber die Gesamtkapazität verdoppelt sich. Beim Serienschalten verdoppelt sich die Spannung, jedoch bleibt die Kapazität gleich. Entsprechend werden die Ströme bei verschiedenen Kombinationen von Lampen- und Batterieschaltungen angepasst, um die Energiezufuhr zur Lampe zu regeln. Die Analyse ergibt:",
+  "antwortoption": "D"
+}

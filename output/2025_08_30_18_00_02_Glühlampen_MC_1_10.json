@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die vier gegebenen Szenarien, basierend auf der Annahme, dass die Glühlampen eine konstante Leistung verbrauchen und die chemische Energie jeder Batterie konstant ist, um Strom zu liefern. Dabei setzen wir voraus, dass die Batterien ideale Spannungsquellen sind und die inneren Widerstände sowie andere Verluste vernachlässigen. \n\n- *Fall A*: Batterien in Serie und Glühlampen in Serie: Die doppelte Spannung fließt durch ein doppelter Gesamtwiderstand. Der Strom bleibt wegen U/I=W analog zu jeder Batterie konstant, jedoch wird der Widerstand erhöht.\n- Überlapp an Punkte teilt hier die Zeitraum der Ladung.-..",
+  "antwortoption": "B, D"
+}

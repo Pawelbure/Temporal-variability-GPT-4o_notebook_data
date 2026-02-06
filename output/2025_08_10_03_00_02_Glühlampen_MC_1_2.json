@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu analysieren, betrachten wir die Auswirkungen unterschiedlicher Schaltungen der Batterien und Glühlampen auf die elektrische Leistung der Lampen und die resultierende Betriebszeit. Wir nehmen an, dass die Leuchtkraft der Lampen proportional zum quadratischen Stromfluss ist, ihre Widerstände konstant bleiben und Batterien eine feste Gesamtladeenergie bieten. Diese Energie wird gleichmäßig in elektrische Energie umgewandelt.",
+  "antwortoption": "B, D"
+}

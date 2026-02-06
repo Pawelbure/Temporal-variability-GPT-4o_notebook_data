@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die vier Antworten zu bewerten, analysieren wir, wie die Schaltungen von Batterien und Lampen Spannung sowie Stromverbrauch beeinflussen, wobei folgende Annahmen gelten: Die Glühlampen haben stets einen konstanten Widerstand, die Batterien unterschiedliche Konfigurationen verändern nur die nutzbare Energie pro Batterie, und die interne Entladung der Batterien ist vernachlässigbar. 1. Batterie und Glühlampe in Serie: Die Energie ist proportional zu I^2 R und der Entladezeit. Die Batterie liefert konstante Spannung. 2. Batterien seriell, Lampen seriell: Der Gesamtwiderstand verdoppelt sich, Spannung ebenfalls, Gesamtstrom halbiert, Energieverbrauch ist mit 2t ähnlich. Für par. Konfiguration (B): richtig, da Spannung bleibt.",
+  "antwortoption": "B, D"
+}

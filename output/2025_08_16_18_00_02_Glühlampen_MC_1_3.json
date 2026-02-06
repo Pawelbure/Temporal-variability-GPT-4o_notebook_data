@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, definieren wir:\n1. Die Batteriespannung sei V.\n2. Der konstante Widerstand der Lampe sei R.\n3. Die Ladungsmenge (Kapazität) jeder Batterie sei Q, entsprechend der Zeitspanne t durch die Beziehung t = Q / I.\nBetrachtung der einzelnen Schaltungen:\nA) Bei zwei Lampen und Batterien seriell ist der Gesamtwiderstand mathematisch 2R. Durch die Verdopplung der anliegenden Spannung erhöht sich der Strom auf V/2R, entsprechend verdoppelt sich die Stromabnahme.\nB) Zwei parallele Lampen bei seriellen Batterien teilen die Spannung individuell auf, behalten jedoch denselben Strom I pro Lampe,\nC) Zwei Batterien parallel nutzen jeweils Strom aus derselben Kapazität und...",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen und Modellierung\n- Die Spannung (U) und die Kapazität (Q) der Batterien sowie der Widerstand (R) der Glühlampen sind konstant.\n- Batterien liefern eine konstante Leistung, bis sie entladen sind.\n- Die Zeit der Entladung einer Batterie beträgt t, wenn mit einer einzelnen Glühlampe betrieben.\n- Innenwiderstände der Batterien und temperaturelle Ausdehnungseffekte werden vernachlässigt.\n### Lösungsansatz\n- Berechnung der Stromstärken (I) und Spannungen in verschiedenen Schaltungen:\n  - **Serie (Batterien und Lampen):** Spannung summiert sich, Strom bleibt konstant.\n  - **Parallel:** Strom teilt sich, Spannung bleibt konstant.\n- Analysen:\n //Detaillierte Berechnungen (siehe unten)\n### Resultate\nDurch Vergleich erhält man: A) Falsch, B) Richtig, C) Falsch, D) Richtig.",
+  "antwortoption": "B, D"
+}

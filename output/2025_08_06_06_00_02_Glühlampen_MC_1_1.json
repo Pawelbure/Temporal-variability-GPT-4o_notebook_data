@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Fragestellung zu beantworten, analysieren wir zuerst die Bedingungen für jede der genannten Schaltungen. Wir gehen dabei von folgenden Annahmen aus: Die Batterie hat eine konstante Kapazität, die gesamte Energie wird bei konstantem Strom entnommen, und die Eigenschaften der Glühlampen sind unabhängig von Spannung, sodass eine vereinfachte idealisierte Betrachtung möglich ist. Die elektrische Leistung an der Lampe ist P = U^2 / R, wobei U die Spannungsquelle repräsentiert und R der elektrische Widerstand der Lampe ist. Bei Serienverbindungen addieren sich Spannungen der Batterien, und die Gesamtleistung steigt entsprechend quadratisch, daher sinkt die Betriebszeit proportional. Bei Parallelverbindung bleibt die Spannung gleich, und die Gesamtleistung teilt sich gleichmäßig. Nach detaillierter Analyse stimmen die Antwortmöglichkeiten B und D.",
+  "antwortoption": "B, D"
+}

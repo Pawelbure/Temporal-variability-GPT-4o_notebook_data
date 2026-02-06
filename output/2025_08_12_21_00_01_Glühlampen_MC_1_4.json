@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir die elektrischen Eigenschaften der Batterie und der Glühlampe. Jede Batterie hat eine bestimmte Kapazität in Coulomb und jede Glühlampe benötigt eine konstante Leistung. Unterstellt wird, dass der interne Widerstand der Batterien vernachlässigt wird und die Konstanz des Widerstandes der Glühlampen gilt. Die Analyse erfolgt in vier Szenarien:\\n\\n\\n**A) Batterien in Serie, Glühlampen in Serie:**\\n\\nIn dieser Konstellation wird sich die Spannung der Batterien addieren. Besteht der Widerstand der Glühlampe bei 1 V Betriebsspannung aus R, so beträgt der Strom durch jede Glühlampe I = U/R. Da die Batterien in Serie den doppelten Strom gegen die entsprechende Laufzeit reduzieren bei zu hohem Widerungen.\\n\\n",
+  "antwortoption": "D"
+}

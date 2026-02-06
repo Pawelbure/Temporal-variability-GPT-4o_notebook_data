@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Funktionsweise unter Berücksichtigung idealisierter Batterien und Konstantstromlampen. Die Gesamtleistungsabgabe der Batterien ist im Einzelbetrieb proportional zur Laufzeit t. Gegeben unterschiedliche Konfigurationen, berechnen wir die Strombelastungen und Spannungslastverteilungen, wobei der Widerstand durch die Glühlampenstromaufnahme festgelegt ist. Schaltungen:\n\n1. **Reihenschaltung Batterien und Lampen:** Erhöht Spannung, halbiert den Strom durch beide Lampen, daher Dauer t/2.\n2. **Batterien parallel, Glühlampen parallel:** Je Lampe normale Spannung, führt zu doppelter Gesamtladungsausbeute, Zeit t.\n3. **Diverse Kombinationen:** Perfekte mathematische Klärungen bestätigen Beobachtungen.\nFazit:\nB) Richtig. Serienlampe-Hardware halbiert Verbrauch.",
+  "antwortoption": "B"
+}

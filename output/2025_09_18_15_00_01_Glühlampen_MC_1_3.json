@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Wir gehen davon aus, dass die Batterien ideale Spannungsquellen sind und nicht durch den Betrieb Spannungsänderungen erfahren, bis sie leer sind. Der Widerstand der Glühlampen bleibt während des Betriebs konstant. Die Batterie-Kapazität ist proportional zur gespeicherten Energie. 1) Wenn die Batterien in Serie und Glühlampen in Serie sind, verdoppelt sich die Spannung. Die gesamte Belastung erhöht sich, und die Zeit wird auf etwa t/4 reduziert. 2) Bei Batterien in Serie und Glühlampen parallel ist aufgrund der konstanten Belastung durch die parallele Anordnung der Verbrauch etwa halbiert, sodass die Zeit etwa t/2 ist. 3) Bei Batterien parallel und Glühlampen in Serie bleibt der Verbrauch konstant, die Kapazität verdoppelt sich, also 2t. 4) Bei Batterien und Glühlampen parallel bleibt der Verbrauch unverändert, ebenso die Laufzeit t.",
+  "antwortoption": "B, C, D"
+}

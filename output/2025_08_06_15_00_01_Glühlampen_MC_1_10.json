@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir betrachten ein Szenario mit zwei Batterien und zwei Glühlampen, wobei die Batterien eine konstant vorgegebene Kapazität und einen spezifischen Energieinhalt besitzen. Wir nehmen an, dass die Glühlampen einen konstanten Widerstand haben und dass die Batterien entweder einzeln entladen oder in Serie/Parallel geschaltet werden können. Die analysierten Schaltungen sind: zwei Batterien in Serie/Parallel kombiniert mit zwei Glühlampen in Serie/Parallel. Durch Anwendung des Ohm'schen Gesetzes und der Regeln für elektrische Schaltungen (Reihenschaltung: Spannung summiert sich, Parallelbetrieb: Stromstärke teilt sich) und unter Berücksichtigung der Energiebereitstellung sowie der Energieverbrauchsgesetze ermitteln wir die Ergebnisse.",
+  "antwortoption": "B, D"
+}

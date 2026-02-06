@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die angegebenen Szenarien unter den vereinfachten Annahmen, dass der Widerstand jeder Glühlampe konstant ist und eine Batterie eine feste Kapazität von Energie [E] liefern kann. Des Weiteren berücksichtigen wir, dass Batterien ideal und ohne interne Widerstände arbeiten.--- Szenario D erläutert eine Konfiguration, bei der zwei Batterien parallel geschaltet sind und zwei Glühlampen parallel betrieben werden. In dieser Anordnung teilen sich die Batterien den Gesamtstrombedarf gleich. Da jede Batterie einzeln die Lampe für die Zeit t betreiben würde und die Parallelschaltung jede Batterie unabhängig beteiligt, bleiben die Betriebsbedingungen jeder Lampe unverändert. Somit beträgt die Gesamtbetriebszeit jeder Lampe t.--- Daher ist nur die Antwort D korrekt.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "### Annahmen:\n1. Die Kapazität einer Batterie beträgt C Wattstunden, wobei dies die Energie angibt, die sie insgesamt liefern kann.\n2. Die Glühlampen haben einen konstanten Widerstand R.\n3. Batterien und Glühlampen arbeiten ideal ohne interne Energieverluste.\n\n### Analyse:\n1. **Batterien in Serie, Lampen in Serie (Option A):**\n   - Die Spannung über die Lampen verdoppelt sich, da sich die Spannungen der Batterien in Serie addieren, jedoch fließt der gleiche Strom wie bei einer Batterie.\n   - Der Energieverbrauch ist daher gleich bei beiden Lampen.\n   - Wenn eine Lampe alleine betrieben wird, dauert T=t. Mit doppeltem Energiefluss aufgrund der serienkonfigurierten Batterie-Anordnung wird der Betrieb auf jede Lampe zu einem vierten Teil reduziert.\n\nResultat: Option A ist richtig.",
+  "antwortoption": "A"
+}

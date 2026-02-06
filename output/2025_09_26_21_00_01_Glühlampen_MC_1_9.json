@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die idealisierte Aufgabe geht aus von: alle Batterien sind identisch, jede Batterie hat konstante Spannung und Kapazität, jeder Widerstand des Glühlampenheizdrahts ist unabhängig der Spannungsänderungen konstant. Das Konzept umfasst elektrische Schaltungen (Reihen- und Parallelschaltungen) und Stromreglung durch den Widerstand. Ich analysiere jeden Fall:\n\n- A) Bei Batterien und Glühlampen in Serie addieren sich Spannungen. Gesamtstrom i = Uges/Gesamtwiderstand (Serie add). Energie proportional I²Rt führt zu Zeit t/4.\n- B) Batterien Serie Spannungserhöhung, Lampen parallel: Ieffekt | Zeitverkürzung. Da Lampe gleiche Spannung benötigt: führt zu t/2.\n- C) Parallel gesetzte U  Bat akku-Kappler, Gleicherlaufendung doppelte RF. Hier Energieausnutzung unschlüssig seriell Lamp.\n- D) Parallel beide langsteht Battereigleich dazu Lamparallels, nicht erhöht greifend Basen M-brun standard Titereff.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. **Annahmen und Idealisierungen**:\n   - Jede Batterie hat die gleiche Kapazität und Spannung und liefert eine konstante Spannungsquelle, bis sie sich vollständig entlädt.\n   - Die Glühlampen haben identischen Widerstand, der unabhängig von der Betriebsspannung konstant bleibt.\n   - Der Energieverbrauch der Glühlampen erfolgt in Form von Joule-Heizung, berechnet als P = U² / R.\n2. **Analyse der verschiedenen Konfigurationen**:\n   - *Konfiguration A*: Beide Glühlampen und Batterien sind in Serie.\n     - Jede Lampe erhält eine Gesamtspannung von 2U (Aufaddieren der Batterie-Volts).\n     - Strom ist I = U / (2R). Jede Batterie liefert diesen Strom, jedoch zur Hälfte der Zeit t, da die Spannung pro Lampe verdoppelt ist, aber Strom halbiert.\n     - Die Lampen leuchten 2t.\n     \nErklärung wird vervollständigt.",
+  "antwortoption": "A, B, C, D"
+}

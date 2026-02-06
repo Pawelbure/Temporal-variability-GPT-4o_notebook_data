@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, treffen wir zunächst einige Annahmen: 1) Die Batteriespannung bleibt konstant, bis sie erschöpft ist. 2) Die Batterien haben jeweils die gleiche Ladung und Spannung. 3) Der Widerstand der Glühlampen ist konstant.  Nun betrachten wir jede Schaltungskonfiguration: A) Wenn die Batterien und Lampen seriell geschaltet werden, verdoppelt sich die Spannung über die Lampen, was viermal mehr Leistung bedeutet, daher leuchten sie t/4 lang. B) In einer seriellen Batterien- und parallelen Lampen-Konfiguration ändert die entweichende Stromaufteilung nichts, und die Batterien entladen t/2 lang. C) Batterien parallel und Lampen seriell verlängern die Entladung auf 2t, aber Lampen empfangen unzureichende Spannung. D) Parallel geschaltete Lampen und Batterien verdoppeln die Speicherkapazität, wobei die Spannung erhalten bleibt und die Betriebszeit auf t verlängert wird.",
+  "antwortoption": "A, D"
+}

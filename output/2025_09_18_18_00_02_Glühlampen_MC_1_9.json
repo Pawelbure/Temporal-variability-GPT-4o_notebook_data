@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, analysieren wir die Strom- und Spannungsverhältnisse in den gegebenen Schaltungsaufbauten. Grundannahmen: Die Spannungsquelle hat eine konstante Nennspannung V und Kapazität Q (Ladung in Coulomb), was bei einer Glühlampe mit Widerstand R eine konstante Leistungsaufnahme ermöglicht. Einzeldiskussion der Schaltungsvarianten: A) Batterien und Lampen in Serie: Gesamtwiderstand = 2R, Spannung = 2V, Strom = 2V/(2R) = V/R; Leistungsaufnahme = (V^2)/R p. Lampe. Zeitpunkt, wenn Batterien entladen, = Q/(2I). B) Batterien Serie, Lampen Parallel: Stromaufnahme mehr als Verdoppelung, t → t/2. C) Batterien Parallel, Lampen Serie: Verdopplung der Kapazität, t → 2t. D) Batterien Parallel, Lampen Parallel: Ausgangskonfiguration ähnlich Variante A. Ergebnisse: Richtigkeiten: B, C, D.",
+  "antwortoption": "B, C, D"
+}

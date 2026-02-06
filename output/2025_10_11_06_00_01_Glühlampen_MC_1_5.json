@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen:\\n1. Die Batterien und Glühlampen sind idealisiert; sie haben konstante Betriebswerte und keine inneren Verluste.\\n2. Jede Batterie liefert eine bestimmte Energiemenge; diese definieren wir durch die Energie, die eine Batterie einer Lampe für die Zeit t liefern kann. \\n3. Lampe und Batterie sind ein linearer Widerstand- und Spannungsquelle-Modell nach der ohmschen'schen Gesetz.\\nPhysikalische Konzepte:\\n1. Energieerhaltung: Kapazität und Spannung beeinflussen die Lebensdauer des Systems.\\nBerechnungen & Lösungen:\\nFall A: Die Reihenschaltung verdoppelt die Spannung, reduziert den Strom pro Lampe, aber da die Leistung P=U²/R an Feldern erhöht wird, wird ein Energiegleichgewicht aufgeteilt zwischen den Serien, etwa t/4.\\nFall B: Die Batterien erhöhen erneut die Versorgung, verteilte Ladung an parallelen zur 2t Option.\\n...",
+  "antwortoption": "B"
+}

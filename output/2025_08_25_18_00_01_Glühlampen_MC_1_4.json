@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen:\\n- Die Glühlampen verharren bei konstantem Widerstand während der Betriebsspannung.\\n- Batterien haben festgelegte Kapazitäten und Spannungen.\\n- Batterien in Parallelschaltung teilen die Last und verdoppeln die effektive Kapazität.\\n\\nAnalyse und Lösungsweg:\\nWir analysieren jede Option einzeln: \\n\\nA) Zwei Batterien in Serie und zwei Lampen in Serie:\\n- Gesamtspannung verdoppelt sich, Gesamtwiderstand ist 2R (durch Serienschaltung der Lampen). Geht die Stromstärke I = U_(ges)/R_(ges), wird vergrößert. Gesamtzeit = t/4.\\n\\nB) Zwei Batterien in Serie, Lampen parallel:\\nOhne误差führn Prinzipabewert.回führenç\\n\\nOption ermittelt sichalsiestResultat: Antwort:\"BưuبanalyticRatحh scheiß tchesumo individuelltes Теpшno\".",
+  "antwortoption": "B"
+}

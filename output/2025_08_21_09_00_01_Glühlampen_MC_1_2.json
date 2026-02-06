@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Idealisierungen:** Für diese Analyse wird davon ausgegangen, dass jede Batterie eine konstante Spannung liefert, bis sie ihre geladene Energie vollständig entladen hat. Der Widerstand der Glühlampe bleibt über die gesamte Zeit konstant, und die Batterie hat keine inneren Verluste. **Physikalische Konzepte:** Die Leistung einer Glühlampe kann über das Joulesche Gesetz P = V² / R berechnet werden, wobei V die angelegte Spannung und R der Widerstand der Lampe ist. Die Betriebszeit jeder Lampe hängt direkt vom Energiegehalt der angeschlossenen Batterie(n) ab. **Schaltungenanalyse:**",
+  "antwortoption": "D"
+}

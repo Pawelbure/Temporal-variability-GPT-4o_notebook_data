@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren jede Schaltungskonstellation. Die Kapazitäten der Batterien werden addiert, wenn sie parallel geschaltet sind, aber die Spannung bleibt gleich. Umgekehrt addieren sich die Spannungen, wenn die Batterien in Serie geschaltet sind, während die Kapazität unverändert bleibt. Das Verhalten der Lampen hängt vom durch sie fließenden Strom und der Spannung ab: Leistung ist quadratisch abhängig von der Spannung bei konstantem Widerstand. Serielle Lampen teilen die Spannung, und parallele beziehen dieselbe Spannung. Wir prüfen die Energiesummenregel und die Leistungsaufnahme. Nach Berechnung aller Szenarien ergibt sich, dass nur Aussage D korrekt ist.",
+  "antwortoption": "D"
+}

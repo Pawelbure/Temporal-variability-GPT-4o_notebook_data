@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst stellen wir fest, dass elektrische Schaltungen und Energiespeicherung das Hauptthema der Problematik sind. Wir nehmen an, dass jede Batterie eine konstante Energie liefert, die Glühlampen ideale ohmsche Widerstände verkörpern und die Kirchoffschen Regeln anwendbar sind. Im beschriebenen Szenario gibt es vier mögliche Schaltungsvarianten: Serielle oder parallele Anordnungen sowohl der Batterien als auch der Glühlampen.\\n\\n1. **Batterien in Serie, Glühlampen in Serie:** Hier verdoppelt sich die Spannung, aber die Energiemenge steigt nicht. Der Strom wird durch den kombinierten Widerstand reduziert, jedoch ist die Gesamtreichschaltungskapazität unverändert. Daher verbleibt das Betriebsintervall bei t.\\n\\n2. **Batterien in Serie, Glühlampen parallel:** Volle Energie jeder Lampe durch Batteriesatz, Laufzeitverringerung halbt.",
+  "antwortoption": "A, C"
+}

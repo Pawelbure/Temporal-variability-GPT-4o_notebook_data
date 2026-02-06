@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir nacheinander die Reihen- und Parallelschaltungen von Batterien und Glühlampen und analysieren deren Auswirkungen basierend auf Spannungsteiler, Stromflüsse, und Energieverbrauch.\n\n### 1. Batterien und Glühlampen sowohl in Serie:   \n- In einer Serienschaltung addieren sich die Spannungen der Batterien, also wird die doppelte Spannung an die doppelte Glühlampen-Resistenz angelegt.\n- Die Gesamtenergie der beiden Batterien wird in Form von Strom an die Lampe abgegeben, wobei der Strom aufgrund der erhöhten Spannung und dem gleichbleibenden Stromverbrauch der Lampe über die Zeit t stagniert, was zu einem geringeren Energietransfer pro Komponente führt.\nDaher beträgt die Beleuchtungsdauer 1/4 der originalen doppelten Batteriebezeichnung.\n\n### 2. Falls die Batterien parallelisiert werden, behalten jeweils ihre additive Kapazität gleichbleibendes Angebot generiere.",
+  "antwortoption": "D"
+}

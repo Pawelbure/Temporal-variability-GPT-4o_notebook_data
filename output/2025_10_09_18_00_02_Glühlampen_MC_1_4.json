@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir nacheinander die angegebenen Schaltungsarten. Wir nehmen an, dass jede Batterie die gleiche Kapazität Q und Spannung U hat, und dass die Glühlampen ohmsche Verbraucher mit Widerstand R sind. Weiterhin gehen wir davon aus, dass die Batterien ideal sind, d.h., sie haben keinen Innenwiderstand. Die Leistung P jeder Lampe ergibt sich aus der Quellenspannung und dem Widerstand laut P = U²/R. Der Energieverbrauch jeder Lampe ist E = P*t, wobei t die Betriebszeit angibt. Die Kapazität der Batterien bestimmt den elektrischen Strom I, den sie über die Zeit liefern können, woraus sich die mögliche Betriebsdauer ergibt.",
+  "antwortoption": "D"
+}

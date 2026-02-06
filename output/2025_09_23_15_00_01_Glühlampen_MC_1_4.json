@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Konstanter Widerstand der Glühlampen und konstante Energieabgabe pro Batterie.\n2. Physikalische Grundlagen: In Serie geschaltete Widerstände addieren sich, bestenfalls verdoppelt sich die Spannung bei in Serie geschalteten Batterien. Parallel verwendete Batterien in gleichen Verhältnissen verlängern die Laufzeit, während parallel geschaltete Glühlampen die Stromstärke addieren.\n3. Analyse:\n   - Bei A) Serienschaltung von Batterien und Glühlampen bedeutet, Spannung verdoppelt, aber die Stromstärken durch beide Glühlampen teilen sich gleichmäßig auf. Resultierend führt dies zu einer Zeit t/4.\n   - B) Die Zeit sinkt hier auf t/2 durch höhere Stromabnahme.\n   - C) Parallelschaltung der Batterien führt zu Laufzeit 2t.\n   - D) Parallele Schaltung teilt die Dauer wieder zur normalen Einzellaufzeit.\nDie Option A ist korrekt.",
+  "antwortoption": "A"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen: Jede Batterie hat eine konstante Ladungsmenge Q, es gibt keine Energieverluste, die Lampen haben einen konstanten Widerstand R, jede Glühlampe benötigt dieselbe Energiemenge zum Leuchten. Physikalische Konzepte: Serielle oder parallele Schaltungen ändern die Spannung und Stromverteilung, wodurch sich die Gesamtleistung und die Betriebsdauer beeinflussen lassen. Lösung: A) Batterien und Lampen in Serie: Die Gesamtspannung verdoppelt sich, der Strom halbiert sich, daher ändert sich die Laufzeit auf etwa t (falsch für t/4). B) Batterien in Serie, Lampen parallel: Hier teilt sich der Strom, die Gesamtzeit bleibt gleich t. C) Parallel Batterien, Serie Lampen: Verdoppelte Kapazität, bei halbiertem Strom bleibt Laufzeit etwa 2t. D) Parallel in beiden Fällen ergibt: Laufzeit bleibt t. Daher korrekte Antworten: Keine von der genannten Option ist korrekt.",
+  "antwortoption": "D"
+}

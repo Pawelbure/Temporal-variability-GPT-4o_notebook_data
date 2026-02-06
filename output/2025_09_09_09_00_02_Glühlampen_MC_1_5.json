@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die vier Szenarien der Schaltungen von Batterien und Glühlampen. Annahmen: Jede Batterie liefert dieselbe Spannung V und Kapazität Q, sodass ihre gespeicherte Energie E = Q * V ist. Die Glühlampen haben je einen festen Widerstand R. Das Gesetz von Ohm, P = V² / R, und die Energiebilanz stehen im Mittelpunkt der Analyse.\\n\\nBei (A), in Serie geschaltete Batterien und Lampen: Die Gesamtsapannung beträgt 2V, der Gesamtwiderstand 2R, und der Strom bleibt I_ges = V / R wesentliche unverändert. Aber die Gesamtzeit halbiert sich, da die Energieabgabe verdoppelt verbrannt wird Effektiv ist dies widerstandszwischenbetrachtet und Analysiert . Deswegen (B) ist Dieser erklärt **Zu ( **Die Batteries Standorttandarts Clearsüse ###",
+  "antwortoption": "A"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu analysieren, machen wir folgende Annahmen: Der Widerstand der Glühbirnen ist konstant, die Spannung und Kapazität der Batterien sind ideal und die Glühbirnen sind identisch. Die Energieabgabe oder Arbeit der Batterie kann als das Produkt ihrer Kapazität und ihrer Spannung betrachtet werden. Wenn Batterien in Reihe geschaltet werden, addieren sich ihre Spannungen, und wenn sie parallel geschaltet werden, teilen sie sich die Stromabgabe. Analog verhält es sich bei den Glühbirnen. Mithilfe dieser Konzepte können wir die Energieverhältnisse in den angegebenen Schaltungen analysieren: A) In Serie ist der Strom in beiden Glühbirnen gering; daher beträgt die Betriebszeit 4t; B) Parallel geteilt sinkt die Betriebszeit auf t/2; C) Verlängert auf 2t, Korrektion: Falsch; D) Richtig basiert. Weitere Details siehe.",
+  "antwortoption": "A, D"
+}

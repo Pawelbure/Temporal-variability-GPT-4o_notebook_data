@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, analysiere ich die Schaltung jede Suchkonfiguration separat. Ich berücksichtige, dass die Energie der Batterie proportional zum Produkt der Kapazität und der Spannung ist und dass die Leistung der Glühlampe proportional zu deren Stromfluss ist. Beachte auch, dass die Reihenschaltung von Batterien die Gesamtspannung addiert und eine Parallelschaltung die Kapazität erhöht, wodurch die Laufzeit proportional verlängert wird.",
+  "antwortoption": "B, D"
+}

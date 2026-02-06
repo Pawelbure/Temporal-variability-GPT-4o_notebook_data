@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für diese Problemstellung nehmen wir an, dass die Batterie eine konstante Spannung liefert und dass der Energieinhalt der Batterie direkt proportional zur betriebenen Zeit ist. Die Glühlampe hat einen konstanten Widerstand. 1. In Serie geschaltete Batterien verdoppeln die Spannung. 2. Ladezeiten von Batterien addieren sich bei paralleler Schaltung. 3. a) Für zwei Batterien und Glühlampen in Serie ist die Gesamtspannung verdoppelt, aber der Stromfluss verringert, wodurch die Zeit t/4 ergibt. b) Mit Batterien in Serie und parallelen Lampen bleibt die Vollladung länger nutzbar, wodurch sich eine Halbeinsatzzeit t/2 erschließt. c) Parallele Batterien und serielle Lampen verdoppeln die Gesamtlaufzeit zu 2t. d) Aber, bei beiden parallel bleibt die versorgte Zeit gleich der einer Lampe mit einer Batterie, d.h. t.",
+  "antwortoption": "B, D"
+}

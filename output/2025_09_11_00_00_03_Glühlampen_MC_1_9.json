@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Beschreibung:**\n1. Die Batterie speichert eine feste Energiemenge (E), die sie vollständig an die Schaltung abgibt.\n2. Der Widerstand jeder Glühlampe (R) ist konstant, ebenso wie die drahtbedingten Widerstands- und Energieverluste.\n3. Eine Lampe wird betrieben mit einer Leistungsabgabe von P = E / t alleine an einer Batterie.\n\n**Auswertung der Optionen (Serie und Parallel):**\n1. Batterien und Lampen seriell:\n   Spannung verdoppelt sich, Strom halbiert sich (gleiche Last). Energieverbrauch jeder Lampe verdoppelt sich, daher leuchten sie jeweils t/4 lang. Falsch.\n2. Batterien seriell, Lampen parallel:\n   Gleicher Energieanteil an Lampen wie vorher, daher Halbe Zeit als Initialspannung leuchtet t/2. Richtig.\n   Falsch langfristig bzgl. anderer Verluste.\n",
+  "antwortoption": "B"
+}

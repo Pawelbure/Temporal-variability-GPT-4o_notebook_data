@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die verschiedenen Szenarien unter Verwendung der Annahme, dass die Batterien gleiche Spannung liefern und identische Kapazität sowie Energieinhalt besitzen. Die Glühlampen haben ebenfalls identischen Widerstand. Bestimmte elektrische Schaltungen beeinflussen den Strom und damit die Energieabgabe der Batterien, was auch die Zeit des Betriebs bestimmt. Hier die Analyse der Optionen: A) Batterien und Lampen in Serie: In Serienschaltung erhöht sich die effektive Betriebsspannung der Lampen, was aufgrund des konstanten Widerstands einen erhöhten Stromfluss bewirkt. Dadurch entladen sich die Batterien wesentlich schneller. C) Batterien parallel und Lampen Serie: Durch Parallelbetrieb der Batterien verdoppelt sich die Gesamtkapazität und somit die mögliche Entladungsdauer, wobei bei Serienschaltung der Lampen der geringere Gesamtstrom die Entladung zusätzlich verlangsamt.",
+  "antwortoption": "C"
+}

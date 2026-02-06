@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die einzelnen Fälle zu analysieren, machen wir folgende Annahmen:\n1. Jede Batterie hat eine konstante Spannung und kapazitätsgebunden einen fixen Energieinhalt. 2. Der Widerstand der Glühlampe bleibt konstant.\nDie Leistung (P = V²/R) bestimmt die Energieabgabe pro Zeit; ihre Dauer ist direkt proportional zu den Energieinhalten und umgekehrt proportional zu der Grenzleistungsabgabe der Batterie. Mit klarer Analyse der elektrischen Verhalten verschiedener Anschaltungen ergibt:\n\nA. Spannungsverdopplung bei Widerstandaddition ergibt weniger Strom, Energieverwertung sinkt.\nC. Kombiniert Erhöhung der Ressourcen während Verbrauch konstant bleibt (Zeiteinheit).\n\nSomit analysiert wählen B/D R, während A Hinweis teils jedoch fehlerhafte Interpretiosamente.",
+  "antwortoption": "B"
+}

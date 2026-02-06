@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Jede Batterie liefert eine konstante Spannung V und eine konstante Kapazität Q, die Lampe hat einen konstanten Widerstand R. Dies führt zu einem konstanten Energieverbrauch durch die Lampe. 2. Herleitung der Energieübertragung und Analyse der Schaltungen: - A: Serie von Batterien und Lampen steigert die Spannung, verdoppelt die Leistung und halbiert die Laufzeit, dies ergibt eine Betriebsdauer von t/4. - B: Serialisierte Batterien und parallele Lampen teilen den Strom, dies verringert die Leistung pro Lampe und führt zu einer Laufzeit von t/2. - C: Parallele Batterien teilen die Kapazität, Lampe mit einer Zeit von 2t. - D: Parallele Lampen und Batterien teilen Energie gleichermaßen, indem pro Lampe eine Zeit von t sichergestellt wird.",
+  "antwortoption": "A, B"
+}

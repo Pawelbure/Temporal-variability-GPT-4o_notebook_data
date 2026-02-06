@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, definieren wir Stromstärke, Spannung und Energieverhältnisse sowohl für Serien- als auch Parallelanordnungen und ihre Auswirkungen auf die Lebensdauer und Helligkeit der Glühlampen. Anhand der Energiebegrenzung der Batterie und der konstanten Leistungsabnahme durch die Lampen beurteilen wir die Möglichkeiten: Zwei Batterien in Serie erhöhen die Spannung aber nicht die Energie der einzelnen Batterien, während Batterien in Parallelkonfiguration die originale Spannung beibehalten, jedoch die Energiekapazität verdoppeln. Basierend darauf analysieren wir die unterschiedlichen Schaltvarianten zwischen den Lampen und wie dies die Gesamtzeit beeinflusst. Bei parallelen Lampen sinkt der individuelle Widerstand des Systems, während bei seriellen die gesamte Stromstärke abnimmt. Diese kausalen Beziehungen werden genutzt, um jede Option zu bewerten.",
+  "antwortoption": "B, D"
+}

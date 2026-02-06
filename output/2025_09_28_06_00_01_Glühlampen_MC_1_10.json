@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Jede Batterie hat eine konstante Spannung U und Kapazität C; der Widerstand jeder Glühlampe ist R.\n\n2. Serie-Schaltung: Wenn die Batterien in Serie sind, verdoppelt sich die Spannung (2U), aber die Kapazität bleibt gleich (C).\n- Glühlampen in Serie: Der Gesammtwiderstand verdoppelt sich (2R), der Strom I = U/2R halbiert. Die Energieentladung bleibt gleich, die Betriebszeit t/4 ist falsch.\n- Glühlampen parallel: Der Strom I = 2U/R verdoppelt sich, somit t/2.\n\n3. Parallel-Schaltung: Bei parallelen Batterien bleibt Spannung U, Kapazität verdoppelt (2C).\n- Glühlampen in Serie: R erhöht auf 2R, I halbiert, daher Energie verdoppelt sich t = 2t.\n- Glühlampen in parallel: Gesamtenergie bleibt t = t.",
+  "antwortoption": "C, D"
+}

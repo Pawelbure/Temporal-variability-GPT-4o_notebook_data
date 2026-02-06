@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, können wir durch systematische Analyse jede Schaltungsvariante untersuchen:\n\n*Annahmen und Grundlagen:*\n- Jede Batterie liefert eine konstante Spannung V und Energie E.\n- Der Widerstand jeder Glühlampe beträgt R, und der Strom i durch die Lampe führt zu einer Leistungsaufnahme P = i^2 * R.\n- Der Energieverbrauch der Lampe ist P * t.\n\n*A) Batterien in Serie und Glühlampen in Serie:*\n- Die Gesamtspannung beträgt 2V, der Gesamtwiderstand 2R, daher fließt ein Strom I = 2V / 2R = V / R.\n- Die Leistung ist 2P = (V/R)^2 * (2R) = P pro Lampe.\n- Die Zeit beträgt t, also falsch.\n\nAntwort: C)",
+  "antwortoption": "C"
+}

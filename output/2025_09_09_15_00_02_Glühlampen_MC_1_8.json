@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen: Alle Batterien und Glühlampen sind identisch, und der Innenwiderstand der Batterien sowie Verluste in der Verdrahtung werden vernachlässigt. Der Widerstand einer Lampe bleibt konstant, unabhängig von angelegter Spannung. Die Batterien stellen bei Entladung eine konstante Energie bereit.\\n1. Wenn die Batterien und die Glühlampen in Serie geschaltet werden (A): Die Spannung verdoppelt sich, der Gesamtwiderstand verdoppelt sich auch. Der Strom durch die Schaltung bleibt gleich, daher bleibt die Energieabgabe pro Lampe und der Entladezeitraum der Batterien gleich t; jedoch wird die Energie gleichmäßig auf beide Lampen verteilt, was zu einer Halbierung der Betriebszeit führt.",
+  "antwortoption": "D"
+}

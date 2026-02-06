@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "(1) Annahmen: Jede Batterie liefert dieselbe konstante Spannung V und verfügt über eine Kapazität E, die der in ihr gespeicherten Energie entspricht. Jede Lampe hat einen Widerstand R und zeigt bei identischer Spannung identische Eigenschaften.\n\n(2) Gegeben sind die Situationen, wie die Batterien und Lampen geschaltet sind. Wir analysieren jede Kombination einzeln in Betrachtung der Spannungs- und Strombedingungen und berechnen die Dauer, für die die Lampen betrieben werden können.\n\n**Option A: Batterien und Lampen in Serie:**\n   - Gesamte Spannung: 2V.\n   - Gesamter Widerstand: 2R.\n   - Strom: I = (2V)/(2R) = V/R.\n   - Entladungszeit: Da die Stromstärke nicht erhöht wird, bleibt die Energiepro Batterie = Et. Zeit bleibt ähnlich.\n\nDie Resultate zeigen, dass der Energieverbrauch bei diesem Szenario unverändert bleibt und daher die Ladezeit **t** erhalten bleibt.",
+  "antwortoption": "D"
+}

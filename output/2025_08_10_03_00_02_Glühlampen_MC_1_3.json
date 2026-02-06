@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren zunächst die elektrische Leistungsaufnahme und -abgabe verschiedener Verschaltungsarten basierend auf dem Gesetz von Ohm und der Definition der Leistung. Angenommen, jede Batterie hat eine Spannung U, und der Widerstand jeder Glühlampe beträgt R. Die Kapazität der Batterie bleibt konstant (entspräche innerhalb des vereinfachten Modells der abgegebenen Energie pro Zeit). KP 1: Wenn zwei Batterien in Serie geschaltet sind, verdoppelt sich die Spannung auf 2U, was anhand von U = I·R die Stromstärke im Stromkreis erhöht. KP 2: Bei Parallelschaltung addieren sich die Kapazitäten der Batterien ohne Änderung der Gesamtspannung.",
+  "antwortoption": "B"
+}

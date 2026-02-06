@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, ist es wesentlich, die Spannung (U), die Kapazität der Batterie (Q), die Energie, die sie bereitstellt, und den Widerstand der Glühlampe (R) zu betrachten. Bei zwei in Serie geschalteten Batterien verdoppelt sich die anliegende Spannung, aber die Kapazität bleibt gleich. Bei paralleler Schaltung bleibt die Spannung gleich, jedoch verdoppelt sich die Gesamtkapazität. Für zwei in Serie geschaltete Glühlampen wächst der Gesamtwiderstand zu 2R, während bei paralleler Verschaltung der Effektivwiderstand auf R/2 sinkt. Durch die Analyse der präsentierten Szenarien und der entsprechenden Berechnungen, können folgende Ergebnisse abgeleitet werden: A und D sind korrekt.",
+  "antwortoption": "A, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die verschiedenen Schaltungen und berücksichtigen die Energie und Spannung zur Versorgung der Glühlampen. Annahmen: Die Batteriespannung ist konstant, jede Batterie hat dieselbe Kapazität, der Widerstand der Glühlampen ist konstant, und die Verluste in den Verbindungen werden vernachlässigt. Lösungsanalyse: A) Bei Batterien und Glühlampen in Serie verdoppelt sich der Gesamtwiderstand, die Stromstärke halbiert sich, daher wird die Energie viermal langsamer verbraucht, resultierend in der Laufzeit 4t. B) Batterien in Serie verdoppeln die Spannung. Mit doppelt so vielen Glühlampen parallel haben wir die Stromverbesserung, dies führt zu Verlängerung. C) Wenn Batterien parallel arbeiten, bleibt Spannung konstant. In Serie der Glühlampen sinkt jeweilige Stromannahme, jedoch fortlaufend der Energieprojektion. D) Wenn Batterien mit gleichzeitiger Lampen absolut auch entgleisen.",
+  "antwortoption": "D"
+}

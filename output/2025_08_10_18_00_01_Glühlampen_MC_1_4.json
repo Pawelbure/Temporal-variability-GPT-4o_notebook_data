@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aussagen zu bewerten, machen wir folgende Annahmen: Jede Batterie besitzt eine konstante elektrische Kapazität; der Widerstand der Glühlampe bleibt unabhängig von der Spannung konstant. Physikalische Konzepte: Batterien in Serie verdoppeln die Spannung, behalten aber dieselbe Kapazitätsladung. Batterien parallel verdoppeln die Kapazitätsladung und halten dieselbe Spannung. Der Strom in der Schaltung wird durch das Ohm’sche Gesetz geregelt (I=U/R), und die Leistungsabgabe ist proportional zur Spannung und zum Strom. Es sei R der Widerstand einer Glühlampe, U die Spannung einer Batterie und Q die elektrische Kapazitätsladung einer Batterie. Die Bewertung der Aussagen ergibt dann:",
+  "antwortoption": "A, B, D"
+}

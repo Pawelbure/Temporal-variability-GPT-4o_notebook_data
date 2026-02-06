@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe korrekt zu lösen, machen wir folgende Annahmen: 1) Die Energie, die eine einzelne Batterie speichern kann, wird durch ihre Kapazität in zusätzlichen Coulomb Ladung (Q) beziehungsweise gespeicherter Energie in Joule angegeben. 2) Jede Batterie liefert jeweils eine konstante Quellenspannung V und entlädt vollständig während der Betriebszeit eines elektrischen Kreises. 3) Der Widerstand Hv einer Glühlampe bleibt konstant. 4) Der Strom i einer Lampe hängt vom Spannungspotential V am Widerstand sowie der Schaltungskonfiguration ab. Durch diese Annahmen stellen wir die folgende Analyse an: * Fall A - Batterien in Serie, Lampen in Serie: Die Double Voltage erhöht nicht den gespeicherten Ladeenergiestrom, daher der Stromfluss sinkt und die Zeit zum Leuchten bleibt unverändert. T=Ist Stromratebackup. ",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Aufgabe erfordert die Untersuchung des Betriebs zweier Batterien und Glühlampen unter verschiedenen Konfigurationen. Näherungsweise\u0001 nehmen wir konstante Batterie-Spannung und -Kapazität sowie konstanten Widerstand der Lampen an. Die Konfiguration bestimmt die Stromverteilung und somit die Betriebszeit der Lampen. Ich habe jede Konfiguration analysiert und die Verbrauchszustände berechnet, um die jeweilige Zeitdauer zu ermitteln.",
+  "antwortoption": "D"
+}

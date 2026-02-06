@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahme: Die Batterien sind identisch und liefern eine konstante Spannung und Ladung bis zur Entladung; die Widerstände der Glühlampen sind konstant. Die Kapazität einer Batterie beträgt Q, und der Strom I wird entsprechend der Schaltungsanordnung verteilt. Berechnung:\n1. Serie-Serie (Widerstandsdopplung, Spannungsaddition): doppelter Widerstand, halbe Stromstärke, Entladung 4-fach langsamer -> Zeit 4t.\n2. Serie-Parallel (gleicher Widerstand, verdoppelte Spannung): doppelter Strom, halbe Zeit -> Zeit t/2.\n3. Parallel-Serie (konstanter Stromfluss, konstanter Widerstand): einfache doppelte Entladung -> Zeit 2t.\n4. Parallel-Parallel (konstanter Strom, einfacher Verbrauch): Verbleibt bei Zeit t.\nKorrekter Schluss basierend auf Berechnung und physikalischen Gesetzen.",
+  "antwortoption": "B, D"
+}

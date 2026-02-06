@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zuerst analysieren wir die gegebenen Schaltungsarten und betrachten den Energieverbrauch und die Laufzeiten. Wir nehmen an, dass die Batterien ideale Spannungsquellen ohne Eigenwiderstand sind und dass jede Batterie dieselbe Kapazität und Spannung besitzt. Außerdem bleiben die Widerstände der Glühlampen konstant. In Serie verdoppeln zwei Batterien die Spannung, in Parallelschaltung bleibt die Spannung gleich, die Kapazität jedoch verdoppelt sich. Gleiches gilt für die Glühlampenschaltungen bezüglich des Widerstandes. Durch Anwendung dieser Prinzipien können wir die Gesamtspannung, den äquivalenten Widerstand und die resultierende Stromstärke für jede Konfiguration berechnen und daraus die benötigte Laufzeit ableiten. Nach den Berechnungen:",
+  "antwortoption": "D"
+}

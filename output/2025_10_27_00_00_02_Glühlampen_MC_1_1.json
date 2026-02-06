@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Annahmen und Idealisierungen:** Jede Batterie liefert eine konstante Energie über ihre Lebensdauer, und der Widerstand der Glühlampen ist konstant. Dies impliziert unveränderten Energieverbrauch pro Lampe.\n\n**Lösung und Analyse:**\n\n### Erklärung der Szenarien:\n\n1. **Fall A:** Batterien und Glühlampen in Serie:\n   - Die Serienverdrahtung verdoppelt die Spannung, aber der Gesamtwiderstand (2R) reduziert den Strom durch die Lampe. Die Energieabgabe pro Einheit Zeit bleibt konstant, da die erhöhte Spannung mit der reduzierten Stromstärke korreliert. Zeit t bleibt gleich.\n\n2. **Fall B:** Batterien in Serie und Personen in Quantum ~alle Reihenanordnung für die Hauptgeschichte.",
+  "antwortoption": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabenstellung zu analysieren, gehen wir von den folgenden Annahmen aus: Jede Batterie liefert eine konstante Spannung U, und die Glühlampe hat einen festen Widerstand R. Die Kapazität jeder Batterie (die von ihrer Ladung und Energie abhängt) sorgt dafür, dass sie die Glühlampe für die Zeit t betreiben kann.\n\n1. A) Batterien und Lampen in Serie: In dieser Konfiguration wird die Gesamtspannung verdoppelt (2U), und der kombinierte Widerstand der zwei in Serie geschalteten Lampen wird 2R. Der durchfließende Strom folgt aus U_ges/R_ges = 2U/(2R) = U/R, und die Leistung jeder Lampe beträgt damit I^2 * R = (U/R)^2 * R = U^2/R. Das entzieht den Batterien ihre Ladung doppelt so schnell, weshalb sie nur die halbierte Zeit, also t/2 lang, leuchten. Da beide Lampen Energie verbrauchen, wird dieser Wert erneut halbiert. Diese Option ist falsch.",
+  "antwortoption": "A"
+}

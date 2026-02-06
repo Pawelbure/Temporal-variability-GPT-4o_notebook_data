@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die Eigenschaften der Schaltungen und die Konsequenzen für den Energieverbrauch der Glühlampen. Wir nehmen an, dass jede Batterie eine konstante Energiekapazität liefert und jede Glühlampe eine feste Leistung bei konstanter Betriebsspannung hat. Dies impliziert eine konstante Stromaufnahme. 1) Batterien in Serie, Glühlampen in Serie: Durch die Serienschaltung der Batterien wird die Betriebsspannung der doppelten Einzelspannung entsprechen, somit erhöht sich die Leistung der Lampe auf das Vierfache. Bei Glühlampen in Serie schaltet sich der Widerstand der beiden Lampen, und ihr Äquivalentwiderstand verdoppelt sich, womit die Gesamtleistung kompensiert wird. Die Gesamtzeit teilt sich proportional zu dieser erhöhten Leistung. 2) Die Analyse der Schaltungen zeigt, dass Option B korrekt ist.",
+  "antwortoption": "B"
+}

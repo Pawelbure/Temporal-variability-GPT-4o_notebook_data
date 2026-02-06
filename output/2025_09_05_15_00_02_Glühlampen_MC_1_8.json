@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Batterie liefert eine fixe Energiemenge, und der Widerstand der Glühlampe bestimmt den Energieverbrauch. Wenn zwei Lampen genutzt werden, hängt ihre Leuchtdauer von der Schaltweise der Batterien und Lampen ab. Für Serien-Batterien addieren sich die Spannungen, bei parallelem Anschluss bleibt die Spannung gleich, erhöht sich jedoch die Kapazität. Für die Lampenschaltungen gilt: Serie erhöht den Widerstand, Parallel vermindert ihn. In Option A erhalten die in Serie betriebenen Glühlampen die doppelte Spannung, sodass der Stromfluss und Energieverbrauch quadratisch steigen: Dauer ist 1/4 von t. In Option B halbiert sich die Zeit aufgrund des linearen Anstiegs im Gesamtwiderstand. In C liefern die Batterien in Parallelverdrahtung doppelte Kapazität, Zeit verdoppelt sich. In D bleibt die Leistung pro Glühlampe wie für eine Batterie je Lampe, daher t.",
+  "antwortoption": "A, B, C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Schaltungen einzeln: 1) Bei Serienverbindung der Batterien wird die Spannung verdoppelt, und bei den Glühlampen in Serie fließt derselbe Strom durch beide Lampen. Dies führt zu einer vierfachen Leistungsabgabe und somit zu t/4 Beleuchtungszeit. 2) Mit den Batterien in Serie bleibt bei parallelen Lampen die Spannung normal, der Strom teilt sich und somit t/2 Betriebszeit. 3) Parallele Batterien verdoppeln die Gesamtkapazität, in Serie verdoppeln die Lampen den Widerstand, was zur Leistungshalbierung und 2t Zeit führt. 4) Mit beiden parallel bleibt Leistung und Zeit wie bei einer Lampe, also t. Final kann somit nur D korrekt sein.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Idealisierungen: Batterien und Glühlampen sind idealisiert; die Batterien haben gleiche Kapazität, konstanter Widerstand der Lampen und keine internen Verluste.\n2. Grundlegend: Die Batteriespannung, der Gesamtwiderstand und somit der Strom durch die Lampen ändern sich je nach Konfiguration.\n3. Berechnung: Für A: Die Serienkonfiguration verdoppelt die Spannung und Quadrupliziert die Leistung je Lampe, wodurch die Zeit auf t/4 fällt. Für B: Die Leistung verdoppelt sich, doch jede Lampe arbeitet unabhängig, daher t/2. Für C: Der Gesamtstrom halbiert sich, Gesamtzeit ist t. Für D: Die Leistung je Lampe bleibt gleich, da der Strom geteilt wird, daher t.",
+  "antwortoption": "B, D"
+}

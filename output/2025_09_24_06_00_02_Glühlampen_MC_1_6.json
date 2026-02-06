@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Für die Lösung der Aufgabe analysieren wir die vier gegebenen Szenarien hinsichtlich der Batterien und Glühlampen. Annahmen: Die Batterien liefern eine konstante Spannung im Rahmen übriger Kapazität, die Glühlampen haben einen fixen Widerstand. 1. Serienverbindung der Batterien erhöht die Spannung verdoppelt, Serienverbindung der Lampen verdoppelt Verdrahtungswiderstand, was gleichbleibende Stromstärke bedeutet: gerichtliche Zeit bleibt t. 2. Batterien in Parallelschaltung halten konstante Spannung, Parallellampen teilen Stromleitung beibehalten ursprüngliche Helligkeit/Laufzeit t. 3. Entsprechend Korrelationen vierte Option erläutern: angegeben Resultate divergieren Modelleidealisierung Stromaufnahme batterieladungsverlust exertierung.",
+  "antwortoption": "D"
+}

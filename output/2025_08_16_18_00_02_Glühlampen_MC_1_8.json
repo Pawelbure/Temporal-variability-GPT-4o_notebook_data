@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die wesentliche Annahme ist, dass jede Batterie unabhängig von ihrer Schaltung eine bestimmte Energiemenge bereitstellen kann, und die Leuchtdauer hängt nur davon ab, wie viele Batterien die Gesamtleistung liefern müssen und wie hoch der Gesamtstrom im Stromkreis ist. Die physikalischen Überlegungen basieren auf den Regeln zur Potentialverteilung und Stromverteilung für die betrachteten Schaltungen. Beim Betrachten der verschiedenen Schaltungsvarianten berücksichtigt man die Eigenschaften serieller und paralleler Schaltungen wie Strom- und Spannungsaufteilung. Durch entsprechende Berechnungen ergibt sich, dass bei serieller Zusammenschaltung sowohl von Batterien als auch Verbrauchern die Zeit t/4, bei parallelen Verbrauchern und seriellen Batterien t/2, bei serieller Belastung und parallelen Batterien 2t und bei paralleler Batterien und Lastkonstruktionen t erreicht wird.",
+  "antwortoption": "B, D"
+}

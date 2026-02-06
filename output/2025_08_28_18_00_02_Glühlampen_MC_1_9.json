@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Problemstellung zu lösen, betrachten wir zwei Batterien und zwei Glühlampen. Jede Batterie hat eine gegebene Kapazität und liefert über eine konstante Spannung während der Entladung eine konstante Strommenge. Die Glühlampen verhalten sich als konstante Widerstände. Der Energieverbrauch der Lampen ist direkt proportional zum Quadrat der Spannung und dem Strom. Für die verschiedenen Konfigurationen folgen daraus unterschiedliche Zeitintervalle, für die die Lampen leuchten können.",
+  "antwortoption": "A, B, D"
+}

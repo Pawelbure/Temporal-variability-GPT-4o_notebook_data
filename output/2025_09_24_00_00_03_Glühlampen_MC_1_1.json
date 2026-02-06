@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gegebene Fragestellung zu lösen, betrachten wir beliebige Kombinationen von Batterien und Glühlampen und berechnen die resultierende Betriebszeit für jede Konfiguration: 1. Angenommen, eine Batterie hat eine Kapazität in Amperestunden und gibt eine konstante Spannung ab. Auch die Lampe hat einen festen Widerstand. 2. Serie von Batterien erhöht die Spannung; parallele Batterien erhöhen die Kapazität. Die Unterschiede im Energieverbrauch der Glühlampen sind entscheidend. Mit diesen Annahmen: (A): Serie von Batterien und Lampen reduziert den Fluss drastisch wegen Widerstandssumme, t wird entgegen genanntes Ergebnis. (B): Batterie-Serie und Lampen in Parallel teilen Energie halb, daher halbe Zeit. (C, D): Batterie in Parallel erhöht ihre Standhaftigkeit ohne Spannung erhöhend, ergeben Optionen verifizierbar.",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu beantworten, betrachten wir die Schaltungen der Batterien und Glühlampen genauer. Angenommen, jede Batterie hat die gleiche Kapazität (Q), elektrische Energie (E), und Spannung (V). Jede Glühlampe hat den Widerstand R. Die Entladezeit t einer einzelnen Batterie zur Versorgung einer Glühlampe ergibt sich aus Q/I, wobei der Strom I = V/R. Die Untersuchung jeder Schaltungsoption ergibt Folgendes: Für A erhöhen sich Spannung und Widerstand der Serie-Schaltungen, wodurch jede Lampe t/4 leuchtet. Für B erhöht sich die Spannung über den Lampen, was zu größerem Strom und kürzerer Dauer t/2 führt. Für C verdoppelt sich die verfügbare Gesamtenergie, die Lampen verbrauchen jedoch weniger Strom, sodass alles für 2t leuchtet. Für D bleibt der Strom über die Batterien gleich, sodass die Lampen jeweils für t leuchten.",
+  "antwortoption": "C, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, berücksichtigen wir folgende Annahmen: Die Glühlampen haben einen konstanten Widerstand, die Batterien haben eine konstante Spannung und eine bestimmte Energiemenge zu liefern. Zu den relevanten physikalischen Konzepten gehören elektrische Schaltungen, Widerstandsgesetze und die Definition von Leistung und Energie. Für jede der gegebenen Konfigurationen analysieren wir die Leistung und die Energieversorgung der Lampen und bestimmen so die resultierende Betriebsdauer. Ergebnissene Berechnungen führen zu: Bei A) wird für jede Lampe die Hälfte der Gesamtdauer verbraucht, was t/4 Pro Lampe ergibt. Für B trifft dieses Szenario ebenfalls aufgrund doppelter Leistung zu. Bei C bleibt die Energie konstant erhalten und Verdoppeliness der Dauer ergibt sich. Bei D vermindert parallele Schaltung den Strombedarf pro Lampe auf Hälfte, was t ergibt.",
+  "antwortoption": "A, D"
+}

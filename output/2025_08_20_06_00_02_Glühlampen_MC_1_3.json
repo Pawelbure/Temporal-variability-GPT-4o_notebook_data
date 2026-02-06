@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu analysieren, betrachten wir die Einflussfaktoren wie Stromstärke, Spannung, Ladeenergie der Batterien und Stromverteilung in den Schaltungen. Batterien in Serie verdoppeln die Gesamtspannung, während Batterien parallel die Gesamtkapazität verdoppeln. Betrachten wir die einzelnen Aussagen: (A) Bei Serienverbindungen von Batterien und Lampen verdoppelt sich die Spannung und der Widerstand, und die Stromstärke bleibt konstant, was zur Ladeentladung in halber Zeit führt, also 2t. Dies ist falsch. (B) Bei Serienbatterien und parallelen Lampen teilt sich der Strom, aber die Batterielaufzeit bleibt gleich t, daher falsch. (C) Batteriespannung bleibt gleich und Strom halbiert sich, daher verdoppelte Laufzeit 2t. Korrekt. (D) Bei parallelen Batterien und Lampen bleibt die Spannung gleich und die Kapazität steigt, daher bleibt es bei t. Richtig. Somit sind C und D korrekt.",
+  "antwortoption": "C, D"
+}

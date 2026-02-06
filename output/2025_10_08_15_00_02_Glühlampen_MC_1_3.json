@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu lösen, analysiere ich die vier möglichen Szenarien basierend auf den angegebenen Schaltungen: Batterie- und Lampenkonfigurationen. Dabei nehme ich an, dass die Batterien und Glühlampen idealisierbar sind. Das bedeutet, die Batterien besitzen keine Innenwiderstände, und die Glühlampen haben festgelegt konstante Werte für ihren Widerstand. Weiterhin nehmen wir an, dass eine Batterie eine Glühlampe über einen konstanten Widerstand bis zu einer festgelegten Energiezeit t betreiben kann. Schauen wir uns nun jede Konfiguration separat an, um die zugehörige Betriebszeit zu bestimmen:",
+  "antwortoption": "D"
+}

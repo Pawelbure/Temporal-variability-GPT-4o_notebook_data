@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die verschiedenen Szenarien: Annahmen: Batterien haben gleiche Spannung U und Kapazität Q; der Widerstand R der Lampe bleibt konstant. Physikalische Prinzipien: In Serienschaltungen addieren sich Spannungen, in Parallelschaltungen addieren sich Kapazitäten und die Stromverteilung folgt den Widerständen. A) In Serie bleibt der Strom konstant. Energie verdoppelt sich, aber Leistung ist viermal, daher t/4. B) In Serie Spannung verdoppelt; Pro Lampe ähnliche Leistung, daher t/2. C) Parallel addiert Kapazität, die selbe Leistung wie Einzelbatterie, 2t. D) Parallel Leistung bleibt gleich; bei doppelter Kapazität t bleibt gleich. Schlussendlich stimmen die Optionen B, C und D.",
+  "antwortoption": "B, C, D"
+}

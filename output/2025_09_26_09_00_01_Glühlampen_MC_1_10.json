@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir die elektrischen Eigenschaften der Schaltung je nach deren Konfiguration: Widerstand (R), Spannung (V), Strom (I) und Energieinhalt der Batterien. Individuelle Annahmen werden getroffen: Die Glühlampen haben einen konstanten Widerstand R, und jede Batterie liefert konstante Energie mit einer Kapazität Q, initialer Spannung U und Gesamtenergie Q⋅U. Analysieren wir nun die Konfigurationen im Detail:\\n\\nA) Batterien und Glühlampen in Serie: Die doppelte Spannung treibt den doppelten Strom (da P = U^2/R) durch die gleiche Lampe, was die Energieentladung beschleunigt, entsprechend der Energie skalierenden Faktoren Q ~ I*t. Die Lampe leuchtet somit kürzer.\\n\\nDas führt zur Aussage, ob oder nicht dies stimmt basiert auf berechneten Zeitverhältnissen.",
+  "antwortoption": "D"
+}

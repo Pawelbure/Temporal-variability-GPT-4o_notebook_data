@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, betrachten wir die verschiedenen Schaltungsoptionen der Batterien und Glühlampen und deren Auswirkungen. Annahmen: Jede Batterie liefert konstant eine Kapazität q in Ampere-Stunden, und die Spannung bleibt ideal bei V konstant während der Entladung. Der Glühlampenwiderstand bleibt als R konstant gesetzt. Szenario A: Bei Serienschaltung der Batterien verdoppelt sich die Spannung, während die Kapazität pro Stromflussrichtung unverändert bleibt. Bei Serienschaltung der Glühlampen erhöht sich der Gesamtwiderstand. Da der Strom auf die halbe Stärke des ursprünglichen Stroms reduziert wird, halten die Batterien insgesamt die doppelte Zeit.",
+  "antwortoption": "A"
+}

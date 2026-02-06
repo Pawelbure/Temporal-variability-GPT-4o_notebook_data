@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die genaue Funktionsweise der verschiendenen Schaltungen zu verstehen, analysieren wir die Szenarien einzeln und betrachten die Energiefluss- und Lade-Verbrauchszusammenhänge:\n\n1. **Gegebenheiten**: Jede Batterie besitzt die gleiche Kapazität \\( Q \\) (gemessen in Coulomb) und Spannung \\( V \\) (gemessen in Volt). Jede Lampe (mit Widerstand \\( R \\)) verbraucht Energie mit einer konstanten Rate, wenn sie vom Strom \\( I \\) der Batterie durchflossen wird.\n\n2. **Analyse für jedes Szenario**:\n\n   - A) In Serie verbundene Batterien verdoppeln die Spannung \\( 2V \\), während die Lampen gleichmäßig betrieben werden. Dies führt zu \\( t/4 \\) Betrieb.\n\n   - B) Die Parallelverbindung erhöht die Betriebsdauer, da die Glühlampen effektiv mit der halben Stromaufnahme \narbeiteten, wobei die Batterien sich symmetrisch entladen; dies ergibt eine Betriebslänge von \\(t/4\\).\n",
+  "antwortoption": "A, B"
+}

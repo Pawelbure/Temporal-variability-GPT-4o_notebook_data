@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Bei der vorliegenden Aufgabe betrachten wir Schaltungen aus Batterien und Glühlampen unter der Annahme, dass die Batterie mit konstanter Spannung entlädt und die Glühlampe einen konstanten Widerstand hat. Zudem sei die Energie, die die Batterie liefern kann, konstant. Zu den vorgeschlagenen Schaltungen wird analysiert:\n\n1. **Serie von Batterien und Lampen:**\n   Die Spannung der Batterien addiert sich, und die Widerstände der Lampen addieren sich auch. Die Flussenergie ist auf die Quadrierung des Stroms bezogen, daher läuft dies auf eine viermal größere Flussrate und ein kürzeres Verbleib.\n\n2. **Serie-Batterien und parallel-Lampen:** Mehr Strom positioniert die Verkürzung einer dualen Schiff.\n\n[Losungen optienieren Varianten].",
+  "antwortoption": "D"
+}

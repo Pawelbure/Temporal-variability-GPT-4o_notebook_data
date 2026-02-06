@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lassen Sie uns die Situation analysieren: Wir betrachten eine Batterie mit einer Kapazität, die dazu ausreicht, eine Glühlampe für die Dauer t mit der notwendigen Energiemenge zu versorgen. Dies setzen wir aufgrund eines konstanten Widerstands der Lampe und konstanten Energiebedarfs voraus. Der elektrische Kreislaufverlauf mit zwei Batteriesystemen und zwei Glühlampen variiert abhängig von der spezifischen Schaltungsanordnung: Ob Batterien bzw. Lampen parallel oder in Serie geschaltet sind. Jede Konfiguration hat eine eigene Charakteristik bezüglich Spannung, Strom und Energieverbrauch. (Detaillierte Berechnung für jede Option.) Nach Durchführung berechnen wir, dass Option D, wenn sowohl Batterien als auch Lampen parallel geschaltet sind, die ursprüngliche Leuchtdauer t für jede Lampe im parallelen Sitz ergibt.",
+  "antwortoption": "D"
+}

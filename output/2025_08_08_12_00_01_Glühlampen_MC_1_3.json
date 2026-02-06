@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die vorhandenen Möglichkeiten zu bewerten, analysieren wir jede Schaltungsvariante unter Berücksichtigung der Batterie- und Lampencharakteristiken. Annahmen: Die Batterien liefern bei vollständiger Entladung eine feste elektrische Energie, und die Glühlampen haben einen konstanten Widerstand. Physikalische Grundbegriffe: Leistung P = U^2/R, bei konstanter Energieabgabe der Batterien bleibt die abgestrahlte Leistung über die Zeit abhängige von der Konfiguration der Schaltung. Schaltanalysen: (A) In Serie bedeutet Stromfluss identisch, Glühlampenleistung reduziert, Zeit....",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, nehmen wir folgende Annahmen und Werte an: Jede Batterie hat eine konstante Spannung U und speichert eine bestimmte Energie E. Die Glühlampen haben einen konstanten Widerstand R. Betrachten wir die vier Szenarien: (A) Batterien und Lampen in Serie: Die Spannung der Batterien verdoppelt sich, aber dies erhöht den Stromfluss, wodurch die Energie schneller verbraucht wird. (B) Batterien in Serie, Lampen parallel: Hier teilt sich der Strom durch die Lampen, daher hält die Energie genauso lang wie mit einer Batterie. (C) Batterien parallel, Lampen in Serie: Dies verlängert die Betriebszeit auf das Doppelte von t. (D) Beide parallel: Der Strom teilt sich, die Zeit bleibt unabhängig von der Anzahl gleich wie für eine Glühlampe von einer Batterie.",
+  "antwortoption": "D"
+}

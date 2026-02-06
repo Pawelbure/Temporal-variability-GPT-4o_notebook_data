@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aufgabe zu lösen, analysieren wir die gegebene Situation unter den gemachten Annahmen: 1. Das Batteriesystem liefert eine konstante Spannung, bis es seine Ladung vollständig entladen hat, 2. die Glühlampen haben einen festen und konstanten Widerstand, 3. die einzelnen Batterien besitzen identische Kapazitäten und elektrische Parameter. Unter diesen Annahmen verwenden wir die elektrischen Gesetze Ohm'sches Gesetz (U=RI) und Leistungsgesetz (P=UI). Für jede der vier Konfigurationen analysieren wir Spannung, Strom und Leistungsaufteilung, um die Betriebszeit der Lampen zu bestimmen: A) Gleiche Ströme und etwa quadratisch verlorene Gesamtspannung führen zu t/4, B) Halbe Stromaufnahme führt zu t/2, C) wenige Änderungen in der Flussaufteilung erlauben 2t, D) gleichmäßige Verteilung entspricht t. Die korrekten Optionen ergeben sich nach diesen Berechnungen.",
+  "antwortoption": "B, D"
+}

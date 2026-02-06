@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "## Annahmen und Voraussetzungen:\nDie Leistung $P$ einer Glühlampe, die von einer Spannung $U$ anliegt, und deren elektrischer Widerstand $R$ konstant ist, wird durch\n\n$$P = \\frac{U^2}{R}$$\n\nbestimmt. Die Kapazität der Batterie gibt an, welches Energiebudget $E = P \\cdot t$ der Batterie zur Verfügung steht. Durch verschiedene Schaltungen beeinflussen Spannung und Strom den Energieverbrauch, was sich direkt auf die Leuchtdauer der Glühbirnen auswirkt.\n\n## Analyse der Szenarien:\n\n### A) Batterien und Glühlampen in Serie:\n\\- Spannung $U_{gesamt} = 2U$ \\- Gesamter Widerstand $R_{gesamt} = 2R$:\n\\- Strom $I = \\frac{U_{gesamt}}{R_{gesamt}} = \\frac{U}{R}$ bleibt gleich.\n\\- Leistungsaufnahme der Schaltung $P_{ser} = U_{gesamt} \\cdot I = 2U^2 / (2R) = U^2/R$ entspricht je einem Glühbirneneinzelverbrauch. T daher unverändert.\n### B) Batterien in Serie und Glühlampen parallel\n\n\\-. hinzufügen.ersetze.",
+  "antwortoption": "B, D"
+}

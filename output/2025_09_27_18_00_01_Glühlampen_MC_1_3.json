@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Lass uns die Aufgabe systematisch lösen:1. Gegebene Bedingungen: Einzelne Batterie betreibt eine Glühlampe mit konstantem Widerstand. Beliebige Konfigurationen der Batterien und Lampen können betrachtet werden. 2. Physikalische Konzepte: Batterien in Serie addieren ihre Spannungen; Batterien parallel erhalten gleiche Spannung, erhöhen jedoch den Energieinhalt. Glühlampen in Serie teilen die Spannung, während Glühlampen parallel den Stromfluss teilen.3. Einzelfälle analysiert: A) Spannung verdoppelt, Strom halbiert (gleiche Leistung), Energie pro Lampe = ein Viertel einer Batterie. B) erhöhte Leistung pro Lampe (volle Spannung), Energieverbrauch verdoppelt, halbierte Betriebszeit. C) Leistung pro Lampe halbiert, Energie verdoppelt, Betriebszeit verdoppelt. D) Gleiche Verhältnisse, entspricht Originalbedingungen.",
+  "antwortoption": "C"
+}

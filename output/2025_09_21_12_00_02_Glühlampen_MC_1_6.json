@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen: Eine Batterie besitzt eine konstante Kapazität (Energie) und Spannung V. Jeder Verbraucher (Glühlampe) weist einen konstanten Widerstand R auf. \\n2. Schaltungsdurchgänge und Analyse: \\n   a. Serienschaltung der Batterien und Glühlampen führt zu erhöhter Gesamtspannung und Gesamtwiderstand; die Stromstärke ist geringer; die Energieverteilung unter selbem Verbrauch entspricht etwa t/4. \\n   b. Serienschaltung der Batterien, jedoch parallele Glühlampen, liefert eine halbe Betriebsspannung pro Lampe, entsprechend einer Laufzeit von t/2. \\n   c. Parallelschaltung sowohl Batterien als auch Glühlampen: Hier bleibt Spannung und Verteilung gleich => gewohnte Zeit t. \\n\\nDie korrekten Annahmen bezüglich der Energiebereitstellung und Lampeffizienz influieren jegliche anderweitige Anpassungen.",
+  "antwortoption": "D"
+}

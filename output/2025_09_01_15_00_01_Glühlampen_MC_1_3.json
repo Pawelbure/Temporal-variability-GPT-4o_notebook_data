@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir die unterschiedlichen Schaltungsarten und deren Auswirkungen auf die Betriebszeit der Glühlampen. Wir nehmen an:\n\n1. Jede Batterie hat eine feste Kapazität (z. B. in Amperestunden) und liefert konstante Spannung bis zur Entladung.\n2. Der Widerstand der Lampe ist konstant, was bedeutet, dass ihr Strom unabhängig von der Spannung gleich bleibt.\n3. In Parallelschaltungen teilen sich Strom und Kapazität gleichmäßig, in Serienschaltungen addieren sich Spannungen oder Widerstände je nach Konfiguration.\n\n**A) Batterien in Serie, Lampen in Serie**\n- Spannung: Summe der Batterien, Strom reduziert durch erhöhten Gesamtwiderstand auf 1/2, Energie = 2U * I/2 * t -> t/4 für zwei Lampen.\n  \n**B) Batterien in Serie, Lampen parallel**\n- Gleicher Strom für jede Lampe (verteilt sich), Betrieb auf t/2.",
+  "antwortoption": "B"
+}

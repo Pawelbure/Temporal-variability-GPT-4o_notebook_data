@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Aussagen zu überprüfen, analysieren wir die verschiedenen Schaltungsarten unter Berücksichtigung der Annahmen: die Batterie hat eine konstante Spannung, die Glühlampen haben einen konstanten Widerstand und ziehen einen konstanten Strom. Die spezifischen physikalischen Zusammenhänge wie die Reihenschaltung und Parallelschaltung von Widerständen (und entsprechend von Spannungen und Strömen bei den Batterien sowie der Lasten) werden berücksichtigt. Für jede Option wird geprüft, wie sich die Schaltungsart auf die Entladedauer der Batterien und die Brenndauer der Glühlampen auswirkt. Nach detaillierter rechnerischer Analyse ergibt sich folgendes Ergebnis:",
+  "antwortoption": "D"
+}

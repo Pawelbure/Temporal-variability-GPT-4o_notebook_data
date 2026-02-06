@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, betrachten wir die relevanten physikalischen Konzepte: Der Widerstand der Lampe ist konstant, die Kapazität der Batterie ist gleichmäßig verteilt, und die Energieentnahme beeinflusst nicht die Spannung der Batterie sofort.\n\n1. Fall A: Batterien und Lampen in Serie: Die Gesamtspannung verdoppelt sich, und der Gesamtstrom durch den doppelten Widerstand bleibt konstant. Da die Energie pro Zeit proportional zur Leistung ist und die Gesamtenergiemenge gleich ist, teilen sich die Energien zwischen den Lampen, daher reduziert sich die Zeit.\n2. Fall B: Batterien in Serie und Lampen parallel: Der Gesamtstrom verdoppelt sich aufgrund der Parallelverbindung der Lampen, halbiert die Laufzeit.\n\n... (Analyse für alle Optionen).\n\nFinale Bestimmung der korrekten Lösung.",
+  "antwortoption": "B, D"
+}

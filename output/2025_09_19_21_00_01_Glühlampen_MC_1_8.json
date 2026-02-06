@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die gegebenen Schaltungskonfigurationen und deren Effekt auf Betriebsspannung und Stromfluss durch die Glühlampen, um die Leuchtzeit abzuleiten. Grundannahmen: Jede Batterie liefert eine konstante Spannung V und hat eine Speicherkapazität in Form von Ladung Q mit einer Energieinhalt von E=QV. Die Glühlampen haben einen konstanten Widerstand R, und die Stromstärke durch sie bestimmt die Verbrauchsrate. Schaltung A: Beide Batterien in Serie verdoppeln die Spannung, aber auch die angeschlossenen Glühlampen verbrauchen dieselbe Leistung doppelt pro Einheit Ladung durch den vereinfachten Energieverbrauch (P=V^2/R). Die Leuchtdauer ergibt sich proportional zur Energiedichte, daher t/4 (kurze Berechnung Kontext gegeben).",
+  "antwortoption": "A"
+}

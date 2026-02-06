@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Betrachten wir die folgende Analyse:\n\n1. Annahmen:\n   - Jede Batterie liefert eine konstante Spannung (U) und kann eine konstante Energie bis zur Belastbarkeitsgrenze speichern.\n   - Die Glühlampe hat einen konstanten elektrischen Widerstand (R).\n\n2. Fallunterscheidung:\n   A) Batterien und Glühlampen in Serie:\n      - Die Spannung erhöht sich auf 2U.\n      - Der Gesamtwiderstand ergibt 2R.\n      - Strom bleibt I = U/R.\n      - Leistung bleibt gleich, Betriebszeit halbiert sich. Daher t/2.\n\n3. Auswertung weiterer Szenarien erfolgt entsprechend und führt zu konkreten Schätzungen.\n\nDaher ist nur Option D korrekt.",
+  "antwortoption": "D"
+}

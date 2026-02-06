@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen und Idealisierungen:\n1. Jede Batterie besitzt eine feste elektrische Energie, die sie liefern kann, es gibt also eine konstante Gesamtladung/Q pro Batterie.\n2. Die Glühlampen haben einen konstanten Widerstand R.\n3. Der Energieverbrauch der Glühlampe bedingt eine konstante Stromzufuhr und Spannung gemäß den Ohmschen Gesetzes und der Leistungsgleichung P=U^2/R.\n\nAnalysemethode:\nFür jede Schaltungsvariante wird berechnet:\n1. Die Gesamtspannung und Stromstärke der Quelle.\n2. Die effektive Stromstärke durch jede Lampe.\n3. Die daraus resultierende Betriebsdauer der Lampen, basierend auf der verfügbaren Batterieladung.\n\nA) Serie: U_Batterien=2V, Gesamtwiderstand R_G=2R, I_G=U/R_G=U/2R. Zeit=T*t/2, Antwort inkorrekt.\nB) Serie Batterien und parallele Lampen: I_G=U/R. T=T*t/2. Richtig.\nC) Parallel Batterien und Lampen. I_G=U/R. Effizienz t. Antwort richtig.\nFinale Antworten.",
+  "antwortoption": "B, D"
+}

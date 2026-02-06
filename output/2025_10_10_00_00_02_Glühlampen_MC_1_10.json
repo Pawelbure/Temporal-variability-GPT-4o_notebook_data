@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um dieses Problem zu lösen, betrachten wir die elektrische Leistung und Energieabgabe jeder Verschaltung. Die Energie jeder Batterie lässt sich als Produkt von Spannung, Strom und Zeit ausdrücken, bis sie entladen ist. Annahmen: Jede Batterie hat dieselbe Kapazität und Spannung V, und die Glühlampen haben den gleichen Widerstand R. Berechnung der Szenarien: Wenn die Batterien in Serie geschaltet sind, erhöht sich die Gesamtspannung auf 2V, während bei Parallelschaltungen die Spannung V bleibt, jedoch die Kapazität sich verdoppelt. Die Glühlampen in Reihe verdoppeln den Widerstand auf 2R, in Parallel bleibt der Widerstand R. Für jeden Fall berechnen wir daher die Gesamtenergieabgabe und den Strom durch die Lampen, wodurch die Brenndauer ermittelt werden kann. Nach rechnerischen Beispielen für jedes Szenario ergibt sich: ",
+  "antwortoption": "D"
+}

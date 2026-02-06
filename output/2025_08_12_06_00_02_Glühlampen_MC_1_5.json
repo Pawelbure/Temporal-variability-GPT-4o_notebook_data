@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, betrachten wir folgende Punkte: Jede Batterie liefert bei ihrer maximalen Kapazität die Energie E = U·I·t, wobei U die Spannung, I der Strom und t die Betriebszeit ist.\\n\\n1. Wenn Batterien in Serie und Glühlampen in Serie geschaltet sind:\\n- Gesamte Spannung = 2U, aber Gesamtkapazität bleibt wie die einer einzelnen Batterie. Der Strom wird durch die Kombination der seriengeschalteten Lampen (höherer Widerstand) reduziert.\\n- Ergebnis: Die Zeit beträgt 4t. Falsche Annahme in A.\\n\\n2. Batterien in Serie und Glühlampen parallel:\\n- Spannung 2U erhöht Strom pro Lampe auf den doppelten Wert. Aber die Gesamtzeit wird verkürzt aufgrund doppeltem Leistungsbezug.\\n- Ergebnis: Zeit ist t/2. Aussage in B richtig.\\n\\n3. Batterien und Lampen parallel:\\n- Gesamtzeit durch doppelten Energievorrat verdoppelt.\\n- Aussage in D korrekt.\\n\\nLösungen: B und D",
+  "antwortoption": "B, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "1. Annahmen und Voraussetzungen:\\n    - Die Kapazität jeder Batterie ist C und die Spannung ist U.\\n    - Jede Glühlampe hat einen Widerstand R, der konstant bleibt.\\n    - Batterien in Serie verdoppeln die Gesamtspannung, während Batterien parallel das Entladungszeit vollständig nutzen.\\n    - Die Energieabgabe der Batterie erfolgt mit der Konstantleistung der angeschlossenen Glühlampe.\\n\\n2. Analyse der Optionen:\\n    A) Batterien in Serie, Lampen in Serie:\\n        - Gesamtspannung: 2U, Gesamtwiderstand: 2R. Strom: I=2U/2R=U/R.\\n        - Energie pro Zeiteinheit: I²·R=U²/R, Laufzeit t.\\n        - Zwei Serienlampen teilen die Energieverlustrate durch ihre Erhöhung (Energie).\\n\\n3. Problem für Konstellationen:\\n    A, B",
+  "antwortoption": "D"
+}

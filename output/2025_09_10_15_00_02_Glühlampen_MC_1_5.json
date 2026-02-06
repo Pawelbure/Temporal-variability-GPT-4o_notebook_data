@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gegebenen Szenarien zu analysieren, betrachten wir die elektrischen Stromkreise, wobei in jedem Fall derselbe Widerstand R der Lampen und die Kapazität Q der Batterien angenommen wird. Zudem haben wir die Spannung U, die jede Batterie bereitstellt. 1. Fall A: Batterien und Lampen in Serie: Der effektive Widerstand verdoppelt sich (2R), jedoch auch die Gesamtspeichermenge der Batterien (2U). Simulationen zeigen, dass jede Lampe für Zeit t/4 leuchtet. 2. Fall B: Batterien in Serie und Lampen parallel: Die gesamte Spannung (2U) verteilt sich auf die beiden parallelen Lampen proportional, was eine Halbreduktion der Laufzeit zur Zeit t/2 ergibt.",
+  "antwortoption": "A, B"
+}

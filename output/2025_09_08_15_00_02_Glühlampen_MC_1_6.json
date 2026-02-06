@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die gegebene Problematik basierend auf den angegebenen Bedingungen. Annahmen: 1) Batterien haben ideale Eigenschaften (keinen Innenwiderstand), 2) Glühlampen besitzen konstanten Widerstand. Gegeben die Glühlampen mit einem Widerstand R und jede Batterie liefert eine Spannung V. Die jeweiligen Schaltungen führen zu folgenden Szenarien: A) Beide Lampen in Serie mit den Batterien in Serie: Der Strom sinkt auf den Viertelwert, aber die Energie ist konstant, wodurch die Zeit t/4 resultiert. B) Batterien in Serie und Lampen parallel: Spannung verdoppelt sich, jede Lampe erhält den Fluss, jedoch parallel verdoppelt sich der Gesamtstrom, daher t/2. C) Batterien parallel und Lampen in Serie: Strom bleibt gleich, Gesamtzeit ist gleich der Batterielaufzeit. D) Batterien parallel und Lampen parallel: Zeit bleibt dieselbe, t.",
+  "antwortoption": "A, B, D"
+}

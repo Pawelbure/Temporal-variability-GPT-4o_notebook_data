@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Die Problemstellung beinhaltet zwei Batterien und zwei Glühlampen, wobei wir die Zeitspanne untersuchen, in der die Lampen leuchten, wenn verschiedene Schaltungsarten verwendet werden. Die Analyse basiert auf den Gesetzen der Elektrizität und den gegebenen Annahmen, insbesondere dass der Widerstand der Lampe konstant ist. Gegeben sind unterschiedliche Konfigurationen, für die wir die Effektivspannung, den Strom und die resultierende Energieverteilung berechnen. Anhand der verfügbaren Energie jeder Batterie und ihrer Ableitung durch die Lampe bestimmen wir die jeweilige Leuchtdauer analog zur elektrischen Leistung und Energieerhaltung.",
+  "antwortoption": "B, D"
+}

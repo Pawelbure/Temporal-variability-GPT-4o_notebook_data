@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Problemstellung zu analysieren, machen wir folgende Annahmen: Jede Batterie hat die gleiche Spannung U und die gleiche gespeicherte Energie. Jede Lampe hat einen konstanten Widerstand R. Die Gesamtkonfiguration basiert auf der Kombination der Batterien und Lampen in verschiedenen Schaltungsanordnungen. 1) Batterie in Serie, Lampen in Serie: Hierbei verdoppelt sich die Spannung, was die Leistung an den Lampen erhöht. Da Energieverbrauch quadratisch zur Spannung ist, halbiert sich die Lebensdauer durch zwei. Da jedoch zwei Lampen mit derselben Stromintensität leuchten, teilt sich die Energie durch beide (getrennte Lasten) nochmals, wodurch die Zeit viertelt. Ergebnis: t/4. 2) Batterie in Serie, Lampen parallel, erhöht die Stromzufuhr, wodurch jede Lampe gleichmäßig versorgt wird, aber die Batteriespeicherung halbiert diese dann, was zur Beziehung t/2 führt usw.",
+  "antwortoption": "A, D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Frage korrekt zu beantworten, beginnen wir mit den Annahmen und relevanten Konzepten. Gleichartige Batterien liefern denselben Spannungsvorrat (U) und Ladungskapazität (Q). Die Glühlampen haben konstanten Widerstand (R). Serienverbindungen addieren Spannungen, Parallelverbindungen addieren Kapazitäten. Effizienzannahmen heißen idealer Leiter. Berechnungen zeigten: (A) Glühlampen in Serie mit erhöhter Spannung halbieren die Stromstärke → Laufzeit ebenfalls halbiert: korrekt. (B) Parallelisierte Lampen erhöhen Gesamtstrom: Viertelt Laufzeit: inkorrekt. (C) Parallele Batterien fallen Spannung nicht erhöhen, nur Kapazität. Serienbetrieb unter Teillast verdoppelt: korrekt. (D) Verfügbare Kapazität entspricht Einzelbatterie mit Lampe, wie erwartet: korrekt.",
+  "antwortoption": "A, C, D"
+}

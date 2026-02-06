@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die korrekte Antwort zu ermitteln, müssen wir die folgenden Annahmen und physikalischen Konzepte betrachten: 1. Die Spannung einer Batterie beträgt U, der Widerstand einer Glühlampe R. 2. Die elektrische Leistung P, die durch eine Lampe fließt, bestimmt ihre Leuchtdauer, proportional zur gespeicherten Energie der Batterie, E. Annahmen führen dazu, dass der Strom I und Spannung über den Schaltungsaufbau unterschiedlich ausfallen. Zu den einzelnen Fällen: A) Bei Reihenschaltung von Batterien und Lampen teilt sich der Strom, die Reihenwiderstände summieren sich, und die Betriebszeit beträgt t/4. B) Bei Reihen-/Parallelkombinationen halbiert sich der Betrieb. C) Bei parallelen Batterien beträgt die Betriebszeit nahezu 2t, da die Energie addiert wird. D) Parallelbetrieb ergibt gleiches Resultat wegen dichter Balancierung. Ergebnis: Kombination ergibt exakte Werte.",
+  "antwortoption": "A, B"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Auswirkungen verschiedener Schaltungen von zwei Batterien und zwei Glühlampen auf die Betriebszeit, basierend auf den Annahmen, dass jede Batterie eine konstante Kapazität (Q) besitzt und jede Glühlampe einen konstanten Widerstand (R) hat. Die zur Verfügung gestellte Energie jeder Batterie ist proportional zu Kapazität und Spannung (Q*U), und der Stromverbrauch einer einzelnen Glühlampe bestimmt die Entladungsgeschwindigkeit der Batterie. Wir betrachten die gegebenen Schaltungen nacheinander:",
+  "antwortoption": "B, D"
+}

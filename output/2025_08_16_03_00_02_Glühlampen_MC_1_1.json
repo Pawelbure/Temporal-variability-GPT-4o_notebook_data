@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, beachte folgende Annahmen: Die Batterien sind identisch und ideal, d.h. liefern konstant Spannung U bis zum Ende ihrer Kapazität Q. Die Glühlampen haben einen konstanten Widerstand R. Die Energieabgabe der Batterien beträgt E = UQ. Da die Leistung P eine pro Zeiteinheit verbrauchte Energie beschreibt (P=U²/R), bestimmen wir die Möglichkeiten: A) Batterien und Lampen in Serie: Gesamtwiderstand 2R, über Gesamtschaltung U, Leistung P=U²/(2R) -> Gesamtenergie 2E, Beleuchtungszeit t'=Q/(I/2) = t/4. B) Batterien in Serie, Lampen parallel: Jedes U/2 erhält-> Leistung 2P und Zeit t/2. C) Batterien parallel, Lampen Serie Gesamtleistung\\ nach Sum\\ Summ=\\nergie Capitol.",
+  "antwortoption": "A, B, D"
+}

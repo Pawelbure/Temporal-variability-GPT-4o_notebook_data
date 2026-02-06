@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren zunächst die Situation für jede Konfiguration. Annahmen: Jede Batterie hat die gleiche Kapazität C und Spannung V, die Glühlampen haben Widerstand R. Energie pro Batterie: E = C * V. Leistung einer Glühlampe: P = V² / R. Zeit ergibt sich aus Energie/Leistung für Batterie und Glühlampe.\n\nA) Batterien und Lampen in Serie - Gesamtspannung 2V, Gesamtwiderstand 2R. Leistung P = (2V)² / (2R) = 2V² / R. Energie der Batterien ist dieselbe, daher Nutzungszeit t/2.\n\nB) Batterien in Serie, Lampen parallel - Gleicher Analyseweg wie oben zeigt t bleibt konstant.\n\nC) Parallel geschaltet Batterien erhöhen Kapazität und somit doppelte Energietverbrauch bei gleicher Leistung. Zeit: 2t.\n\nD) Gleiche Analyse wie bei parallelen Batterien und Lampen - Zeit bleibt bei t.\n\nValidierung der Berechnung bestätigt Korrektheit.",
+  "antwortoption": "C"
+}

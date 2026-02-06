@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Zunächst sind Grundannahmen festzulegen: Jede Batterie hat eine elektrische Kapazität, die sich durch die entnehmbare elektrische Ladung Q ausdrücken lässt. Die Glühlampe hat konstanten Widerstand R und wird mit einer Spannung V betrieben. Die Energie jeder Batterie beträgt also W = V * Q. Die Leistung an der Lampe P = V^2/R bestimmt die Leuchtdauer t durch t = W/P. Die Aufgabe betrachtet unterschiedliche Schaltungen von Batterien und Lampen. Jede Kombination hat eine spezifische Auswirkung auf die Betriebsspannung und den Elektronenfluss, wodurch sich die effektive Zeit t modifiziert. Die tatsächliche Analyse erfolgt für jede Option zur Klärung ihrer korrekten Anwendung.",
+  "antwortoption": "D"
+}

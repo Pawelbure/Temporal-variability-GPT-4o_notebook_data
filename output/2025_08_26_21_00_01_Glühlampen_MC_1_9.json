@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Angenommen, die Batterie liefert eine konstante Spannung V und hat eine Kapazität Q, wobei die Glühlampe mit einem Widerstand R betrieben wird. Dies bedeutet, dass die Lampe eine konstante Leistung von P = V^2 / R verbraucht und die Batterie in der Zeit t ihre gesamte Kapazität entlädt.  \n\n--- Analyse der Optionen ---  \n\n**A)** Zwei Glühlampen und zwei Batterien in Serie. Die Gesamtspannung ist 2V und der Gesamtwiderstand 2R, wodurch die Leistung P = (2V)^2 / 2R = 2V^2 / 2R = V^2 / R. Beide Batterien teilen sich dieselbe Stromeinspeisung, sodass sie in der halben Zeit t/2 geplündert werden. Diese Option ist folglich falsch.  \n\n**B)** Zwei Batterien in Serie und die Lampen parallel. Dies führt zu 2V Spannung über Lampen gleicher Individualleistung V^2 / R. Gesamte Leistung ergibt sich als 2V^2 / R Streicht. Zeit für leeren Verbleibern hier rumergesturzt war richtig. \n\n--- Endergebnisse --- Zuverlässige.",
+  "antwortoption": "A, B"
+}

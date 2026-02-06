@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um das Problem zu analysieren, betrachten wir den Strom, den jede Batterie liefern muss, und die Leistungsaufnahme der Glühlampen in verschiedenen Schaltungen. Annahmen: 1) Batterien haben konstante Spannung und Kapazität bis zur vollständigen Entladung. 2) Die Glühlampen haben konstanten Widerstand. 3) Serie: Gesamtr zu R_addition; Parallel: 1/R_effector zu Summe_Inv(R).\n\n**Analyse der Schaltungen:**\n\n1. **Batterien in Serie, Glühlampen in Serie:** Spannung verdoppelt, Widerstand vierfach, Strom halbiert -> Dauer bleibt gleich.\n\n2. **Batterien in Serie, Glühlampen parallel:** Spannung verdoppelt, Widerstand halbiert -> Leistung konsumiert Power_max -> Zeit halbiert.\n\n3. **Batterien parallel, Glühlampen in Serie:** Spannung gleich; R addiert -> Strom halbiert -> Zeit x2 verlängert.\n\n4. Batteries parallel, Glühlampen parallel: GLeichtstrom proportional pro Dauer und = Basefälle.",
+  "antwortoption": "B, D"
+}

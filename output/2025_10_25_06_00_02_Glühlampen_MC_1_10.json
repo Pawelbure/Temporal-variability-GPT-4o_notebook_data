@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Annahmen:\\n1. Die Glühlampen haben einen festen Widerstand R.\\n2. Die Batterien liefern eine konstante Spannung V, bis sie leer sind und können ein konstantes Produkt an Leistung P=t*Energie liefern.\\n3. Die Ladung einer Batterie ist konstant und begrenzt.\\n\\nKonzepte:\\n- Seriensysteme addieren Spannungen, Parallelsysteme teilen die Stromverteilung.\\n- Leistung P=V^2/R.\\n\\nBerechnungen:\\nA) Batterien und Lampen in Serie verdoppeln die Spannung. Gesamtwiderstand verdoppelt sich. Leistung reduziert sich auf P/2 und Batterieverbrauch auf t/2. Gesamtzeit bleibt ähnlich t, Glühlampen gemeinsam machen etwa Leistung/Verteilung durch/Iterationen auf beide erhöht...\\nAntwort: Option ...",
+  "antwortoption": "B, D"
+}

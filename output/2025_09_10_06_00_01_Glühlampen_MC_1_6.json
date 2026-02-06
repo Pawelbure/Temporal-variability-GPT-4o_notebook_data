@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Gegeben ist, dass eine einzelne Batterie eine Glühlampe über die Zeit t betreibt. Wir analysieren die vier angegebenen Schaltungen. Basisannahmen: Die Batterien besitzen jeweils die gleiche Spannung und Kapazität, die Glühlampen identischen Widerstand. Relevante physikalische Konzepte beinhalten das Verhalten von Spannung und Strom bei Serienschaltungen (wo die Gesamtspannung addiert und der Strom gleichbleibt) und Parallelschaltungen (wo die Spannung gleichbleibt und Ströme aufgeteilt werden).",
+  "antwortoption": "D"
+}

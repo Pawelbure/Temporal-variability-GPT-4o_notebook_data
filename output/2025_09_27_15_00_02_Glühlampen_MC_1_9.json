@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "\nBetrachten wir die Situation detailliert:\n1. Annahmen:\n   - Batterien haben identische Kapazität und liefern eine konstante Spannung, bis sie leer sind.\n   - Die Glühlampen haben identischen konstanten Widerstand, unabhängig von der angelegten Spannung.\n   - Der Energieinhalt einer Batterie ist direkt proportional zur Zeit t, während der sie eine einzelne Glühlampe betreiben kann.\n2. Analyse der Fälle:\n   - A) Bei serielle Kopplung der Batterien und Glühlampen halbiert sich der Strom, Energieverbrauch bleibt unverändert. Falsch.\n   - B) Batterien in Serie, Glühlampen parallel: Energie wird schneller verbraucht, Zeit halbiert sich. Richtig.\n   - C) Batterien parallel, Glühlampen in Serie: Gesamtenergie verdoppelt, Strom halbiert. Richtig.\n   - D) Batterien und Glühlampen parallel: Energie bleibt gleich, Zeit bleibt konstant. Richtig.\n\nAuswertung ergibt, dass die Antworten B, C, und D korrekt sind.",
+  "antwortoption": "B, C, D"
+}

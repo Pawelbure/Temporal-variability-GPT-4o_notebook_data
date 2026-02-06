@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, berücksichtigen wir folgende physikalische Grundlagen: Die Lebensdauer einer Batterie bestimmt sich aus ihrer Kapazität (Ladungsmenge in Amperestunden) und dem Strom, der durch die Schaltung fließt. Der durch die Schaltung fließende Strom hängt von der Anordnung der Komponenten und den Ohm'schen Gesetzgebung ab. In der Aufgabe wird angenommen, dass jede Lampe mit konstantem Widerstand betrieben wird und dass die Batterien gleiche und ideale Eigenschaften besitzen. Wenn Batterien in Serie geschaltet werden, addieren sich die Spannungen, während die Kapazität (in Amperestunden) gleich bleibt. Bei paralleler Schaltung bleibt die Spannung gleich, aber die Gesamtkapazität verdoppelt sich. Die Zeit t gibt an, wie lange eine einzelne Batterie eine Lampe betreiben kann.",
+  "antwortoption": "D"
+}

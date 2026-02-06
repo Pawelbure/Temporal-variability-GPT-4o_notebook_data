@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, analysieren wir zunächst die Wechselwirkungen zwischen Batterien und Glühlampen bei verschiedenen Konfigurationen. Die Batterie liefert eine konstante Spannung, und die Lampe hat einen festen Widerstand, sodass bei Betrieb ein konstanter Strom durch die Lampe fließt. Die Energiezufuhr zur Lampe (Leistung) ist daher proportional zur Spannung und dem Strom, wohingegen die Batterie nur über eine begrenzte Energiemenge verfügt. Nun überprüfen wir jede Situation: Bei Serieverdrahtung addiert sich die Spannung der Batterien, während bei Parallelverdrahtung die Kapazität der Kombination sich erhöht. Seriell geschaltete Lampen teilen den Strom und die Spannung auf, während parallel geschaltete die Batteriespannung direkt nutzen. Batchweise auch, wie viele Lampen gleichzeitig mit der vollen Kapazität versorgt werden können, um die Zeit zu schätzen.",
+  "antwortoption": "D"
+}

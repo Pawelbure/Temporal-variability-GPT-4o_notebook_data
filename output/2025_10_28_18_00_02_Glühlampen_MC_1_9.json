@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Frage zu analysieren, gehen wir von idealisierten Bedingungen aus: Jede Batterie hat eine konstante Kapazität von Energie pro Ladungsmenge, deren Summe bei zwei in Serie geschalteten höher wird und bei zwei parallel geschalteten gleich bleibt. Zwei identische Glühlampen besitzen denselben Widerstand. 1. Wenn die Batterien sowie die Lampen in Serie geschaltet werden, ist die Potenzialdifferenz verdoppelt, der Gesamtwiderstand jedoch verdoppelt, also fließt derselbe Strom; die Ladezeit halbiert sich jedoch pro Lampe aufgrund des erhöhten Stroms. In Serie geschaltete Lampen teilen sich die Spannung, der Strom und somit die aktuelle Leistung fallen. 2. Bei paralleler Schaltung der Lampen teilt sich der Strom, die Spannung bleibt dieselbe, und die Gesamtwiderstandsumme sowie Wärmeabgabe verändert sich probportional. Mit den genannten Formeln ergibt sich die Laufzeit sowie Effizienz.",
+  "antwortoption": "D"
+}

@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Wir analysieren die Situation und machen folgende Annahmen: Die Batterien liefern eine konstante Spannung, die Lampe hat einen konstanten Widerstand, und die Kapazität der Batterie bleibt unverändert unabhängig von der Schaltungsanordnung. Der Grundverbrauch, d.h. der Stromverbrauch, folgt aus der Spannungsteilung. Die enthaltenen Fälle werden wie folgt analysiert: A) Mit doppelter Spannung und doppeltem Gesamtwiderstand ist die Stromstärke halbiert, wodurch die Entladezeit 2t beträgt, nicht t/4. B) Spannung verdoppelt, Strom eines internen Verbrauchers ebenfalls verdoppelt; Ladungsbewegung verdoppelt; Zeit ist t. Nein. C) Spannung bleibt, Widerstand summiert: Strom halbiert; Gesamtdauer verdoppelt. Ja. D) Parallele Batterien bedeuten gleichbleibende Spannung, doppelte Kapazität; viergliedriger Parallelwiderstandfluss ergibt Laufzeitverlängerung um Faktor 2.",
+  "antwortoption": "C"
+}

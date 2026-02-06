@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um diese Aufgabe zu lösen, betrachten wir verschiedene Schaltungsanordnungen der Glühlampen und Batterien und bestimmte physikalische Eigenschaften:\n\n1. Annahmen:\n- Die Batteriespannung bleibt konstant während der Entladung.\n- Der Widerstand der Glühlampe ist nicht abhängig vom Strom.\n- Die Kapazität jeder Batterie reicht für eine konstante Zeit t aus.\n\n2. Analyse der Schaltungsoptionen:\n- A) Batterien in Serie und Glühlampen in Serie: Verdoppelte Spannung führt zu vierfachem Verbrauch bei Serie der Glühlampen. Entladedauer: t/4.\n- B) Batterien in Serie und Glühlampen parallel: Gleiche Stromaufteilung, Kapazitätsverbrauch halbiert, also t/2.\n- C) Batterien parallel und Glühlampen in Serie: Verbrauch halbiert, Kapazität verdoppelt, Zeit: 2t.\n- D) Batterien parallel und Glühlampen parallel: Gleiches Verbrauchsverhalten wie in einer Einzelbatterie, Zeit: t.\n\nErgebnisse sind in korrekter Reihenfolge.",
+  "antwortoption": "A, B, C, D"
+}

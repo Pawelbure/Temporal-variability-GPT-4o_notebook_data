@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "**Analyse des Szenarios:** Wir gehen von der Annahme aus, dass die Batterien ideale Spannungsquellen sind und die Glühlampen als reine ohmsche Widerstände durch ihren Widerstand charakterisiert werden können. Ebenso beträgt die gespeicherte Energie einer einzelnen Batterie eins zu eins eine konstante Kapazität an Energie.\\n\\n**Option A:** Die Spannungen der Batterien in Serie addieren sich, und die in Serie geschalteten Lampen haben einen doppelt so großen Gesamtwiderstand. Dadurch fließt der halbe Strom durch die Schaltung im Vergleich zum Fluss mit einer Einzelbatterie. Die Batterie wird daher langsam aufgebraucht, wodurch die Lampen dieselbe Leuchtdauer t erreichen. Existiert aber eine annähernde Simulation, kann es sich bewahrheiten, dass definitiv keine Reduktion wie in A angegeben wird.",
+  "antwortoption": "B"
+}

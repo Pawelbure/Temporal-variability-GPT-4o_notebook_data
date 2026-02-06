@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die Fragen zu beantworten, betrachten wir die Konfigurationen und analysieren ihre Auswirkungen auf Strom, Spannung und die Lebensdauer der Batterien.\\n\\n**Grundannahmen:**\\n1. Jede Batterie hat eine konstante Kapazität Q und eine Spannung V.\\n2. Die Glühlampen haben einen konstanten Widerstand R.\\n3. Der Energieverbrauch P einer Lampe ist gegeben durch P = V² / R, und die Dimension der Energie ist Leistung multipliziert mit Zeit.\\n\\n**Analyse der Fälle:**\\n**A) Batterien in Serie, Lampen in Serie:**\\n- Gesamtspannung: 2V, Gesamtwiderstand: 2R.\\n- Strom durch die Lampen I = U / R = 2V / 2R = V / R.\\nDie Leistung bleibt pro Lampe wie im Einzelbetrieb, weshalb die Betriebszeit gleich t bleibt.**Dieser Satz ist falsch.**\\n\\n**B) Batterien in Serie, Lampen parallel:**\\n**C) Batterien parallel, Lampen in Serie: siehe gleiche Berechnungen. Falsch.**...",
+  "antwortoption": "D"
+}

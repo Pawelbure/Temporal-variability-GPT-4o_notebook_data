@@ -1,0 +1,4 @@
+{
+  "loesungsweg": "Um die gestellten Fragen zu beantworten, sind wir auf die folgenden Annahmen und Konzepte angewiesen: Jede Batterie hat die Kapazität, eine Lampe für eine Zeit t bei konstanter Leistung zu betreiben, wobei die Spannungen und Widerstände konstant bleiben. Die Batterie speichert eine Energie, die proportional zur Spannung multipliziert mit dem Strom und der Zeit ist (E = U * I * t). Zwei unterschiedliche Schaltungen ergeben verschiedene Kombinationen von Stromverteilungen und energetischen Belastungen der Komponenten: 1. Zwei Lampen in Serie erhöhen den Widerstand auf doppelte Werte (2R), und die Batterien in Serie verdoppeln die Spannung (2U). 2. Batterien in parallel verdoppeln den maximalen Stromfluss ohne Spannungsänderung. Mit diesen Überlegungen und Berechnungen bewertet man jede Option:",
+  "antwortoption": "D"
+}
